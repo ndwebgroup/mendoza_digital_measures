@@ -1,0 +1,3635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-07-08">
+	<Record userId="118127" username="cackerm1" termId="278" dmd:surveyId="47921">
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Finance" text="Finance"/>
+		<PCI id="1460105216" dmd:lastModified="2013-09-06T08:45:02">
+			<PREFIX/>
+			<FNAME>Carl</FNAME>
+			<PFNAME/>
+			<MNAME/>
+			<LNAME>Ackermann</LNAME>
+			<SUFFIX/>
+			<ALT_NAME/>
+			<ENDPOS>Nolan Professorship for Excellence in Undergraduate Instruction</ENDPOS>
+			<EMAIL>Ackermann.1@nd.edu</EMAIL>
+			<ROOMNUM>329</ROOMNUM>
+			<OPHONE1>574</OPHONE1>
+			<OPHONE2>631</OPHONE2>
+			<OPHONE3>8407</OPHONE3>
+			<DPHONE1>574</DPHONE1>
+			<DPHONE2>631</DPHONE2>
+			<DPHONE3>6370</DPHONE3>
+			<FAX1/>
+			<FAX2/>
+			<FAX3/>
+			<WEBSITE/>
+			<DTM_DOB>March</DTM_DOB>
+			<DTD_DOB>11</DTD_DOB>
+			<DTY_DOB>1962</DTY_DOB>
+			<GENDER>Male</GENDER>
+			<ETHNICITY>White, Non-Hispanic</ETHNICITY>
+			<CITIZEN>Yes</CITIZEN>
+			<PCI_EXPERTISE id="1460105218">
+				<EXPERTISE>Mutual Funds</EXPERTISE>
+			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="1460105219">
+				<EXPERTISE>Hedge Funds</EXPERTISE>
+			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="1460105220">
+				<EXPERTISE>Personal Finance</EXPERTISE>
+			</PCI_EXPERTISE>
+			<BIO>&lt;p&gt;Carl Ackermann teaches financial management and personal finance to University of Notre Dame undergraduates.  He crusades against excessive fees in the investment industry, redirecting them to fight poverty and despair.&lt;/p&gt;
+&lt;p&gt;
+At Notre Dame, Ackermann has had the good fortune of receiving several awards for his teaching and service.  He received the James Dincolo Outstanding Teacher Award in 2013, the Senior Class Fellow Award in 2003 and 2011, the BP Outstanding Teacher Award in 2001 and 2009, the Joyce Award for Excellence in Undergraduate Teaching in 2009, the inaugural Dockweiler Award for Excellence in Undergraduate Advising in 2007, and the Kaneb Teaching Award in 2006.  In 2012, Businessweek named him one of the ten favorite business professors nationwide.&lt;/p&gt;
+&lt;p&gt;
+Ackermann is active in several University service projects and mentoring programs, and participates in Football and Basketball recruiting.  He is also a Fellow of the Center for Social Concerns.  He holds an A.B. from Amherst College, and a Ph.D. from the University of North Carolina at Chapel Hill.&lt;/p&gt;</BIO>
+		</PCI>
+		<ADMIN_PERM id="1460107264" dmd:lastModified="2008-12-21T05:29:50">
+			<SRANK>Instructor</SRANK>
+			<DTM_HIRE>August</DTM_HIRE>
+			<DTD_HIRE>22</DTD_HIRE>
+			<DTY_HIRE>1998</DTY_HIRE>
+			<DTM_ATTAIN_ASSISTANT_PROF>August</DTM_ATTAIN_ASSISTANT_PROF>
+			<DTD_ATTAIN_ASSISTANT_PROF>22</DTD_ATTAIN_ASSISTANT_PROF>
+			<DTY_ATTAIN_ASSISTANT_PROF>2000</DTY_ATTAIN_ASSISTANT_PROF>
+			<SCHOOL_ASSISTANT_PROF>University of Notre Dame</SCHOOL_ASSISTANT_PROF>
+			<DTM_ATTAIN_ASSOCIATE_PROF/>
+			<DTD_ATTAIN_ASSOCIATE_PROF/>
+			<DTY_ATTAIN_ASSOCIATE_PROF/>
+			<SCHOOL_ASSOCIATE_PROF/>
+			<DTM_ATTAIN_PROF/>
+			<DTD_ATTAIN_PROF/>
+			<DTY_ATTAIN_PROF/>
+			<SCHOOL_PROF/>
+			<DTM_ATTAIN_SENIOR_PROF/>
+			<DTD_ATTAIN_SENIOR_PROF/>
+			<DTY_ATTAIN_SENIOR_PROF/>
+			<SCHOOL_SENIOR_PROF/>
+			<DTM_ATTAIN_ENDOW/>
+			<DTD_ATTAIN_ENDOW/>
+			<DTY_ATTAIN_ENDOW/>
+			<ATTAIN_ENDOW_START></ATTAIN_ENDOW_START>
+			<ATTAIN_ENDOW_END></ATTAIN_ENDOW_END>
+			<SCHOOL_ENDOW/>
+			<DTM_TENURE_DECISION/>
+			<DTD_TENURE_DECISION/>
+			<DTY_TENURE_DECISION/>
+			<DTM_SEPARATION/>
+			<DTD_SEPARATION/>
+			<DTY_SEPARATION/>
+		</ADMIN_PERM>
+		<ADMIN id="75958351874" dmd:lastModified="2013-07-30T13:55:07" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+			<AC_YEAR>2013-2014</AC_YEAR>
+			<YEAR_START>2013-09-01</YEAR_START>
+			<YEAR_END>2014-08-31</YEAR_END>
+			<ADMIN_DEP id="75958351873" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Professionally Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="40526352386" dmd:lastModified="2013-02-12T09:08:28" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+			<AC_YEAR>2012-2013</AC_YEAR>
+			<YEAR_START>2012-09-01</YEAR_START>
+			<YEAR_END>2013-08-31</YEAR_END>
+			<ADMIN_DEP id="40526352385" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="67521947650" dmd:lastModified="2013-02-12T09:09:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+			<AC_YEAR>2011-2012</AC_YEAR>
+			<YEAR_START>2011-09-01</YEAR_START>
+			<YEAR_END>2012-08-31</YEAR_END>
+			<ADMIN_DEP id="67521947649" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="11921092608" dmd:lastModified="2008-12-21T05:34:24" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+			<AC_YEAR>2008-2009</AC_YEAR>
+			<YEAR_START>2008-09-01</YEAR_START>
+			<YEAR_END>2009-08-31</YEAR_END>
+			<ADMIN_DEP id="11921092609" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE>No</GRADUATE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE/>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="11921090560" dmd:lastModified="2008-12-21T05:35:35" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+			<AC_YEAR>2007-2008</AC_YEAR>
+			<YEAR_START>2007-09-01</YEAR_START>
+			<YEAR_END>2008-08-31</YEAR_END>
+			<ADMIN_DEP id="11921090561" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE>No</GRADUATE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE/>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="1460109312" dmd:lastModified="2008-12-21T05:37:58" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+			<AC_YEAR>2006-2007</AC_YEAR>
+			<YEAR_START>2006-09-01</YEAR_START>
+			<YEAR_END>2007-08-31</YEAR_END>
+			<ADMIN_DEP id="1460109313" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE>No</GRADUATE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE/>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<PASTHIST id="48809508865" dmd:lastModified="2012-02-01T04:00:24" dmd:startDate="2011-01-01">
+			<EXPTYPE>Academic</EXPTYPE>
+			<ORG>University of Notre Dame</ORG>
+			<TITLE>Professional Specialist, Finance</TITLE>
+			<DESC/>
+			<OWN_COMPANY>No</OWN_COMPANY>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PASTHIST>
+		<PASTHIST id="12145723393" dmd:lastModified="2012-02-01T03:59:26" dmd:startDate="2005-01-01" dmd:endDate="2011-12-31">
+			<EXPTYPE>Academic</EXPTYPE>
+			<ORG>University of Notre Dame</ORG>
+			<TITLE>Associate Professional Specialist, Finance</TITLE>
+			<DESC/>
+			<OWN_COMPANY>No</OWN_COMPANY>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PASTHIST>
+		<PASTHIST id="12145725441" dmd:lastModified="2008-12-21T05:19:32" dmd:startDate="2004-01-01" dmd:endDate="2005-12-31">
+			<EXPTYPE>Academic</EXPTYPE>
+			<ORG>University of North Carolina at Chapel Hill</ORG>
+			<TITLE>Adjunct Associate Professor of Finance</TITLE>
+			<DESC/>
+			<OWN_COMPANY>No</OWN_COMPANY>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PASTHIST>
+		<PASTHIST id="12145727489" dmd:lastModified="2008-12-21T05:20:59" dmd:startDate="2000-01-01" dmd:endDate="2004-12-31">
+			<EXPTYPE>Academic</EXPTYPE>
+			<ORG>University of Notre Dame</ORG>
+			<TITLE>Assistant Professor of Finance</TITLE>
+			<DESC/>
+			<OWN_COMPANY>No</OWN_COMPANY>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PASTHIST>
+		<PASTHIST id="12145731585" dmd:lastModified="2008-12-21T05:22:02" dmd:startDate="1998-01-01" dmd:endDate="2000-12-31">
+			<EXPTYPE>Academic</EXPTYPE>
+			<ORG>University of Notre Dame</ORG>
+			<TITLE>Instructor of Finance</TITLE>
+			<DESC/>
+			<OWN_COMPANY>No</OWN_COMPANY>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1998</DTY_START>
+			<START_START>1998-01-01</START_START>
+			<START_END>1998-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PASTHIST>
+		<AWARDHONOR id="75958544384" dmd:lastModified="2013-07-30T13:58:32" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<NAME>James Dincolo Outstanding Teacher Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-01-01</DATE_START>
+			<DATE_END>2013-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="67087124480" dmd:lastModified="2013-01-31T20:58:10" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<NAME>Bloomberg Businessweek Favorite Professor</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC>Named one of ten favorite business professors nationwide.</DESC>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-01-01</DATE_START>
+			<DATE_END>2012-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="48809517057" dmd:lastModified="2013-01-31T20:57:55" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<NAME>Senior Class Fellow Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC>Given to the individual on the Notre Dame campus who has made the most positive and lasting effect on the Senior Class.  I also received this award in 2003. </DESC>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2011</DTY_DATE>
+			<DATE_START>2011-01-01</DATE_START>
+			<DATE_END>2011-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="20405487617" dmd:lastModified="2010-01-23T10:07:44" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<NAME>BP Outstanding Teacher Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2009</DTY_DATE>
+			<DATE_START>2009-01-01</DATE_START>
+			<DATE_END>2009-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="20405495809" dmd:lastModified="2010-01-23T10:09:39" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<NAME>The Reverend Edmund P. Joyce, C.S.C. Award for Excellence in Undergraduate Teaching</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2009</DTY_DATE>
+			<DATE_START>2009-01-01</DATE_START>
+			<DATE_END>2009-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="7059216385" dmd:lastModified="2008-01-24T15:29:58" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<NAME>Dockweiler Award for Excellence in Undergraduate Advising</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2007</DTY_DATE>
+			<DATE_START>2007-01-01</DATE_START>
+			<DATE_END>2007-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="2330818561" dmd:lastModified="2007-02-15T09:10:08" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+			<NAME>Fenlon Teaching Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2006</DTY_DATE>
+			<DATE_START>2006-01-01</DATE_START>
+			<DATE_END>2006-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+		</AWARDHONOR>
+		<AWARDHONOR id="2330814465" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+			<NAME>Kaneb Teaching Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2006</DTY_DATE>
+			<DATE_START>2006-01-01</DATE_START>
+			<DATE_END>2006-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+		</AWARDHONOR>
+		<AWARDHONOR id="1460111360" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<NAME>M.S. in Accountancy Program Faculty Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2004</DTY_DATE>
+			<DATE_START>2004-01-01</DATE_START>
+			<DATE_END>2004-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+		</AWARDHONOR>
+		<AWARDHONOR id="1460121600" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<NAME>Senior Class Fellow Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC>Individual on ND campus who has made most lasting impression on Senior Class</DESC>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2003</DTY_DATE>
+			<DATE_START>2003-01-01</DATE_START>
+			<DATE_END>2003-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+		</AWARDHONOR>
+		<AWARDHONOR id="1460119552" dmd:lastModified="2010-01-23T10:12:35" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<NAME>Fenlon Teaching Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC>Awarded by the residents of Sorin Hall, University of Notre Dame</DESC>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2002</DTY_DATE>
+			<DATE_START>2002-01-01</DATE_START>
+			<DATE_END>2002-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+		</AWARDHONOR>
+		<AWARDHONOR id="20405524481" dmd:lastModified="2010-01-23T10:13:28" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<NAME>Finalist for Senior Class Fellow Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2002</DTY_DATE>
+			<DATE_START>2002-01-01</DATE_START>
+			<DATE_END>2002-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="1460115456" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<NAME>BP Outstanding Teacher Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2001</DTY_DATE>
+			<DATE_START>2001-01-01</DATE_START>
+			<DATE_END>2001-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+		</AWARDHONOR>
+		<AWARDHONOR id="1460117504" dmd:lastModified="2010-01-23T10:13:05" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<NAME>Finalist for Senior Class Fellow Award</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2001</DTY_DATE>
+			<DATE_START>2001-01-01</DATE_START>
+			<DATE_END>2001-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+		</AWARDHONOR>
+		<AWARDHONOR id="1460113408" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<NAME>Nominated for Smith Breeden Prize (Awarded annually for outstanding papers in The Journal of Finance)</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>1999</DTY_DATE>
+			<DATE_START>1999-01-01</DATE_START>
+			<DATE_END>1999-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+		</AWARDHONOR>
+		<EDUCATION id="1460123648" dmd:lastModified="2011-06-29T10:08:05" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<DEG>Ph D</DEG>
+			<DEGOTHER/>
+			<SCHOOL>University of North Carolina at Chapel Hill</SCHOOL>
+			<MAJOR>Finance</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE>Essays on Hedge Funds</DISSTITLE>
+			<HIGHEST>Yes</HIGHEST>
+			<YR_COMP>2000</YR_COMP>
+			<COMP_START>2000-01-01</COMP_START>
+			<COMP_END>2000-12-31</COMP_END>
+		</EDUCATION>
+		<EDUCATION id="1460125696" dmd:lastModified="2008-12-21T05:09:11" dmd:startDate="1984-01-01" dmd:endDate="1984-12-31">
+			<DEG>BA</DEG>
+			<DEGOTHER/>
+			<SCHOOL>Amherst College</SCHOOL>
+			<MAJOR>Economics</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST>No</HIGHEST>
+			<YR_COMP>1984</YR_COMP>
+			<COMP_START>1984-01-01</COMP_START>
+			<COMP_END>1984-12-31</COMP_END>
+		</EDUCATION>
+		<MEMBER id="12145717249" dmd:lastModified="2008-12-21T05:07:42" dmd:startDate="1997-01-01">
+			<NAME>American Finance Association</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1997</DTY_START>
+			<START_START>1997-01-01</START_START>
+			<START_END>1997-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="12145719297" dmd:lastModified="2008-12-21T05:07:25" dmd:startDate="1997-01-01">
+			<NAME>Western Finance Association</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1997</DTY_START>
+			<START_START>1997-01-01</START_START>
+			<START_END>1997-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<SCHTEACH id="85510682625" dmd:lastModified="2014-01-31T16:52:46" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|FIN|20150|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>120</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="85510762497" dmd:lastModified="2014-01-31T16:54:07" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|FIN|20150|2">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>120</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="85510850561" dmd:lastModified="2014-01-31T16:55:51" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|FIN|20150|3">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>119</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="75958624257" dmd:lastModified="2013-07-30T13:59:57" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|FIN|20150|2">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>130</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="75958646785" dmd:lastModified="2013-07-30T14:00:26" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|FIN|20150|3">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>128</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="75958671361" dmd:lastModified="2013-07-30T14:00:46" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|FIN|20150|4">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>4</SECTION>
+			<ENROLL>129</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="75958681601" dmd:lastModified="2013-07-30T14:01:06" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|FIN|20150|5">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>5</SECTION>
+			<ENROLL>125</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="67087618049" dmd:lastModified="2013-01-31T19:26:40" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|FIN|20150|2">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-01-15</TERM_START>
+			<TERM_END>2012-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>125</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="67087638529" dmd:lastModified="2013-01-31T19:27:07" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|FIN|20150|3">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-01-15</TERM_START>
+			<TERM_END>2012-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>124</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="67087661057" dmd:lastModified="2013-01-31T19:27:29" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|FIN|20150|4">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-01-15</TERM_START>
+			<TERM_END>2012-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>4</SECTION>
+			<ENROLL>124</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="67087683585" dmd:lastModified="2013-01-31T19:27:49" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|FIN|20150|5">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-01-15</TERM_START>
+			<TERM_END>2012-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>5</SECTION>
+			<ENROLL>124</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="48809564161" dmd:lastModified="2012-02-01T04:17:39" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|FIN|20150|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-01-15</TERM_START>
+			<TERM_END>2011-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>205</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="48809560065" dmd:lastModified="2012-02-01T04:17:07" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|FIN|20150|2">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-01-15</TERM_START>
+			<TERM_END>2011-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>206</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="48809558017" dmd:lastModified="2012-02-01T04:16:48" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|FIN|20150|3">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-01-15</TERM_START>
+			<TERM_END>2011-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>205</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="48809553921" dmd:lastModified="2012-02-01T04:15:43" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|FIN|20150|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-01-15</TERM_START>
+			<TERM_END>2010-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>162</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="26956808193" dmd:lastModified="2010-08-18T04:21:08" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|FIN|20150|2">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-01-15</TERM_START>
+			<TERM_END>2010-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>189</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="26956806145" dmd:lastModified="2010-08-18T04:20:45" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|FIN|20150|3">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-01-15</TERM_START>
+			<TERM_END>2010-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>190</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="20405616641" dmd:lastModified="2010-01-23T10:25:36" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|FIN|20150|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-01-15</TERM_START>
+			<TERM_END>2009-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>162</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="20405624833" dmd:lastModified="2010-01-23T10:26:29" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|FIN|20150|2">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-01-15</TERM_START>
+			<TERM_END>2009-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>177</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="20405630977" dmd:lastModified="2010-01-23T10:26:57" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|FIN|20150|3">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-01-15</TERM_START>
+			<TERM_END>2009-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>181</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="12144779265" dmd:lastModified="2009-10-20T08:35:46" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|FIN|20150|2">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2008</TYY_TERM>
+			<TERM_START>2008-01-15</TERM_START>
+			<TERM_END>2008-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>108</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="12144783361" dmd:lastModified="2009-10-20T08:36:13" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|FIN|20150|3">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2008</TYY_TERM>
+			<TERM_START>2008-01-15</TERM_START>
+			<TERM_END>2008-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>107</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="12144785409" dmd:lastModified="2008-12-20T11:42:12" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|FIN|20150|4">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2008</TYY_TERM>
+			<TERM_START>2008-01-15</TERM_START>
+			<TERM_END>2008-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>4</SECTION>
+			<ENROLL>108</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="12144787457" dmd:lastModified="2008-12-20T11:43:15" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|FIN|20150|5">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2008</TYY_TERM>
+			<TERM_START>2008-01-15</TERM_START>
+			<TERM_END>2008-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>5</SECTION>
+			<ENROLL>108</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412630017" dmd:lastModified="2008-12-20T21:39:32" dmd:startDate="2007-01-15" dmd:endDate="2007-04-30" dmd:primaryKey="Spring|2007|FIN|20150|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2007</TYY_TERM>
+			<TERM_START>2007-01-15</TERM_START>
+			<TERM_END>2007-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>79</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412636161" dmd:lastModified="2007-11-26T12:22:54" dmd:startDate="2007-01-15" dmd:endDate="2007-04-30" dmd:primaryKey="Spring|2007|FIN|20150|2">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2007</TYY_TERM>
+			<TERM_START>2007-01-15</TERM_START>
+			<TERM_END>2007-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>84</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412640257" dmd:lastModified="2007-11-26T12:23:35" dmd:startDate="2007-01-15" dmd:endDate="2007-04-30" dmd:primaryKey="Spring|2007|FIN|20150|3">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2007</TYY_TERM>
+			<TERM_START>2007-01-15</TERM_START>
+			<TERM_END>2007-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>85</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412646401" dmd:lastModified="2007-11-26T12:24:12" dmd:startDate="2007-01-15" dmd:endDate="2007-04-30" dmd:primaryKey="Spring|2007|FIN|20150|4">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2007</TYY_TERM>
+			<TERM_START>2007-01-15</TERM_START>
+			<TERM_END>2007-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>4</SECTION>
+			<ENROLL>85</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412654593" dmd:lastModified="2007-11-26T12:24:51" dmd:startDate="2007-01-15" dmd:endDate="2007-04-30" dmd:primaryKey="Spring|2007|FIN|20150|5">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2007</TYY_TERM>
+			<TERM_START>2007-01-15</TERM_START>
+			<TERM_END>2007-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>5</SECTION>
+			<ENROLL>79</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="2330370049" dmd:lastModified="2007-11-26T12:09:20" dmd:startDate="2006-01-15" dmd:endDate="2006-04-30" dmd:primaryKey="Spring|2006|FIN|20150|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2006</TYY_TERM>
+			<TERM_START>2006-01-15</TERM_START>
+			<TERM_END>2006-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>46</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412556289" dmd:lastModified="2007-11-26T12:10:10" dmd:startDate="2006-01-15" dmd:endDate="2006-04-30" dmd:primaryKey="Spring|2006|FIN|20150|2">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2006</TYY_TERM>
+			<TERM_START>2006-01-15</TERM_START>
+			<TERM_END>2006-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>46</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412560385" dmd:lastModified="2007-11-26T12:10:48" dmd:startDate="2006-01-15" dmd:endDate="2006-04-30" dmd:primaryKey="Spring|2006|FIN|20150|3">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2006</TYY_TERM>
+			<TERM_START>2006-01-15</TERM_START>
+			<TERM_END>2006-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>46</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412564481" dmd:lastModified="2007-11-26T12:11:25" dmd:startDate="2006-01-15" dmd:endDate="2006-04-30" dmd:primaryKey="Spring|2006|FIN|20150|4">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2006</TYY_TERM>
+			<TERM_START>2006-01-15</TERM_START>
+			<TERM_END>2006-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>4</SECTION>
+			<ENROLL>46</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412568577" dmd:lastModified="2007-11-26T12:12:03" dmd:startDate="2006-01-15" dmd:endDate="2006-04-30" dmd:primaryKey="Spring|2006|FIN|20150|5">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2006</TYY_TERM>
+			<TERM_START>2006-01-15</TERM_START>
+			<TERM_END>2006-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>5</SECTION>
+			<ENROLL>46</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412574721" dmd:lastModified="2007-11-26T12:12:40" dmd:startDate="2006-01-15" dmd:endDate="2006-04-30" dmd:primaryKey="Spring|2006|FIN|20150|6">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2006</TYY_TERM>
+			<TERM_START>2006-01-15</TERM_START>
+			<TERM_END>2006-04-30</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>6</SECTION>
+			<ENROLL>46</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="1460129792" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2005-01-15" dmd:endDate="2005-04-30" dmd:primaryKey="Spring|2005|FIN|180|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2005</TYY_TERM>
+			<TERM_START>2005-01-15</TERM_START>
+			<TERM_END>2005-04-30</TERM_END>
+			<TITLE>Corporate Finance (at UNC)</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>180</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>173</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460127744" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2004-09-01" dmd:endDate="2004-12-31" dmd:primaryKey="Fall|2004|FIN|180|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2004</TYY_TERM>
+			<TERM_START>2004-09-01</TERM_START>
+			<TERM_END>2004-12-31</TERM_END>
+			<TITLE>Corporate Finance (at UNC)</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>180</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>206</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460144128" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-15" dmd:endDate="2004-04-30" dmd:primaryKey="Spring|2004|FIN|231|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2004</TYY_TERM>
+			<TERM_START>2004-01-15</TERM_START>
+			<TERM_END>2004-04-30</TERM_END>
+			<TITLE>Business Finance</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>231</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>206</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460146176" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2003-09-01" dmd:endDate="2003-12-31" dmd:primaryKey="Fall|2003|FIN|500A|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2003</TYY_TERM>
+			<TERM_START>2003-09-01</TERM_START>
+			<TERM_END>2003-12-31</TERM_END>
+			<TITLE>Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>500A</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>71</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460142080" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2003-01-15" dmd:endDate="2003-04-30" dmd:primaryKey="Spring|2003|FIN|231|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2003</TYY_TERM>
+			<TERM_START>2003-01-15</TERM_START>
+			<TERM_END>2003-04-30</TERM_END>
+			<TITLE>Business Finance</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>231</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>234</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460140032" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2002-01-15" dmd:endDate="2002-04-30" dmd:primaryKey="Spring|2002|FIN|231|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2002</TYY_TERM>
+			<TERM_START>2002-01-15</TERM_START>
+			<TERM_END>2002-04-30</TERM_END>
+			<TITLE>Business Finance</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>231</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>212</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460137984" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2001-01-15" dmd:endDate="2001-04-30" dmd:primaryKey="Spring|2001|FIN|231|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2001</TYY_TERM>
+			<TERM_START>2001-01-15</TERM_START>
+			<TERM_END>2001-04-30</TERM_END>
+			<TITLE>Business Finance</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>231</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>143</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460135936" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2000-01-15" dmd:endDate="2000-04-30" dmd:primaryKey="Spring|2000|FIN|231|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2000</TYY_TERM>
+			<TERM_START>2000-01-15</TERM_START>
+			<TERM_END>2000-04-30</TERM_END>
+			<TITLE>Business Finance</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>231</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>134</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460133888" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="1999-01-15" dmd:endDate="1999-04-30" dmd:primaryKey="Spring|1999|FIN|231|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>1999</TYY_TERM>
+			<TERM_START>1999-01-15</TERM_START>
+			<TERM_END>1999-04-30</TERM_END>
+			<TITLE>Business Finance</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>231</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>95</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<SCHTEACH id="1460131840" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="1998-09-01" dmd:endDate="1998-12-31" dmd:primaryKey="Fall|1998|FIN|231|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>1998</TYY_TERM>
+			<TERM_START>1998-09-01</TERM_START>
+			<TERM_END>1998-12-31</TERM_END>
+			<TITLE>Business Finance</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>231</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>81</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE/>
+		</SCHTEACH>
+		<DSL id="67087982593" dmd:lastModified="2013-01-31T19:34:58" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<TYPE>Directed Individual/Independent Study</TYPE>
+			<DSL_STUDENT id="67087982594">
+				<FNAME>Netania</FNAME>
+				<LNAME>Boentaram</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Finance</SHDEP>
+			<COURSEPRE/>
+			<COURSENUM/>
+			<CHOURS>3.0</CHOURS>
+			<TITLE/>
+			<COMPSTAGE>Completed</COMPSTAGE>
+			<COMMENT/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-01</START_START>
+			<START_END>2012-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<DSL id="48809582593" dmd:lastModified="2012-02-01T04:20:29" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<TYPE>Directed Individual/Independent Study</TYPE>
+			<DSL_STUDENT id="48809582594">
+				<FNAME>Thomas</FNAME>
+				<LNAME>Dore</LNAME>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="48809582592">
+				<FNAME>Cindy</FNAME>
+				<LNAME>Espinoza</LNAME>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="48809582595">
+				<FNAME>Alex</FNAME>
+				<LNAME>Kimball</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Finance</SHDEP>
+			<COURSEPRE/>
+			<COURSENUM/>
+			<CHOURS>3.0</CHOURS>
+			<TITLE/>
+			<COMPSTAGE>Completed</COMPSTAGE>
+			<COMMENT/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<DSL id="20405723137" dmd:lastModified="2010-01-23T10:39:38" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<TYPE>Directed Individual/Independent Study</TYPE>
+			<DSL_STUDENT id="20405723138">
+				<FNAME>Christopher</FNAME>
+				<LNAME>Larmoyeux</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Finance</SHDEP>
+			<COURSEPRE/>
+			<COURSENUM/>
+			<CHOURS>3.0</CHOURS>
+			<TITLE/>
+			<COMPSTAGE>Completed</COMPSTAGE>
+			<COMMENT/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<DSL id="7011782657" dmd:lastModified="2008-01-24T15:02:35" dmd:startDate="2003-01-01" dmd:endDate="2007-12-31">
+			<TYPE>Directed Individual/Independent Study</TYPE>
+			<DSL_STUDENT id="7011782658">
+				<FNAME/>
+				<LNAME/>
+			</DSL_STUDENT>
+			<SHDEP/>
+			<COURSEPRE/>
+			<COURSENUM/>
+			<CHOURS/>
+			<TITLE/>
+			<COMPSTAGE/>
+			<COMMENT/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-01-01</END_START>
+			<END_END>2007-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<INTELLCONT id="7011889153" dmd:lastModified="2008-12-20T21:30:10" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<PUBLISHER>Journal of Business Ethics</PUBLISHER>
+			<TITLE>Mutual Fund Incubation and the Role of the Securities and Exchange Commission</TITLE>
+			<VOLUME>70</VOLUME>
+			<ISSUE/>
+			<PAGENUM>33-37</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2007</DTY_PUB>
+			<PUB_START>2007-01-01</PUB_START>
+			<PUB_END>2007-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<INTELLCONT_AUTH id="7011889154">
+				<FACULTY_NAME>118127</FACULTY_NAME>
+				<FNAME>Carl</FNAME>
+				<MNAME>B</MNAME>
+				<LNAME>Ackermann</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="7011889155">
+				<FACULTY_NAME>117539</FACULTY_NAME>
+				<FNAME>Timothy</FNAME>
+				<MNAME>J</MNAME>
+				<LNAME>Loughran</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="1460148224" dmd:lastModified="2008-12-20T21:31:24" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<PUBLISHER>Journal of Finance</PUBLISHER>
+			<TITLE>The Performance of Hedge Funds: Risk, Return and Incentives</TITLE>
+			<VOLUME>54</VOLUME>
+			<ISSUE/>
+			<PAGENUM>833-874</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>1999</DTY_PUB>
+			<PUB_START>1999-01-01</PUB_START>
+			<PUB_END>1999-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<INTELLCONT_AUTH id="1460148225">
+				<FACULTY_NAME>118127</FACULTY_NAME>
+				<FNAME>Carl</FNAME>
+				<MNAME>B</MNAME>
+				<LNAME>Ackermann</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="1460148226">
+				<FACULTY_NAME/>
+				<FNAME>Richard</FNAME>
+				<MNAME/>
+				<LNAME>McEnally</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="1460148227">
+				<FACULTY_NAME/>
+				<FNAME>David</FNAME>
+				<MNAME/>
+				<LNAME>Ravenscraft</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE/>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<PRESENT id="1460152320" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<NAME>Financial Management Association Meetings, Seattle, WA</NAME>
+			<ORG/>
+			<LOCATION/>
+			<TITLE>How Industry Rivals Respond to Control Threats</TITLE>
+			<PRESENT_AUTH id="1460152321">
+				<FACULTY_NAME>118127</FACULTY_NAME>
+				<FNAME>Carl</FNAME>
+				<MNAME>B</MNAME>
+				<LNAME>Ackermann</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<ACADEMIC/>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2000</DTY_DATE>
+			<DATE_START>2000-01-01</DATE_START>
+			<DATE_END>2000-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="1460150272" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<NAME>Western Finance Association Meetings, Monterey, CA</NAME>
+			<ORG/>
+			<LOCATION/>
+			<TITLE>The Impact of Regulatory Restrictions on Fund Performance: A Comparative Study of Hedge Funds and Mutual Funds</TITLE>
+			<PRESENT_AUTH id="1460150273">
+				<FACULTY_NAME>118127</FACULTY_NAME>
+				<FNAME>Carl</FNAME>
+				<MNAME>B</MNAME>
+				<LNAME>Ackermann</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<ACADEMIC/>
+			<PRESENT_TYPE/>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>1998</DTY_DATE>
+			<DATE_START>1998-01-01</DATE_START>
+			<DATE_END>1998-12-31</DATE_END>
+			<WEBPAGE_INCLUDE/>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<RESPROG id="1460164608" dmd:lastModified="2007-02-13T03:32:29">
+			<TITLE>Several papers on Mutual Funds</TITLE>
+			<DESC/>
+			<STATUS/>
+			<RESEARCH_TYPE/>
+			<WEBPAGE_INCLUDE/>
+		</RESPROG>
+		<SERVICE_DEPARTMENT id="67091085313" dmd:lastModified="2014-01-31T16:58:58" dmd:startDate="2012-01-01" dmd:endDate="2013-12-31">
+			<ORG>Faculty Representative, Chicago Quantitative Alliance Investment Challenge.  Coordinated a team of four undergraduates</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-01</START_START>
+			<START_END>2012-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="75958816769" dmd:lastModified="2013-07-30T14:03:58" dmd:startDate="2009-01-01" dmd:endDate="2013-12-31">
+			<ORG>With the Career Center, developed and implemented the Notre Dame Finance Mentoring Program.  Students interested in Financial Services are paired with Notre Dame alumni on Wall Street</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="75958824961" dmd:lastModified="2013-07-30T14:04:09" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
+			<ORG>Initiate and cultivate relationships with elite finance firms and convince them to hire our students.  I do this primarily through relationships I have built with my former students.  Blackstone, Barclays, Fidelity and J.P. Morgan are recent examples</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="75958837249" dmd:lastModified="2013-07-30T14:04:26" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
+			<ORG>Preparing Personal Finance course, which we may offer in the future</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="75958849537" dmd:lastModified="2013-07-30T14:04:35" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
+			<ORG>Investigate case competitions and trading competitions, and encourage students and clubs to participate in them</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="75958859777" dmd:lastModified="2013-07-30T14:04:46" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
+			<ORG>Investigate scholarships offered by premier financial firms and encourage students to apply for them</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="67088209921" dmd:lastModified="2013-01-31T19:40:08" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<ORG>Faculty representative for Finance Club fall trip to Chicago</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="1460174848" dmd:lastModified="2014-01-31T16:59:17" dmd:startDate="2003-01-01" dmd:endDate="2011-12-31">
+			<ORG>Coordinated ACCION program, an internship in microlending for junior business majors </ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="2330394625" dmd:lastModified="2008-01-24T15:07:57" dmd:startDate="2003-01-01" dmd:endDate="2007-12-31">
+			<ORG>Advisor, Finance Club</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-01-01</END_START>
+			<END_END>2007-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="2330398721" dmd:lastModified="2007-02-15T07:43:19" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<ORG>Faculty representative for Investment Club fall trip to Chicago</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="2330392577" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<ORG>Investigated personal finance track, which we hope to offer in the future</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="2330402817" dmd:lastModified="2007-02-15T07:45:04" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<ORG>While at UNC, faculty representative for Investment Club fall trip to New York</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="1460180992" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<ORG>ACCION program</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2002</DTY_START>
+			<START_START>2002-01-01</START_START>
+			<START_END>2002-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="1460168704" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<ORG>Finance 231/251 Standardization Committee</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-01-01</START_START>
+			<START_END>2001-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-01-01</END_START>
+			<END_END>2001-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="1460172800" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<ORG>Finance Social Counseling Program</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-01-01</START_START>
+			<START_END>2001-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-01-01</END_START>
+			<END_END>2001-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="1460178944" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>Finance 231 Standardization Committee</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="1460170752" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>Interviewed job candidates at professional meetings</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="1460176896" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="1998-01-01" dmd:endDate="1999-12-31">
+			<ORG>Participated in Finance 231 course standardization meetings</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1998</DTY_START>
+			<START_START>1998-01-01</START_START>
+			<START_END>1998-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>1999</DTY_END>
+			<END_START>1999-01-01</END_START>
+			<END_END>1999-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_COLLEGE id="77547429889" dmd:lastModified="2013-09-20T06:44:10" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<ORG>Presented workshop on personal financial planning at Volunteers in Transition conference</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-01-01</START_START>
+			<START_END>2013-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="75959029760" dmd:lastModified="2013-07-30T14:07:58" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<ORG>Speaker, Junior Parent Weekend, Mendoza College of Business</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="85511202817" dmd:lastModified="2014-01-31T17:02:14" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<ORG>Trained students for Biz Quiz, the premier undergraduate Business competition, held at The Ohio State University</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-01-01</START_START>
+			<START_END>2013-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="67088326657" dmd:lastModified="2013-01-31T19:43:02" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<ORG>Presented workshops on personal financial planning at these three in-house conferences: Leaders in Transition, Volunteers of America Executive Development Program, Catholic Charities: From Mission to Service</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-01</START_START>
+			<START_END>2012-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="32427956225" dmd:lastModified="2013-01-31T19:49:07" dmd:startDate="2010-01-01" dmd:endDate="2012-12-31">
+			<ORG>Trained students for and accompanied them to Biz Quiz, the premier undergraduate Business competition, held at The Ohio State University</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="32428023809" dmd:lastModified="2014-01-31T17:00:23" dmd:startDate="2009-01-01" dmd:endDate="2012-12-31">
+			<ORG>Contacted elusive seniors and difficult-to-find graduates who do not report their employment.  This improves our placement statistics.  In 2011, my efforts increased the Mendoza College of Business Class of 2011 placement statistic from 95% to 99%.  And in 2012, I increased the placement statistic from 91% to 98%</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="48809644033" dmd:lastModified="2012-02-01T04:37:24" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<ORG>Commencement Speaker, Mendoza College of Business Undergraduate Commencement Ceremony</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="48809820160" dmd:lastModified="2012-02-01T05:32:03" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<ORG>Presented at Teaching Seminar for Mendoza College of Business Assistant Professors</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="48809631745" dmd:lastModified="2012-02-01T04:34:47" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<ORG>Presented workshop on personal financial planning at Leaders in Transition conference</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="26956820481" dmd:lastModified="2010-08-18T05:13:40" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			<ORG>Presented "Personal Financial Planning", for Mendoza College of Business Graduate Alumni Relations</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-01-01</END_START>
+			<END_END>2010-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="26956812289" dmd:lastModified="2011-01-31T09:04:21" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			<ORG>Presented workshops on personal financial planning at these three in-house conferences: Leaders in Transition, Volunteers of America Executive Development Program, Catholic Charities: From Mission to Service</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-01-01</END_START>
+			<END_END>2010-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="20407027713" dmd:lastModified="2010-01-23T12:35:17" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Moderator, An Evening with Bill Shaw and Cathie Black (University of Notre Dame trustees)</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="20406958081" dmd:lastModified="2010-01-23T12:28:21" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Presented "A Few Thoughts on Teaching", to the University of Notre Dame Department of Management</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="20405921793" dmd:lastModified="2010-01-23T15:46:45" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Presented workshops on personal financial planning at these two in-house conferences: Nonprofit Executive Leadership Program, Catholic Charities: From Mission to Service</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="12145246209" dmd:lastModified="2010-01-23T15:47:35" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<ORG>Presented workshops on personal financial planning at these four in-house conferences: Leaders in Transition, Volunteers of America Senior Health Care Executive Education Program, Volunteers of America Executive Development Program, Catholic Charities: From Mission to Service</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="12144850945" dmd:lastModified="2008-12-20T12:35:18" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<ORG>Speaker at Mendoza College of Business Sophomore Orientation</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="7138758657" dmd:lastModified="2008-12-20T12:34:32" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+			<ORG>Monthly Speaker, University of Notre Dame League of Black Business Students</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-01-01</END_START>
+			<END_END>2006-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="7050551297" dmd:lastModified="2008-01-24T15:20:23" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+			<ORG>Speaker at Mendoza College of Business Sophomore Orientation</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-01-01</END_START>
+			<END_END>2006-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460193280" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<ORG>Committee member, undergraduate honors thesis (at UNC)</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460195328" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<ORG>Speaker and panelist at Kenan-Flagler Business School Teacher Training Workshop</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460189184" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-01" dmd:endDate="2005-12-31">
+			<ORG>Finance Area Representative, Kenan-Flagler Business School undergraduate curriculum committee</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460183040" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<ORG>Graduation Speaker, College of Science Collegiate Sequence Recognition Ceremony</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460197376" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<ORG>Moderator at Kenan-Flagler Business School Undergraduate Business Symposium</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460199424" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<ORG>Participant, Investment Banking Day (at UNC)</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460191232" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<ORG>Served on dissertation committee of Xiyu Zhou (at UNC)</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460185088" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<ORG>Speaker, M.S. in Accountancy Graduation Dinner</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460187136" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2003-01-01" dmd:endDate="2004-12-31">
+			<ORG>Board of Directors, M.S. in Accountancy Service Project</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="1460201472" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<ORG>Speaker at Mendoza College of Business Sophomore Orientation</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-01-01</END_START>
+			<END_END>2003-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_COLLEGE>
+		<SERVICE_UNIVERSITY id="77547436032" dmd:lastModified="2013-09-20T06:47:03" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<ORG>Speaker, Freshmen Orientation, Dillon Hall</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75959076865" dmd:lastModified="2013-07-30T14:08:56" dmd:startDate="2012-01-01" dmd:endDate="2013-12-31">
+			<ORG>University of Notre Dame Dockweiler Award Selection Committee</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-01</START_START>
+			<START_END>2012-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75959085056" dmd:lastModified="2013-07-30T14:09:04" dmd:startDate="2011-01-01" dmd:endDate="2013-12-31">
+			<ORG>Faculty Fellow, Zahm Hall</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75959101441" dmd:lastModified="2013-07-30T14:09:16" dmd:startDate="2011-01-01" dmd:endDate="2013-12-31">
+			<ORG>Participate in student fundraisers, approximately twice per year</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="12144998401" dmd:lastModified="2013-07-30T14:43:08" dmd:startDate="2008-01-01" dmd:endDate="2013-12-31">
+			<ORG>Speak to student organizations on personal finance, approximately once per semester</ORG>
+			<ROLE>Guest Speaker</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75959126017" dmd:lastModified="2013-07-30T14:09:38" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
+			<ORG>Fellow, Center for Social Concerns</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7059175425" dmd:lastModified="2013-09-20T06:47:53" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
+			<ORG>Investigate national and international scholarships and fellowships and encourage students to apply for them</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75959148545" dmd:lastModified="2013-07-30T14:09:55" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
+			<ORG>Building Bridges mentoring program</ORG>
+			<ROLE>Faculty Mentor</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="2330480641" dmd:lastModified="2013-07-30T14:14:40" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
+			<ORG>Meet with admissions candidates and their families</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="12144865281" dmd:lastModified="2013-07-30T14:15:08" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
+			<ORG>Meet with development interests.  I do feel that I have played a significant role in attracting several six and seven figure gifts to the University</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="2330464257" dmd:lastModified="2013-07-30T14:15:21" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
+			<ORG>Participate in Open Houses, hosted by Office of Undergraduate Admissions</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="1460213760" dmd:lastModified="2013-07-30T14:15:33" dmd:startDate="2005-01-01" dmd:endDate="2013-12-31">
+			<ORG>Meet and greet employer representatives at various Career Center events</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7138797569" dmd:lastModified="2013-07-30T14:15:44" dmd:startDate="2005-01-01" dmd:endDate="2013-12-31">
+			<ORG>Speak in the dorms on personal finance, approximately once per year</ORG>
+			<ROLE>Guest Speaker</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="1460211712" dmd:lastModified="2014-01-31T17:03:11" dmd:startDate="2001-01-01" dmd:endDate="2013-12-31">
+			<ORG>University Speaker for University of Notre Dame Alumni Celebrations around the country</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-01-01</START_START>
+			<START_END>2001-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="67089815552" dmd:lastModified="2013-01-31T20:19:55" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<ORG>Facilitator, University of Notre Dame President's Circle</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="67089856512" dmd:lastModified="2013-01-31T20:21:18" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<ORG>Speaker, University of Notre Dame Badin Guild</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="67089936384" dmd:lastModified="2013-01-31T20:23:30" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<ORG>Speaker, University of Notre Dame Leadership Seminar</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="67090016256" dmd:lastModified="2013-01-31T20:27:16" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<ORG>Speaker, University of Notre Dame Reilly Weekend</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7138662401" dmd:lastModified="2013-01-31T20:06:11" dmd:startDate="2006-01-01" dmd:endDate="2012-12-31">
+			<ORG>Notre Dame Camp Kesem.  This is a week-long summer camp for children whose parents have cancer</ORG>
+			<ROLE>Faculty Advisor</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7138889729" dmd:lastModified="2013-01-31T20:08:32" dmd:startDate="2005-01-01" dmd:endDate="2012-12-31">
+			<ORG>University of Notre Dame Men's Basketball recruiting</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="48809797632" dmd:lastModified="2012-02-01T05:25:21" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<ORG>At Notre Dame Reunion, presented Personal Finance and Investing to Increase our Mission to Serve</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="48809883648" dmd:lastModified="2012-02-01T05:45:21" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<ORG>Committee Member, University Task Force on Community Engagement</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7138967553" dmd:lastModified="2012-02-01T04:50:50" dmd:startDate="2003-01-01" dmd:endDate="2011-12-31">
+			<ORG>University of Notre Dame Football recruiting</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="20406349825" dmd:lastModified="2012-02-01T07:10:11" dmd:startDate="2007-01-01" dmd:endDate="2010-12-31">
+			<ORG>Participate in student fundraisers, approximately once per year</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-01-01</END_START>
+			<END_END>2010-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="20406159361" dmd:lastModified="2010-01-23T11:16:01" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Presented to Student Affairs Committee of the University of Notre Dame Board of Trustees</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="20405985281" dmd:lastModified="2010-01-23T11:08:04" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Speaker, Last Lecture Series</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="12144922625" dmd:lastModified="2008-12-20T13:40:54" dmd:startDate="2008-01-01" dmd:endDate="2009-12-31">
+			<ORG>Fellow, Kaneb Center for Teaching and Learning</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7138934785" dmd:lastModified="2011-01-31T09:07:30" dmd:startDate="2003-01-01" dmd:endDate="2009-12-31">
+			<ORG>Academic Honors Program for student athletes</ORG>
+			<ROLE>Faculty Mentor</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="12144934913" dmd:lastModified="2008-12-20T13:48:10" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<ORG>University of Notre Dame Valedictorian Selection Committee</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7059187713" dmd:lastModified="2008-12-20T12:44:06" dmd:startDate="2007-01-01" dmd:endDate="2008-12-31">
+			<ORG>Steering Committee for Undergraduate Learning and Formation</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7059122177" dmd:lastModified="2008-01-25T10:17:40" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<ORG>Career Center Senior Kick-off</ORG>
+			<ROLE>Guest Speaker</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-01-01</END_START>
+			<END_END>2007-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7138854913" dmd:lastModified="2008-12-20T12:55:12" dmd:startDate="2005-01-01" dmd:endDate="2007-12-31">
+			<ORG>Speak in the dorms on career discernment, approximately once per year</ORG>
+			<ROLE>Guest Speaker</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-01-01</END_START>
+			<END_END>2007-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7138607105" dmd:lastModified="2008-12-20T13:02:08" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+			<ORG>Attended University Diversity training sessions</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-01-01</END_START>
+			<END_END>2006-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="2330488833" dmd:lastModified="2007-02-15T08:05:59" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+			<ORG>Chairperson of Nominating Committee, University Club Board of Director Elections</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-01-01</END_START>
+			<END_END>2006-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="1460217856" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<ORG>Participated in Open Houses, hosted by Office  of Undergraduate Admissions</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="1460215808" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<ORG>University Committee on Women Faculty and Students</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="1460205568" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<ORG>Participated in Junior Class Government Initiative discussions</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2002</DTY_START>
+			<START_START>2002-01-01</START_START>
+			<START_END>2002-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="20406016001" dmd:lastModified="2010-01-23T11:10:36" dmd:startDate="2001-01-01" dmd:endDate="2002-12-31">
+			<ORG>Speaker, Last Lecture Series</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-01-01</START_START>
+			<START_END>2001-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="1460203520" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<ORG>Participated in Focus Group discussion of Advisory Committee on Academics and Student Life</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-01-01</START_START>
+			<START_END>2001-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-01-01</END_START>
+			<END_END>2001-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_PROFESSIONAL id="12144809985" dmd:lastModified="2008-12-20T13:36:40" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<ORG>Participant, Ethical Dimensions in Business Conference</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460260864" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2005-01-01" dmd:endDate="2006-12-31">
+			<ORG>Participant, Ethical Dimensions in Business Conference</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-01-01</END_START>
+			<END_END>2006-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460244480" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2003-01-01" dmd:endDate="2006-12-31">
+			<ORG>Review Committee, Foundation for Managed Derivatives Research</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-01-01</END_START>
+			<END_END>2006-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460258816" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<ORG>Discussant, Financial Management Association meetings</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460242432" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<ORG>Referee for Journal of Finance</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-01-01</END_START>
+			<END_END>2003-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460240384" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<ORG>Referee for Journal of Financial Research</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460238336" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2001-01-01" dmd:endDate="2002-12-31">
+			<ORG>Last Lecture Series, University of Notre Dame</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-01-01</START_START>
+			<START_END>2001-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460236288" dmd:lastModified="2008-12-20T12:11:10" dmd:startDate="1999-01-01" dmd:endDate="2002-12-31">
+			<ORG>Review Committee, Foundation for Managed Derivatives Research</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1999</DTY_START>
+			<START_START>1999-01-01</START_START>
+			<START_END>1999-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460224000" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<ORG>Referee for Financial Management</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-01-01</END_START>
+			<END_END>2001-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460230144" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<ORG>University of Notre Dame</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-01-01</END_START>
+			<END_END>2001-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460252672" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>Financial Management Association meetings, discussant for 2 papers and Session Chairperson</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460226048" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>Michiana Economics Club</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460246528" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>Referee for Financial Management</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460232192" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>Referee for Journal of Financial Research</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460234240" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>Referee for Journal of International Money and Finance</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460221952" dmd:lastModified="2008-12-20T12:14:00" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>University of Virginia</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460256768" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<ORG>New York Mercantile Exchange</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>1999</DTY_END>
+			<END_START>1999-01-01</END_START>
+			<END_END>1999-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460219904" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<ORG>Selection Committee, "Best Paper in Investments," Financial Management Association</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>1999</DTY_END>
+			<END_START>1999-01-01</END_START>
+			<END_END>1999-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460228096" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<ORG>University of Notre Dame</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>1999</DTY_END>
+			<END_START>1999-01-01</END_START>
+			<END_END>1999-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460250624" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<ORG>Western Finance Association meetings, paper discussant</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1999</DTY_START>
+			<START_START>1999-01-01</START_START>
+			<START_END>1999-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>1999</DTY_END>
+			<END_START>1999-01-01</END_START>
+			<END_END>1999-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460248576" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<ORG>Financial Management Association meeting, paper discussant</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>1998</DTY_END>
+			<END_START>1998-01-01</END_START>
+			<END_END>1998-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1460254720" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<ORG>The North Carolina Institute for Investment Research\nUniversity of Iowa\nDePaul University\nFlorida State University\nUniversity of South Carolina\nUniversity of Cincinnati\nTulane University\nArizona State University\nUniversity of Notre Dame\nUniv</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>1998</DTY_END>
+			<END_START>1998-01-01</END_START>
+			<END_END>1998-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PUBLIC id="48809775104" dmd:lastModified="2013-07-30T14:17:42" dmd:startDate="2011-01-01" dmd:endDate="2013-12-31">
+			<ORG>Advisory Board Member, Kids Unlimited (Holland, OH)</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="20406573057" dmd:lastModified="2013-09-20T06:48:32" dmd:startDate="2010-01-01" dmd:endDate="2013-12-31">
+			<ORG>Provide comprehensive financial planning for approximately 250 of my former students.  All told in my personal finance activities, I now interact with over 1000 members of the Notre Dame community per year.  I give them simple, proven strategies (such as choosing low expense ratio, low turnover and no entry/exit fee mutual funds) that should substantially increase their retirement wealth</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="26956814337" dmd:lastModified="2013-07-30T14:17:56" dmd:startDate="2009-01-01" dmd:endDate="2013-12-31">
+			<ORG>Member, Investment Committee, Center for Hospice and Palliative Care</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="7139190785" dmd:lastModified="2013-09-20T06:48:53" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
+			<ORG>Help approximately 10 Notre Dame faculty and staff members invest in their 403(b)</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="2330664961" dmd:lastModified="2013-07-30T14:18:07" dmd:startDate="2003-01-01" dmd:endDate="2013-12-31">
+			<ORG>Extensive advising of current and former students, especially regarding their careers in Business and Finance.  This single activity accounts for approximately one-third of my time in service</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="1460269056" dmd:lastModified="2013-09-20T06:49:17" dmd:startDate="2003-01-01" dmd:endDate="2013-12-31">
+			<ORG>Write hundreds of letters of recommendation for University of Notre Dame students</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="67089616897" dmd:lastModified="2014-01-31T17:04:48" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<ORG>Provided comprehensive financial planning for groups and individuals at these service organizations: Catholic Charities, Volunteers of America, Catholic Leadership Institute, Lasallian Volunteers, Chicago Public Schools, Yes Prep Public Schools (Houston, TX), Center for Hospice and Palliative Care</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="48809715713" dmd:lastModified="2014-01-31T17:05:03" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<ORG>Provided comprehensive financial planning for groups and individuals at these service organizations: Catholic Charities, Volunteers of America, Catholic Leadership Institute, Lasallian Volunteers, Chicago Public Schools, Yes Prep Public Schools (Houston, TX), South Bend Center for the Homeless, Center for Hospice and Palliative Care</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-01-01</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="26956818433" dmd:lastModified="2011-01-31T09:12:12" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			<ORG>Provide comprehensive financial planning for groups and individuals at these service organizations: Catholic Charities, Volunteers of America, Catholic Leadership Institute, Farm of the Child (Trujillo, Honduras), Chicago Public Schools, Yes Prep Public Schools (Houston, TX), South Bend Center for the Homeless, Center for Hospice and Palliative Care, ACE Program, St. Pius X Catholic School</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-01-01</END_START>
+			<END_END>2010-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="26956816385" dmd:lastModified="2010-08-18T04:41:38" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Provide comprehensive financial planning for approximately 200 of my former students</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="20406509569" dmd:lastModified="2010-01-23T15:53:02" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Provide comprehensive financial planning for groups and individuals at these service organizations: Catholic Charities, Volunteers of America, Farm of the Child (Trujillo, Honduras), Chicago Public Schools, Catalyst Schools Chicago, Yes Prep Public Schools (Houston, TX), South Bend Center for the Homeless, Center for Hospice and Palliative Care, ACE Program, St. Pius X Catholic School</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="12144830465" dmd:lastModified="2010-01-23T15:53:52" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<ORG>Help approximately 150 of my former students invest in their 401(k)s and 403(b)s</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="12145223681" dmd:lastModified="2010-01-23T15:57:51" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<ORG>Help groups and individuals at these service organizations understand and invest in their retirement plans: Catholic Charities, Volunteers of America, Chicago Public Schools, Catalyst Schools Chicago, South Bend Center for the Homeless, ACE Program, St. Pius X Catholic School.  On the basis of this work, I have been named a Fellow of the Center for Social Concerns through 2011</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="12144902145" dmd:lastModified="2008-12-20T13:29:16" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<ORG>Volunteer, Little Flower Catholic Church Food Pantry</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="2330781697" dmd:lastModified="2008-12-20T12:17:56" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<ORG>Help approximately 100 of my former students invest in their 401(k)s and 403(b)s</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-01-01</END_START>
+			<END_END>2007-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="7139305473" dmd:lastModified="2008-12-21T09:55:20" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<ORG>Help employees of the South Bend Center for the Homeless understand and invest in their retirement plan</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-01-01</END_START>
+			<END_END>2007-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="12144828417" dmd:lastModified="2008-12-20T12:19:01" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+			<ORG>Help approximately 50 of my former students invest in their 401(k)s and 403(b)s</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-01-01</END_START>
+			<END_END>2006-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="2330642433" dmd:lastModified="2007-02-15T08:36:34" dmd:startDate="2003-01-01" dmd:endDate="2004-12-31">
+			<ORG>Building Bridges mentoring program</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="1460271104" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
+			<ORG>Finance Department Representative for University of Notre Dame Football recruiting</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="1460273152" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
+			<ORG>Wrote hundreds of letters of recommendation for University of Notre Dame students</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="1460262912" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<ORG>Northern Indiana Food Bank</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Volunteer</ROLEOTHER>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="1460264960" dmd:lastModified="2007-02-13T03:32:29" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<ORG>Arranged visit of George Fisher (Chairman and CEO of Kodak) to University of North Carolina Business School</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1998</DTY_START>
+			<START_START>1998-01-01</START_START>
+			<START_END>1998-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>1998</DTY_END>
+			<END_START>1998-01-01</END_START>
+			<END_END>1998-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PUBLIC>
+	</Record>
+</Data>

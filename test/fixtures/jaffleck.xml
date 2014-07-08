@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-07-08">
+	<Record userId="117497" username="jaffleck" termId="278" dmd:surveyId="47815">
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Finance" text="Finance"/>
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Other" text="Other"/>
+		<PCI id="1442187264" dmd:lastModified="2012-01-07T11:58:17">
+			<PREFIX/>
+			<FNAME>John</FNAME>
+			<PFNAME/>
+			<MNAME>F</MNAME>
+			<LNAME>Affleck-Graves</LNAME>
+			<SUFFIX/>
+			<ALT_NAME/>
+			<ENDPOS>Executive Vice President, University of Notre Dame Chair in Finance</ENDPOS>
+			<EMAIL>John.F.Affleck-Graves.1@nd.edu</EMAIL>
+			<ROOMNUM>300F Main Building</ROOMNUM>
+			<OPHONE1>574</OPHONE1>
+			<OPHONE2>631</OPHONE2>
+			<OPHONE3>6760</OPHONE3>
+			<DPHONE1/>
+			<DPHONE2/>
+			<DPHONE3/>
+			<FAX1/>
+			<FAX2/>
+			<FAX3/>
+			<WEBSITE>jaffleck@nd.edu</WEBSITE>
+			<DTM_DOB>November</DTM_DOB>
+			<DTD_DOB>11</DTD_DOB>
+			<DTY_DOB>1950</DTY_DOB>
+			<GENDER>Male</GENDER>
+			<ETHNICITY>White, Non-Hispanic</ETHNICITY>
+			<CITIZEN>Yes</CITIZEN>
+			<PCI_EXPERTISE id="1442187265">
+				<EXPERTISE/>
+			</PCI_EXPERTISE>
+			<BIO>&lt;p&gt;John Affleck-Graves was elected Executive Vice President on April 30, 2004, by the Board of Trustees.  He holds the Notre Dame Chair in Finance and previously served for three years as Vice President and Associate Provost. Affleck-Graves served on the Notre Dame faculty from 1986-2000 – the final three years as Chairman of the Department of Finance and Business Economics – and returned in 2001 after a year at Florida State University as the Patty Hill Smith Eminent Scholar in Finance. He previously taught from 1975-86 at his alma mater, the University of Cape Town, where he earned bachelor’s, master’s and doctoral degrees.&lt;/p&gt;
+The author of more than 50 refereed publications, Dr. Affleck-Graves specializes in the study of initial public offerings, valuation and asset pricing models, and shareholder value added methodology. He has served as a consultant for numerous companies, including Allied Signal, Bayer, Merck, Pharmacia &amp; Upjohn, and Donnelly Glass. He has received six outstanding teaching awards at Notre Dame — three in the regular MBA Program, two in the Executive MBA Program and one for undergraduate teaching — and two others at Cape Town.</BIO>
+		</PCI>
+		<ADMIN_PERM id="1442189312" dmd:lastModified="2012-01-07T12:01:42">
+			<SRANK>Assistant Professor</SRANK>
+			<DTM_HIRE>September</DTM_HIRE>
+			<DTD_HIRE>1</DTD_HIRE>
+			<DTY_HIRE>1986</DTY_HIRE>
+			<DTM_ATTAIN_ASSISTANT_PROF>September</DTM_ATTAIN_ASSISTANT_PROF>
+			<DTD_ATTAIN_ASSISTANT_PROF>1</DTD_ATTAIN_ASSISTANT_PROF>
+			<DTY_ATTAIN_ASSISTANT_PROF>1986</DTY_ATTAIN_ASSISTANT_PROF>
+			<SCHOOL_ASSISTANT_PROF>Notre Dame</SCHOOL_ASSISTANT_PROF>
+			<DTM_ATTAIN_ASSOCIATE_PROF>May</DTM_ATTAIN_ASSOCIATE_PROF>
+			<DTD_ATTAIN_ASSOCIATE_PROF>1</DTD_ATTAIN_ASSOCIATE_PROF>
+			<DTY_ATTAIN_ASSOCIATE_PROF>1993</DTY_ATTAIN_ASSOCIATE_PROF>
+			<SCHOOL_ASSOCIATE_PROF>Notre Dame</SCHOOL_ASSOCIATE_PROF>
+			<DTM_ATTAIN_PROF>May</DTM_ATTAIN_PROF>
+			<DTD_ATTAIN_PROF>1</DTD_ATTAIN_PROF>
+			<DTY_ATTAIN_PROF>1997</DTY_ATTAIN_PROF>
+			<SCHOOL_PROF>Notre Dame</SCHOOL_PROF>
+			<DTM_ATTAIN_SENIOR_PROF/>
+			<DTD_ATTAIN_SENIOR_PROF/>
+			<DTY_ATTAIN_SENIOR_PROF/>
+			<SCHOOL_SENIOR_PROF/>
+			<DTM_ATTAIN_ENDOW>July</DTM_ATTAIN_ENDOW>
+			<DTD_ATTAIN_ENDOW>1</DTD_ATTAIN_ENDOW>
+			<DTY_ATTAIN_ENDOW>2001</DTY_ATTAIN_ENDOW>
+			<ATTAIN_ENDOW_START>2001-07-01</ATTAIN_ENDOW_START>
+			<ATTAIN_ENDOW_END>2001-07-01</ATTAIN_ENDOW_END>
+			<SCHOOL_ENDOW>Notre Dame</SCHOOL_ENDOW>
+			<DTM_TENURE_DECISION/>
+			<DTD_TENURE_DECISION/>
+			<DTY_TENURE_DECISION/>
+			<DTM_SEPARATION/>
+			<DTD_SEPARATION/>
+			<DTY_SEPARATION/>
+		</ADMIN_PERM>
+		<ADMIN id="77706903552" dmd:lastModified="2013-09-25T13:44:34" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+			<AC_YEAR>2013-2014</AC_YEAR>
+			<YEAR_START>2013-09-01</YEAR_START>
+			<YEAR_END>2014-08-31</YEAR_END>
+			<ADMIN_DEP id="77706903553" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<ADMIN_DEP id="77706903554" dmd:primaryKey="Other">
+				<DEP>Other</DEP>
+			</ADMIN_DEP>
+			<ADMIN_DEP id="77706903555">
+				<DEP/>
+			</ADMIN_DEP>
+			<RANK>Professor</RANK>
+			<TENURE>Tenured</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Administration</NPRESP>
+			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Service</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="67521390592" dmd:lastModified="2013-02-13T09:58:50" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+			<AC_YEAR>2012-2013</AC_YEAR>
+			<YEAR_START>2012-09-01</YEAR_START>
+			<YEAR_END>2013-08-31</YEAR_END>
+			<ADMIN_DEP id="67521390593" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<ADMIN_DEP id="67521390594" dmd:primaryKey="Other">
+				<DEP>Other</DEP>
+			</ADMIN_DEP>
+			<ADMIN_DEP id="67521390595">
+				<DEP/>
+			</ADMIN_DEP>
+			<RANK>Professor</RANK>
+			<TENURE>Tenured</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Administration</NPRESP>
+			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Service</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="67521435648" dmd:lastModified="2013-02-13T09:58:58" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+			<AC_YEAR>2011-2012</AC_YEAR>
+			<YEAR_START>2011-09-01</YEAR_START>
+			<YEAR_END>2012-08-31</YEAR_END>
+			<ADMIN_DEP id="67521435649" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<ADMIN_DEP id="67521435650" dmd:primaryKey="Other">
+				<DEP>Other</DEP>
+			</ADMIN_DEP>
+			<ADMIN_DEP id="67521435651">
+				<DEP/>
+			</ADMIN_DEP>
+			<RANK>Professor</RANK>
+			<TENURE>Tenured</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Administration</NPRESP>
+			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Service</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="11921106944" dmd:lastModified="2013-02-12T08:52:00" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+			<AC_YEAR>2008-2009</AC_YEAR>
+			<YEAR_START>2008-09-01</YEAR_START>
+			<YEAR_END>2009-08-31</YEAR_END>
+			<ADMIN_DEP id="11921106945" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Professor</RANK>
+			<TENURE/>
+			<GRADUATE/>
+			<SABBATICAL/>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS/>
+			<JOINT_APPOINTMENT/>
+		</ADMIN>
+		<ADMIN id="11921104896" dmd:lastModified="2008-12-05T11:56:54" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+			<AC_YEAR>2007-2008</AC_YEAR>
+			<YEAR_START>2007-09-01</YEAR_START>
+			<YEAR_END>2008-08-31</YEAR_END>
+			<ADMIN_DEP id="11921104897" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Professor</RANK>
+			<TENURE/>
+			<GRADUATE/>
+			<SABBATICAL/>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS/>
+			<JOINT_APPOINTMENT/>
+		</ADMIN>
+		<ADMIN id="1442191360" dmd:lastModified="2007-09-17T15:17:59" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+			<AC_YEAR>2006-2007</AC_YEAR>
+			<YEAR_START>2006-09-01</YEAR_START>
+			<YEAR_END>2007-08-31</YEAR_END>
+			<ADMIN_DEP id="1442191361" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Professor</RANK>
+			<TENURE/>
+			<GRADUATE/>
+			<SABBATICAL/>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS/>
+			<JOINT_APPOINTMENT/>
+		</ADMIN>
+		<EDUCATION id="1442193408" dmd:lastModified="2007-02-13T03:31:23">
+			<DEG>Other</DEG>
+			<DEGOTHER>B.Com.</DEGOTHER>
+			<SCHOOL>University of Cape Town</SCHOOL>
+			<MAJOR>Accounting and Financial Management</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST/>
+			<YR_COMP/>
+			<COMP_START></COMP_START>
+			<COMP_END></COMP_END>
+		</EDUCATION>
+		<EDUCATION id="1442197504" dmd:lastModified="2007-02-13T03:31:23">
+			<DEG>Other</DEG>
+			<DEGOTHER>B.Sc.</DEGOTHER>
+			<SCHOOL>University of Cape Town</SCHOOL>
+			<MAJOR>Mathematical Statistics</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST/>
+			<YR_COMP/>
+			<COMP_START></COMP_START>
+			<COMP_END></COMP_END>
+		</EDUCATION>
+		<EDUCATION id="1442195456" dmd:lastModified="2007-02-13T03:31:23">
+			<DEG>Other</DEG>
+			<DEGOTHER>B.Sc.</DEGOTHER>
+			<SCHOOL>University of Cape Town</SCHOOL>
+			<MAJOR>Mathematical Statistics and Computer Science</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST/>
+			<YR_COMP/>
+			<COMP_START></COMP_START>
+			<COMP_END></COMP_END>
+		</EDUCATION>
+		<EDUCATION id="1442199552" dmd:lastModified="2007-02-13T03:31:23">
+			<DEG>Other</DEG>
+			<DEGOTHER>M.Sc.</DEGOTHER>
+			<SCHOOL>University of Cape Town</SCHOOL>
+			<MAJOR>Operations Research</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST/>
+			<YR_COMP/>
+			<COMP_START></COMP_START>
+			<COMP_END></COMP_END>
+		</EDUCATION>
+		<EDUCATION id="1442201600" dmd:lastModified="2007-02-13T03:31:23">
+			<DEG>Ph D</DEG>
+			<DEGOTHER/>
+			<SCHOOL>University of Cape Town</SCHOOL>
+			<MAJOR>Mathematical Statistics</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST/>
+			<YR_COMP/>
+			<COMP_START></COMP_START>
+			<COMP_END></COMP_END>
+		</EDUCATION>
+		<SCHTEACH id="47931015169" dmd:lastModified="2012-01-07T12:05:23" dmd:startDate="2011-09-01" dmd:endDate="2011-12-31" dmd:primaryKey="Fall|2011|MBAE|70618|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-09-01</TERM_START>
+			<TERM_END>2011-12-31</TERM_END>
+			<TITLE>Strategic Finance and Valuation</TITLE>
+			<COURSEPRE>MBAE</COURSEPRE>
+			<COURSENUM>70618</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>55</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="47931009025" dmd:lastModified="2012-01-07T12:04:59" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31" dmd:primaryKey="Fall|2010|MBAE|70618|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-09-01</TERM_START>
+			<TERM_END>2010-12-31</TERM_END>
+			<TITLE>Strategic Finance and Valuation</TITLE>
+			<COURSEPRE>MBAE</COURSEPRE>
+			<COURSENUM>70618</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>55</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="47931004929" dmd:lastModified="2012-01-07T12:04:45" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31" dmd:primaryKey="Fall|2009|MBAE|70618|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-09-01</TERM_START>
+			<TERM_END>2009-12-31</TERM_END>
+			<TITLE>Strategic Finance and Valuation</TITLE>
+			<COURSEPRE>MBAE</COURSEPRE>
+			<COURSENUM>70618</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>55</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="47931002881" dmd:lastModified="2012-01-07T12:04:22" dmd:startDate="2008-09-01" dmd:endDate="2008-12-31" dmd:primaryKey="Fall|2008|MBAE|70618|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2008</TYY_TERM>
+			<TERM_START>2008-09-01</TERM_START>
+			<TERM_END>2008-12-31</TERM_END>
+			<TITLE>Strategic Finance and Valuation</TITLE>
+			<COURSEPRE>MBAE</COURSEPRE>
+			<COURSENUM>70618</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>55</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="47930998785" dmd:lastModified="2012-01-07T12:03:59" dmd:startDate="2007-09-01" dmd:endDate="2007-12-31" dmd:primaryKey="Fall|2007|MBAE|70618|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2007</TYY_TERM>
+			<TERM_START>2007-09-01</TERM_START>
+			<TERM_END>2007-12-31</TERM_END>
+			<TITLE>Strategic Finance and Valuation</TITLE>
+			<COURSEPRE>MBAE</COURSEPRE>
+			<COURSENUM>70618</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>55</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412724225" dmd:lastModified="2009-08-28T09:31:24" dmd:startDate="2006-09-01" dmd:endDate="2006-12-31" dmd:primaryKey="Fall|2006|MBAE|70618|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2006</TYY_TERM>
+			<TERM_START>2006-09-01</TERM_START>
+			<TERM_END>2006-12-31</TERM_END>
+			<TITLE>Strategic Finance and Valuation</TITLE>
+			<COURSEPRE>MBAE</COURSEPRE>
+			<COURSENUM>70618</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>55</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412738561" dmd:lastModified="2009-08-28T09:32:04" dmd:startDate="2005-09-01" dmd:endDate="2005-12-31" dmd:primaryKey="Fall|2005|MBAE|70618|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2005</TYY_TERM>
+			<TERM_START>2005-09-01</TERM_START>
+			<TERM_END>2005-12-31</TERM_END>
+			<TITLE>Strategic Finance and Valuation</TITLE>
+			<COURSEPRE>MBAE</COURSEPRE>
+			<COURSENUM>70618</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>62</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="6412748801" dmd:lastModified="2009-09-09T15:28:33" dmd:startDate="2005-01-15" dmd:endDate="2005-04-30" dmd:primaryKey="Spring|2005|MBAE|528|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2005</TYY_TERM>
+			<TERM_START>2005-01-15</TERM_START>
+			<TERM_END>2005-04-30</TERM_END>
+			<TITLE>Strategic Financial Issues</TITLE>
+			<COURSEPRE>MBAE</COURSEPRE>
+			<COURSENUM>528</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>55</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+	</Record>
+</Data>
