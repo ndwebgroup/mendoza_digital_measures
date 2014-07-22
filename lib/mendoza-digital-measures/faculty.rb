@@ -12,12 +12,9 @@ module MendozaDigitalMeasures
 
       request = Typhoeus::Request.new(
         url,
-        userpwd: ENV['MENDOZA_DIGITAL_MEASURES_USER'] + ':' + ENV['MENDOZA_DIGITAL_MEASURES_PASS']
+        userpwd: ENV['MENDOZA_DIGITAL_MEASURES_AUTH']
       )
       request
-    end
-
-    def self.userpwd
     end
 
     def self.find_multiple_netids(*netids)
@@ -29,12 +26,13 @@ module MendozaDigitalMeasures
 
         req.on_complete do |response|
           if response.success?
-            puts "Success with #{netid}"
             responses << new(netid, response)
           elsif response.timed_out?
-            puts "Timed out on #{netid}"
+            responses << new(netid, nil)
+            log "#{netid} not found"
           else
-            puts "HTTP request failed: #{response.code}"
+            responses << new(netid, nil)
+            log "#{netid} caused an error"
           end
         end
 
@@ -59,6 +57,15 @@ module MendozaDigitalMeasures
 
     def parse_xml!
       Nokogiri.parse response.response_body
+    end
+
+    def log(msg)
+      msg = "[digital measures] #{msg}"
+      if defined? Rails
+        Rails.logger.info msg
+      else
+        puts msg
+      end
     end
   end
 end
