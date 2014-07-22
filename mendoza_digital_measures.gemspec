@@ -1,11 +1,11 @@
 $:.push File.expand_path('../lib', __FILE__)
 
 # Maintain your gem's version:
-require 'mendoza-digital-measures/version'
+require 'mendoza_digital_measures/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = 'mendoza-digital-measures'
+  s.name        = 'mendoza_digital_measures'
   s.version     = MendozaDigitalMeasures::VERSION
   s.authors     = ['Alec Hipshear']
   s.email       = ['ahipshea@nd.edu']

@@ -1,4 +1,4 @@
 # desc "Explaining what the task does"
-# task :mendoza-digital-measures do
+# task :mendoza_digital_measures do
 #   # Task goes here
 # end
