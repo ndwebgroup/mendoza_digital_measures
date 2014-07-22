@@ -59,7 +59,7 @@ module MendozaDigitalMeasures
       Nokogiri.parse response.response_body
     end
 
-    def log(msg)
+    def self.log(msg)
       msg = "[digital measures] #{msg}"
       if defined? Rails
         Rails.logger.info msg

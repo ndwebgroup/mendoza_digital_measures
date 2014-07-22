@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    mendoza-digital-measures (0.0.1)
+    mendoza_digital_measures (0.0.1)
       dotenv
       nokogiri
       rails (~> 3.2.18)
@@ -122,6 +122,6 @@ PLATFORMS
 
 DEPENDENCIES
   jquery-rails
-  mendoza-digital-measures!
+  mendoza_digital_measures!
   pry-byebug
   sqlite3
