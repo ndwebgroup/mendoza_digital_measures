@@ -1,4 +1,6 @@
 require 'typhoeus'
+require 'nokogiri'
+
 module MendozaDigitalMeasures
   class Faculty
     attr_reader :response
@@ -41,7 +43,7 @@ module MendozaDigitalMeasures
 
       hydra.run
 
-      return responses
+      responses
     end
 
     def initialize(netid, response)

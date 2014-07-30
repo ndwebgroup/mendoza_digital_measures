@@ -8,7 +8,7 @@ module MendozaDigitalMeasures
     end
 
     def self.all
-      Faculty.find_multiple_netids(usernames)
+      Faculty.find_multiple_netids(*usernames)
     end
 
     def self.usernames
@@ -31,7 +31,9 @@ module MendozaDigitalMeasures
     end
 
     def usernames
-      parsed.xpath('//Index[@indexKey="USERNAME"]/IndexEntry').map {|e| e.attributes["entryKey"].value }
+      parsed.xpath('//Index[@indexKey="USERNAME"]/IndexEntry').map { |e|
+        e.attributes["entryKey"].value
+      }
     end
   end
 end
