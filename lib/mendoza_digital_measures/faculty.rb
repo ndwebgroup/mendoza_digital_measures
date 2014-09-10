@@ -14,7 +14,7 @@ module MendozaDigitalMeasures
 
       request = Typhoeus::Request.new(
         url,
-        userpwd: ENV['MENDOZA_DIGITAL_MEASURES_AUTH']
+        userpwd: ENV['MENDOZA_DIGITAL_MEASURES_USER_AUTH']
       )
       request
     end
