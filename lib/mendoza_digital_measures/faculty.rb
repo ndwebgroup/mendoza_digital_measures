@@ -2,6 +2,21 @@ require 'typhoeus'
 require 'nokogiri'
 
 module MendozaDigitalMeasures
+  class Measure
+
+    def initialize(xml)
+      @measure = Nokogiri.parse xml
+    end
+
+    def to_hash
+      @measure
+    end
+
+    end
+
+  end
+
+
   class Faculty
     attr_reader :response
 

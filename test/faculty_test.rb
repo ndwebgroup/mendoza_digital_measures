@@ -37,5 +37,11 @@ describe MendozaDigitalMeasures::Faculty do
       affleck.response.wont_be :blank?
       failure.response.must_be :blank?
     end
+
+    it 'returns the successful requests and nil for the failed requests' do
+      ackerman = subject.find_multiple_netids 'cackerm1'
+      ackerman.response.parsed_xml.must_be_kind_of Hash
+    end
+    
   end
 end
