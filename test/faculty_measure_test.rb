@@ -63,9 +63,11 @@ describe MendozaDigitalMeasures::Measure do
     it "pulls in publications" do
       @corey[:publications].must_be_kind_of Array
       @corey[:publications].count.must_equal 16
-      @corey[:publications].first.must_equal '<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">"The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships</a>,"(with Sean  Handley,), To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
     end
 
+    it "formats publications in a very specific way" do
+      @corey[:publications].first.must_equal '<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">"The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships</a>,"(with Sean  Handley,), To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
+    end
 
     it "pulls in books" do
       @corey[:books].must_be_kind_of Array
@@ -74,7 +76,14 @@ describe MendozaDigitalMeasures::Measure do
 
     it "presentations" do
       @corey[:presentations].must_be_kind_of Array
+
+      #@corey[:presentations].each{ | p | puts ">>> #{p}"}
       @corey[:presentations].count.must_equal 29
+    end
+
+    it "formats presentations in a very specific way" do
+      @corey[:presentations].must_be_kind_of Array
+      @corey[:presentations].first.must_equal "Corey Angst, Hesburgh Lecture Series, ND Club o f Greater Seattle, Seattle, WA, \"Who’s Watching Me?  What \“Big Data\” Means to All of Us\" (November 12, 2014)."
     end
 
 
