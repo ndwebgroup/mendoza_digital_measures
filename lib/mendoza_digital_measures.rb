@@ -1,4 +1,5 @@
 require 'mendoza_digital_measures/faculty'
+require 'mendoza_digital_measures/measure'
 require 'mendoza_digital_measures/faculty_index'
 
 require 'dotenv'
