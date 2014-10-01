@@ -9,7 +9,6 @@ describe MendozaDigitalMeasures::Measure do
   let(:jaffleck_response) { Typhoeus::Response.new(code: 200, body: fixture_xml('jaffleck')) }
   let(:failed_response) { Typhoeus::Response.new(code: 404, body: '')  }
 
-
   describe "with C Ackerman data" do
     before(:each) do
       @faculty = MendozaDigitalMeasures::Measure.new(fixture_xml('cackerm1'))
@@ -21,9 +20,6 @@ describe MendozaDigitalMeasures::Measure do
     end
 
     it 'pulls in personal information' do
-
-
-
       @faculty.first_name.must_be_kind_of String
       @faculty.first_name.must_equal "Carl"
       @faculty.last_name.must_equal "Ackermann"
@@ -31,9 +27,7 @@ describe MendozaDigitalMeasures::Measure do
       @faculty.email.must_equal "Ackermann.1@nd.edu"
       @faculty.title.must_equal "Professional Specialist"
       @faculty.endowed_position.must_equal "Nolan Professorship for Excellence in Undergraduate Instruction"
-
     end
-=begin
 
     it "pulls in an array of expertise as area of expertise" do
       @faculty.areas_of_expertise.must_be_kind_of Array
@@ -57,9 +51,9 @@ describe MendozaDigitalMeasures::Measure do
       #@faculty.teaching].count.must_equal 1
       @faculty.teaching.first.must_equal "Corporate Financial Management"
     end
-=end
+
   end
-=begin
+
   describe "with Corey Angst Data" do
     before(:each) do
       @corey = MendozaDigitalMeasures::Measure.new(fixture_xml('cangst'))
@@ -72,7 +66,8 @@ describe MendozaDigitalMeasures::Measure do
     end
 
     it "formats publications in a very specific way" do
-      @corey.publications.first.must_equal '<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">"The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships</a>,"(with Sean  Handley,), To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
+      #add "(with Sean  Handley,), after title link
+      @corey.publications.first.must_equal '<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">"The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships"</a>, To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
     end
 
     it "pulls in books" do
@@ -94,5 +89,4 @@ describe MendozaDigitalMeasures::Measure do
 
   end
 
-=end
 end

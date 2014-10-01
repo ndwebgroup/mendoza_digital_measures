@@ -19,6 +19,7 @@ module MendozaDigitalMeasures
       :areas_of_expertise,
       :education,
       :publications,
+      :books,
       :presentations,
       :teaching
     )
@@ -81,7 +82,10 @@ module MendozaDigitalMeasures
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if n.xpath("CONTYPE").first.text.strip == "Journal Articles, Refereed"
-          items << "#{n.xpath("TITLE").first.text.strip}"
+          link = "<a href=\"#{n.xpath("WEB_ADDRESS").first.text.strip}\">\"#{n.xpath("TITLE").first.text.strip}\"</a>,"
+          #with = "()"
+          where = "To appear in <i>#{n.xpath("PUBLISHER").first.text.strip}</i>, #{n.xpath("VOLUME").first.text.strip}, #{n.xpath("DTY_PUB").first.text.strip}."
+          items << [link, where].join(" ")
         end
       end
       return items
@@ -100,7 +104,7 @@ module MendozaDigitalMeasures
     def find_presentations(measure)
       items = []
       measure.xpath("//PRESENT").each do | n |
-        items << "#{n.xpath("PRESENT_AUTH/FNAME").first.text.strip} #{n.xpath("PRESENT_AUTH/LNAME").first.text.strip}, #{n.xpath("NAME").first.text.strip}, #{n.xpath("ORG").first.text.strip}, #{n.xpath("LOCATION").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\" (#{n.xpath("DTM_DATE").first.text.strip} #{n.xpath("DTD_DATE").first.text.strip} #{n.xpath("DTY_DATE").first.text.strip})."
+        items << "#{n.xpath("PRESENT_AUTH/FNAME").first.text.strip} #{n.xpath("PRESENT_AUTH/LNAME").first.text.strip}, #{n.xpath("NAME").first.text.strip}, #{n.xpath("ORG").first.text.strip}, #{n.xpath("LOCATION").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\" (#{n.xpath("DTM_DATE").first.text.strip} #{n.xpath("DTD_DATE").first.text.strip}, #{n.xpath("DTY_DATE").first.text.strip})."
       end
       return items
     end
