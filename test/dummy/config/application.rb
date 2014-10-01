@@ -3,7 +3,7 @@ require File.expand_path('../boot', __FILE__)
 require 'rails/all'
 
 Bundler.require(*Rails.groups)
-require "mendoza_digital_measures"
+require "digital_measures"
 
 module Dummy
   class Application < Rails::Application
@@ -56,4 +56,3 @@ module Dummy
     config.assets.version = '1.0'
   end
 end
-

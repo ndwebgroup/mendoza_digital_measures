@@ -1,15 +1,59 @@
 require 'typhoeus'
 require 'nokogiri'
 
-module MendozaDigitalMeasures
+module DigitalMeasures
   class Faculty
-    attr_reader :response
+
+    attr_reader(
+      :first_name,
+      :last_name,
+      :middle_name,
+      :email,
+      :veteran_status,
+      :website,
+      :bio,
+      :room_number,
+      :phone,
+      :title,
+      :endowed_position,
+      :areas_of_expertise,
+      :education,
+      :publications,
+      :books,
+      :presentations,
+      :teaching
+    )
+
+    def initialize(xml)
+      measure = Nokogiri.parse xml
+      measure.remove_namespaces!
+
+      @first_name = measure.xpath("//PCI/FNAME").first.text.strip
+
+      @last_name = measure.xpath("//PCI/LNAME").first.text.strip
+      @middle_name = measure.xpath("//PCI/MNAME").first.text.strip
+      @email = measure.xpath("//PCI/EMAIL").first.text.strip
+      @website = measure.xpath("//PCI/WEBSITE").first.text.strip
+      @bio = measure.xpath("//PCI/BIO").first.text.strip
+      @room_number = measure.xpath("//PCI/ROOMNUM").first.text.strip
+      @phone = [measure.xpath("//PCI/OPHONE1").first.text.strip, measure.xpath("//PCI/OPHONE2").first.text.strip, measure.xpath("//PCI/OPHONE3").first.text.strip ].join("-")
+      @title =  measure.xpath("//ADMIN/RANK").first.text.strip
+      @endowed_position = measure.xpath("//PCI/ENDPOS").first.text.strip
+
+      @areas_of_expertise = find_areas_of_expertise(measure)
+      @education = find_education(measure)
+      @publications = find_publications(measure)
+      @books = find_books(measure)
+      @presentations = find_presentations(measure)
+      @teaching = find_teaching(measure)
+    end
+
 
     def self.url_template
       "https://www.digitalmeasures.com/login/service/v4/SchemaData/INDIVIDUAL-ACTIVITIES-Business/USERNAME:%s"
     end
 
-    def self.request_for_netid(netid)
+    def self.find_netid(netid)
       url = self.url_template % netid
 
       request = Typhoeus::Request.new(
@@ -19,37 +63,22 @@ module MendozaDigitalMeasures
       request
     end
 
-
-    def self.get_measures_for(*netids)
-      puts "\n >> finding measures for #{netids}"
-      results = self.find_multiple_netids(netids.to_s)
-      measures = []
-
-      results.each do | result |
-        measures << MendozaDigitalMeasures::Measure.new(result.response.response_body)
-      end
-
-      measures
-
-    end
-
-
-    def self.find_multiple_netids(*netids)
+    def self.find_netids(*netids)
       puts "\n >> finding multiple netids for #{netids}"
       hydra = Typhoeus::Hydra.hydra
       responses = []
 
       netids.each do |netid|
-        req = request_for_netid(netid)
+        req = find_netid(netid)
 
         req.on_complete do |response|
           if response.success?
-            responses << new(netid, response)
+            responses << new(response.response_body)
           elsif response.timed_out?
-            responses << new(netid, nil)
+            #responses << new(nil)
             log "#{netid} not found"
           else
-            responses << new(netid, nil)
+            #responses << new(nil)
             log "#{netid} caused an error"
           end
         end
@@ -62,19 +91,64 @@ module MendozaDigitalMeasures
       responses
     end
 
-    def initialize(netid, response)
-      @netid = netid
-      @response = response
+
+  private
+
+    def find_areas_of_expertise(measure)
+      expertisei = []
+        measure.xpath("//PCI/PCI_EXPERTISE/EXPERTISE").each do | e |
+          expertisei << e.text
+        end
+      return expertisei
     end
 
-    def parsed_xml
-      @parsed_xml ||= parse_xml!
+    def find_education(measure)
+      educations = []
+      measure.xpath("//EDUCATION").each do | e |
+        educations << "#{e.xpath("DEG").first.text.strip}, #{e.xpath("SCHOOL").first.text.strip}"
+      end
+      return educations
     end
 
-    private
 
-    def parse_xml!
-      Nokogiri.parse response.response_body
+    def find_teaching(measure)
+      teachings = []
+      measure.xpath("//SCHTEACH").each do | e |
+        teachings << "#{e.xpath("TITLE").first.text.strip}"
+      end
+      teachings.uniq!
+      return teachings
+    end
+
+    def find_publications(measure)
+      items = []
+      measure.xpath("//INTELLCONT").each do | n |
+        if n.xpath("CONTYPE").first.text.strip == "Journal Articles, Refereed"
+          link = "<a href=\"#{n.xpath("WEB_ADDRESS").first.text.strip}\">\"#{n.xpath("TITLE").first.text.strip}\"</a>,"
+          #with = "()"
+          where = "To appear in <i>#{n.xpath("PUBLISHER").first.text.strip}</i>, #{n.xpath("VOLUME").first.text.strip}, #{n.xpath("DTY_PUB").first.text.strip}."
+          items << [link, where].join(" ")
+        end
+      end
+      return items
+    end
+
+    def find_books(measure)
+      items = []
+      measure.xpath("//INTELLCONT").each do | n |
+        if n.xpath("CONTYPE").first.text.strip == "Book, Scholarly-Contributed Chapter"
+          items << "#{n.xpath("TITLE").first.text.strip}"
+        end
+      end
+      return items
+    end
+
+    def find_presentations(measure)
+      items = []
+      measure.xpath("//PRESENT").each do | n |
+        items << "#{n.xpath("PRESENT_AUTH/FNAME").first.text.strip} #{n.xpath("PRESENT_AUTH/LNAME").first.text.strip}, #{n.xpath("NAME").first.text.strip}, #{n.xpath("ORG").first.text.strip}, #{n.xpath("LOCATION").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\" (#{n.xpath("DTM_DATE").first.text.strip} #{n.xpath("DTD_DATE").first.text.strip}, #{n.xpath("DTY_DATE").first.text.strip})."
+      end
+      return items
     end
 
     def self.log(msg)
@@ -86,4 +160,5 @@ module MendozaDigitalMeasures
       end
     end
   end
+
 end

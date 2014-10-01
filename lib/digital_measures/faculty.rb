@@ -1,8 +1,8 @@
 require 'typhoeus'
 require 'nokogiri'
 
-module MendozaDigitalMeasures
-  class Measure
+module DigitalMeasures
+  class Faculty
 
     attr_reader(
       :first_name,

@@ -1,10 +1,10 @@
 require 'typhoeus'
 require 'nokogiri'
 
-module MendozaDigitalMeasures
-  class FacultyIndex
+module DigitalMeasures
+  class Index
     def url_template
-      'https://www.digitalmeasures.com/login/service/v4/SchemaIndex/INDIVIDUAL-ACTIVITIES-Business/' 
+      'https://www.digitalmeasures.com/login/service/v4/SchemaIndex/INDIVIDUAL-ACTIVITIES-Business/'
     end
 
     def self.all
