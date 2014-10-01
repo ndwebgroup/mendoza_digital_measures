@@ -37,8 +37,24 @@ describe MendozaDigitalMeasures::Faculty do
       affleck.response.wont_be :blank?
       failure.response.must_be :blank?
     end
+  end
+
+  describe 'Measure Objects with stubbed requests' do
+    before(:each) do
+      Typhoeus.stub(/cackerm1/).and_return(ackerman_response)
+      Typhoeus.stub(/jaffleck/).and_return(jaffleck_response)
+      Typhoeus.stub(/.*/).and_return(failed_response)
+    end
 
 
+=begin
+    it 'returns an array of Measure objects' do
+      measures = subject.get_measures_for 'cackerm1', 'jaffleck'
+      measures.must_be_kind_of Array
 
+      measures.count.must_equal 2
+      measures.first.must_be_kink_of MendozaDigitalMeasures::Measure.new
+    end
+=end
   end
 end

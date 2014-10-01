@@ -9,6 +9,27 @@ describe MendozaDigitalMeasures::Measure do
   let(:jaffleck_response) { Typhoeus::Response.new(code: 200, body: fixture_xml('jaffleck')) }
   let(:failed_response) { Typhoeus::Response.new(code: 404, body: '')  }
 
+  describe "class method finders" do
+    let(:subject){MendozaDigitalMeasures::Measure}
+
+    it 'creates multiple requests for multiple users' do
+      ackerman, affleck = subject.find_netids 'cackerm1', 'jaffleck'
+      ackerman.must_be_kind_of MendozaDigitalMeasures::Measure
+      affleck.must_be_kind_of MendozaDigitalMeasures::Measure
+    end
+
+
+    it 'returns the successful requests and leaves off  failed requests' do
+      ackerman, affleck, failure = subject.find_netids 'cackerm1', 'jaffleck', 'ahipshea'
+      ackerman.wont_be :nil?
+      affleck.wont_be :nil?
+      failure.must_be :nil?
+    end
+
+  end
+
+
+
   describe "with C Ackerman data" do
     before(:each) do
       @faculty = MendozaDigitalMeasures::Measure.new(fixture_xml('cackerm1'))

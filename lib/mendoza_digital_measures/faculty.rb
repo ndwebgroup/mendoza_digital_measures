@@ -19,7 +19,23 @@ module MendozaDigitalMeasures
       request
     end
 
+
+    def self.get_measures_for(*netids)
+      puts "\n >> finding measures for #{netids}"
+      results = self.find_multiple_netids(netids.to_s)
+      measures = []
+
+      results.each do | result |
+        measures << MendozaDigitalMeasures::Measure.new(result.response.response_body)
+      end
+
+      measures
+
+    end
+
+
     def self.find_multiple_netids(*netids)
+      puts "\n >> finding multiple netids for #{netids}"
       hydra = Typhoeus::Hydra.hydra
       responses = []
 
