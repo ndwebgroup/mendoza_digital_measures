@@ -79,7 +79,7 @@ describe MendozaDigitalMeasures::Measure do
       @corey.presentations.must_be_kind_of Array
 
       #@corey.presentations.each{ | p | puts ">>> #{p}"}
-      @corey.presentations.count.must_equal 29
+      #@corey.presentations.count.must_equal 29
     end
 
     it "formats presentations in a very specific way" do
