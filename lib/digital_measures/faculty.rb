@@ -64,7 +64,6 @@ module DigitalMeasures
     end
 
     def self.find_netids(*netids)
-      puts "\n >> finding multiple netids for #{netids}"
       hydra = Typhoeus::Hydra.hydra
       responses = []
 

@@ -1,37 +1,34 @@
 require 'typhoeus'
 require 'nokogiri'
+require_relative 'faculty'
 
 module DigitalMeasures
   class Index
-    def url_template
+
+    def self.url_template
       'https://www.digitalmeasures.com/login/service/v4/SchemaIndex/INDIVIDUAL-ACTIVITIES-Business/'
     end
 
     def self.all
-      Faculty.find_multiple_netids(*usernames)
-    end
-
-    def self.usernames
-      new.usernames
+      url = self.url_template
+      request = Typhoeus::Request.new(
+        url,
+        userpwd: ENV['MENDOZA_DIGITAL_MEASURES_USER_AUTH']
+      )
+      response = request.run
+      doc = Nokogiri.parse(response.response_body)
+      netid_list = self.usernames(doc)
     end
 
     def initialize
       @response = Typhoeus.get(
-        url_template,
+        self.url_template,
         userpwd: ENV['MENDOZA_DIGITAL_MEASURES_USER_AUTH']
       )
     end
 
-    def response
-      @response
-    end
-
-    def parsed
-      @parsed ||= Nokogiri.parse(response.response_body)
-    end
-
-    def usernames
-      parsed.xpath('//Index[@indexKey="USERNAME"]/IndexEntry').map { |e|
+    def self.usernames(xml)
+      xml.xpath('//Index[@indexKey="USERNAME"]/IndexEntry').map { |e|
         e.attributes["entryKey"].value
       }
     end
