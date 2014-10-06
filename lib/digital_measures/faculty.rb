@@ -78,13 +78,13 @@ module DigitalMeasures
             begin
               responses << new(response.response_body)
             rescue => e
-              log "could not craete dm record"
+              log "could not create dm record for netid #{netid}"
               log e
               end
 
           elsif response.timed_out?
             #responses << new(nil)
-            log "#{netid} not found"
+            log "#{netid} not found due to timeout"
           else
             #responses << new(nil)
             log "#{netid} caused an error"
