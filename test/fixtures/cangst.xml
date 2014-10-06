@@ -33,9 +33,9 @@
 			<PCI_EXPERTISE id="5126838273">
 				<EXPERTISE>Information Systems adoption, Health IT</EXPERTISE>
 			</PCI_EXPERTISE>
-			<BIO>Professor Angst conducts research on the transformational effect of IT, technology usage, and IT value - particularly in the healthcare industry. In recent papers, he has investigated the diffusion of disruptive healthcare innovations and the relationship to financial value and quality of care. 	
- 	
-Angst teaches undergraduate courses in project management and problem solving and graduate courses related to the strategic use of IT.  He received his Ph.D. from the Smith School of Business, University of Maryland; his M.B.A. from the Alfred Lerner College of Business &amp; Economics, University of Delaware; and his B.S. in Mechanical Engineering from Western Michigan University.  From 2005-2007, Angst was the Associate Director of the Center for Health Information and Decision Systems at the University of Maryland.  
+			<BIO>Professor Angst conducts research on the transformational effect of IT, technology usage, and IT value - particularly in the healthcare industry. In recent papers, he has investigated the diffusion of disruptive healthcare innovations and the relationship to financial value and quality of care.
+
+Angst teaches undergraduate courses in project management and problem solving and graduate courses related to the strategic use of IT.  He received his Ph.D. from the Smith School of Business, University of Maryland; his M.B.A. from the Alfred Lerner College of Business &amp; Economics, University of Delaware; and his B.S. in Mechanical Engineering from Western Michigan University.  From 2005-2007, Angst was the Associate Director of the Center for Health Information and Decision Systems at the University of Maryland.
 
 Prior to pursuing his graduate education, Angst worked for 10 years in both technical and strategic roles, most recently as a consultant with the DuPont Company.  Angst has conducted research and consulted in the healthcare IT domain for many large multinational companies and for the federal government.</BIO>
 		</PCI>
@@ -1571,7 +1571,7 @@ With 15,000 article abstracts published in these journals annually, receiving a 
 				<ROLE>Co-Principal</ROLE>
 			</CONGRANT_INVEST>
 			<AMOUNT>152267.78</AMOUNT>
-			<ABSTRACT>The maximum benefits of prescription drugs are not currently achieved due to limitations in our system of prescribing.  Electronic prescribing (e-prescribing) has been advocated as a tool for improving prescribing.  With the implementation of the Medicare Modernization Act, Congress has set goals for the uptake of e-prescribing across the country.  For e-prescribing to be effective, however, the informational transactions that allow each prescription to be completed must be transmitted in a uniform and reproducible way, and the systems making these transmissions must be implemented in a way that is accessible to the many and diverse medical practice settings throughout the country.  
+			<ABSTRACT>The maximum benefits of prescription drugs are not currently achieved due to limitations in our system of prescribing.  Electronic prescribing (e-prescribing) has been advocated as a tool for improving prescribing.  With the implementation of the Medicare Modernization Act, Congress has set goals for the uptake of e-prescribing across the country.  For e-prescribing to be effective, however, the informational transactions that allow each prescription to be completed must be transmitted in a uniform and reproducible way, and the systems making these transmissions must be implemented in a way that is accessible to the many and diverse medical practice settings throughout the country.
 
 UMD's portion of this research project involves the examination of whether the implementation of standards and adoption of e-prescribing improve processes of prescribing for physicians and patients.  Members of the research team with expertise in the study of information technology uptake and efficiency will conduct direct observation studies of the impact of e-prescribing on office workflow while investigators experienced in survey research will conduct large scale surveys to determine the acceptability of this e-prescribing tool in the outpatient setting.  Whether e-prescribing, when implemented in accordance with the initial standards, is acceptable to physicians and improves prescribing processes will provide critical data on whether both the standards and e-prescribing can be successfully expanded nationwide. </ABSTRACT>
 			<STATUS>Funded</STATUS>
@@ -2120,6 +2120,7 @@ UMD's portion of this research project involves the examination of whether the i
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
+
 		<INTELLCONT id="91010762752" dmd:lastModified="2014-06-27T14:14:26" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
 			<PUBLISHER>Strategic Management Journal</PUBLISHER>
 			<TITLE>The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships</TITLE>
@@ -2148,7 +2149,7 @@ UMD's portion of this research project involves the examination of whether the i
 			</INTELLCONT_AUTH>
 			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS>http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf</WEB_ADDRESS>
-			<ABSTRACT>To address concerns of opportunism, outsourcing firms are encouraged to deploy contractual and relational governance. The individual and collective effects of these mechanisms have been previously examined but not in specific contexts. This study examines the effects of contractual and relational governance on provider 
+			<ABSTRACT>To address concerns of opportunism, outsourcing firms are encouraged to deploy contractual and relational governance. The individual and collective effects of these mechanisms have been previously examined but not in specific contexts. This study examines the effects of contractual and relational governance on provider
 opportunism, incorporating the moderating influence of a ‘shift parameter’ – national culture. Our results reveal that contractual governance is more effective in individualistic and low uncertainty avoidance cultures. Relational governance is more effective in collectivist and high uncertainty avoidance societies. The individualism-collectivism dimension also moderates the joint effect of these mechanisms. While the mechanisms are generally complementary in mitigating opportunism, a singular focus on either contractual or relational can be just as effective under situations of high individualism and collectivism, respectively.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
@@ -2577,9 +2578,9 @@ inﬂuence. Theoretical and pragmatic implications of the ﬁndings are discusse
 			<STATUS>Published</STATUS>
 			<WEB_ADDRESS>http://www3.nd.edu/~cangst/CoreyAngst_FacultyWebsite_files/AgarwalJAMIAeRx2010.pdf</WEB_ADDRESS>
 			<ABSTRACT>Objective
-Physician practices may adopt and use electronic prescribing (eRx) in response to mandates, incentives, and perceived value of the technology.  Yet, for the most part, diffusion has been limited and geographically confined, and even when adopted, use of eRx in many practices has been low.  One explanation for this phenomenon is that decision-makers in the practices possess different technological viewpoints (frames) related to eRx and these frames have formed the basis for the adoption decision, expectations about the technology, and patterns of use.  In this study we examined eRx technological frames. 
+Physician practices may adopt and use electronic prescribing (eRx) in response to mandates, incentives, and perceived value of the technology.  Yet, for the most part, diffusion has been limited and geographically confined, and even when adopted, use of eRx in many practices has been low.  One explanation for this phenomenon is that decision-makers in the practices possess different technological viewpoints (frames) related to eRx and these frames have formed the basis for the adoption decision, expectations about the technology, and patterns of use.  In this study we examined eRx technological frames.
 Design
-Focus groups, direct observation, and semi-structured interviews were conducted with physicians, practice managers, nurses, and other medical staff.  
+Focus groups, direct observation, and semi-structured interviews were conducted with physicians, practice managers, nurses, and other medical staff.
 Measurements
 Focus groups were observed, taped, transcribed, and analyzed to reveal themes.  These themes guided the observational visits and subsequent interviews.  A triangulation process was used to confirm our findings.
 Results
@@ -3284,7 +3285,7 @@ Frames provide a unique perspective within which to explore the adoption and use
 The Chronicle, College Tech Goes Mobile http://chronicle.com/article/College-Tech-Goes-Mobile/128614/
 
 Mens Health
-Interview 
+Interview
 
 FastCompany
 http://www.fastcompany.com/1686755/ipads-for-all-5-technologically-decked-out-schools-you-wish-you-went-to
@@ -3307,7 +3308,7 @@ http://www.padgadget.com/2010/08/28/notre-dame-students-participate-in-ereader-s
 TUAW - The Unauthorized Apple Weblog
 http://www.tuaw.com/2010/08/31/notre-dame-embarks-on-a-paperless-course-starting-with-ipads
 
-America Magazine - 
+America Magazine -
 http://www.americamagazine.org/blog/entry.cfm?blog_id=2&amp;entry_id=3243
 
 ND Today magazine
@@ -3346,7 +3347,7 @@ http://www.dixiesunlink.com/news/technology-sparks-controversy-in-classrooms-1.1
 		</INTELLCONT_OTHER>
 		<INTELLCONT_OTHER id="61499826176" dmd:lastModified="2012-11-08T07:34:04">
 			<TITLE>"The Rotten Luck of the Irish" - WSJ</TITLE>
-			<DESC>http://online.wsj.com/article/SB10001424127887324439804578105091045164924.html?mod=googlenews_wsj 
+			<DESC>http://online.wsj.com/article/SB10001424127887324439804578105091045164924.html?mod=googlenews_wsj
 Wall Street Journal
 By RACHEL BACHMAN Notre Dame is in the midst of a magical season, sporting a 9-0 ... Corey Angst. This copy is for your personal, non-commercial use only.
 </DESC>		</INTELLCONT_OTHER>		<INTELLCONT_OTHER id="32161214465" dmd:lastModified="2011-03-17T08:34:11">			<TITLE>1st Empirical Analysis of iPad in Classroom</TITLE>
@@ -6295,7 +6296,7 @@ June 22, 2011</DESC>
 			<TITLE>Harvard Business School Case Seminar</TITLE>
 			<ORG>Harvard Business School</ORG>
 			<CITYSTATE>Chicago, IL</CITYSTATE>
-			<DESC>Training in the case-method of teaching. 
+			<DESC>Training in the case-method of teaching.
 "Art &amp; Craft of Discussion Leadership Part I"</DESC>
 			<DTM_START>May</DTM_START>
 			<DTD_START>16</DTD_START>

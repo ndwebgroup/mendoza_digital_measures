@@ -23,19 +23,24 @@ describe DigitalMeasures::Faculty do
   describe "CLASS method finders" do
 
     it 'creates multiple requests for multiple users' do
-      ackerman, affleck = subject.find_netids 'cackerm1', 'jaffleck'
+      ackerman, affleck = subject.find_netids ['cackerm1', 'jaffleck']
       ackerman.must_be_kind_of DigitalMeasures::Faculty
       affleck.must_be_kind_of DigitalMeasures::Faculty
     end
 
 
     it 'returns the successful requests and leaves off  failed requests' do
-      ackerman, affleck, failure = subject.find_netids 'cackerm1', 'jaffleck', 'ahipshea'
+      ackerman, affleck, failure = subject.find_netids ['cackerm1', 'jaffleck', 'ahipshea']
       ackerman.wont_be :nil?
       affleck.wont_be :nil?
       failure.must_be :nil?
     end
 
+    it "returns an array of dm members" do
+      members = subject.find_netids ['cackerm1', 'jaffleck', 'ahipshea']
+      members.must_be_kind_of Array
+      members.count.must_equal 2
+    end
   end
 
 
@@ -74,13 +79,18 @@ describe DigitalMeasures::Faculty do
       @faculty.education.first.must_equal "Ph D, University of North Carolina at Chapel Hill"
     end
 
+    it "returns 'degother' if deg eq 'Other' " do
+      @faculty.education.last.must_equal "PH Test, Amherst College"
+    end
 
     it "pulls in an array of teaching" do
       @faculty.teaching.must_be_kind_of Array
-
-      #todo why does this return four but only show one on site
-      #@faculty.teaching].count.must_equal 1
       @faculty.teaching.first.must_equal "Corporate Financial Management"
+    end
+
+
+    it "excludes teaching records older than 3 years" do
+      #pending "needs test"
     end
 
   end
@@ -96,6 +106,10 @@ describe DigitalMeasures::Faculty do
       @corey.publications.count.must_equal 16
     end
 
+    it "skips publications that are not marked for web" do
+
+    end
+
     it "formats publications in a very specific way" do
       #add "(with Sean  Handley,), after title link
       @corey.publications.first.must_equal '<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">"The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships"</a>, To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
@@ -108,14 +122,22 @@ describe DigitalMeasures::Faculty do
 
     it "presentations" do
       @corey.presentations.must_be_kind_of Array
-
-      #@corey.presentations.each{ | p | puts ">>> #{p}"}
-      #@corey.presentations.count.must_equal 29
+      @corey.presentations.count.must_equal 29
     end
 
     it "formats presentations in a very specific way" do
       @corey.presentations.must_be_kind_of Array
       @corey.presentations.first.must_equal "Corey Angst, Hesburgh Lecture Series, ND Club o f Greater Seattle, Seattle, WA, \"Who’s Watching Me?  What \“Big Data\” Means to All of Us\" (November 12, 2014)."
+    end
+
+    it "returns working papers" do
+      @corey.working_papers.must_be_kind_of Array
+      @corey.working_papers.count.must_equal 2
+    end
+
+    it "formats papers in a particular way" do
+      @corey.working_papers.first.must_equal "Ritu Agarwal, \"Gestational Use and Its Effect on Early System Use and Usage Growth Trajectories: A Longitudinal Analysis Investigating Change in Technology Use Over Time.\""
+      @corey.working_papers.last.must_equal "Massimo Magni, \"<a href=\"http://ssrn.com/abstract=1273151\">Users’ Intention to Explore: A creativity-based perspective</a>.\""
     end
 
   end

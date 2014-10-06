@@ -482,8 +482,8 @@ Ackermann is active in several University service projects and mentoring program
 			<COMP_END>2000-12-31</COMP_END>
 		</EDUCATION>
 		<EDUCATION id="1460125696" dmd:lastModified="2008-12-21T05:09:11" dmd:startDate="1984-01-01" dmd:endDate="1984-12-31">
-			<DEG>BA</DEG>
-			<DEGOTHER/>
+			<DEG>Other</DEG>
+			<DEGOTHER>PH Test</DEGOTHER>
 			<SCHOOL>Amherst College</SCHOOL>
 			<MAJOR>Economics</MAJOR>
 			<SUPPAREA/>

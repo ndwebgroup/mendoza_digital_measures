@@ -21,7 +21,8 @@ module DigitalMeasures
       :publications,
       :books,
       :presentations,
-      :teaching
+      :teaching,
+      :working_papers
     )
 
     def initialize(xml)
@@ -46,6 +47,7 @@ module DigitalMeasures
       @books = find_books(measure)
       @presentations = find_presentations(measure)
       @teaching = find_teaching(measure)
+      @working_papers = find_working_papers(measure)
     end
 
 
@@ -63,22 +65,32 @@ module DigitalMeasures
       request
     end
 
-    def self.find_netids(*netids)
+    def self.find_netids(netids)
+      log     = Logger.new("dm.log", 5, 10*1024)
+      log.info "looking up dm info! for #{netids}"
       hydra = Typhoeus::Hydra.hydra
       responses = []
 
       netids.each do |netid|
+        log.info "searching user #{netid}"
         req = find_netid(netid)
 
         req.on_complete do |response|
           if response.success?
-            responses << new(response.response_body)
+            log.info "found dm user"
+            begin
+              responses << new(response.response_body)
+            rescue => e
+              log.error "could not craete dm record"
+              log.error e
+              end
+
           elsif response.timed_out?
             #responses << new(nil)
-            log "#{netid} not found"
+            log.error "#{netid} not found"
           else
             #responses << new(nil)
-            log "#{netid} caused an error"
+            log.error "#{netid} caused an error"
           end
         end
 
@@ -104,28 +116,43 @@ module DigitalMeasures
     def find_education(measure)
       educations = []
       measure.xpath("//EDUCATION").each do | e |
-        educations << "#{e.xpath("DEG").first.text.strip}, #{e.xpath("SCHOOL").first.text.strip}"
+        if e.xpath("DEG").first.text.strip == "Other"
+          degree = e.xpath("DEGOTHER").first.text.strip
+        else
+          degree = e.xpath("DEG").first.text.strip
+        end
+        educations << "#{degree}, #{e.xpath("SCHOOL").first.text.strip}"
       end
       return educations
     end
 
 
     def find_teaching(measure)
+      #limit to 3 years
       teachings = []
       measure.xpath("//SCHTEACH").each do | e |
-        teachings << "#{e.xpath("TITLE").first.text.strip}"
+        unless e.xpath("WEBPAGE_INCLUDE").first.text.strip == "No"  && e.xpath("TYY_TERM").first.text.strip.to_i == (DateTime.now.year - 3).to_i
+          teachings << "#{e.xpath("TITLE").first.text.strip}"
+        end
       end
       teachings.uniq!
       return teachings
     end
 
     def find_publications(measure)
+      #marked for web
+      contypes = ["Journal Articles, Refereed", "Journal Articles", "Non-Refereed", "Other"]
       items = []
       measure.xpath("//INTELLCONT").each do | n |
-        if n.xpath("CONTYPE").first.text.strip == "Journal Articles, Refereed"
+        if contypes.include? n.xpath("CONTYPE").first.text.strip
           link = "<a href=\"#{n.xpath("WEB_ADDRESS").first.text.strip}\">\"#{n.xpath("TITLE").first.text.strip}\"</a>,"
-          #with = "()"
-          where = "To appear in <i>#{n.xpath("PUBLISHER").first.text.strip}</i>, #{n.xpath("VOLUME").first.text.strip}, #{n.xpath("DTY_PUB").first.text.strip}."
+          #<xsl:if test="string-length(t:PAGENUM) > 0">
+          if n.xpath("STATUS").first.text.strip == "Accepted"
+            where_preface = "To appear in "
+          else
+            where_preface = ""
+          end
+          where = "#{where_preface}<i>#{n.xpath("PUBLISHER").first.text.strip}</i>, #{n.xpath("VOLUME").first.text.strip}, #{n.xpath("DTY_PUB").first.text.strip}."
           items << [link, where].join(" ")
         end
       end
@@ -133,9 +160,11 @@ module DigitalMeasures
     end
 
     def find_books(measure)
+
+      contypes = ["Book, Scholarly" "Book, Textbook-New" ,"Book, Textbook-Revised", "Book, Referred Article",  "Book, Review", "Book, Scholarly-Contributed Chapter"]
       items = []
       measure.xpath("//INTELLCONT").each do | n |
-        if n.xpath("CONTYPE").first.text.strip == "Book, Scholarly-Contributed Chapter"
+        if contypes.include?(n.xpath("CONTYPE").first.text.strip) && n.xpath("WEBPAGE_INCLUDE").first.text.strip != "No"
           items << "#{n.xpath("TITLE").first.text.strip}"
         end
       end
@@ -143,20 +172,48 @@ module DigitalMeasures
     end
 
     def find_presentations(measure)
+      #PRESENT[t:WEBPAGE_INCLUDE='Yes']) > 0">
       items = []
       measure.xpath("//PRESENT").each do | n |
-        items << "#{n.xpath("PRESENT_AUTH/FNAME").first.text.strip} #{n.xpath("PRESENT_AUTH/LNAME").first.text.strip}, #{n.xpath("NAME").first.text.strip}, #{n.xpath("ORG").first.text.strip}, #{n.xpath("LOCATION").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\" (#{n.xpath("DTM_DATE").first.text.strip} #{n.xpath("DTD_DATE").first.text.strip}, #{n.xpath("DTY_DATE").first.text.strip})."
+        if n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
+          items << "#{n.xpath("PRESENT_AUTH/FNAME").first.text.strip} #{n.xpath("PRESENT_AUTH/LNAME").first.text.strip}, #{n.xpath("NAME").first.text.strip}, #{n.xpath("ORG").first.text.strip}, #{n.xpath("LOCATION").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\" (#{n.xpath("DTM_DATE").first.text.strip} #{n.xpath("DTD_DATE").first.text.strip}, #{n.xpath("DTY_DATE").first.text.strip})."
+        end
       end
       return items
     end
 
-    def self.log(msg)
+    def find_working_papers(measure)
+      items = []
+      measure.xpath("//RESPROG").each do | n |
+        if n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
+          #puts n.inspect
+          texties = []
+          n.xpath("RESPROG_COLL").each do | c |
+            texties << c.xpath("NAME").first.text.strip
+          end
+
+          #puts n.xpath("TITLE").first
+          #puts n.xpath("URL").first
+
+          unless n.xpath("URL").text.strip.blank? || n.xpath("URL").text.strip == "http://"
+            texties << "\"<a href=\"#{n.xpath("URL").first.text.strip}\">#{n.xpath("TITLE").first.text.strip}</a>.\""
+          else
+            texties << "\"#{n.xpath("TITLE").first.text.strip}.\""
+          end
+
+          items << texties.join(", ")
+        end
+      end
+      return items
+    end
+
+    def self.logjam(msg)
       msg = "[digital measures] #{msg}"
       if defined? Rails
         Rails.logger.info msg
       else
-        puts msg
       end
+        puts msg
     end
   end
 
