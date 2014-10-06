@@ -66,31 +66,28 @@ module DigitalMeasures
     end
 
     def self.find_netids(netids)
-      log     = Logger.new("dm.log", 5, 10*1024)
-      log.info "looking up dm info! for #{netids}"
+
       hydra = Typhoeus::Hydra.hydra
       responses = []
 
       netids.each do |netid|
-        log.info "searching user #{netid}"
         req = find_netid(netid)
 
         req.on_complete do |response|
           if response.success?
-            log.info "found dm user"
             begin
               responses << new(response.response_body)
             rescue => e
-              log.error "could not craete dm record"
-              log.error e
+              log "could not craete dm record"
+              log e
               end
 
           elsif response.timed_out?
             #responses << new(nil)
-            log.error "#{netid} not found"
+            log "#{netid} not found"
           else
             #responses << new(nil)
-            log.error "#{netid} caused an error"
+            log "#{netid} caused an error"
           end
         end
 
@@ -186,14 +183,10 @@ module DigitalMeasures
       items = []
       measure.xpath("//RESPROG").each do | n |
         if n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
-          #puts n.inspect
           texties = []
           n.xpath("RESPROG_COLL").each do | c |
             texties << c.xpath("NAME").first.text.strip
           end
-
-          #puts n.xpath("TITLE").first
-          #puts n.xpath("URL").first
 
           unless n.xpath("URL").text.strip.blank? || n.xpath("URL").text.strip == "http://"
             texties << "\"<a href=\"#{n.xpath("URL").first.text.strip}\">#{n.xpath("TITLE").first.text.strip}</a>.\""
@@ -207,7 +200,7 @@ module DigitalMeasures
       return items
     end
 
-    def self.logjam(msg)
+    def self.log(msg)
       msg = "[digital measures] #{msg}"
       if defined? Rails
         Rails.logger.info msg
