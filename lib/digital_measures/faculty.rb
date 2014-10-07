@@ -8,6 +8,8 @@ module DigitalMeasures
       :first_name,
       :last_name,
       :middle_name,
+      :prefix,
+      :suffix,
       :email,
       :veteran_status,
       :website,
@@ -33,6 +35,8 @@ module DigitalMeasures
 
       @last_name = measure.xpath("//PCI/LNAME").first.text.strip
       @middle_name = measure.xpath("//PCI/MNAME").first.text.strip
+      @prefix = measure.xpath("//PCI/PREFIX").first.text.strip
+      @suffix = measure.xpath("//PCI/SUFFIX").first.text.strip
       @email = measure.xpath("//PCI/EMAIL").first.text.strip
       @website = measure.xpath("//PCI/WEBSITE").first.text.strip
       @bio = measure.xpath("//PCI/BIO").first.text.strip

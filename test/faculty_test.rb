@@ -59,9 +59,12 @@ describe DigitalMeasures::Faculty do
       @faculty.first_name.must_be_kind_of String
       @faculty.first_name.must_equal "Carl"
       @faculty.last_name.must_equal "Ackermann"
+      @faculty.middle_name.must_equal "Alfred"
       @faculty.phone.must_equal "574-631-8407"
       @faculty.email.must_equal "Ackermann.1@nd.edu"
       @faculty.title.must_equal "Professional Specialist"
+      @faculty.prefix.must_equal "Tester"
+      @faculty.suffix.must_equal "Jr."
       @faculty.endowed_position.must_equal "Nolan Professorship for Excellence in Undergraduate Instruction"
     end
 
