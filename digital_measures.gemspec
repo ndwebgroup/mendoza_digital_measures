@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.name        = 'digital_measures'
   s.version     = DigitalMeasures::VERSION
   s.authors     = ['Alec Hipshear', 'Jonathan Arp']
-  s.email       = ['ahipshea@nd.edu']
+  s.email       = ['ahipshea@nd.edu', 'jarp@nd.edu']
   s.homepage    = 'http://github.com/ndwebgroup'
-  s.summary     = "Access to Mendoza's DigitalMeasures repository"
+  s.summary     = "Access Digital Measures repository and return a custom DigitalMeasures::Faculty object populated with DM data"
   s.description = ''
 
   s.files = Dir['{app,config,db,lib}/**/*'] + ['Rakefile', 'README.md']
