@@ -13,7 +13,6 @@ describe DigitalMeasures::Faculty do
 
   describe "Typhoeus Requests" do
     it 'creates a typhoeus request for a netid' do
-
       request = subject.find_netid('ahipshea')
       request.must_be_kind_of Typhoeus::Request
       request.base_url.must_match(/ahipshea/)
@@ -23,18 +22,24 @@ describe DigitalMeasures::Faculty do
 
   describe "CLASS method finders" do
 
-    it "returns an Typhoeus Request" do
-      Typhoeus::Request.any_instance.stub(:new).and_return(ackerman_response)
-      members = subject.find_netid 'cackerm1'
-      members.must_be_kind_of Typhoeus::Request
-      #members.count.must_equal 2
+    it 'creates multiple requests for multiple users' do
+      ackerman, affleck = subject.find_netids ['cackerm1', 'jaffleck']
+      ackerman.must_be_kind_of DigitalMeasures::Faculty
+      affleck.must_be_kind_of DigitalMeasures::Faculty
+    end
+
+
+    it 'returns the successful requests and leaves off  failed requests' do
+      ackerman, affleck, failure = subject.find_netids ['cackerm1', 'jaffleck', 'ahipshea']
+      ackerman.wont_be :nil?
+      affleck.wont_be :nil?
+      failure.must_be :nil?
     end
 
     it "returns an array of dm members" do
-      Typhoeus::Request.any_instance.stub(:new).and_return(ackerman_response)
-      members = subject.find_netids ['cackerm1']
+      members = subject.find_netids ['cackerm1', 'jaffleck', 'ahipshea']
       members.must_be_kind_of Array
-      members.count.must_equal 1
+      members.count.must_equal 2
     end
   end
 
