@@ -177,7 +177,7 @@ module DigitalMeasures
       #PRESENT[t:WEBPAGE_INCLUDE='Yes']) > 0">
       items = []
       measure.xpath("//PRESENT").each do | n |
-        if n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
+        if n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
           items << "#{n.xpath("PRESENT_AUTH/FNAME").first.text.strip} #{n.xpath("PRESENT_AUTH/LNAME").first.text.strip}, #{n.xpath("NAME").first.text.strip}, #{n.xpath("ORG").first.text.strip}, #{n.xpath("LOCATION").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\" (#{n.xpath("DTM_DATE").first.text.strip} #{n.xpath("DTD_DATE").first.text.strip}, #{n.xpath("DTY_DATE").first.text.strip})."
         end
       end
@@ -211,7 +211,7 @@ module DigitalMeasures
         Rails.logger.info msg
       else
       end
-        puts msg
+        #puts msg
     end
   end
 
