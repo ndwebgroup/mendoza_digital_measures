@@ -92,6 +92,7 @@ module DigitalMeasures
           else
             #responses << new(nil)
             log "#{netid} caused an error"
+            log req.inspect
           end
         end
 
