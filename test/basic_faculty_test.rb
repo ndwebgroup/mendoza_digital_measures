@@ -5,13 +5,15 @@ def fixture_xml(name)
 end
 
 describe DigitalMeasures::Faculty do
-  let(:dm_response) { Typhoeus::Response.new(code: 200, body: fixture_xml('sveramun')) }
+  #netids causing errors include mbenson1 sveramun jbialik
+  let(:netid){ 'jbialik' }
+  let(:dm_response) { Typhoeus::Response.new(code: 200, body: fixture_xml(netid)) }
   let(:subject){DigitalMeasures::Faculty}
 
   describe "with faculty data" do
 
     before(:each) do
-      @faculty = DigitalMeasures::Faculty.new(fixture_xml('sveramun'))
+      @faculty = DigitalMeasures::Faculty.new(fixture_xml(netid))
     end
 
     it 'converts the response to a Measure Object' do

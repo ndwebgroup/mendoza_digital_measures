@@ -30,21 +30,21 @@ module DigitalMeasures
     def initialize(xml)
       measure = Nokogiri.parse xml
       measure.remove_namespaces!
+      #single item valus (strings)
+      @first_name = get_value_for(measure, "PCI/FNAME")
+      @last_name = get_value_for(measure, "PCI/LNAME")
+      @middle_name = get_value_for(measure, "PCI/MNAME")
+      @prefix = get_value_for(measure, "PCI/PREFIX")
+      @suffix = get_value_for(measure, "PCI/SUFFIX")
+      @email = get_value_for(measure, "PCI/EMAIL")
+      @website = get_value_for(measure, "PCI/WEBSITE")
+      @bio = get_value_for(measure, "PCI/BIO")
+      @room_number = get_value_for(measure, "PCI/ROOMNUM")
+      @phone = [get_value_for(measure, "PCI/OPHONE1"), get_value_for(measure, "PCI/OPHONE2"), get_value_for(measure, "PCI/OPHONE3") ].join("-")
+      @title =  get_value_for(measure, "ADMIN/RANK")
+      @endowed_position = get_value_for(measure, "PCI/ENDPOS")
 
-      @first_name = measure.xpath("//PCI/FNAME").first.text.strip
-
-      @last_name = measure.xpath("//PCI/LNAME").first.text.strip
-      @middle_name = measure.xpath("//PCI/MNAME").first.text.strip
-      @prefix = measure.xpath("//PCI/PREFIX").first.text.strip
-      @suffix = measure.xpath("//PCI/SUFFIX").first.text.strip
-      @email = measure.xpath("//PCI/EMAIL").first.text.strip
-      @website = measure.xpath("//PCI/WEBSITE").first.text.strip
-      @bio = measure.xpath("//PCI/BIO").first.text.strip
-      @room_number = measure.xpath("//PCI/ROOMNUM").first.text.strip
-      @phone = [measure.xpath("//PCI/OPHONE1").first.text.strip, measure.xpath("//PCI/OPHONE2").first.text.strip, measure.xpath("//PCI/OPHONE3").first.text.strip ].join("-")
-      @title =  measure.xpath("//ADMIN/RANK").first.text.strip
-      @endowed_position = measure.xpath("//PCI/ENDPOS").first.text.strip
-
+      #collections
       @areas_of_expertise = find_areas_of_expertise(measure)
       @education = find_education(measure)
       @publications = find_publications(measure)
@@ -55,6 +55,10 @@ module DigitalMeasures
     end
 
 
+    def get_value_for(xml_doc, xpath_for)
+      xml_doc.xpath("//#{xpath_for}").first.nil? ? "" : xml_doc.xpath("//#{xpath_for}").first.text.strip
+    end
+
     def self.url_template
       "https://www.digitalmeasures.com/login/service/v4/SchemaData/INDIVIDUAL-ACTIVITIES-Business/USERNAME:%s"
     end
@@ -64,7 +68,7 @@ module DigitalMeasures
 
       request = Typhoeus::Request.new(
         url,
-        userpwd: ENV['MENDOZA_DIGITAL_MEASURES_USER_AUTH']
+        userpwd: ENV['DIGITAL_MEASURES_CREDENTIALS']
       )
       request
     end

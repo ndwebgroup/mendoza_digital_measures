@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-11-19">
+	<Record userId="1494813" username="jbialik" termId="278" dmd:surveyId="12072555">
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
+		<PCI id="78228535296" dmd:lastModified="2013-10-14T13:31:29">
+			<FNAME>Jeffrey</FNAME>
+			<MNAME/>
+			<LNAME>Bialik</LNAME>
+			<EMAIL>jbialik@nd.edu</EMAIL>
+			<WEBSITE>http://</WEBSITE>
+		</PCI>
+		<ADMIN_PERM id="78278696960" dmd:lastModified="2013-10-15T14:22:23">
+			<SRANK>Adjunct Faculty</SRANK>
+			<DTM_HIRE>July</DTM_HIRE>
+			<DTD_HIRE/>
+			<DTY_HIRE>2012</DTY_HIRE>
+			<DTM_ATTAIN_ASSISTANT_PROF/>
+			<DTD_ATTAIN_ASSISTANT_PROF/>
+			<DTY_ATTAIN_ASSISTANT_PROF/>
+			<SCHOOL_ASSISTANT_PROF/>
+			<DTM_ATTAIN_ASSOCIATE_PROF/>
+			<DTD_ATTAIN_ASSOCIATE_PROF/>
+			<DTY_ATTAIN_ASSOCIATE_PROF/>
+			<SCHOOL_ASSOCIATE_PROF/>
+			<DTM_ATTAIN_PROF/>
+			<DTD_ATTAIN_PROF/>
+			<DTY_ATTAIN_PROF/>
+			<SCHOOL_PROF/>
+			<DTM_ATTAIN_SENIOR_PROF/>
+			<DTD_ATTAIN_SENIOR_PROF/>
+			<DTY_ATTAIN_SENIOR_PROF/>
+			<SCHOOL_SENIOR_PROF/>
+			<DTM_ATTAIN_ENDOW/>
+			<DTD_ATTAIN_ENDOW/>
+			<DTY_ATTAIN_ENDOW/>
+			<ATTAIN_ENDOW_START></ATTAIN_ENDOW_START>
+			<ATTAIN_ENDOW_END></ATTAIN_ENDOW_END>
+			<SCHOOL_ENDOW/>
+			<DTM_TENURE_DECISION/>
+			<DTD_TENURE_DECISION/>
+			<DTY_TENURE_DECISION/>
+			<DTM_SEPARATION/>
+			<DTD_SEPARATION/>
+			<DTY_SEPARATION/>
+		</ADMIN_PERM>
+		<ADMIN id="78278723584" dmd:lastModified="2013-10-15T14:22:35">
+			<AC_YEAR/>
+			<YEAR_START></YEAR_START>
+			<YEAR_END></YEAR_END>
+			<ADMIN_DEP id="78278723585">
+				<DEP/>
+			</ADMIN_DEP>
+			<RANK/>
+			<TENURE/>
+			<GRADUATE/>
+			<SABBATICAL/>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS>5</DEDMISS>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS/>
+			<JOINT_APPOINTMENT/>
+		</ADMIN>
+		<ADMIN id="78228537344" dmd:lastModified="2013-10-14T13:31:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+			<AC_YEAR>2013-2014</AC_YEAR>
+			<YEAR_START>2013-09-01</YEAR_START>
+			<YEAR_END>2014-08-31</YEAR_END>
+			<ADMIN_DEP id="78228537345" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+		</ADMIN>
+		<EDUCATION id="78278684672" dmd:lastModified="2013-10-15T14:21:11" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
+			<DEG>MBA</DEG>
+			<DEGOTHER/>
+			<SCHOOL/>
+			<MAJOR/>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST>Yes</HIGHEST>
+			<YR_COMP>1989</YR_COMP>
+			<COMP_START>1989-01-01</COMP_START>
+			<COMP_END>1989-12-31</COMP_END>
+		</EDUCATION>
+	</Record>
+</Data>
