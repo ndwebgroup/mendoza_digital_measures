@@ -111,6 +111,24 @@ module DigitalMeasures
 
   private
 
+
+    def find_books_articles_chapters
+      contypes = ["Book, Referred Article", "Book, Review", "Book, Scholarly-Contributed Chapter"]
+      items = []
+
+      measure.xpath("//PCI/PCI_EXPERTISE/INTELLCONT").each do | e |
+
+        if contypes.include?(n.xpath("CONTYPE").first.text.strip) && (n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes" )
+          items << e
+        end
+
+      end
+
+      return items
+
+
+    end
+
     def find_areas_of_expertise(measure)
       expertisei = []
         measure.xpath("//PCI/PCI_EXPERTISE/EXPERTISE").each do | e |
