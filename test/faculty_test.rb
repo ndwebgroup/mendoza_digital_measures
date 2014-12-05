@@ -115,7 +115,7 @@ describe DigitalMeasures::Faculty do
 
     it "formats publications in a very specific way" do
       #add "(with Sean  Handley,), after title link
-      @corey.publications.first.must_equal '<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">"The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships"</a>, To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
+      @corey.publications.first.must_equal '<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">"The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships"</a>, (with Sean Handley) To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
     end
 
     it "pulls in books" do
@@ -147,14 +147,34 @@ describe DigitalMeasures::Faculty do
 
   describe "with jmcmanus Data" do
     before(:each) do
-
+      @faculty = DigitalMeasures::Faculty.new(fixture_xml('jmcmanus'))
     end
 
     it "returns articles chapters" do
-      faculty = DigitalMeasures::Faculty.new(fixture_xml('jmcmanus'))
-      faculty.articles.must_be_kind_of Array
-      faculty.articles.count.must_equal 2
-      puts faculty.articles
+      @faculty.articles.must_be_kind_of Array
+      @faculty.articles.count.must_equal 2
+    end
+
+  end
+
+
+  describe "with jmcmanus Data" do
+    before(:each) do
+      @faculty = DigitalMeasures::Faculty.new(fixture_xml('jorourke'))
+    end
+
+    it "returns articles chapters" do
+
+      @faculty.books.must_be_kind_of Array
+      @faculty.books.count.must_equal 13
+      #puts @faculty.books
+    end
+
+
+    it "returns articles chapters" do
+      #puts @faculty.publications
+      @faculty.publications.must_be_kind_of Array
+      @faculty.publications.count.must_equal 21
     end
 
   end

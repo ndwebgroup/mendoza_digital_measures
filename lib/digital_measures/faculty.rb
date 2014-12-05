@@ -187,6 +187,16 @@ module DigitalMeasures
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include? n.xpath("CONTYPE").first.text.strip
+
+          authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
+
+          unless authors.empty?
+            with = "(with #{authors.join(", ")})"
+          else
+            with = ""
+          end
+
+
           link = "<a href=\"#{n.xpath("WEB_ADDRESS").first.text.strip}\">\"#{n.xpath("TITLE").first.text.strip}\"</a>,"
           #<xsl:if test="string-length(t:PAGENUM) > 0">
           if n.xpath("STATUS").first.text.strip == "Accepted"
@@ -195,7 +205,7 @@ module DigitalMeasures
             where_preface = ""
           end
           where = "#{where_preface}<i>#{n.xpath("PUBLISHER").first.text.strip}</i>, #{n.xpath("VOLUME").first.text.strip}, #{n.xpath("DTY_PUB").first.text.strip}."
-          items << [link, where].join(" ")
+          items << [link, with, where].join(" ")
         end
       end
       return items
@@ -207,7 +217,18 @@ module DigitalMeasures
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include?(n.xpath("CONTYPE").first.text.strip) && n.xpath("WEBPAGE_INCLUDE").first.text.strip != "No"
-          items << "#{n.xpath("TITLE").first.text.strip}"
+          parts = []
+          authors = []
+          parts << "#{n.xpath("TITLE").first.text.strip}"
+
+          authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
+
+          unless authors.empty?
+            parts << "(with #{authors.join(", ")})"
+          end
+
+          items << parts.join(" ")
+
         end
       end
       return items
