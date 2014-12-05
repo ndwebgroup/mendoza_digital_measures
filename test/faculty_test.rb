@@ -145,4 +145,19 @@ describe DigitalMeasures::Faculty do
 
   end
 
+  describe "with jmcmanus Data" do
+    before(:each) do
+
+    end
+
+    it "returns articles chapters" do
+      faculty = DigitalMeasures::Faculty.new(fixture_xml('jmcmanus'))
+      faculty.articles.must_be_kind_of Array
+      faculty.articles.count.must_equal 2
+      puts faculty.articles
+    end
+
+  end
+
+
 end

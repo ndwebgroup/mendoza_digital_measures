@@ -24,7 +24,8 @@ module DigitalMeasures
       :books,
       :presentations,
       :teaching,
-      :working_papers
+      :working_papers,
+      :articles
     )
 
     def initialize(xml)
@@ -52,6 +53,7 @@ module DigitalMeasures
       @presentations = find_presentations(measure)
       @teaching = find_teaching(measure)
       @working_papers = find_working_papers(measure)
+      @articles = find_books_articles_chapters(measure)
     end
 
 
@@ -112,23 +114,6 @@ module DigitalMeasures
   private
 
 
-    def find_books_articles_chapters
-      contypes = ["Book, Referred Article", "Book, Review", "Book, Scholarly-Contributed Chapter"]
-      items = []
-
-      measure.xpath("//PCI/PCI_EXPERTISE/INTELLCONT").each do | e |
-
-        if contypes.include?(n.xpath("CONTYPE").first.text.strip) && (n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes" )
-          items << e
-        end
-
-      end
-
-      return items
-
-
-    end
-
     def find_areas_of_expertise(measure)
       expertisei = []
         measure.xpath("//PCI/PCI_EXPERTISE/EXPERTISE").each do | e |
@@ -162,6 +147,39 @@ module DigitalMeasures
       teachings.uniq!
       return teachings
     end
+
+    ######################################################
+    # => INTELLCONT ITEMS
+
+    def find_books_articles_chapters(measure)
+      contypes = ["Book, Referred Article", "Book, Review", "Book, Scholarly-Contributed Chapter"]
+      items = []
+
+      measure.xpath("//INTELLCONT").each do | n |
+        if contypes.include?(n.xpath("CONTYPE").first.text.strip) && (n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes" )
+          authors = []
+          parts = []
+
+
+          parts << make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS"))
+
+          authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
+
+          unless authors.empty?
+            parts << "(with #{authors.join(", ")})"
+          end
+
+          items << parts.join(" ")
+
+        end
+      end
+
+      return items
+
+
+    end
+
+
 
     def find_publications(measure)
       #marked for web
@@ -227,7 +245,32 @@ module DigitalMeasures
       return items
     end
 
-    def self.log(msg)
+
+    #supporting methods
+
+    def make_linkable(text_node, url_node)
+      unless url_node.first.text.strip.blank? || url_node.first.text.strip == "http://"
+        "\"<a href=\"#{url_node.first.text.strip}\">#{text_node.first.text.strip}</a>.\""
+      else
+        "\"#{text_node.first.text.strip}.\""
+      end
+    end
+
+    def collect_authors(authors_xml)
+      authors = []
+      #puts authors_xml.count
+      authors_xml.each do | a |
+        unless a.xpath("FNAME").first.text.strip == @first_name && a.xpath("LNAME").first.text.strip == @last_name
+          authors << "#{a.xpath("FNAME").first.text.strip} #{a.xpath("LNAME").first.text.strip}"
+        end
+      end
+
+      return authors
+
+    end
+
+
+        def self.log(msg)
       msg = "[digital measures] #{msg}"
       if defined? Rails
         Rails.logger.info msg
@@ -236,5 +279,11 @@ module DigitalMeasures
         #puts msg
     end
   end
+
+
+
+
+
+
 
 end

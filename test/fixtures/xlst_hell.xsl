@@ -181,7 +181,8 @@
                                                        </xsl:for-each>),
                                             </xsl:if>
 
-                                            <xsl:if test="t:STATUS = 'Accepted'">To appear in</xsl:if>&nbsp;<i><xsl:value-of select="t:PUBLISHER" /></i><xsl:if test="string-length(t:VOLUME) &gt; 0">, <xsl:value-of select="t:VOLUME" /></xsl:if><xsl:if test="string-length(t:DTM_PUB) &gt; 0">, <xsl:value-of select="t:DTM_PUB" /><xsl:if test="string-length(t:DTD_PUB) &gt; 0"><xsl:value-of select="t:DTD_PUB" /></xsl:if></xsl:if><xsl:if test="string-length(t:DTY_PUB) &gt; 0">, <xsl:value-of select="t:DTY_PUB" /></xsl:if><xsl:if test="string-length(t:PAGENUM) &gt; 0">, <xsl:value-of select="t:PAGENUM" /></xsl:if>.
+                                            <xsl:if test="t:STATUS = 'Accepted'">To appear in</xsl:if>&nbsp;<i><xsl:value-of select="t:PUBLISHER" /></i><xsl:if test="string-length(t:VOLUME) &gt; 0">, <xsl:value-of select="t:VOLUME" /></xsl:if><xsl:if test="string-length(t:DTM_PUB) &gt; 0">, <xsl:value-of select="t:DTM_PUB" /><xsl:if test="string-length(t:DTD_PUB) &gt; 0"><xsl:value-of select="t:DTD_PUB" /></xsl:if></xsl:if><xsl:if test="string-length(t:DTY_PUB) &gt; 0">, <xsl:value-of select="t:DTY_PUB" /></xsl:if><xsl:if test="string-length(t:PAGENUM) &gt; 0">, <xsl:value-of select="t:PAGENUM" />
+																						</xsl:if>.
                                             <br /><br />
                                         </xsl:for-each>
                                     </p>
