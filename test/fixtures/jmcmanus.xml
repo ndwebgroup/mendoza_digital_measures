@@ -1,0 +1,4057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-12-04">
+	<Record userId="341858" username="jmcmanus" termId="278" dmd:surveyId="1118383">
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
+		<PCI id="10467948544" dmd:lastModified="2014-12-04T11:58:58">
+			<PREFIX/>
+			<FNAME>Jessica</FNAME>
+			<PFNAME/>
+			<MNAME/>
+			<LNAME>McManus Warnell</LNAME>
+			<SUFFIX/>
+			<ALT_NAME/>
+			<ENDPOS/>
+			<EMAIL>jmcmanus@nd.edu</EMAIL>
+			<ROOMNUM>254</ROOMNUM>
+			<OPHONE1>574</OPHONE1>
+			<OPHONE2>631</OPHONE2>
+			<OPHONE3>9182</OPHONE3>
+			<DPHONE1/>
+			<DPHONE2/>
+			<DPHONE3/>
+			<FAX1/>
+			<FAX2/>
+			<FAX3/>
+			<WEBSITE/>
+			<DTM_DOB/>
+			<DTD_DOB/>
+			<DTY_DOB/>
+			<GENDER/>
+			<ETHNICITY/>
+			<CITIZEN/>
+			<PCI_EXPERTISE id="10467948545">
+				<EXPERTISE>Business Ethics</EXPERTISE>
+			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="10467948546">
+				<EXPERTISE>Sustainability</EXPERTISE>
+			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="10467948547">
+				<EXPERTISE>Values-Based Decision Making</EXPERTISE>
+			</PCI_EXPERTISE>
+			<UPLOAD_CV>jmcmanus/PCI/jmcmanus.pdf</UPLOAD_CV>
+			<BIO>Jessica McManus Warnell teaches the required undergraduate course in business ethics along with several electives in the areas of sustainable business and values-based decision-making; her position includes coordinating assessment of the Mendoza undergraduate business ethics curriculum.
+
+She earned her M.A. from the University of Chicago and her B.A. summa cum laude from Saint Mary's College, the Certificate in Executive Management from the Notre Dame Executive Education Program, and Global Reporting Initiative (GRI) Sustainability Reporting Certification from LEAD Canada.
+
+She holds positions on several local community-based boards and committees and is a member of the Academy of Management, the Association for Practical and Professional Ethics (Membership Committee), the Society for Business Ethics, Net Impact and Alpha Kappa Delta. Past appointments include the board of directors of the Urban League of St. Joseph County, Vice Chair of the Foundation for Music and Healing, and the governing board of South Bend Youth As Resources.
+
+Her research explores development of moral learning, principled reasoning and other outcomes of business ethics curricula, ethical leadership and sustainability education in the context of the UN PRME initiative, managing millennials toward effective, ethical leadership, and U.S. and Japanese business ethics.
+
+A Faculty Fellow of the Notre Dame Liu Institute for Asia and Asian Studies, Jessica served as a visiting Research and Teaching Fellow at the Business Ethics Compliance and Research Center, Reitaku University 麗澤大学, Kashiwa, Chiba, Japan, April - July 2013.</BIO>
+		</PCI>
+		<ADMIN_PERM id="24044707841" dmd:lastModified="2010-05-03T08:06:56">
+			<SRANK/>
+			<DTM_HIRE/>
+			<DTD_HIRE/>
+			<DTY_HIRE/>
+			<DTM_ATTAIN_ASSISTANT_PROF/>
+			<DTD_ATTAIN_ASSISTANT_PROF/>
+			<DTY_ATTAIN_ASSISTANT_PROF/>
+			<SCHOOL_ASSISTANT_PROF/>
+			<DTM_ATTAIN_ASSOCIATE_PROF/>
+			<DTD_ATTAIN_ASSOCIATE_PROF/>
+			<DTY_ATTAIN_ASSOCIATE_PROF/>
+			<SCHOOL_ASSOCIATE_PROF/>
+			<DTM_ATTAIN_PROF/>
+			<DTD_ATTAIN_PROF/>
+			<DTY_ATTAIN_PROF/>
+			<SCHOOL_PROF/>
+			<DTM_ATTAIN_SENIOR_PROF/>
+			<DTD_ATTAIN_SENIOR_PROF/>
+			<DTY_ATTAIN_SENIOR_PROF/>
+			<SCHOOL_SENIOR_PROF/>
+			<DTM_ATTAIN_ENDOW/>
+			<DTD_ATTAIN_ENDOW/>
+			<DTY_ATTAIN_ENDOW/>
+			<ATTAIN_ENDOW_START></ATTAIN_ENDOW_START>
+			<ATTAIN_ENDOW_END></ATTAIN_ENDOW_END>
+			<SCHOOL_ENDOW/>
+			<DTM_TENURE_DECISION/>
+			<DTD_TENURE_DECISION/>
+			<DTY_TENURE_DECISION/>
+			<DTM_SEPARATION/>
+			<DTD_SEPARATION/>
+			<DTY_SEPARATION/>
+		</ADMIN_PERM>
+		<ADMIN id="75390922752" dmd:lastModified="2013-07-16T16:54:47" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+			<AC_YEAR>2013-2014</AC_YEAR>
+			<YEAR_START>2013-09-01</YEAR_START>
+			<YEAR_END>2014-08-31</YEAR_END>
+			<ADMIN_DEP id="75390922753" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Professionally Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Substantial coursework but no doctoral degree</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="67231535104" dmd:lastModified="2013-02-05T12:39:54" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+			<AC_YEAR>2012-2013</AC_YEAR>
+			<YEAR_START>2012-09-01</YEAR_START>
+			<YEAR_END>2013-08-31</YEAR_END>
+			<ADMIN_DEP id="67231535105" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Assistant Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Professionally Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Substantial coursework but no doctoral degree</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="67231531008" dmd:lastModified="2013-02-05T12:39:44" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+			<AC_YEAR>2011-2012</AC_YEAR>
+			<YEAR_START>2011-09-01</YEAR_START>
+			<YEAR_END>2012-08-31</YEAR_END>
+			<ADMIN_DEP id="67231531009" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Assistant Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Service</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Professionally Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Substantial coursework but no doctoral degree</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="10467950592" dmd:lastModified="2008-09-10T09:33:06" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+			<AC_YEAR>2008-2009</AC_YEAR>
+			<YEAR_START>2008-09-01</YEAR_START>
+			<YEAR_END>2009-08-31</YEAR_END>
+			<ADMIN_DEP id="10467950593" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Assistant Professional Specialist</RANK>
+			<TENURE/>
+			<GRADUATE/>
+			<SABBATICAL/>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS/>
+			<JOINT_APPOINTMENT/>
+		</ADMIN>
+		<AWARDHONOR id="92575625216" dmd:lastModified="2014-06-25T07:40:31" dmd:startDate="2014-07-01" dmd:endDate="2014-07-31">
+			<NAME>Research Funding Award</NAME>
+			<ORG>Notre Dame Deloitte Center for Ethical Leadership</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC/>
+			<DTM_DATE>July</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-07-01</DATE_START>
+			<DATE_END>2014-07-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="82153949184" dmd:lastModified="2013-12-02T11:51:49" dmd:startDate="2014-03-01" dmd:endDate="2014-03-31">
+			<NAME>Invited Research Fellow</NAME>
+			<ORG>Business Ethics and Compliance Research Center, Reitaku University, Kashiwa, Chiba, Japan</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC/>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-03-01</DATE_START>
+			<DATE_END>2014-03-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="87926294528" dmd:lastModified="2014-04-02T10:35:13" dmd:startDate="2014-03-01" dmd:endDate="2014-03-31">
+			<NAME>Research Funding Award</NAME>
+			<ORG>Notre Dame Liu Institute for Asia and Asian Studies</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC>Partial support provided for research visit to Japan for research in progress, "Perspectives on Business Ethics in the Japanese and U.S. Traditions", co-authored with Professor Toru Umeda, Reitaku University, Kashiwa, Chiba, Japan.</DESC>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-03-01</DATE_START>
+			<DATE_END>2014-03-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="74013444096" dmd:lastModified="2013-09-30T11:31:29" dmd:startDate="2013-06-01" dmd:endDate="2013-06-30">
+			<NAME>Faculty Fellow</NAME>
+			<ORG>Liu Institute for Asia and Asian Studies, University of Notre Dame</ORG>
+			<SCOPE/>
+			<DESC>2013-2016</DESC>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-06-01</DATE_START>
+			<DATE_END>2013-06-30</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="75748395008" dmd:lastModified="2013-07-25T02:04:44" dmd:startDate="2013-06-01" dmd:endDate="2013-06-30">
+			<NAME>Recipient of Summer Research Funding</NAME>
+			<ORG>Mendoza College of Business</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC/>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-06-01</DATE_START>
+			<DATE_END>2013-06-30</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="70762291200" dmd:lastModified="2013-04-30T22:42:11" dmd:startDate="2013-04-01" dmd:endDate="2013-04-30">
+			<NAME>2013–2014 Gray Family Course Development Grant Recipient</NAME>
+			<ORG>Notre Dame Center for Social Concerns</ORG>
+			<SCOPE>Teaching</SCOPE>
+			<DESC>Each year the Center for Social Concerns accepts proposals for $2,500* summer grants to fund the design of a new course or a major redesign of an existing course. These course development grants are a special initiative for faculty interested in incorporating social concerns into their courses through community-based learning. Community-based learning integrates student direct service or other forms of civic engagement, such as research for non-profit organizations, into academic courses. </DESC>
+			<DTM_DATE>April</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-04-01</DATE_START>
+			<DATE_END>2013-04-30</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="58670974976" dmd:lastModified="2014-01-13T09:24:35" dmd:startDate="2013-03-01" dmd:endDate="2013-03-31">
+			<NAME>Invited Research Fellow and Instructor (4-Month Appointment)</NAME>
+			<ORG>Business Ethics and Compliance Research Center, Reitaku University, Japan</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC>Following this fellowship, I have been extended an open offer to return to Reitaku University.  Short-term research visit is scheduled for March, 2014.  Served as a Research Fellow and Instructor supporting activities in business ethics at the premiere Japanese university in the field; March- July 2013.  The consultation will be an opportunity to enhance our presence in this part of Asia, to study teaching of business ethics in other cultural contexts - what we can learn, and what we can share about our work, including Japan's involvement in CSR (ISO 26000, UN Framework for Human Rights, UN Global Compact, and other priority issues in Japan).  This Center also holds an extensive network in Japanese and international business that we can leverage to develop our relationships and competencies.  Includes teaching, guest lectures and presentations to faculty.</DESC>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-03-01</DATE_START>
+			<DATE_END>2013-03-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="58669848576" dmd:lastModified="2012-09-04T08:41:30" dmd:startDate="2012-06-01" dmd:endDate="2012-06-30">
+			<NAME>Recipient of Summer Research Funding</NAME>
+			<ORG>Mendoza College of Business</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC/>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-06-01</DATE_START>
+			<DATE_END>2012-06-30</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="30425407489" dmd:lastModified="2010-12-01T07:55:59" dmd:startDate="2010-10-15" dmd:endDate="2010-10-15">
+			<NAME>2010 Key Award for Services Program of the Year - Robinson Community Learning Center</NAME>
+			<ORG>Indiana Association for Community Economic Development and the Indiana Housing and Community Development Authority</ORG>
+			<SCOPE>Service, University</SCOPE>
+			<DESC>Prize awarded to the Robinson Community Learning Center for Youth Entrepreneurship Program, co-supervised with Jay Caponigro, Luther Tyson and Melissa Paulsen.</DESC>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE>15</DTD_DATE>
+			<DTY_DATE>2010</DTY_DATE>
+			<DATE_START>2010-10-15</DATE_START>
+			<DATE_END>2010-10-15</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<EDUCATION id="10468016129" dmd:lastModified="2008-09-10T09:35:15">
+			<DEG>BA</DEG>
+			<DEGOTHER/>
+			<SCHOOL>Saint Mary's College</SCHOOL>
+			<MAJOR/>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST/>
+			<YR_COMP/>
+			<COMP_START></COMP_START>
+			<COMP_END></COMP_END>
+		</EDUCATION>
+		<EDUCATION id="10468022273" dmd:lastModified="2008-09-10T09:35:33">
+			<DEG>MA</DEG>
+			<DEGOTHER/>
+			<SCHOOL>University of Chicago</SCHOOL>
+			<MAJOR/>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST/>
+			<YR_COMP/>
+			<COMP_START></COMP_START>
+			<COMP_END></COMP_END>
+		</EDUCATION>
+		<EDUCATION id="11795888129" dmd:lastModified="2008-12-03T12:18:31" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<DEG>Other</DEG>
+			<DEGOTHER>Certificate in Executive Management</DEGOTHER>
+			<SCHOOL>University of Notre Dame, Executive Education</SCHOOL>
+			<MAJOR/>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST/>
+			<YR_COMP>2005</YR_COMP>
+			<COMP_START>2005-01-01</COMP_START>
+			<COMP_END>2005-12-31</COMP_END>
+		</EDUCATION>
+		<LICCERT id="30425098241" dmd:lastModified="2010-12-16T11:01:29" dmd:startDate="2010-10-01">
+			<TITLE>Global Reporting Initiative (GRI) Sustainability Reporting Certification</TITLE>
+			<ORG>LEAD Canada</ORG>
+			<DESC/>
+			<DTM_START>October</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-10-01</START_START>
+			<START_END>2010-10-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</LICCERT>
+		<MEMBER id="58510839808" dmd:lastModified="2012-08-23T09:36:06" dmd:startDate="2012-05-01">
+			<NAME>Academy of Management</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC/>
+			<DTM_START>May</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-05-01</START_START>
+			<START_END>2012-05-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="53209696256" dmd:lastModified="2012-04-18T07:51:29" dmd:startDate="2012-03-30">
+			<NAME>Academic Advisory Board, McGraw-Hill Contemporary Learning Series</NAME>
+			<LEADERSHIP>Advisory Board Member, business ethics text development</LEADERSHIP>
+			<SCOPE>International</SCOPE>
+			<DESC/>
+			<DTM_START>March</DTM_START>
+			<DTD_START>30</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-03-30</START_START>
+			<START_END>2012-03-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="58505592832" dmd:lastModified="2012-08-23T08:26:02" dmd:startDate="2012-03-01">
+			<NAME>International Society of Business, Economics and Ethics</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC>The International Society of Business, Economics, and Ethics (ISBEE) is the first world-wide professional association to focus exclusively on the study of business, economics, and ethics. Its professional orientation involves people not only with academic competencies but also with practical competencies in responsible management positions (such as vice-presidents and issue managers) and entrepreneurs of medium-size and small companies. Individual membership consists of academicians, managers of business firms and of not-for-profit organizations, and others who have an interest in business ethics. Organizational membership includes companies and other organizations. ISBEE is strongly international in character with members from around the world.</DESC>
+			<DTM_START>March</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-03-01</START_START>
+			<START_END>2012-03-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="48831152128" dmd:lastModified="2012-02-01T11:59:42" dmd:startDate="2012-02-01">
+			<NAME>Corporate Governance and Sustainability International Group </NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC>The Corporate Governance and Sustainability International Group (CGSIG) is an international network initiated by Corporate Governance and Sustainability Research Group (CGSRG) at the Faculty of Business and Law, Leeds Metropolitan University, UK, in May 2009. It aims at promoting international research collaborations and academic exchanges in the areas of corporate governance, corporate social responsibility, business ethics, and sustainable development.
+</DESC>			<DTM_START>February</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-02-01</START_START>
+			<START_END>2012-02-01</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="58506178560" dmd:lastModified="2012-08-23T08:35:31" dmd:startDate="2011-06-01">
+			<NAME>Globethics.net</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC>Included as accepted expert on business ethics in worldwide directory. Globethics.net is a global network of persons and institutions interested in various fields of applied ethics. It offers access to a large number of resources on ethics, especially through its leading global digital ethics library and facilitates collaborative web-based research, conferences, online publishing and information sharing.  HQ Geneva, Switzerland.</DESC>
+			<DTM_START>June</DTM_START>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-06-01</START_START>
+			<START_END>2011-06-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="19718010881" dmd:lastModified="2012-08-23T08:26:40" dmd:startDate="2009-08-01">
+			<NAME>Society for Business Ethics</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC>Founded in 1980, the Society for Business Ethics (SBE) is a non-affiliated international association of scholars and others interested in business ethics. Membership in SBE is open to scholars and professionals from all disciplines who specialize in business ethics, and to anyone else seeking the benefits of membership. The Society conducts an annual meeting for the presentation and discussion of new research; issues a newsletter with information of interest to members; and produces the scholarly journal Business Ethics Quarterly . </DESC>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-08-01</START_START>
+			<START_END>2009-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="32286734337" dmd:lastModified="2011-01-26T13:29:53" dmd:startDate="2006-01-01">
+			<NAME>Young Professionals Against Poverty (a program of the South Bend Center for Social Concerns)</NAME>
+			<LEADERSHIP/>
+			<SCOPE>Local</SCOPE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="19718017025" dmd:lastModified="2012-08-23T08:23:48" dmd:startDate="2001-06-01">
+			<NAME>Leadership Legacy Alumni Association, Leadership South Bend/Mishawaka of the St. Joseph County Chamber of Commerce</NAME>
+			<LEADERSHIP/>
+			<SCOPE>Local</SCOPE>
+			<DESC/>
+			<DTM_START>June</DTM_START>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-06-01</START_START>
+			<START_END>2001-06-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="19718008833" dmd:lastModified="2010-12-01T12:40:01" dmd:startDate="2000-08-01">
+			<NAME>Association for Practical and Professional Ethics</NAME>
+			<LEADERSHIP>Membership Committee (2010-present)</LEADERSHIP>
+			<SCOPE>International</SCOPE>
+			<DESC/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-08-01</START_START>
+			<START_END>2000-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="30425456641" dmd:lastModified="2010-12-01T07:59:44" dmd:startDate="2000-01-01">
+			<NAME>Net Impact</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC>Developed from former Students for Responsibility Business network; now international professional, MBA alumni and business scholar and student network devoted to sustainabilty, ethics and CSR in business.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<SCHTEACH id="99321559040" dmd:lastModified="2014-10-31T08:58:48" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|BAET|20300|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL/>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Incorporated updated custom reader including revision of existing material and three new readings: The Vocation of the Business Leader, UN Principles for Responsible Investing and Interpretive Guide to Business and Human Rights (excerpts).  Replaced "Ethical Lens Inventory" with second quiz to reinforce key concepts and assess learning.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="84286347264" dmd:lastModified="2014-05-19T08:55:20" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|BAET|20300|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>235</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN>Added two in-class quizzes on course readings to enhance retention of key concepts and assist with grade distribution.  </PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="84286775296" dmd:lastModified="2014-05-19T08:55:41" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|BAET|30400|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Managing and Millennials</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30400</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>25</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continued incorporation of new material including content from research and book project.  Coordinating activities with ND Deloitte Center for Ethical Leadership on millennials and business including research project in progress.
+Added one in-class quiz on course readings to enhance retention of key concepts and assist with grade distribution.  </PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="84286801920" dmd:lastModified="2014-05-19T08:55:50" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|BAET|30520|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Topics in Sustainable Business</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30520</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>25</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Updated course to reflect new best practices, changing regulatory and corporate responses to sustainability, and other timely material.  Includes 2-3 guest lectures by campus experts.
+Added one in-class quiz on course readings to enhance retention of key concepts and assist with grade distribution.  </PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="84286543872" dmd:lastModified="2014-01-13T09:11:39" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|BAET|30300|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Giving Voice to Values</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>29</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continued development of this course, incorporating new material from research and book project.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="84286330880" dmd:lastModified="2014-01-13T09:04:33" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|BAET|20300|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>222</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continued incorporation of timely and relevant material, including adding content related to international business ethics experience following fellowship in Japan.  We also continue to use the interactive EthicsGame ethical lens inventory tool.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="84286310400" dmd:lastModified="2014-01-13T09:04:37" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|BAET|20300|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>294</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="84286400512" dmd:lastModified="2014-01-13T09:06:41" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|BAET|30400|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Managing and Millennials</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30400</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>25</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continued to develop this new MCOB course exploring millennials and intergenerational management, incorporating content related to research and book development.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="84286441472" dmd:lastModified="2014-01-13T09:08:27" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|BAET|30520|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Topics in Sustainable Business</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30520</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>29</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Updated course to reflect new best practices, changing regulatory and corporate responses to sustainability, and other timely material.  Includes 2-3 guest lectures by campus experts.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="58506962944" dmd:lastModified="2012-09-11T09:07:12" dmd:startDate="2012-09-01" dmd:endDate="2012-12-31" dmd:primaryKey="Fall|2012|BAET|40300|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-09-01</TERM_START>
+			<TERM_END>2012-12-31</TERM_END>
+			<TITLE>Business Ethics Field Project</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>40300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>10</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>All new community-based projects were incorporated for individual students and student teams in response to student interest and community needs.  Instruction involves managing external project deliverables to partner organizations, and providing meaningful opportunities for business students to practice their skills in the context of social concerns.</PEDINN>
+			<OUTREACH>The course operates from the recognition that the business sector offers tremendous potential to impact social issues.  Students will apply their skills through projects with local agencies, supervisors, and clients by volunteering with a not-for-profit organization for the duration of the course.  An overview of ethical theory will be discussed as we examine the ethical dimensions of social issues.  Discussion will allow exploration of the role of business in social challenges.  The course allows for macro- (readings, cases and theoretical discussions) and micro- (direct interaction with agency staff and clients) level experience.  This semester included incorporation of community consulting requests from colleagues, for example consulting with board of directors at two local organizations with Professor Jerry langley.</OUTREACH>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="58506790912" dmd:lastModified="2012-11-20T07:59:33" dmd:startDate="2012-09-01" dmd:endDate="2012-12-31" dmd:primaryKey="Fall|2012|BAET|30300|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-09-01</TERM_START>
+			<TERM_END>2012-12-31</TERM_END>
+			<TITLE>Giving Voice to Values</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>28</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continued development of this course, the first GVV-dedicated undergraduate course of a program that is now part of the curriculum at over 150 colleges and universities around the world.  Incorporated material on effective pedagogy gleaned from AOM PDW with international colleagues, and from several writing projects associated with the GVV pedagogy.
+For the final paper, students are responsible for interviewing two expert sources (faculty or business professionals) in the areas directly relevant to their paper/case study and analysis.  This allows students the opportunity to practice professional interactions, apply multidisciplinary concepts and create connections with other courses and professional experiences.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="58506616832" dmd:lastModified="2012-09-11T09:08:12" dmd:startDate="2012-09-01" dmd:endDate="2012-12-31" dmd:primaryKey="Fall|2012|BAET|20300|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-09-01</TERM_START>
+			<TERM_END>2012-12-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>252</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Researched content and coordinated development of new custom textbook for all sections of BAET 20300 taught by Jessica McManus Warnell and Georges Enderle (12 sections/320+ students) (2012-2013) reflecting integrated course content/design for all sophomores in this required course.  With Georges Enderle, identified diverse content including assigned readings from Viktor Frankl and modern philosophers, among others, to enhance material from the business ethics textbook.
+Continued incorporation of timely content and relevant applications for undergraduate business students.
+The course includes in-class presentations (one per semester) from executives facing ethical dilemmas in their professional lives; opportunity for intimate dialogue with students.  Examples include executives from Johnson and Johnson, KPMG, and Deloitte.  We also continue to utilize the interactive EthicsGame case simulation and personal ethical lens inventory tools.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="47236495361" dmd:lastModified="2012-01-19T11:17:07" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|BAET|20300|">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-01-15</TERM_START>
+			<TERM_END>2012-04-30</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>308</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continuous incorporation of timely and relevant ethics cases and other opportunities for application of theoretical foundations of business ethics.  Two new ethics simulations incorporated as part of the EthicsGame simulation self-assessment and case analyses.  Included a guest session by executives from KPMG, presenting the KPMG Ethical Compass case activity.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="42593636353" dmd:lastModified="2014-04-12T07:47:29" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|BAET|30400|">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-01-15</TERM_START>
+			<TERM_END>2012-04-30</TERM_END>
+			<TITLE>Managing &amp; Millennials</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30400</COURSENUM>
+			<SECTION/>
+			<ENROLL>26</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>The course explores opportunities and challenges of engaging millennials, defined as students who have graduated high school since 2000, in the business professions.  The course focuses on exploring differences by generational cohort, their impact on organizational culture, and strategies to effectively work within multigenerational cultures, with an emphasis on skill-building for millennials.  Topics include social media/privacy/the ethics of technology; issues such as the ethics of loyalty – to self, to firm, to profession – and how these conceptions have changed; and effectively working within multigenerational cultures.  Students explore the link between ethical cultures and performance, and methods to leverage the strengths of the millennial cohort toward effective organizations.  The course is experiential and discussion-based.  In addition to syllabus and course materials preparation, preparation included consultation with ND Career Development and includes self-assessment and vocational discernment tools, including the Harrison Assessment, designed to discern strengths, preferences and opportunities for growth and consider results within context of descriptive data of the millennials - synergies and differences, and opportunities to leverage toward ethical decision making/purpose.  Final project involves design of an employee development program for a fictional professional services firm.  </PEDINN>
+			<OUTREACH>Incorporates one guest lecture per semester from young professional - example from Spring 12 is KPMG Audit Senior, a 2008 ND alum.</OUTREACH>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="47236630529" dmd:lastModified="2012-01-31T07:22:11" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|BAET|30520|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-01-15</TERM_START>
+			<TERM_END>2012-04-30</TERM_END>
+			<TITLE>Topics in Sustainable Business</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30520</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>27</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continuous incorporation of new best practices and other case information, as well as discussion of changing regulatory and corporate responses to sustainability concerns. Incorporation of GRI (Global Reporting Initiative) standards in sustainability reporting; final project now includes analysis of GRI and UN Global Compact participation and other standardized metrics for sustainability; collaboration with MBA-level course in sustainability.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="47236874241" dmd:lastModified="2012-01-30T07:49:43" dmd:startDate="2011-09-01" dmd:endDate="2011-12-31" dmd:primaryKey="Fall|2011|BAET|30300|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-09-01</TERM_START>
+			<TERM_END>2011-12-31</TERM_END>
+			<TITLE>Giving Voice to Values</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>12</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Course now includes specific discussion of career discernment and application of GVV principles to the process.  Also includes substantive additions to course material derived from my recent publications on GVV pedagogy including assigning the student-life and/or emerging professional individual cases developed by the students.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="47236724737" dmd:lastModified="2012-01-30T10:15:44" dmd:startDate="2011-09-01" dmd:endDate="2011-12-31" dmd:primaryKey="Fall|2011|BAET|20300|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-09-01</TERM_START>
+			<TERM_END>2011-12-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>210</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continuous incorporation of case and other relevant developments from the field.  All sections of the course now incorporate the online EthicsGame simulation and self-assessments, and related in-class discussion and analysis. Worked with Jim O’Rourke (Fanning Center) on business writing rubric for evaluation of EG memos to meet ethics course requirements and practice business writing (one goal of EG is communicating principled reasoning to stakeholders).</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="32246366209" dmd:lastModified="2012-01-30T10:09:19" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|BAET|20300|">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-01-15</TERM_START>
+			<TERM_END>2011-04-30</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>283</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Completed a review of EthicsGame web-based Ethical Lens Inventory and topics-based simulations for possible adoption at the request of Dean Carolyn Woo.  The ELI and two simulations were be piloted in two sections of BAET 20300 during Spring 2011, with possible adoption across all sections in Fall 2011.  Also hosted visit by KPMG executives to participate in "Ethical Compass Toolkit" interactive case with students.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="32246511617" dmd:lastModified="2011-01-28T08:38:04" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|BAET|30520|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-01-15</TERM_START>
+			<TERM_END>2011-04-30</TERM_END>
+			<TITLE>Topics in Sustainable Business</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30520</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>26</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>Incorporation of GRI (Global Reporting Initiative) standards in sustainability reporting; final project now includes analysis of GRI and UN Global Compact participation and other standardized metrics for sustainability; collaboration with MBA-level course in sustainability.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="32246433793" dmd:lastModified="2011-01-28T08:38:21" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31" dmd:primaryKey="Fall|2010|BAET|40300|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-09-01</TERM_START>
+			<TERM_END>2010-12-31</TERM_END>
+			<TITLE>Business Ethics Field Project</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>40300</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>10</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>Development of new field projects for students each term.</PEDINN>
+			<OUTREACH>Students complete a predetermined project (using instructor template) to provide a deliverable to their selected NFP partner.  Includes a minimum of 12 hours of field work.</OUTREACH>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="32246329345" dmd:lastModified="2012-01-30T07:45:22" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31" dmd:primaryKey="Fall|2010|BAET|30300|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-09-01</TERM_START>
+			<TERM_END>2010-12-31</TERM_END>
+			<TITLE>Giving Voice to Values</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30300</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>17</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>Incorporation of material developed in one-on-one consultation with other GVV faculty at universities in the U.S., Australia and Europe, each piloting the curriculum.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="32246276097" dmd:lastModified="2011-01-28T08:03:40" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31" dmd:primaryKey="Fall|2010|BAET|20300|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-09-01</TERM_START>
+			<TERM_END>2010-12-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>252</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Continued incorporation of relevant, timely material.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="32246167553" dmd:lastModified="2011-01-28T08:03:08" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|BAET|20300|">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-01-15</TERM_START>
+			<TERM_END>2010-04-30</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>280</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Consistent and regular incorporation of timely material exploring the financial crisis and other current topics in business ethics.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="32246243329" dmd:lastModified="2011-01-25T13:08:01" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|BAET|30520|1">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-01-15</TERM_START>
+			<TERM_END>2010-04-30</TERM_END>
+			<TITLE>Topics in Sustainable Business</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30520</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>26</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Incorporation of timely material into rapidly changing course topics.  Incorporation of new standards for metrics in sustainability.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="19717953537" dmd:lastModified="2011-02-16T07:31:50" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31" dmd:primaryKey="Fall|2009|BAET|30300|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-09-01</TERM_START>
+			<TERM_END>2009-12-31</TERM_END>
+			<TITLE>Giving Voice to Values</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30300</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>13</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>Course focuses on “post decision-making” stage – developing a toolkit of decisions, actions and leadership methods to act on values in the business context.  Course is based on global curriculum developed by Mary Gentile (formerly of Harvard University, now independent consultant) in collaboration with the Aspen Institute and Yale University School of Management.  Stellar student papers to be included in a published resource of GVV cases as the “Notre Dame Collection”.  Curriculum is now taught at schools across the globe including over 100 pilot courses on five continents, and has been featured in the Financial Times, NY Times, BusinessWeek and other trade publications.  My course was the first undergraduate, dedicated elective course to incorporate the GVV curriculum.  Yale Press and Harvard Business Review will be publishing a GVV book and additional materials in 2010.  </PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="19717947393" dmd:lastModified="2011-02-16T07:31:43" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31" dmd:primaryKey="Fall|2009|BAET|20300|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-09-01</TERM_START>
+			<TERM_END>2009-12-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>132</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>c.	After a review of several leading texts in summer 09, I incorporated a new textbook for the 09-10 academic year (Audi, Business Ethics and Ethical Business, 2009, Oxford University Press).  I developed all new assignments, class presentations, and exams based on the updated materials.  In addition to providing a comprehensive introduction to the conceptual foundations of business ethics including theoretical perspectives, discussion of moral reasoning and other key ethical concepts, I created and presented the following topics of my own development to supplement the text material:
+i.	Unit on “Ethical Implications of the Financial Crisis” including up-to-date video clips, readings, in-class discussion and a written assignment that was reinforced by the first MCOB Berges Lecture in Business Ethics, which was required for all of my students
+ii.	Unit on “Sustainable Business” incorporating issues of environmental, social, and financial sustainability and meaningful community impact
+iii.	Discussion of corporate ethics statements including review of several examples and discussion of importance of codifying and integrating strategies
+iv.	Business cases from other sources including current topic of executive compensation
+v.	Explored Catholic Social Teaching and its relevance to business ethics including presentation of scholarly and official Church documents, excerpts from the papal encyclical Caritas in Veritate to which students have been introduced through the Business Law “Business as a Calling” requirement.
+vi.	Incorporated presentation of models of capitalism from an international perspective (i.e. “Nordic” capitalism as recognized in Financial Times)
+vii.	Incorporated multiple external resources to supplement the text including case studies and leadership profiles from various industries to illustrate key concepts
+</PEDINN>			<OUTREACH/>			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="11795687425" dmd:lastModified="2011-02-16T07:30:21" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|BAET|20300|">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-01-15</TERM_START>
+			<TERM_END>2009-04-30</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>197</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="11795703809" dmd:lastModified="2011-02-16T07:29:56" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|BAET|30520|">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-01-15</TERM_START>
+			<TERM_END>2009-04-30</TERM_END>
+			<TITLE>Topics in Sustainable Business</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30520</COURSENUM>
+			<SECTION/>
+			<ENROLL>24</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="11795679233" dmd:lastModified="2011-02-16T07:28:25" dmd:startDate="2008-09-01" dmd:endDate="2008-12-31" dmd:primaryKey="Fall|2008|BAET|40300|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2008</TYY_TERM>
+			<TERM_START>2008-09-01</TERM_START>
+			<TERM_END>2008-12-31</TERM_END>
+			<TITLE>Business Ethics Field Project</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>40300</COURSENUM>
+			<SECTION/>
+			<ENROLL>8</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="11795709953" dmd:lastModified="2011-02-16T07:28:15" dmd:startDate="2008-09-01" dmd:endDate="2008-12-31" dmd:primaryKey="Fall|2008|BAET|30300|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2008</TYY_TERM>
+			<TERM_START>2008-09-01</TERM_START>
+			<TERM_END>2008-12-31</TERM_END>
+			<TITLE>Giving Voice to Values</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30300</COURSENUM>
+			<SECTION/>
+			<ENROLL>8</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="11795666945" dmd:lastModified="2011-02-16T07:28:04" dmd:startDate="2008-09-01" dmd:endDate="2008-12-31" dmd:primaryKey="Fall|2008|BAET|20300|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2008</TYY_TERM>
+			<TERM_START>2008-09-01</TERM_START>
+			<TERM_END>2008-12-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>154</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<OFF_LOAD_TEACH id="91540764672" dmd:lastModified="2014-05-20T12:06:58" dmd:startDate="2014-05-15" dmd:endDate="2014-08-31">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-05-15</TERM_START>
+			<TERM_END>2014-08-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION/>
+			<ENROLL>10</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Using summer session as "test" of new components of the requires course - eliminating Ethical Lens Inventory assignment and replacing with second quiz.</PEDINN>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="89503561728" dmd:lastModified="2014-04-17T10:46:27" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Business Ethics Field Project</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>40300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>6</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Case</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN>Students facilitated all aspects of annual community outreach and funding event for the Boys and Girls Club of Saint Joseph County; classroom work included discussion of the relationship between key ethical concepts and applied community outreach for business.
+Full course description:
+Applying business skills to meaningful community-based work allows for the opportunity to develop abilities while examining issues of social justice.  The course operates from the recognition that the business sector offers tremendous potential to impact social issues.
+
+Students will apply their skills through projects with local agencies, supervisors, and clients by volunteering with a not-for-profit organization for the duration of the course.  An overview of ethical theory will be discussed as we examine the ethical dimensions of social issues.  Discussion will allow exploration of the role of business in social challenges.  The course allows for macro- (readings, cases and theoretical discussions) and micro- (direct interaction with agency staff and clients) level experience.  Written reflection and brief assignments are incorporated.
+
+The class meets once per week for ten weeks.  Service hours are completed on the student’s own time according to a schedule established with the instructor and site contact.
+</PEDINN>			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="48252440576" dmd:lastModified="2012-01-18T13:14:48" dmd:startDate="2012-05-15" dmd:endDate="2012-08-31">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-05-15</TERM_START>
+			<TERM_END>2012-08-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL/>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Hybrid</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="32286175233" dmd:lastModified="2012-01-18T13:14:06" dmd:startDate="2011-05-15" dmd:endDate="2011-08-31">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-05-15</TERM_START>
+			<TERM_END>2011-08-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>10</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="32286117889" dmd:lastModified="2012-01-30T07:45:43" dmd:startDate="2010-05-15" dmd:endDate="2010-08-31">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-05-15</TERM_START>
+			<TERM_END>2010-08-31</TERM_END>
+			<TITLE>Introduction to Business Ethics</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>20300</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>9</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<NCTEACH id="91541096448" dmd:lastModified="2014-07-11T12:57:32" dmd:startDate="2014-08-05" dmd:endDate="2014-08-12">
+			<TYPE/>
+			<TYPEOTHER/>
+			<AUDIENCE/>
+			<ORG>Notre Dame International - iSAWT Program</ORG>
+			<NUMPART>18</NUMPART>
+			<PROFACAD>Academic</PROFACAD>
+			<DESC>Taught module course, "US-Japanese Business", International Summer: America and the World Today (iSAWT), students from Keio University, Tokyo, Japan, with ND students </DESC>
+			<DTM_START>August</DTM_START>
+			<DTD_START>5</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-08-05</START_START>
+			<START_END>2014-08-05</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>12</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-08-12</END_START>
+			<END_END>2014-08-12</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</NCTEACH>
+		<NCTEACH id="93979828224" dmd:lastModified="2014-07-11T12:59:48" dmd:startDate="2014-07-15" dmd:endDate="2014-07-15">
+			<TYPE/>
+			<TYPEOTHER>Taught Course:  Introduction to Business:  Economics, Ethics and Ecology</TYPEOTHER>
+			<AUDIENCE>External to University of Notre Dame</AUDIENCE>
+			<ORG>Notre Dame International - iLED Program</ORG>
+			<NUMPART/>
+			<PROFACAD/>
+			<DESC>Taught day-long session for NDI International Leadership, Enrichment and Development Program (prospective students/talent pipeline).</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>July</DTM_END>
+			<DTD_END>15</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-07-15</END_START>
+			<END_END>2014-07-15</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</NCTEACH>
+		<NCTEACH id="91540903936" dmd:lastModified="2014-05-21T14:36:12" dmd:startDate="2014-06-19" dmd:endDate="2014-06-19">
+			<TYPE>Management/Executive Development</TYPE>
+			<TYPEOTHER/>
+			<AUDIENCE>External to University of Notre Dame</AUDIENCE>
+			<ORG>ND Executive Education</ORG>
+			<NUMPART>15</NUMPART>
+			<PROFACAD>Academic</PROFACAD>
+			<DESC>Taught session "A Perspective on U.S. and Japanese Business Ethics," ND Executive Education, Japanese Business Program: Understanding American Business &amp; Society.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END>19</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-06-19</END_START>
+			<END_END>2014-06-19</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</NCTEACH>
+		<DSL id="97629161472" dmd:lastModified="2014-10-01T09:40:29" dmd:startDate="2014-09-01">
+			<TYPE>Supervised Research</TYPE>
+			<DSL_STUDENT id="97629161473">
+				<FNAME>Katherine</FNAME>
+				<LNAME>Sylva</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Finance</SHDEP>
+			<COURSEPRE/>
+			<COURSENUM/>
+			<CHOURS/>
+			<TITLE>Sustainability Capstone:  Zero Food Waste/Global Development</TITLE>
+			<COMPSTAGE>In-Process</COMPSTAGE>
+			<COMMENT/>
+			<DTM_START>September</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-09-01</START_START>
+			<START_END>2014-09-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<DSL id="98221705216" dmd:lastModified="2014-10-01T09:42:20" dmd:startDate="2014-09-01">
+			<TYPE>Supervised Research</TYPE>
+			<DSL_STUDENT id="98221705217">
+				<FNAME>Maura</FNAME>
+				<LNAME>Kelly</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Management</SHDEP>
+			<COURSEPRE/>
+			<COURSENUM/>
+			<CHOURS/>
+			<TITLE>Sustainability Capstone:  Business Leadership Traits &amp; Sustainability</TITLE>
+			<COMPSTAGE>In-Process</COMPSTAGE>
+			<COMMENT/>
+			<DTM_START>September</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-09-01</START_START>
+			<START_END>2014-09-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<DSL id="54893682688" dmd:lastModified="2012-08-30T09:23:40" dmd:startDate="2012-06-01" dmd:endDate="2012-08-31">
+			<TYPE>Directed Individual/Independent Study</TYPE>
+			<DSL_STUDENT id="54893682689">
+				<FNAME>Ann</FNAME>
+				<LNAME>O'Brien</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Management</SHDEP>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>36002 </COURSENUM>
+			<CHOURS>1.0</CHOURS>
+			<TITLE>Directed Readings for Women in Progress Internship, Krobo, Ghana, Africa</TITLE>
+			<COMPSTAGE/>
+			<COMMENT>The project will extend Annie's exploration of issues such as the role of business in social issues and the application of business principles to help reduce poverty in developing nations.  This will contribute to Annie’s study of business by allowing her to investigate – through both literature and personal experience – the relevance of business in an increasingly interconnected global society and the function of business as a force for good.  The readings will focus on the role of business in alleviating poverty and empowering women.  These readings will include discussions of the features of successful microenterprise organizations as well as the characteristics of unsuccessful programs.  In addition, these readings will cover different strategies used to empower women through microenterprise, including microfinance, assisted implementation, etc.  </COMMENT>
+			<DTM_START>June</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-06-01</START_START>
+			<START_END>2012-06-30</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-08-01</END_START>
+			<END_END>2012-08-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<DSL id="30425280513" dmd:lastModified="2012-08-30T09:24:35" dmd:startDate="2010-01-01" dmd:endDate="2012-03-31">
+			<TYPE>Supervised Teaching Activity</TYPE>
+			<DSL_STUDENT id="30425280514">
+				<FNAME>John</FNAME>
+				<LNAME>Lytle</LNAME>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="30425280515">
+				<FNAME>Andrea</FNAME>
+				<LNAME>Green</LNAME>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="30425280516">
+				<FNAME>David</FNAME>
+				<LNAME>Donohue</LNAME>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="30425280517">
+				<FNAME>Ellen</FNAME>
+				<LNAME>Mwroka</LNAME>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="30425280518">
+				<FNAME>Anonymous - Finance student, accepted position with company, requested anonymity in case publication, co-author is Jessica McManus Warnell</FNAME>
+				<LNAME/>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="30425280512">
+				<FNAME>Kristin</FNAME>
+				<LNAME>Mannion</LNAME>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="30425280519">
+				<FNAME/>
+				<LNAME/>
+			</DSL_STUDENT>
+			<SHDEP/>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30300</COURSENUM>
+			<CHOURS>1.0</CHOURS>
+			<TITLE>6 Independently developed cases (one per student)</TITLE>
+			<COMPSTAGE>Completed</COMPSTAGE>
+			<COMMENT>Student-developed Case Study and Teaching Note published in online, international curriculum:  Giving Voice to Values (Babson College, Aspen Institute, Yale University).</COMMENT>
+			<DTM_START>January</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-01-31</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-03-01</END_START>
+			<END_END>2012-03-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<DSL id="19718031361" dmd:lastModified="2009-12-28T13:27:31" dmd:startDate="2009-08-01" dmd:endDate="2009-12-31">
+			<TYPE>Directed Individual/Independent Study</TYPE>
+			<DSL_STUDENT id="19718031362">
+				<FNAME>Maria</FNAME>
+				<LNAME>Sellers</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Management</SHDEP>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM/>
+			<CHOURS>1.0</CHOURS>
+			<TITLE>Corporate and Nonprofit Management Structures: London Field Project</TITLE>
+			<COMPSTAGE>Completed</COMPSTAGE>
+			<COMMENT>Study Abroad:  Field Site:  Moorfields Eye Hospital, Charities Office, London</COMMENT>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-08-01</START_START>
+			<START_END>2009-08-31</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-12-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<CONGRANT id="32352876545" dmd:lastModified="2011-01-28T08:35:20" dmd:startDate="2005-01-01" dmd:endDate="2006-12-31">
+			<TYPE>Grant</TYPE>
+			<TITLE>Better Way Grant in Service Learning and Community Outreach</TITLE>
+			<SPONORG>Better Way Foundation</SPONORG>
+			<AWARDORG>Private</AWARDORG>
+			<CONGRANT_INVEST id="32352876546">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</CONGRANT_INVEST>
+			<AMOUNT>5000.00</AMOUNT>
+			<ABSTRACT>Awarded and managed grant of $5000.00 to support Mendoza College of Business efforts in community-based service learning and outreach.</ABSTRACT>
+			<STATUS>Funded</STATUS>
+			<DTM_START>January</DTM_START>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-01-31</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-12-01</END_START>
+			<END_END>2006-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</CONGRANT>
+		<CONGRANT id="32352784385" dmd:lastModified="2011-01-28T08:30:43" dmd:startDate="2006-11-01" dmd:endDate="2006-11-30">
+			<TYPE>Grant</TYPE>
+			<TITLE>State Farm Service Learning Grant</TITLE>
+			<SPONORG>State Farm</SPONORG>
+			<AWARDORG>Private</AWARDORG>
+			<CONGRANT_INVEST id="32352784386">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</CONGRANT_INVEST>
+			<AMOUNT>1000.00</AMOUNT>
+			<ABSTRACT>Program Coordinator, wrote and submitted grant for $1000.00 (one of 100 awarded nationally) to implement an undergraduate and MBA student-led service learning project in collaboration with El Campito Learning Center, South Bend, and the Robinson Community Learning Center Youth Entrepreneurship Program.  Managed student coordinators and budget.</ABSTRACT>
+			<STATUS>Funded</STATUS>
+			<DTM_START>November</DTM_START>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-11-01</START_START>
+			<START_END>2006-11-30</START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END/>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-11-01</END_START>
+			<END_END>2006-11-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</CONGRANT>
+		<INTELLCONT id="30425151489" dmd:lastModified="2010-12-01T12:51:07">
+			<PUBLISHER>Journal of Business Ethics Education</PUBLISHER>
+			<TITLE>An Undergraduate Business Ethics Curriculum:  Learning and Moral Development Outcomes</TITLE>
+			<VOLUME>7, 2010</VOLUME>
+			<ISSUE>2010</ISSUE>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB/>
+			<PUB_START></PUB_START>
+			<PUB_END></PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="30425151490">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="58505877504" dmd:lastModified="2012-08-23T09:02:14">
+			<PUBLISHER>International Society of Business, Economics and Ethics</PUBLISHER>
+			<TITLE>Moral Reasoning and Learning Outcomes in Undergraduate Business Education:  A Cross-Cultural Exploration</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB/>
+			<PUB_START></PUB_START>
+			<PUB_END></PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<INTELLCONT_AUTH id="58505877505">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="58505877506">
+				<FACULTY_NAME/>
+				<FNAME>Maria Cecilia</FNAME>
+				<MNAME/>
+				<LNAME>Coutinho de Arruda</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="58505877507">
+				<FACULTY_NAME/>
+				<FNAME>Cheng</FNAME>
+				<MNAME/>
+				<LNAME>Wang</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Accepted</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="36074018817" dmd:lastModified="2012-09-04T08:40:25">
+			<PUBLISHER>John Wiley &amp; Sons</PUBLISHER>
+			<TITLE>Test and Quiz bank, Denis Collins' Business Ethics: How to Design &amp; Manage Ethical Organizations (Wiley, 2012)</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB/>
+			<PUB_START></PUB_START>
+			<PUB_END></PUB_END>
+			<CONTYPE/>
+			<CONTYPEOTHER>Authored quizzes and test bank including 60-75 exam questions (multiple choice, T/F, and essay) and 15-20 quiz questions (multiple choice, T/F) per chapter for this 12-chapter textbook.</CONTYPEOTHER>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<INTELLCONT_AUTH id="36074018818">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="99425861632" dmd:lastModified="2014-12-02T19:09:38" dmd:startDate="2015-02-01" dmd:endDate="2015-02-28">
+			<PUBLISHER>Business Expert Press</PUBLISHER>
+			<TITLE>Engaging Millennials for Ethical Leadership:  What Works for Young Professionals and Their Managers</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB>February</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2015</DTY_PUB>
+			<PUB_START>2015-02-01</PUB_START>
+			<PUB_END>2015-02-28</PUB_END>
+			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<INTELLCONT_AUTH id="99425861633">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Accepted</STATUS>
+			<WEB_ADDRESS>NEED TO ADD BOOK WEBSITE/in development</WEB_ADDRESS>
+			<ABSTRACT>In press; release date February 2015. By 2020, half of America’s workforce will be millennials; by 2050, millennials will represent 75% of the global workforce.  Corporate trainings and consultant workshops-for-hire on dealing with this influx abound, but how, specifically and with impact, can young professionals and their companies flourish?  In this era of transparency and accountability, explorations of effective organizations are inseparable from considerations of ethical leadership.  How can we best prepare the millennials for productive and positive careers?  Can managers leverage the unique skills and talents of this generation toward shared goals and business success?  Designed for millennials and their managers, we consider how we can cultivate the strengths of this generation toward a new business paradigm.  Engaging Millennials for Ethical Leadership provides strategies for optimizing performance at work, drawing on emerging research and complemented with perspectives gleaned from students at a top-tier business school and from a diverse group of corporate executives.  The book is structured around millennial capacities and inclinations, with each chapter dedicated to specific characteristics and including manager action items for each.  We explore the Giving Voice to Values framework as one promising approach to managing millennials, with its focus on enhancing our capacities for ethical action.  Through strategic attention to hiring, training and development, organizations can capitalize on the promise of these new professionals.  Companies are compelled to consider these issues for two primary reasons:  1) to attract, develop and retain top talent, these characteristics, dynamics and processes must be explored; 2) we’re in the midst of a new business paradigm, and many of the gifts and proclivities of this generation of emerging leaders can be leveraged to strengthen and grow effective, ethical organizations that will flourish in this context.  </ABSTRACT>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="86138929152" dmd:lastModified="2014-02-14T07:18:48" dmd:startDate="2014-02-01" dmd:endDate="2014-02-28">
+			<PUBLISHER>Game Theory Academy (nonprofit program for financial literacy)</PUBLISHER>
+			<TITLE>Trusting the Trust Accounts (case study)</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB>February</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2014</DTY_PUB>
+			<PUB_START>2014-02-01</PUB_START>
+			<PUB_END>2014-02-28</PUB_END>
+			<CONTYPE>Other</CONTYPE>
+			<CONTYPEOTHER>Case study co-authored with Notre Dame student John Lytle</CONTYPEOTHER>
+			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<INTELLCONT_AUTH id="86138929153">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="48979136512" dmd:lastModified="2012-09-26T18:54:33" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<PUBLISHER>Giving Voice to Values Curriculum</PUBLISHER>
+			<TITLE>Six (6) Giving Voice to Values Case Studies and Teaching Notes</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2012</DTY_PUB>
+			<PUB_START>2012-01-01</PUB_START>
+			<PUB_END>2012-12-31</PUB_END>
+			<CONTYPE>Other</CONTYPE>
+			<CONTYPEOTHER>6 cases co-authored with 6 undergraduate business students</CONTYPEOTHER>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<INTELLCONT_AUTH id="48979136513">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="48979136514">
+				<FACULTY_NAME/>
+				<FNAME>with John</FNAME>
+				<MNAME/>
+				<LNAME>Lytle</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="48979136515">
+				<FACULTY_NAME/>
+				<FNAME>with Andrea</FNAME>
+				<MNAME/>
+				<LNAME>Green</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="48979136516">
+				<FACULTY_NAME/>
+				<FNAME>with Kristin</FNAME>
+				<MNAME/>
+				<LNAME>Mannion</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="48979136517">
+				<FACULTY_NAME/>
+				<FNAME>with Ellen</FNAME>
+				<MNAME/>
+				<LNAME>Mrowka</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="48979136518">
+				<FACULTY_NAME/>
+				<FNAME>with David</FNAME>
+				<MNAME/>
+				<LNAME>Donohue</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="48979136519">
+				<FACULTY_NAME/>
+				<FNAME>with anonymous</FNAME>
+				<MNAME/>
+				<LNAME/>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS>www.givingvoicetovalues.com</WEB_ADDRESS>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="46335113217" dmd:lastModified="2014-08-27T07:59:44" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<PUBLISHER>Journal of Business Ethics Education:  Special Issue:  Giving Voice to Values</PUBLISHER>
+			<TITLE>“Ask More” of Business Education:  Giving a Voice to Values for Emerging Leaders</TITLE>
+			<VOLUME>8</VOLUME>
+			<ISSUE>2011</ISSUE>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2012</DTY_PUB>
+			<PUB_START>2012-01-01</PUB_START>
+			<PUB_END>2012-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Non-Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<INTELLCONT_AUTH id="46335113218">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT>Invited contribution to Special Issue on Giving Voice to Values curriculum.</ABSTRACT>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="46807953409" dmd:lastModified="2012-10-23T07:48:07" dmd:startDate="2012-10-01" dmd:endDate="2012-10-31">
+			<PUBLISHER>in Managing Human Resources from the Millennial Generation (William Sauser &amp; Ronald Sims, eds.); Information Age Publishing</PUBLISHER>
+			<TITLE>Giving Voice to Values:  Engaging Millennials and Managing Multigenerational Cultures</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB>October (4th Quarter/Autumn)</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2012</DTY_PUB>
+			<PUB_START>2012-10-01</PUB_START>
+			<PUB_END>2012-10-31</PUB_END>
+			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<INTELLCONT_AUTH id="46807953410">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="32246683649" dmd:lastModified="2012-09-26T18:54:02" dmd:startDate="2012-09-01" dmd:endDate="2012-09-30">
+			<PUBLISHER>SAGE: Environmental Leadership:  A Reference Handbook</PUBLISHER>
+			<TITLE>Ethics, Leadership and the Principles for Responsible Management Education (PRME):  Sustainability Matters</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB>September</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2012</DTY_PUB>
+			<PUB_START>2012-09-01</PUB_START>
+			<PUB_END>2012-09-30</PUB_END>
+			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<INTELLCONT_AUTH id="32246683650">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="32246683651">
+				<FACULTY_NAME/>
+				<FNAME>Theresa</FNAME>
+				<MNAME/>
+				<LNAME>Ricke-Kiely</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT>This chapter explores current perspectives on environmental leadership and sustainability, implications for leadership, and best practices in the context of the Principles for Responsible Management Education (PRME).  The PRME is a useful framework that allows for implementation and strengthening of initiatives toward rigorous, actionable education in sustainable business.  As business schools continue to adopt sustainability curricula in recognition of the link among decision making, leadership, and performance measures, the essential task becomes educating emerging leaders to be fluent and capable in the realm of sustainable business.  Increasingly, schools respond to the call for emerging professionals with problem solving and implementation skills in addition to conceptual knowledge.
+
+Thus, how can curricula in applied ethics – building on conceptual foundations of business ethics using cases, experiential activities, decision frameworks, peer coaching, and other real-world applications – inform sustainability education?  How do principles of authentic leadership prepare students for environmental leadership?  We define applied ethics and authentic leadership, consider their convergence within the context of the PRME, and explore this theoretical framework in the global context.  The chapter provides explicit examples of international environmental leadership in today’s organizations and concludes with suggestions for further reading.</ABSTRACT>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT_OTHER id="81762555904" dmd:lastModified="2013-11-27T07:57:32">
+			<TITLE>Edited paper and two international conference presentations with Japanese scholar</TITLE>
+			<DESC>Edited paper for submission, "A new socio-economic framework to embrace the economy, the market, the individual and society," by Prof. Toru Umeda; Edited presentation for European Business Ethics Network (EBEN) Annual international conference, "A New View of the Market and the Market Player: An Introductory Framework of Meta Socio-Economics", presented by Prof. Toru Umeda, 13 Sept 2013, Lille, France, and for the Society of Business Ethics (SBE) Annual Conference, 10 Aug 2013, Florida, USA.</DESC>
+		</INTELLCONT_OTHER>
+		<INTELLCONT_OTHER id="32352563201" dmd:lastModified="2012-01-30T07:57:39">
+			<TITLE>Giving Voice to Values Case Studies &amp; Course Development</TITLE>
+			<DESC>Developed course assignments for faculty portal of Giving Voice to Values, available to faculty at business schools globally; advised colleagues at several universities, with Mary Gentile, GVV Director, on course structure and syllabi development in new undergrad GVV courses.</DESC>
+		</INTELLCONT_OTHER>
+		<INTELLCONT_OTHER id="58742237184" dmd:lastModified="2012-09-04T07:22:33">
+			<TITLE>Respond to external inquiries regarding undergraduate ethics, sustainable business in ethics education, and related issues, including being quoted in BusinessWeek (2/2/09) on Mendoza's efforts</TITLE>
+			<DESC/>
+		</INTELLCONT_OTHER>
+		<INTELLCONT_OTHER id="58670829568" dmd:lastModified="2012-09-04T08:34:33">
+			<TITLE>Review of external products/chapters for publishers in Business Ethics (i.e. Wiley)</TITLE>
+			<DESC/>
+		</INTELLCONT_OTHER>
+		<PRESENT id="96945616896" dmd:lastModified="2014-09-01T18:11:41" dmd:startDate="2014-09-09" dmd:endDate="2014-09-09">
+			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
+			<NAME>John A. Berges Series in Business Ethics</NAME>
+			<ORG>Institute for Ethical Business Worldwide &amp; Center for Ethics and Religious Values in Business</ORG>
+			<LOCATION>Notre Dame</LOCATION>
+			<TITLE>"The Ethics of Fracking"</TITLE>
+			<PRESENT_AUTH id="96945616897">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Moderator</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="96945616898">
+				<FACULTY_NAME/>
+				<FNAME>Diogo</FNAME>
+				<MNAME/>
+				<LNAME>Bolster</LNAME>
+				<ROLE>Panelist</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="96945616899">
+				<FACULTY_NAME>117522</FACULTY_NAME>
+				<FNAME>Thomas</FNAME>
+				<MNAME>J</MNAME>
+				<LNAME>Frecka</LNAME>
+				<ROLE>Panelist</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="96945616900">
+				<FACULTY_NAME>117549</FACULTY_NAME>
+				<FNAME>Patrick</FNAME>
+				<MNAME>E</MNAME>
+				<LNAME>Murphy</LNAME>
+				<ROLE>Panelist</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Panel</MEETING_TYPE>
+			<ACADEMIC/>
+			<PRESENT_TYPE/>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>September</DTM_DATE>
+			<DTD_DATE>9</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-09-09</DATE_START>
+			<DATE_END>2014-09-09</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="91825121280" dmd:lastModified="2014-05-30T07:45:45" dmd:startDate="2014-05-29" dmd:endDate="2014-05-29">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME>Connecting Silos:  Sharing Ideas &amp; Best Practices in the Teaching of Professional &amp; Research Ethics</NAME>
+			<ORG>National Center for Professional &amp; Research Ethics</ORG>
+			<LOCATION>University of Illinois, Champaign-Urbana, IL</LOCATION>
+			<TITLE>Engaging Millennials for Ethical Leadership</TITLE>
+			<PRESENT_AUTH id="91825121281">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC/>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>National</SCOPE>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE>29</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-05-29</DATE_START>
+			<DATE_END>2014-05-29</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="85052430336" dmd:lastModified="2014-05-30T07:46:36" dmd:startDate="2014-04-11" dmd:endDate="2014-04-11">
+			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
+			<NAME>Notre Dame Alumni Association Leadership Conference</NAME>
+			<ORG/>
+			<LOCATION>Notre Dame, Indiana</LOCATION>
+			<TITLE>Engaging Millennials for Ethical Leadership</TITLE>
+			<PRESENT_AUTH id="85052430337">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC/>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>National</SCOPE>
+			<CLASSIFICATION/>
+			<ABSTRACT>Presented and led interactive workshop, including directing three MCOB student facilitators, on millennials and values in business.</ABSTRACT>
+			<DTM_DATE>April</DTM_DATE>
+			<DTD_DATE>11</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-04-11</DATE_START>
+			<DATE_END>2014-04-11</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="87934445568" dmd:lastModified="2014-04-02T11:46:32" dmd:startDate="2014-04-10" dmd:endDate="2014-04-10">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME>Liu Institute Fellows Colloquium Series</NAME>
+			<ORG>Notre Dame Liu Institute for Asia and Asian Studies</ORG>
+			<LOCATION>Notre Dame, Indiana</LOCATION>
+			<TITLE>A Perspective on Business Ethics in Japan and the United States</TITLE>
+			<PRESENT_AUTH id="87934445569">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>April</DTM_DATE>
+			<DTD_DATE>10</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-04-10</DATE_START>
+			<DATE_END>2014-04-10</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="86958286848" dmd:lastModified="2014-05-30T07:46:42" dmd:startDate="2014-03-11" dmd:endDate="2014-03-11">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME>Hesburgh Lecture</NAME>
+			<ORG>ND Alumni Club of Japan, WASEDA Business School</ORG>
+			<LOCATION>Tokyo, Japan</LOCATION>
+			<TITLE>Business Ethics Teaching and Learning</TITLE>
+			<PRESENT_AUTH id="86958286849">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC/>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT>First internationally-sponsored Hesburgh Lecture of the ND Alumni Association</ABSTRACT>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE>11</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-03-11</DATE_START>
+			<DATE_END>2014-03-11</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="85668952064" dmd:lastModified="2014-03-03T07:47:57" dmd:startDate="2014-02-28" dmd:endDate="2014-02-28">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME>Association for Practical and Professional Ethics (APPE) 23rd Annual Meeting</NAME>
+			<ORG>APPE</ORG>
+			<LOCATION>Jacksonville, FL</LOCATION>
+			<TITLE>'Fessing Up: Impact on Consumers and Employees When Companies Admit Wrongdoing</TITLE>
+			<PRESENT_AUTH id="85668952066">
+				<FACULTY_NAME>117508</FACULTY_NAME>
+				<FNAME>Edward</FNAME>
+				<MNAME>J</MNAME>
+				<LNAME>Conlon</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="85668952067">
+				<FACULTY_NAME>1494826</FACULTY_NAME>
+				<FNAME>Michael</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Kronk</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="85668952065">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>National</SCOPE>
+			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<ABSTRACT>Businesses, like people, make mistakes. Also like people, they are prone to attempt to minimize the consequences of missteps—if possible, a business will generally avoid accepting responsibility for a mistake to avoid weakening its position in potential future litigation and to deflect consumer and market fallout. Recent trends in regulation, especially SEC Chairman Mary Jo White’s policy to require admissions of wrongdoing as a condition of settlement, increasingly restrict the ability of businesses to avoid taking responsibility. But is this restriction all bad for businesses?
+Beyond legal implications, corporate admissions of wrongdoing can affect customers and employees. We review research pertinent to this question and suggest that admissions of wrongdoing might have an upside. In particular, we suggest that taking responsibility for mistakes could in some circumstances have a long-term positive impact on the trust of customers as well as the culture and attitudes of employees. We draw on the fields of management, marketing and psychology as well as specific business case examples to examine this possibility. We also identify a number of interesting unanswered questions that might be addressed by future research.</ABSTRACT>
+			<DTM_DATE>February</DTM_DATE>
+			<DTD_DATE>28</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-02-28</DATE_START>
+			<DATE_END>2014-02-28</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75427708928" dmd:lastModified="2013-07-17T22:14:15" dmd:startDate="2013-10-18" dmd:endDate="2013-10-18">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME>20th Annual International Vincentian Business Ethics Conference</NAME>
+			<ORG>DePaul University</ORG>
+			<LOCATION>Chicago, Illinois</LOCATION>
+			<TITLE>Unpacking the Millenial Mystery: Business Ethics and Working with Generational Differences in the Classroom and Corporation</TITLE>
+			<PRESENT_AUTH id="75427708929">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75427708930">
+				<FACULTY_NAME/>
+				<FNAME>M. Adam</FNAME>
+				<MNAME/>
+				<LNAME>Kronk</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>National</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE>18</DTD_DATE>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-10-18</DATE_START>
+			<DATE_END>2013-10-18</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="74723180544" dmd:lastModified="2013-07-16T23:08:07" dmd:startDate="2013-06-29" dmd:endDate="2013-06-29">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME/>
+			<ORG>Business Ethics and Compliance Research Center, Reitaku University</ORG>
+			<LOCATION>Kashiwa, Chiba, Japan</LOCATION>
+			<TITLE>The Notre Dame Approach to Business Ethics and Trends in U.S. Business Ethics Education</TITLE>
+			<PRESENT_AUTH id="74723180545">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Seminar</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE>29</DTD_DATE>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-06-29</DATE_START>
+			<DATE_END>2013-06-29</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="58600175616" dmd:lastModified="2013-07-16T23:08:25" dmd:startDate="2013-03-02" dmd:endDate="2013-03-02">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME>Association for Applied and Professional Ethics (APPE) 22nd Annual Meeting</NAME>
+			<ORG>APPE</ORG>
+			<LOCATION>San Antonio, TX</LOCATION>
+			<TITLE>Assessing Moral Sensitivity</TITLE>
+			<PRESENT_AUTH id="58600175618">
+				<FACULTY_NAME/>
+				<FNAME>Deborah</FNAME>
+				<MNAME/>
+				<LNAME>Mower</LNAME>
+				<ROLE>Leader</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="58600175617">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Panelist</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="58600175619">
+				<FACULTY_NAME/>
+				<FNAME>David</FNAME>
+				<MNAME/>
+				<LNAME>McGraw</LNAME>
+				<ROLE>Panelist</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Panel</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION/>
+			<ABSTRACT>Moral sensitivity is variously defined as the ability to interpret and identify the moral issues and dilemmas in a situation or the ability to interpret moral aspects of a situation and how they will affect the welfare of another.
+On one interpretation, moral sensitivity seems akin to moral perception, while on the other, akin to empathy. What is the nature of moral sensitivity? How is it related to moral knowledge? What kind of ability is it? How does it develop? How can it be measured? What empirical tests capture its development and what are the implications of this empirical work for moral education?</ABSTRACT>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE>2</DTD_DATE>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-03-02</DATE_START>
+			<DATE_END>2013-03-02</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="64141211648" dmd:lastModified="2013-07-16T23:08:39" dmd:startDate="2013-03-01" dmd:endDate="2013-03-01">
+			<PRESENTATION_TYPE>Demonstration</PRESENTATION_TYPE>
+			<NAME>Association for Practical and Professional Ethics (APPE) 22nd Annual Meeting</NAME>
+			<ORG>APPE</ORG>
+			<LOCATION>San Antonio, TX</LOCATION>
+			<TITLE>Unpacking the Millennial Mystery: Business Ethics and Working with Generational Differences in the Classroom and the Corporation</TITLE>
+			<PRESENT_AUTH id="64141211649">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="64141211650">
+				<FACULTY_NAME/>
+				<FNAME>M. Adam</FNAME>
+				<MNAME/>
+				<LNAME>Kronk</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT>Increasing attention in corporate training and development focuses on unique challenges and opportunities associated with engaging Millennial professionals, especially with an eye toward their contribution to effective, ethical organizations.  At the same time, business schools continue to develop strategies in applied, relevant and meaningful ethics education.  The growing importance of ethics education in business schools is no secret, and the need for meaningful application of theoretical considerations is as high as ever.  This presentation highlights ethics education in one undergraduate business program, including a dedicated course on “Managing and Millennials,” and the capacity of ethics education for developing the next generation of effective, values-based business leaders.  We discuss promising strategies of engaging Millennials for ethical leadership in the corporate context, complemented with perspectives gleaned from students and from corporate executives.
+
+</ABSTRACT>			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE>1</DTD_DATE>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-03-01</DATE_START>
+			<DATE_END>2013-03-01</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="60415016960" dmd:lastModified="2014-05-30T07:47:07" dmd:startDate="2013-01-14" dmd:endDate="2013-01-14">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME>Responsibilities and Ethics in the Conduct of Research</NAME>
+			<ORG>Notre Dame Graduate School and Office of Research</ORG>
+			<LOCATION>South Bend, Indiana</LOCATION>
+			<TITLE>"Recognizing and Approaching an Ethical Problem"</TITLE>
+			<PRESENT_AUTH id="60415016961">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Workshop</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT>Presentation to 400 first-year doctoral students students from all disciplines; required workshop on responsible conduct of research and ethics for incoming students.</ABSTRACT>
+			<DTM_DATE>January</DTM_DATE>
+			<DTD_DATE>14</DTD_DATE>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-01-14</DATE_START>
+			<DATE_END>2013-01-14</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="60568981504" dmd:lastModified="2012-10-15T07:23:33" dmd:startDate="2012-11-15" dmd:endDate="2012-11-15">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>Congreso ALENE 2012, Universidad del Salvador</NAME>
+			<ORG>ALENE: Latin American Association for Business, Economics, and Ethics</ORG>
+			<LOCATION>Buenos Aires, Argentina</LOCATION>
+			<TITLE>Moral Reasoning and Learning Outcomes in Undergraduate Business Education:  A Cross-Cultural Exploration</TITLE>
+			<PRESENT_AUTH id="60568981506">
+				<FACULTY_NAME/>
+				<FNAME>Maria Cecilia</FNAME>
+				<MNAME/>
+				<LNAME>Coutinho de Arruda</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="60568981505">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="60568981507">
+				<FACULTY_NAME/>
+				<FNAME>Cheng</FNAME>
+				<MNAME/>
+				<LNAME>Wang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>November</DTM_DATE>
+			<DTD_DATE>15</DTD_DATE>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-11-15</DATE_START>
+			<DATE_END>2012-11-15</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="49520629760" dmd:lastModified="2012-08-23T08:38:36" dmd:startDate="2012-08-04" dmd:endDate="2012-08-04">
+			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
+			<NAME>Academy of Management Annual Meeting</NAME>
+			<ORG>AOM</ORG>
+			<LOCATION>Boston, MA</LOCATION>
+			<TITLE>AOM PDW:  Lessons Learned on the Front Line:  Working with the “Giving Voice to Values” Case Method</TITLE>
+			<PRESENT_AUTH id="49520629762">
+				<FACULTY_NAME/>
+				<FNAME>Stacie</FNAME>
+				<MNAME/>
+				<LNAME>Chappell</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="49520629761">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="49520629763">
+				<FACULTY_NAME/>
+				<FNAME>Mark</FNAME>
+				<MNAME/>
+				<LNAME>Edwards</LNAME>
+				<ROLE>Other</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="49520629764">
+				<FACULTY_NAME/>
+				<FNAME>Mary</FNAME>
+				<MNAME/>
+				<LNAME>Gentile</LNAME>
+				<ROLE>Other</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="49520629765">
+				<FACULTY_NAME/>
+				<FNAME>Leigh</FNAME>
+				<MNAME/>
+				<LNAME>Hafrey</LNAME>
+				<ROLE>Other</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="49520629766">
+				<FACULTY_NAME/>
+				<FNAME>Mary</FNAME>
+				<MNAME/>
+				<LNAME>Shapiro</LNAME>
+				<ROLE>Other</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Workshop</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT>This PDW is based on the innovative Giving Voice to Values (GVV) curriculum
+and designed as a ‘train the trainer’ workshop for facilitating a GVV case study. The GVV
+curriculum is an applied approach to the study and practice of ethics that focuses on empowering
+participants to act on their values when they encounter a values conflict. It has been used in over
+150 schools on five continents (including Harvard, INSEAD and MIT) and is well received by
+students because of its practical and action-oriented approach.</ABSTRACT>
+			<DTM_DATE>August</DTM_DATE>
+			<DTD_DATE>4</DTD_DATE>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-08-04</DATE_START>
+			<DATE_END>2012-08-04</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="58507790336" dmd:lastModified="2012-08-23T09:06:04" dmd:startDate="2012-07-14" dmd:endDate="2012-07-14">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>Fifth ISBEE World Congress</NAME>
+			<ORG>International Society of Business, Economics and Ethics</ORG>
+			<LOCATION>Kozminski University, Warsaw, Poland</LOCATION>
+			<TITLE>Moral Reasoning and Learning Outcomes in Undergraduate Business Education:  A Cross-Cultural Exploration</TITLE>
+			<PRESENT_AUTH id="58507790337">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="58507790338">
+				<FACULTY_NAME/>
+				<FNAME>Maria Cecilia</FNAME>
+				<MNAME/>
+				<LNAME>Coutinho de Arruda</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="58507790339">
+				<FACULTY_NAME/>
+				<FNAME>Cheng</FNAME>
+				<MNAME/>
+				<LNAME>Wang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Conference</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT>The paper explores findings of an assessment of moral reasoning and learning outcomes associated with undergraduate business ethics in schools from two diverse contexts, the United States and Brazil, including a required course in conceptual foundations of business ethics and optional elective courses.  Findings of the longitudinal study indicate empirical support for applied curricula and a rubric based on the Four Component Model of Morality (Rest and Narvaez, 1999) is presented as one promising and productive framework.  The paper explores approaches with potential for developing emerging business leaders with proclivity toward and capacity for ethical leadership, and discusses the role of institutional support for student development in the area of business ethics.</ABSTRACT>
+			<DTM_DATE>July</DTM_DATE>
+			<DTD_DATE>14</DTD_DATE>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-07-14</DATE_START>
+			<DATE_END>2012-07-14</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="46806865921" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2012-06-18" dmd:endDate="2012-06-18">
+			<NAME>8th International Symposium on Catholic Social Thought and Management Education:  Renewing Mission and Identity in Catholic Business Education</NAME>
+			<ORG>John A. Ryan Institute for Catholic Social Thought at the Center for Catholic Studies, University of St. Thomas; University of Dayton</ORG>
+			<LOCATION>University of Dayton, Dayton, OH</LOCATION>
+			<TITLE>Reinforcing Student’s Core Ethical Commitments through Emphasis of Catholic Social Thought</TITLE>
+			<PRESENT_AUTH id="46806865923">
+				<FACULTY_NAME/>
+				<FNAME>Catharyn</FNAME>
+				<MNAME>A.</MNAME>
+				<LNAME>Baird</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="46806865922">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE>18</DTD_DATE>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-06-18</DATE_START>
+			<DATE_END>2012-06-18</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="55167340544" dmd:lastModified="2012-05-23T07:56:07" dmd:startDate="2012-05-15" dmd:endDate="2012-05-15">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME/>
+			<ORG>Dean of the Undergraduate Program for Business Administration &amp; Assurance of Learning Faculty Committee toward AACSB ethics requirements, FGV-EAESP</ORG>
+			<LOCATION> Fundação Getulio Vargas-School of Business Administration of São Paulo, São Paulo, Brazil</LOCATION>
+			<TITLE>Competencies Related to Ethics</TITLE>
+			<PRESENT_AUTH id="55167340546">
+				<FACULTY_NAME/>
+				<FNAME>Maria </FNAME>
+				<MNAME/>
+				<LNAME>Cecilia Arruda</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="55167340545">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Other</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT>Presentation to curriculum committee at FGV-EAESP, Sao Paulo, Brazil, presented by Maria Cecilia Arruda.  Presented ND-MCOB's model - a curricular approach to undergraduate ethics focusing on the three objectives of moral sensitivity/awareness, knowledge, and judgment/action/behavior.  Goal to develop preference based on moral principles versus social conventions or personal interests when making a moral judgment.</ABSTRACT>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE>15</DTD_DATE>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-05-15</DATE_START>
+			<DATE_END>2012-05-15</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="48291661824" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2012-01-26" dmd:endDate="2012-01-26">
+			<NAME>Innovating Ethics Pedagogy in the Classroom and the Corporation:  A Forum about What Works, What’s New, and What’s Possible</NAME>
+			<ORG>Notre Dame Deloitte Center for Ethical Leadership</ORG>
+			<LOCATION/>
+			<TITLE>B-School Curricula: What We Do, How We Measure Its Impact, and What Could Be Added</TITLE>
+			<PRESENT_AUTH id="48291661825">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="48291661826">
+				<FACULTY_NAME/>
+				<FNAME>Joe</FNAME>
+				<MNAME/>
+				<LNAME>Holt</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<ACADEMIC/>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE/>
+			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>January</DTM_DATE>
+			<DTD_DATE>26</DTD_DATE>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-01-26</DATE_START>
+			<DATE_END>2012-01-26</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="42760015873" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2011-11-15" dmd:endDate="2011-11-15">
+			<NAME>Guest Lecture - Belles Bridges Alumni Speaker Series</NAME>
+			<ORG>Saint Mary's College</ORG>
+			<LOCATION>Notre Dame, IN</LOCATION>
+			<TITLE>Careers in Applied Sociology</TITLE>
+			<PRESENT_AUTH id="42760015874">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<ACADEMIC/>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>Local</SCOPE>
+			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>November</DTM_DATE>
+			<DTD_DATE>15</DTD_DATE>
+			<DTY_DATE>2011</DTY_DATE>
+			<DATE_START>2011-11-15</DATE_START>
+			<DATE_END>2011-11-15</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="42823462913" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2011-10-26" dmd:endDate="2011-10-26">
+			<NAME>18th Annual International Business Ethics Conference</NAME>
+			<ORG>St. John's Universities/Vincentian Universities in the United States</ORG>
+			<LOCATION>New York, NY</LOCATION>
+			<TITLE>Giving Voice to Values in Management Education</TITLE>
+			<PRESENT_AUTH id="42823462914">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE>26</DTD_DATE>
+			<DTY_DATE>2011</DTY_DATE>
+			<DATE_START>2011-10-26</DATE_START>
+			<DATE_END>2011-10-26</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="30864316417" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2011-03-04" dmd:endDate="2011-03-04">
+			<NAME>Association for Applied and Professional Ethics (APPE) Annual Meeting</NAME>
+			<ORG>APPE</ORG>
+			<LOCATION>Cincinnati, OH</LOCATION>
+			<TITLE>An Undergraduate Business Ethics Curriculum:  Learning and Moral Development Outcomes</TITLE>
+			<PRESENT_AUTH id="30864316418">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>National</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE>4</DTD_DATE>
+			<DTY_DATE>2011</DTY_DATE>
+			<DATE_START>2011-03-04</DATE_START>
+			<DATE_END>2011-03-04</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="30425378817" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2010-10-02" dmd:endDate="2010-10-02">
+			<NAME>Saint Mary's College</NAME>
+			<ORG>Center for Women's InterCultural Leadership</ORG>
+			<LOCATION>Notre Dame, Indiana</LOCATION>
+			<TITLE>Ethics, Leadership and Sustainability in Business Education:  Implications of Identity and Pedagogical Considerations</TITLE>
+			<PRESENT_AUTH id="30425378818">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="30425378819">
+				<FACULTY_NAME/>
+				<FNAME>Theresa</FNAME>
+				<MNAME/>
+				<LNAME>Ricke-Kiely</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE>2</DTD_DATE>
+			<DTY_DATE>2010</DTY_DATE>
+			<DATE_START>2010-10-02</DATE_START>
+			<DATE_END>2010-10-02</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="58669623296" dmd:lastModified="2012-08-30T08:25:12" dmd:startDate="2010-09-22" dmd:endDate="2010-09-22">
+			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
+			<NAME>Colloquia Presentation in Sustainability Through the Catholic Social Tradition (Bill Purcell, Rachel Novak, Instructors)</NAME>
+			<ORG/>
+			<LOCATION/>
+			<TITLE>Sustainable Business</TITLE>
+			<PRESENT_AUTH id="58669623297">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="58669623298">
+				<FACULTY_NAME/>
+				<FNAME>SB Mayor Steven</FNAME>
+				<MNAME/>
+				<LNAME>Luecke</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="58669623299">
+				<FACULTY_NAME/>
+				<FNAME/>
+				<MNAME/>
+				<LNAME/>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Session</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>Local</SCOPE>
+			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>September</DTM_DATE>
+			<DTD_DATE>22</DTD_DATE>
+			<DTY_DATE>2010</DTY_DATE>
+			<DATE_START>2010-09-22</DATE_START>
+			<DATE_END>2010-09-22</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="11795773441" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2007-03-17" dmd:endDate="2007-03-17">
+			<NAME>Callings: Fostering Vocation through Community-Based Learning Conference</NAME>
+			<ORG>Santa Clara University</ORG>
+			<LOCATION>Santa Clara, CA</LOCATION>
+			<TITLE>Business Education, Ethics and Community-Based Learning: A Three-Year Longitudinal Study</TITLE>
+			<PRESENT_AUTH id="11795773442">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE>17</DTD_DATE>
+			<DTY_DATE>2007</DTY_DATE>
+			<DATE_START>2007-03-17</DATE_START>
+			<DATE_END>2007-03-17</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="11795820545" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2006-07-01" dmd:endDate="2006-07-31">
+			<NAME>Association for Moral Education International Conference</NAME>
+			<ORG>AME</ORG>
+			<LOCATION>Fribourg, Switzerland</LOCATION>
+			<TITLE>Integrated Ethical Development in Business Education: A Longitudinal Study</TITLE>
+			<PRESENT_AUTH id="11795820547">
+				<FACULTY_NAME/>
+				<FNAME>Jay</FNAME>
+				<MNAME>W.</MNAME>
+				<LNAME>Brandenberger</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="11795820546">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="11795820548">
+				<FACULTY_NAME/>
+				<FNAME>Annie</FNAME>
+				<MNAME>Cahill</MNAME>
+				<LNAME>Kelly</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<ACADEMIC/>
+			<PRESENT_TYPE/>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>July</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2006</DTY_DATE>
+			<DATE_START>2006-07-01</DATE_START>
+			<DATE_END>2006-07-31</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="11795847169" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2004-06-01" dmd:endDate="2004-06-30">
+			<NAME>Wellsprings of Wisdom Annual Conference</NAME>
+			<ORG>Saint Mary's College - Center for Women's InterCultural Leadership</ORG>
+			<LOCATION>Notre Dame, Indiana</LOCATION>
+			<TITLE>Turning Violence Around in Our Communities</TITLE>
+			<PRESENT_AUTH id="11795847170">
+				<FACULTY_NAME>341858</FACULTY_NAME>
+				<FNAME>Jessica</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McManus Warnell</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<ACADEMIC/>
+			<PRESENT_TYPE/>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2004</DTY_DATE>
+			<DATE_START>2004-06-01</DATE_START>
+			<DATE_END>2004-06-30</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<RESPROG id="98416185344" dmd:lastModified="2014-12-03T06:09:40">
+			<TITLE>Comparative Book Review: Business Ethics by Linda Trevino and Business Ethics by Denis Collins</TITLE>
+			<DESC>Invited review.  </DESC>
+			<RESPROG_COLL id="98416185345">
+				<NAME/>
+				<INSTITUTION/>
+			</RESPROG_COLL>
+			<STATUS/>
+			<JOURNAL_NAME>(Accepted) Journal of Nonprofit Education and Leadership</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="84286990336" dmd:lastModified="2014-01-26T13:14:10">
+			<TITLE>Fessing Up: Impact on Consumers and Employees When Companies Admit Wrongdoing</TITLE>
+			<DESC>Businesses, like people, make mistakes. Also like people, they are prone to attempt to minimize the consequences of missteps—if possible, a business will generally avoid accepting responsibility for a mistake to avoid weakening its position in potential future litigation and to deflect consumer and market fallout. Recent trends in regulation, especially SEC Chairman Mary Jo White’s policy to require admissions of wrongdoing as a condition of settlement, increasingly restrict the ability of businesses to avoid taking responsibility. But is this restriction all bad for businesses?
+Beyond legal implications, corporate admissions of wrongdoing can affect customers and employees. We review research pertinent to this question and suggest that admissions of wrongdoing might have an upside. In particular, we suggest that taking responsibility for mistakes could in some circumstances have a long-term positive impact on the trust of customers as well as the culture and attitudes of employees. We draw on the fields of management, marketing and psychology as well as specific business case examples to examine this possibility. We also identify a number of interesting unanswered questions that might be addressed by future research.
+
+</DESC>			<RESPROG_COLL id="84286990337">				<NAME>with Ed Conlon</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="84286990338">
+				<NAME>M. Adam Kronk</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Working Paper, Not submitted</STATUS>
+			<JOURNAL_NAME/>
+			<RESEARCH_TYPE>Professional</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="48251389952" dmd:lastModified="2012-01-18T13:11:12">
+			<TITLE>Moral Reasoning and Learning Outcomes in Undergraduate Business Education:  A Cross-Cultural Exploration</TITLE>
+			<DESC>The paper explores findings of an assessment of moral reasoning and learning outcomes associated with undergraduate business ethics courses in schools from two diverse contexts, the United States and Brazil, including a required course in conceptual foundation of business ethics and an optional elective course in values-based decision-making.  Findings of the longitudinal study indicate empirical support for applied business curricula, broadly, and for the purposes of our exploration, specifically, the Giving Voice to Values  program of study.  The paper provides tangible examples of curricular approaches with potential for developing emerging business leaders with the proclivity toward and capacity for ethical leadership.</DESC>
+			<RESPROG_COLL id="48251389953">
+				<NAME>with Maria Cecilia Coutinho de Arruda</NAME>
+				<INSTITUTION>FGV-EAESP, São Paulo, Brazil</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Submitted</STATUS>
+			<JOURNAL_NAME>ISBEE (International Society of Business, Economics and Ethics) - Presentation and Publications</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="84286881792" dmd:lastModified="2014-12-03T06:10:29">
+			<TITLE>Perspectives on Business Ethics in the Japanese Tradition:  Implications for Global Understanding of the Role of Business in Society</TITLE>
+			<DESC>(Accepted for presentation, APPE Annual Conference Feb. 2015) The paper examines how exploring conceptual approaches to business ethics from the Japanese tradition can enhance our global approach to social and environmental sustainability, including discussion of a framework for understanding the embeddedness of the business in society.  We explore several important attempts to provide a universal business ethic, and examine contributions of Japanese thought to these frameworks.  Considering the traditional approaches of sanpoyoshi, or tri-directional business (impacting the buyer, seller, and society), and kyosei, which can mean “living and working together for the common good”, the research explores the relationships between the private sector, government, and civil society.  Further, we examine the related notion of moralogy, which has been described as a virtue-based stakeholder approach to business.  We suggest that these concepts promote adopting the conception of the “homo socio-economicus” model by combining elements of the “homo economicus” and the “homo reciprocans.”  Through interviews with Japanese scholars and practitioners and exploration of Japanese cultural traditions, we present an overview of these approaches.  With this perspective, we cite the case of the Tohoku earthquake and Fukushima nuclear disaster as one illustrative example.  We hope that this understanding of the embeddedness of business in society based on Japanese experience can contribute to a global conception of the role of business in society, relevant for the United States as well.</DESC>
+			<RESPROG_COLL id="84286881793">
+				<NAME>with Toru Umeda</NAME>
+				<INSTITUTION>Reitaku University, Kashiwa, Chiba, Japan</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Working Paper, Not submitted</STATUS>
+			<JOURNAL_NAME/>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="58670233600" dmd:lastModified="2014-12-03T06:10:44">
+			<TITLE>Reinforcing Students' Core Ethical Commitments through emphasis of Catholic Social Thought</TITLE>
+			<DESC>Submitted to the Journal of Catholic Higher Education</DESC>
+			<RESPROG_COLL id="58670233601">
+				<NAME>with Catharyn Baird</NAME>
+				<INSTITUTION>Regis University</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Resubmitted</STATUS>
+			<JOURNAL_NAME/>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<OFF_SHORE id="85309181952" dmd:lastModified="2014-01-29T07:27:21" dmd:startDate="2013-03-01">
+			<UNIVERSITY>Reitaku University</UNIVERSITY>
+			<COUNTRY>Japan</COUNTRY>
+			<PURPOSE>Research collaboration</PURPOSE>
+			<ACTIVITY>Research collaborations with off-shore coauthors</ACTIVITY>
+			<DTM_START>March</DTM_START>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-03-01</START_START>
+			<START_END>2013-03-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<DISPLAY_WEB>Yes</DISPLAY_WEB>
+		</OFF_SHORE>
+		<OFF_SHORE id="85309177856" dmd:lastModified="2014-01-29T07:26:56" dmd:startDate="2014-03-06" dmd:endDate="2014-03-15">
+			<UNIVERSITY>Business Ethics and Compliance Research Center, Reitaku University, Kashiwa, Chiba, Japan</UNIVERSITY>
+			<COUNTRY>Japan</COUNTRY>
+			<PURPOSE>Research collaboration</PURPOSE>
+			<ACTIVITY>Research collaborations with off-shore coauthors</ACTIVITY>
+			<DTM_START>March</DTM_START>
+			<DTD_START>6</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-03-06</START_START>
+			<START_END>2014-03-06</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>15</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-03-15</END_START>
+			<END_END>2014-03-15</END_END>
+			<DISPLAY_WEB>Yes</DISPLAY_WEB>
+		</OFF_SHORE>
+		<OFF_SHORE id="85309202432" dmd:lastModified="2014-03-03T07:48:55" dmd:startDate="2014-03-11" dmd:endDate="2014-03-11">
+			<UNIVERSITY>Notre Dame Club of Japan - Presented Hesburgh Lecture, "Business Ethics Teaching and Learning" - first internationally offered Hesburgh Lecture of the ND Alumni Association</UNIVERSITY>
+			<COUNTRY>Japan</COUNTRY>
+			<PURPOSE/>
+			<ACTIVITY>Other professional activities in off-shore venues</ACTIVITY>
+			<DTM_START>March</DTM_START>
+			<DTD_START>11</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-03-11</START_START>
+			<START_END>2014-03-11</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>11</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-03-11</END_START>
+			<END_END>2014-03-11</END_END>
+			<DISPLAY_WEB/>
+		</OFF_SHORE>
+		<OFF_SHORE id="85309153280" dmd:lastModified="2014-01-29T07:25:44" dmd:startDate="2013-03-27" dmd:endDate="2013-07-28">
+			<UNIVERSITY>Teaching and Research Fellow, Business Ethics and Compliance Research Center, Reitaku University, Kashiwa, Chiba, Japan</UNIVERSITY>
+			<COUNTRY>Japan</COUNTRY>
+			<PURPOSE>Research collaboration</PURPOSE>
+			<ACTIVITY/>
+			<DTM_START>March</DTM_START>
+			<DTD_START>27</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-03-27</START_START>
+			<START_END>2013-03-27</START_END>
+			<DTM_END>July</DTM_END>
+			<DTD_END>28</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-07-28</END_START>
+			<END_END>2013-07-28</END_END>
+			<DISPLAY_WEB>Yes</DISPLAY_WEB>
+		</OFF_SHORE>
+		<OFF_SHORE id="85309239296" dmd:lastModified="2014-01-29T07:33:02" dmd:startDate="2012-07-14" dmd:endDate="2012-07-14">
+			<UNIVERSITY>Kozminski University, 5th World Congress, International Society of Business, Economics and Ethics (ISBEE), Warsaw</UNIVERSITY>
+			<COUNTRY>Poland</COUNTRY>
+			<PURPOSE>Conference</PURPOSE>
+			<ACTIVITY>Presentations at off-shore conferences or universities</ACTIVITY>
+			<DTM_START>July</DTM_START>
+			<DTD_START>14</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-07-14</START_START>
+			<START_END>2012-07-14</START_END>
+			<DTM_END>July</DTM_END>
+			<DTD_END>14</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-07-14</END_START>
+			<END_END>2012-07-14</END_END>
+			<DISPLAY_WEB/>
+		</OFF_SHORE>
+		<SERVICE_DEPARTMENT id="83897942016" dmd:lastModified="2014-01-13T09:21:58" dmd:startDate="2013-07-01">
+			<ORG>Provided course overview, course prep and other materials to three new instructors of required ethics course, BAET 20300.</ORG>
+			<ROLE>Faculty Mentor</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>July</DTM_START>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-07-01</START_START>
+			<START_END>2013-07-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="62373793792" dmd:lastModified="2012-11-15T11:22:57" dmd:startDate="2012-11-14" dmd:endDate="2012-11-14">
+			<ORG>Participated in one-on-one meeting with candidate interviewing with the Department; provided feedback to Chair on the candidate</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>November</DTM_START>
+			<DTD_START>14</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-11-14</START_START>
+			<START_END>2012-11-14</START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>14</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-11-14</END_START>
+			<END_END>2012-11-14</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_COLLEGE id="32286816257" dmd:lastModified="2011-01-28T08:09:40">
+			<ORG>Campus recruiting/case studies</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Facilitated visits by executives from KPMG, Deloitte and Johnson &amp; Johnson, coordinated group and individual meetings with students studying business ethics. 1-2 visits per semester, 2008 - present</ROLEOTHER>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="58573103104" dmd:lastModified="2012-08-25T08:45:22">
+			<ORG>Informal advising to and ongoing support of the Notre Dame Deloitte Center for Ethical Leadership</ORG>
+			<ROLE/>
+			<ROLEOTHER>Facilitated introductions to and relationships with two members of the NDDCEL Advisory Board, Professors Mary Gentile and Christopher Adkins; facilitated NDDCEL sponsorship of guest lectures and other opportunities</ROLEOTHER>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="98369587200" dmd:lastModified="2014-10-03T14:11:36" dmd:startDate="2014-10-01">
+			<ORG>Committee to organize Impact Investing workshop</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>October</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-10-01</START_START>
+			<START_END>2014-10-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="59029807104" dmd:lastModified="2012-09-11T09:10:18" dmd:startDate="2008-08-01">
+			<ORG>Informal advising to students considering careers with explicit ethics, sustainable business and/or social impact functions; other student advising as needed</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-08-01</START_START>
+			<START_END>2008-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="59029790720" dmd:lastModified="2012-09-11T09:10:28" dmd:startDate="2008-08-01">
+			<ORG>Write student recommendation letters for internships, master's programs and other opportunities; average 3-5 per semester</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-08-01</START_START>
+			<START_END>2008-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="48252878848" dmd:lastModified="2012-01-18T13:20:06" dmd:startDate="2008-01-01">
+			<ORG>Value Lines publication committee - Assist with preparation of monthly newsletter for MCOB community</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="19717988353" dmd:lastModified="2012-08-25T08:46:35" dmd:startDate="2004-02-01">
+			<ORG>Ethics Week </ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER>3-member team; in addition, co-presented Ethics Week Lecture with Brian Levey, February 2010</ROLEOTHER>
+			<DTM_START>February</DTM_START>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-02-01</START_START>
+			<START_END>2004-02-28</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="19717992449" dmd:lastModified="2014-11-19T10:44:00" dmd:startDate="2000-08-01">
+			<ORG>Berges Lecture Series in Business Ethics</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER>Including hosting guest speakers and small group student dinners with guests</ROLEOTHER>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-08-01</START_START>
+			<START_END>2000-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="30503628801" dmd:lastModified="2012-09-11T09:11:23" dmd:startDate="2000-08-01">
+			<ORG>Sustainability and Community-Based Learning (resource)</ORG>
+			<ROLE/>
+			<ROLEOTHER>Recognized as a resource by colleagues in area of community consulting projects and other outreach activities; partner with Center for Social Concerns to identify and promote faculty and student engagement activities; Founding member of informal College faculty and operations group dedicated to exploring CSR in the curriculum and operations of the College.  BAET 30520 course is included in list of elective options for new Notre Dame minor in sustainability</ROLEOTHER>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-08-01</START_START>
+			<START_END>2000-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="76741574656" dmd:lastModified="2013-08-24T16:50:32" dmd:startDate="2013-08-24" dmd:endDate="2013-08-24">
+			<ORG>Participation in First Year Orientation</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START>August</DTM_START>
+			<DTD_START>24</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-08-24</START_START>
+			<START_END>2013-08-24</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>24</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-08-24</END_START>
+			<END_END>2013-08-24</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="58635737088" dmd:lastModified="2012-09-11T09:11:58" dmd:startDate="2012-08-01" dmd:endDate="2012-10-31">
+			<ORG>Assisted with Assurance of Learning project (2012) for AACSB Maintenance of Accreditation - Coordinated MCOB response to Learning Goal #5, Undergraduate Ethics Education</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Provided report:  Assessment/Documentation on objectives for required ethics course</ROLEOTHER>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-08-01</START_START>
+			<START_END>2012-08-31</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-10-01</END_START>
+			<END_END>2012-10-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="41616117761" dmd:lastModified="2011-09-22T13:02:27" dmd:startDate="2011-09-29" dmd:endDate="2012-09-29">
+			<ORG>Guest Lecture - MGT 40490: Business Problem Solving course</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Presented guest lecture on sustainable business models &amp; reporting frameworks including the GRI</ROLEOTHER>
+			<DTM_START>September</DTM_START>
+			<DTD_START>29</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-09-29</START_START>
+			<START_END>2011-09-29</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>29</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-09-29</END_START>
+			<END_END>2012-09-29</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="48242644992" dmd:lastModified="2012-08-25T09:14:00" dmd:startDate="2012-03-22" dmd:endDate="2012-03-22">
+			<ORG>Coordinated guest presentation, To Investigate Or Not - What Are The Ethical And Legal Risks And Rewards Facing A Corporation Conducting Internal Investigations?" by John G. Rahie (Managing Partner, Freeh Sporkin &amp; Sullivan)</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Coordinated all aspects of guest presentation by attorney investigating Penn State 2011 scandal among other high-profile cases with ethical dimensions - sponsored by the ND Deloitte Center for Ethical Leadership</ROLEOTHER>
+			<DTM_START>March</DTM_START>
+			<DTD_START>22</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-03-22</START_START>
+			<START_END>2012-03-22</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>22</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-03-22</END_START>
+			<END_END>2012-03-22</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="35585492993" dmd:lastModified="2012-01-30T08:06:29" dmd:startDate="2011-04-01" dmd:endDate="2011-05-31">
+			<ORG>MBA Orientation</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Consulted on design of "Integrity" exercise for MBA Orientation - developed in coordination with the "Giving Voice to Values" program of study</ROLEOTHER>
+			<DTM_START>April</DTM_START>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-04-01</START_START>
+			<START_END>2011-04-30</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-05-01</END_START>
+			<END_END>2011-05-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="36073951233" dmd:lastModified="2012-09-11T09:12:12" dmd:startDate="2011-05-09" dmd:endDate="2011-05-09">
+			<ORG>EthicsGame simulation &amp; assessment presentation</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Coordinated presentation on EthicsGame, interactive learning tool including self-assessments and dilemma simulations within the core business disciplines, to invited faculty for consideration of incorporation into course materials</ROLEOTHER>
+			<DTM_START>May</DTM_START>
+			<DTD_START>9</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-05-09</START_START>
+			<START_END>2011-05-09</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>9</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-05-09</END_START>
+			<END_END>2011-05-09</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="36513486849" dmd:lastModified="2011-04-28T10:10:55" dmd:startDate="2011-04-01" dmd:endDate="2011-04-30">
+			<ORG>MBA "Safe-T-Rider" Outreach &amp; Networking Event</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Provided introductory contacts between sponsoring company, KONE, Inc., and MBA program; advised MBA project coordinators on school partnerships and event logistics; provided contacts with ethics and other faculty who have engaged with KONE in previous visits</ROLEOTHER>
+			<DTM_START>April</DTM_START>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-04-01</START_START>
+			<START_END>2011-04-30</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-04-01</END_START>
+			<END_END>2011-04-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="19718088705" dmd:lastModified="2009-12-28T13:34:57" dmd:startDate="2009-11-10" dmd:endDate="2009-11-10">
+			<ORG>Other:  Coordinated Ethics Lecture:  Leadership in a Corporate Crisis: Johnson &amp; Johnson and Tylenol</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Coordinated all aspects of J. R. Mullen visit and required presentation for undergraduate ethics students</ROLEOTHER>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>10</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-11-10</END_START>
+			<END_END>2009-11-10</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_UNIVERSITY id="32286584833" dmd:lastModified="2012-09-04T08:38:00">
+			<ORG>Informal advisory activities in MCOB outreach</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Consult by invitation with various colleagues across the university including the ND Office of Community Relations, Office of Sustainability and Center for Social Concerns (CSC) on issues of corporate-nonprofit collaboration, university service and outreach activities, and program development; includes distribution of document on Best Practices in Community-Based Learning through the CSC to various interdisciplinary faculty</ROLEOTHER>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="84288552960" dmd:lastModified="2014-01-13T09:35:02" dmd:startDate="2013-08-01">
+			<ORG>Regularly meet with staff of ND Career Services, ND Alumni Association and Department of East Asian Languages and Cultures to enhance student and faculty connections with Japan.  Coordinating visit with Alumni Association director of international programs, March 2014, Tokyo.</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-08-01</START_START>
+			<START_END>2013-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="58600159232" dmd:lastModified="2012-09-04T08:38:58" dmd:startDate="2012-08-01">
+			<ORG>SEED (Seeking Educational Equity and Diversity) (ND Offices of the President/Provost) - Inagural Class</ORG>
+			<ROLE>Task Force Member</ROLE>
+			<ROLEOTHER>Invited member of the inaugural team of Notre Dame faculty participating in this seminar sponsored by the Offices of the President and Provost; SEED is a staff-development equity project for educators, meant to create a more inclusive climate and curriculum in schools (22 ND multidisciplinary faculty members).</ROLEOTHER>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-08-01</START_START>
+			<START_END>2012-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="44573165569" dmd:lastModified="2012-01-18T11:53:38" dmd:startDate="2011-11-16">
+			<ORG>Alliance for Catholic Education (ACE) Selection Committee</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>November</DTM_START>
+			<DTD_START>16</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-11-16</START_START>
+			<START_END>2011-11-16</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="19718000641" dmd:lastModified="2009-12-28T13:36:34" dmd:startDate="2008-02-01">
+			<ORG>Faculty Advisory Council of the Poverty Studies Interdisciplinary Minor </ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>February</DTM_START>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-02-01</START_START>
+			<START_END>2008-02-28</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="92575657984" dmd:lastModified="2014-06-25T07:42:54" dmd:startDate="2015-02-01" dmd:endDate="2015-02-28">
+			<ORG>Coordinated and hosted visit, United Nations Director of Ethics</ORG>
+			<ROLE>Program Organizer</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>February</DTM_START>
+			<DTD_START/>
+			<DTY_START>2015</DTY_START>
+			<START_START>2015-02-01</START_START>
+			<START_END>2015-02-28</START_END>
+			<DTM_END>February</DTM_END>
+			<DTD_END/>
+			<DTY_END>2015</DTY_END>
+			<END_START>2015-02-01</END_START>
+			<END_END>2015-02-28</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="97629325312" dmd:lastModified="2014-10-31T09:25:28" dmd:startDate="2014-08-01" dmd:endDate="2014-09-30">
+			<ORG>Planning Committee, "Nuclear Nightmares: Hiroshima and Nagasaki in Historical Context" special exhibit; Sponsored by Hesburgh Libraries, Liu Institute for Asia and Asian Studies, Institute for Scholarship in the Liberal Arts, and the Kroc Institute for International Peace Studies</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-08-01</START_START>
+			<START_END>2014-08-31</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-09-01</END_START>
+			<END_END>2014-09-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="93979858944" dmd:lastModified="2014-07-11T13:01:27" dmd:startDate="2014-07-01" dmd:endDate="2014-08-31">
+			<ORG>Notre Dame International International Leadership, Enrichment and Development Program (iLED) and International Summer: America and the World Today (iSAWT) Programs</ORG>
+			<ROLE/>
+			<ROLEOTHER>Taught courses for prospective students/talent pipeline</ROLEOTHER>
+			<DTM_START>July</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-07-01</START_START>
+			<START_END>2014-07-31</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-08-01</END_START>
+			<END_END>2014-08-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="94803822592" dmd:lastModified="2014-07-29T19:34:08" dmd:startDate="2014-08-02" dmd:endDate="2014-08-09">
+			<ORG>Hosted visiting scholar, Prof Kaori Takamoto, from Japan</ORG>
+			<ROLE/>
+			<ROLEOTHER>Coordinated meetings with ND faculty and students during research visit</ROLEOTHER>
+			<DTM_START>August</DTM_START>
+			<DTD_START>2</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-08-02</START_START>
+			<START_END>2014-08-02</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>9</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-08-09</END_START>
+			<END_END>2014-08-09</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="83465234432" dmd:lastModified="2013-12-20T10:04:37" dmd:startDate="2013-08-09" dmd:endDate="2013-08-09">
+			<ORG>Met with group of perspective students at request of ND Development office; interested in ethics at MCOB.</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>9</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-08-09</END_START>
+			<END_END>2013-08-09</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="66075602944" dmd:lastModified="2013-01-10T17:33:01" dmd:startDate="2013-01-15" dmd:endDate="2013-01-15">
+			<ORG>Presentation to the incoming students in The Graduate School at the Responsibilities and Ethics in the Conduct of Research Workshop</ORG>
+			<ROLE>Guest Speaker</ROLE>
+			<ROLEOTHER>Full description included in "Presentations" section</ROLEOTHER>
+			<DTM_START>January</DTM_START>
+			<DTD_START>15</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-01-15</START_START>
+			<START_END>2013-01-15</START_END>
+			<DTM_END>January</DTM_END>
+			<DTD_END>15</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-15</END_START>
+			<END_END>2013-01-15</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_PROFESSIONAL id="83287353344" dmd:lastModified="2013-12-17T07:28:55" dmd:startDate="2013-12-01">
+			<ORG>Accounting Education: An International Journal</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>December</DTM_START>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-12-01</START_START>
+			<START_END>2013-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="83861526528" dmd:lastModified="2014-01-06T11:06:25" dmd:startDate="2013-12-01">
+			<ORG>Organization Management Journal</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>December</DTM_START>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-12-01</START_START>
+			<START_END>2013-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="76928217088" dmd:lastModified="2013-09-03T08:15:29" dmd:startDate="2012-08-01">
+			<ORG>Journal of Business Ethics Education</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-08-01</START_START>
+			<START_END>2012-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="84288339968" dmd:lastModified="2014-02-07T08:05:05" dmd:startDate="2012-03-01">
+			<ORG>McGraw-Hill Contemporary Learning Series: Taking Sides on Business Ethics and Society</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Academic Advisory Board Member</ROLEOTHER>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>March</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-03-01</START_START>
+			<START_END>2012-03-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="101682020352" dmd:lastModified="2014-12-01T07:17:58" dmd:startDate="2014-12-01" dmd:endDate="2015-05-31">
+			<ORG>Connecting Silos Curriculum Conference - Center for Professional Responsibility in Business &amp; Society and National Center for Professional &amp; Research Ethics</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY>Urbana</CITY>
+			<STATE>IL</STATE>
+			<AUDIENCE>National</AUDIENCE>
+			<DTM_START>December</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-12-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END/>
+			<DTY_END>2015</DTY_END>
+			<END_START>2015-05-01</END_START>
+			<END_END>2015-05-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="99423862784" dmd:lastModified="2014-11-03T07:58:05" dmd:startDate="2014-12-01" dmd:endDate="2015-02-28">
+			<ORG>Academy of Management 2015 Annual Meeting - Management Education and Development Division &amp; Social Issues in Management Division</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>December</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-12-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END>February</DTM_END>
+			<DTD_END/>
+			<DTY_END>2015</DTY_END>
+			<END_START>2015-02-01</END_START>
+			<END_END>2015-02-28</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="101417728000" dmd:lastModified="2014-11-24T07:56:21" dmd:startDate="2014-11-01" dmd:endDate="2015-01-31">
+			<ORG>Association for Practical and Professional Ethics 2015 Annual Conference</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER>Program Committee Member and Reviewer</ROLEOTHER>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>November</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-11-01</START_START>
+			<START_END>2014-11-30</START_END>
+			<DTM_END>January</DTM_END>
+			<DTD_END/>
+			<DTY_END>2015</DTY_END>
+			<END_START>2015-01-01</END_START>
+			<END_END>2015-01-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="82153779200" dmd:lastModified="2014-04-24T08:39:56" dmd:startDate="2014-01-01" dmd:endDate="2014-02-28">
+			<ORG>Academy of Management Annual Meeting - Management Education and Development Division</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START>January</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-01-31</START_END>
+			<DTM_END>February</DTM_END>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-02-01</END_START>
+			<END_END>2014-02-28</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="63383085056" dmd:lastModified="2013-03-02T07:28:21" dmd:startDate="2012-11-16" dmd:endDate="2013-03-03">
+			<ORG>Association for Practical &amp; Professional Ethics (APPE) Annual Meeting Planning Team and Program Reviewer</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>November</DTM_START>
+			<DTD_START>16</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-11-16</START_START>
+			<START_END>2012-11-16</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>3</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-03-03</END_START>
+			<END_END>2013-03-03</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="67288936448" dmd:lastModified="2013-03-02T07:27:48" dmd:startDate="2013-03-02" dmd:endDate="2013-03-02">
+			<ORG>Association for Practical and Professional Ethics (APPE) 22nd Annual Meeting</ORG>
+			<ROLE>Session Chair</ROLE>
+			<ROLEOTHER/>
+			<CITY>San Antonio</CITY>
+			<STATE>TX</STATE>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>March</DTM_START>
+			<DTD_START>2</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-03-02</START_START>
+			<START_END>2013-03-02</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>2</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-03-02</END_START>
+			<END_END>2013-03-02</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="65996785664" dmd:lastModified="2013-12-02T11:49:19" dmd:startDate="2013-01-01" dmd:endDate="2013-02-28">
+			<ORG>Academy of Management 73rd Annual Meeting - Management Education and Development Division</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START>January</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-01-01</START_START>
+			<START_END>2013-01-01</START_END>
+			<DTM_END>February</DTM_END>
+			<DTD_END>28</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-02-28</END_START>
+			<END_END>2013-02-28</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="59420778496" dmd:lastModified="2013-01-10T08:16:48" dmd:startDate="2012-09-01" dmd:endDate="2013-01-31">
+			<ORG>Connecting Silos Curriculum Conference: National Center for Professional &amp; Research Ethics/Center for Professional Responsibility in Business &amp; Society</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY>Urbana</CITY>
+			<STATE>Illinois</STATE>
+			<AUDIENCE>National</AUDIENCE>
+			<DTM_START>September</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-09-01</START_START>
+			<START_END>2012-09-30</START_END>
+			<DTM_END>January</DTM_END>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-01-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="65996808192" dmd:lastModified="2013-01-10T08:16:35" dmd:startDate="2012-12-01" dmd:endDate="2013-01-30">
+			<ORG>Association for Practical and Professional Ethics 22nd Annual Meeting</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START>December</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-12-01</START_START>
+			<START_END>2012-12-01</START_END>
+			<DTM_END>January</DTM_END>
+			<DTD_END>30</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-30</END_START>
+			<END_END>2013-01-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="32246835201" dmd:lastModified="2012-01-04T08:50:46" dmd:startDate="2010-06-01" dmd:endDate="2012-06-30">
+			<ORG>Association for Practical and Professional Ethics</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY>Bloomington</CITY>
+			<STATE>IN</STATE>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>June</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-06-01</START_START>
+			<START_END>2010-06-30</START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-06-01</END_START>
+			<END_END>2012-06-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="47809044481" dmd:lastModified="2012-01-04T08:52:28" dmd:startDate="2011-11-01" dmd:endDate="2011-11-30">
+			<ORG>The National Business Education Association (NBEA)</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Guest Contributor - "On Community-Based Learning" for the NBEA Keying In Newsletter</ROLEOTHER>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>National</AUDIENCE>
+			<DTM_START>November</DTM_START>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-11-01</START_START>
+			<START_END>2011-11-30</START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-11-01</END_START>
+			<END_END>2011-11-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PUBLIC id="32286648321" dmd:lastModified="2011-01-26T13:28:12" dmd:startDate="2008-10-01" dmd:endDate="2010-01-31">
+			<ORG>The Foundation for Music and Healing</ORG>
+			<ROLE>Committee Chair</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>October</DTM_START>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-10-01</START_START>
+			<START_END>2008-10-31</START_END>
+			<DTM_END>January</DTM_END>
+			<DTD_END/>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-01-01</END_START>
+			<END_END>2010-01-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<SERVICE_PUBLIC id="48252979200" dmd:lastModified="2012-01-18T13:21:48" dmd:startDate="2003-01-01" dmd:endDate="2005-12-31">
+			<ORG>Urban League of South Bend and St. Joseph County</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Member, Board of Directors</ROLEOTHER>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-01-01</START_START>
+			<START_END>2003-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PUBLIC>
+		<FACDEV id="32287002625" dmd:lastModified="2011-01-28T08:11:18">
+			<TYPE>Other</TYPE>
+			<TYPEOTHER>Consistent attendance at MCOB-sponsored ethics speaker series and awards presentations including the Berges Lecture Series and the Cahill Lecture and Hesburgh Award in Business Ethics</TYPEOTHER>
+			<TITLE/>
+			<ORG>MCOB</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="76867604480" dmd:lastModified="2013-08-29T13:09:19" dmd:startDate="2013-08-01">
+			<TYPE>Audit Course</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Japanese I</TITLE>
+			<ORG/>
+			<CITYSTATE/>
+			<DESC>Auditing Japanese language course at Notre Dame to enhance abilities to assist with MCOB/ND programming related to Japan.</DESC>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-08-01</START_START>
+			<START_END>2013-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="97798662144" dmd:lastModified="2014-09-17T15:44:28" dmd:startDate="2014-08-01" dmd:endDate="2014-12-31">
+			<TYPE>Other</TYPE>
+			<TYPEOTHER>Faculty Reading Group</TYPEOTHER>
+			<TITLE>Well-being, Economic Performance &amp; Inequality</TITLE>
+			<ORG>Kellogg Institute for International Studies</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-08-01</START_START>
+			<START_END>2014-08-31</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-12-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="98691665920" dmd:lastModified="2014-10-13T07:08:40" dmd:startDate="2014-10-23" dmd:endDate="2014-10-25">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>8th TransAtlantic Business Ethics Conference: Business Ethics and Creativity: Facing Globalization and Struggling With Sustainability</TITLE>
+			<ORG/>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC>The objectives of the TransAtlantic Business Ethics Conference are to encourage dialogue between leading North American and European scholars in business ethics on topics of current interest and debate, and to create an ongoing framework to continue the TABEC conferences on a biennial basis.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>23</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-10-23</START_START>
+			<START_END>2014-10-23</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>25</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-10-25</END_START>
+			<END_END>2014-10-25</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="89057693696" dmd:lastModified="2014-05-30T07:48:38" dmd:startDate="2014-05-28" dmd:endDate="2014-05-29">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>4th annual Connecting Silos Curriculum Conference</TITLE>
+			<ORG>National Center for Professional &amp; Research Ethics</ORG>
+			<CITYSTATE>University of Illinois, Urbana-Champaign, IL</CITYSTATE>
+			<DESC>Invited participation at this meeting sponsored by the Center for Professional Responsibility in Business &amp; Society and the National Center for Professional &amp; Research Ethics.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>28</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-05-28</START_START>
+			<START_END>2014-05-28</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>29</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-05-29</END_START>
+			<END_END>2014-05-29</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="91166416896" dmd:lastModified="2014-05-14T13:33:40" dmd:startDate="2014-05-08" dmd:endDate="2014-05-08">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Excellence in Ethics Research Conference</TITLE>
+			<ORG>Institute for Ethical Business Worldwide, MCOB</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>8</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-05-08</END_START>
+			<END_END>2014-05-08</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="85669050368" dmd:lastModified="2014-02-04T20:04:54" dmd:startDate="2014-03-31" dmd:endDate="2014-04-02">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Deans' Conference on Business Ethics</TITLE>
+			<ORG>Center for Faith and Culture &amp; Center for Business Ethics, University of St. Thomas</ORG>
+			<CITYSTATE>Houston, TX</CITYSTATE>
+			<DESC>Invited as one of two MCOB faculty representing Notre Dame at this convening of business school deans on business ethics.</DESC>
+			<DTM_START>March</DTM_START>
+			<DTD_START>31</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-03-31</START_START>
+			<START_END>2014-03-31</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>2</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-04-02</END_START>
+			<END_END>2014-04-02</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="85668976640" dmd:lastModified="2014-04-02T10:46:11" dmd:startDate="2014-03-27" dmd:endDate="2014-03-28">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Notre Dame Deloitte Center for Ethical Leadership (NDDCEL) Forum "Cultivating Character at Your Company"</TITLE>
+			<ORG>NDDCEL</ORG>
+			<CITYSTATE>Dallas, TX</CITYSTATE>
+			<DESC>Attended this third annual forum convening scholars and practitioners around critical issues in business ethics.  </DESC>
+			<DTM_START>March</DTM_START>
+			<DTD_START>27</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-03-27</START_START>
+			<START_END>2014-03-27</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>28</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-03-28</END_START>
+			<END_END>2014-03-28</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="81493975040" dmd:lastModified="2013-11-22T12:34:33" dmd:startDate="2013-11-21" dmd:endDate="2013-11-22">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Notre Dame and BYU: Leading the Way in Ethics Education</TITLE>
+			<ORG>Wheatley Institution and Marriott School of Management, BYU; University of Notre Dame</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>The University of Notre Dame and Brigham Young University will meet six times on the gridiron between 2012 and 2020.  As scholars at these Christian Faith-Based Institutions, we seek to utilize the spotlight of these events to shine light on the shared gospel-based underpinnings and aspirations we have for the development and practice of virtue-based living in our respective communities.  By bringing together university leaders and prominent scholars, we seek to fortify our united front in the battle against societal forces trending against virtuous living.  We hope to engage our respective university constituents (students, faculty, staff, alumni, etc.) through speeches by respected leaders and through the provision of substantive scholarly work by our professors.  In so doing, we seek to build understanding of and commitment to our common purposes, as well as gaining an understanding of and appreciation for each other’s theology and culture with regards to ethical living.</DESC>
+			<DTM_START>November</DTM_START>
+			<DTD_START>21</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-11-21</START_START>
+			<START_END>2013-11-21</START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>22</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-11-22</END_START>
+			<END_END>2013-11-22</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="79241224192" dmd:lastModified="2013-11-04T07:40:41" dmd:startDate="2013-11-01" dmd:endDate="2013-11-01">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Cheating Lessons: Learning from Academic Dishonesty (James M. Lang)</TITLE>
+			<ORG>ND Kaneb Center for Teaching and Learning</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>1</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-11-01</END_START>
+			<END_END>2013-11-01</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="78218407936" dmd:lastModified="2013-10-14T07:38:11" dmd:startDate="2013-10-11" dmd:endDate="2013-10-11">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>GreenTown Michiana:  Building Healthy, Sustainable Communities</TITLE>
+			<ORG>ND Office of Sustainability, IU South Bend Center for a Sustainable Future, corporate sponsors</ORG>
+			<CITYSTATE/>
+			<DESC>GreenTown brings together the public and private sectors to "connect the dots" on sustainability in our communities, from energy issues to infrastructure.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>11</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-10-11</END_START>
+			<END_END>2013-10-11</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="66392905728" dmd:lastModified="2013-01-17T17:47:36" dmd:startDate="2013-01-18" dmd:endDate="2013-01-18">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>The Vocation of the Business Leader</TITLE>
+			<ORG>MCOB</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Faculty workshop on the intersection of faith, values and business.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>January</DTM_END>
+			<DTD_END>18</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-18</END_START>
+			<END_END>2013-01-18</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="60749062144" dmd:lastModified="2012-10-19T10:20:19" dmd:startDate="2012-10-19" dmd:endDate="2012-10-19">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Brigham Young-Notre Dame Conference on Virtue Ethics</TITLE>
+			<ORG>Wheatley Institution and Marriott School of Management (BYU) &amp; Chase Endowment for Business Ethics and Mendoza College of Business</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC>This conference builds on the foundation of the religious tradition at both universities and focuses on the important topic of the development and practice of virtue ethics in contemporary society. Multiple perspectives will be discussed by distinguished panelists in religion, business, education, families and society.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>19</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-10-19</END_START>
+			<END_END>2012-10-19</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="58744315904" dmd:lastModified="2012-09-04T08:44:28" dmd:startDate="2012-08-03" dmd:endDate="2012-08-06">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Academy of Management 2012 Annual Meeting</TITLE>
+			<ORG>AOM</ORG>
+			<CITYSTATE>Boston, MA</CITYSTATE>
+			<DESC>Conference theme:  The Informal Economy</DESC>
+			<DTM_START>August</DTM_START>
+			<DTD_START>3</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-08-03</START_START>
+			<START_END>2012-08-03</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END>6</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-08-06</END_START>
+			<END_END>2012-08-06</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="55514480640" dmd:lastModified="2012-05-24T08:54:22" dmd:startDate="2012-05-29" dmd:endDate="2012-05-30">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Connecting Silos:  Sharing Ideas &amp; Best Practices in the Teaching of Professional &amp; Research Ethics</TITLE>
+			<ORG>Center for Professional Responsibility in Business and Society &amp; National Center for Professional and Research Ethics</ORG>
+			<CITYSTATE>Urbana-Champaign, IL</CITYSTATE>
+			<DESC>An annual conference to explore innovative ways to educate university students about ethical and professional responsibility.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>29</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-05-29</START_START>
+			<START_END>2012-05-29</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>30</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-05-30</END_START>
+			<END_END>2012-05-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="50809579520" dmd:lastModified="2012-03-26T08:13:21" dmd:startDate="2012-03-29" dmd:endDate="2012-03-30">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>The Character Project: Training the Trainers</TITLE>
+			<ORG>Carolyn Y. Woo, Rev. Mark Poorman, ND Institute for Church Life</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC>Invited participation in development course for three MCOB faculty members who will facilitate the Character Project character formation and moral development course for invited undergraduate students.</DESC>
+			<DTM_START>March</DTM_START>
+			<DTD_START>29</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-03-29</START_START>
+			<START_END>2012-03-29</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>30</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-03-30</END_START>
+			<END_END>2012-03-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="48748097536" dmd:lastModified="2012-01-31T07:24:24" dmd:startDate="2012-01-25" dmd:endDate="2012-01-26">
+			<TYPE>Seminar</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Innovating Ethics Pedagogy in the Classroom and the Corporation: A Forum about What Works, What’s New, and What’s Possible</TITLE>
+			<ORG>Notre Dame Deloitte Center for Ethical Leadership</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC>The inaugural forum of the NDDCEL's focus is on innovative practices and prospects in the teaching of business ethics.  We have identified and invited a number of persons from both academia and business who are engaged in just that—developing and delivering ethics training in new and interesting ways.  We have also invited a number of companies with interests in this topic.  Our hope is to foster a conversation through which we will get a good handle on what is currently new, and what might be possible going into the future given needs."</DESC>
+			<DTM_START>January</DTM_START>
+			<DTD_START>25</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-25</START_START>
+			<START_END>2012-01-25</START_END>
+			<DTM_END>January</DTM_END>
+			<DTD_END>26</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-26</END_START>
+			<END_END>2012-01-26</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="44244187137" dmd:lastModified="2011-11-15T09:04:40" dmd:startDate="2011-11-15" dmd:endDate="2011-11-15">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>AACSB:  Preparing for an Uncertain Future: How Does Undergraduate Business Education Measure Up?</TITLE>
+			<ORG>AACSB</ORG>
+			<CITYSTATE>online meeting</CITYSTATE>
+			<DESC>Explored current trends and future opportunities in undergraduate management education with data and presentation material from AACSB.</DESC>
+			<DTM_START>November</DTM_START>
+			<DTD_START>15</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-11-15</START_START>
+			<START_END>2011-11-15</START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>15</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-11-15</END_START>
+			<END_END>2011-11-15</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="36919476225" dmd:lastModified="2011-05-05T11:50:04" dmd:startDate="2011-06-28" dmd:endDate="2011-06-30">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Sustainable Food Lab Leadership Summit:  Operationalizing Sustainability in Supply Chains</TITLE>
+			<ORG>Sustainable Food Lab including multiple corporate sponsors</ORG>
+			<CITYSTATE>Portland, OR</CITYSTATE>
+			<DESC>Meeting with industry experts focusing on two key dimensions of operationalizing sustainability:  Tools for Strategic Decision-Making and Capacities to Lead Teams, Organizational Change, and Partnerships. </DESC>
+			<DTM_START>June</DTM_START>
+			<DTD_START>28</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-06-28</START_START>
+			<START_END>2011-06-28</START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END>30</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-06-30</END_START>
+			<END_END>2011-06-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="32247146497" dmd:lastModified="2012-01-30T08:09:28" dmd:startDate="2011-06-13" dmd:endDate="2011-06-14">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Giving Voice to Values Faculty Convening</TITLE>
+			<ORG>Giving Voice to Values, Babson College</ORG>
+			<CITYSTATE>Boston, MA</CITYSTATE>
+			<DESC>This faculty convening of a select group (approximately 20 faculty members from around the world) focused on teaching, curriculum development and research related to the GVV curriculum.  This curriculum, developed by Mary Gentile (Harvard Business School, Aspen Institute and Babson College, in collaboration with Yale University), focuses on developing skills in values-based decision making with an emphasis on specific application in the business context.  Our MCOB GVV course, BAET 30300, is the first dedicated GVV undergraduate course in the history of the program.  Mary invited me to discuss our experiences with the course.  The workshop was an opportunity to meet with other faculty teaching the course to enhance our offering at MCOB.  Specific areas on which I've been focusing on include rooting the course firmly within the undergraduate ethics curriculum, developing applications within core business functions, expanding the course’s reach, and continuing to develop its relevance to the MCOB “Ask More” framework of individual integrity, organizational effectiveness and greater good.</DESC>
+			<DTM_START>June</DTM_START>
+			<DTD_START>13</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-06-13</START_START>
+			<START_END>2011-06-13</START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END>14</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-06-14</END_START>
+			<END_END>2011-06-14</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="36919328769" dmd:lastModified="2011-05-05T11:45:42" dmd:startDate="2011-06-01" dmd:endDate="2011-06-02">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Connecting Silos:  Sharing Ideas &amp; Best Practices in the Teaching of Professional &amp; Research Ethics</TITLE>
+			<ORG>Center for Professional Responsibility in Business and Society &amp; the National Center for Professional and Research Ethics</ORG>
+			<CITYSTATE>Champaign, Illinois</CITYSTATE>
+			<DESC>Invited participation in this convening of a small group of practitioners from across disciplines to share best approaches and challenges in teaching professional responsibility and ethics.</DESC>
+			<DTM_START>June</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-06-01</START_START>
+			<START_END>2011-06-01</START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END>2</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-06-02</END_START>
+			<END_END>2011-06-02</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="32247185409" dmd:lastModified="2012-01-30T08:10:30" dmd:startDate="2011-03-03" dmd:endDate="2011-03-06">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Association for Applied and Professional Ethics (APPE) Annual Meeting</TITLE>
+			<ORG>APPE</ORG>
+			<CITYSTATE>Cincinnati, OH</CITYSTATE>
+			<DESC>Presented paper, An Undergraduate Business Ethics Curriculum:  Learning and Moral Development Outcomes, at this annual meeting of the APPE.  The paper, presenting year-one results of the three-year longitudinal study of moral reasoning and other outcomes associated with the Mendoza College of Business undergraduate ethics curriculum, provides information for exploring our curriculum and enhancing the undergraduate experience.  The meeting was a helpful opportunity to present to and receive feedback from top scholars in business ethics education.  This feedback has been quite useful in further developing the three-year study.  </DESC>
+			<DTM_START>March</DTM_START>
+			<DTD_START>3</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-03-03</START_START>
+			<START_END>2011-03-03</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>6</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-03-06</END_START>
+			<END_END>2011-03-06</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="32286949377" dmd:lastModified="2011-01-26T13:35:15" dmd:startDate="2010-10-21" dmd:endDate="2010-10-22">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Global Reporting Initiative (GRI) Sustainability Reporting Certification</TITLE>
+			<ORG>LEAD Canada</ORG>
+			<CITYSTATE>New York, NY</CITYSTATE>
+			<DESC>16 hour training.  "The prevalence of sustainability reporting is growing and has converged around the Global Reporting Initiative (GRI), the world’s most widely used framework. LEAD is the first and most experienced GRI-certified training provider in North America. LEAD’s GRI-certified training initiative has been endorsed by the Certified General Accountants Association of Canada (CGA-Canada), the Association of Chartered Certified Accountants (ACCA) and the Shareholder Association for Research &amp; Education (SHARE). Participants in GRI-certified courses will receive their course completion certificates directly from GRI.  LEAD is the first and most experienced GRI-certified training provider in North America and Jantzi-Sustainalytics is the foremost expert in analyzing corporate sustainability reporting and performance."  </DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>21</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-10-21</START_START>
+			<START_END>2010-10-21</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>22</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-10-22</END_START>
+			<END_END>2010-10-22</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="30503952385" dmd:lastModified="2011-01-28T08:12:17" dmd:startDate="2010-06-01" dmd:endDate="2010-06-30">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>2010 AACSB Sustainability Conference</TITLE>
+			<ORG>AACSB, Mendoza College of Business</ORG>
+			<CITYSTATE>Salt Lake City, UT</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END/>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-06-01</END_START>
+			<END_END>2010-06-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="30503393281" dmd:lastModified="2010-12-01T12:35:43" dmd:startDate="2010-05-13" dmd:endDate="2010-05-13">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Memorization or understanding: are we teaching the right thing? &amp; Peer Instruction Workshop</TITLE>
+			<ORG>ND Kaneb Center for Teaching and Learning</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC>Designed for faculty teaching intro level courses, designed to enhance learning outcomes and facilitate meaningful discussion.
+Eric Mazur is the Balkanski Professor of Physics and Applied Physics at Harvard University
+</DESC>			<DTM_START/>			<DTD_START/>			<DTY_START/>			<START_START></START_START>			<START_END></START_END>			<DTM_END>May</DTM_END>
+			<DTD_END>13</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-05-13</END_START>
+			<END_END>2010-05-13</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="30503438337" dmd:lastModified="2010-12-01T12:36:20" dmd:startDate="2010-05-11" dmd:endDate="2010-05-11">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>N. Craig Smith, INSEAD, “Consumer Perceptions of Corporate Responsibility Activities:  Ethical Consumerism and the CSR Halo Effect”</TITLE>
+			<ORG>ND MCOB Marketing Department</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>11</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-05-11</END_START>
+			<END_END>2010-05-11</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="19718039553" dmd:lastModified="2009-12-28T13:29:32" dmd:startDate="2009-11-13" dmd:endDate="2009-11-14">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>2009 Net Impact Conference, Advancing Sustainable Global Enterprise:  Changemakers, Innovators and Problem Solvers</TITLE>
+			<ORG>Net Impact, Cornell University</ORG>
+			<CITYSTATE>Ithaca, NY</CITYSTATE>
+			<DESC/>
+			<DTM_START>November</DTM_START>
+			<DTD_START>13</DTD_START>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-11-13</START_START>
+			<START_END>2009-11-13</START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>14</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-11-14</END_START>
+			<END_END>2009-11-14</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="30503522305" dmd:lastModified="2010-12-01T12:37:16" dmd:startDate="2009-10-29" dmd:endDate="2009-10-29">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Sustainability and Innovation:  The Natural Step to Prosperity</TITLE>
+			<ORG>Indiana University, Notre Dame Office of Sustainability</ORG>
+			<CITYSTATE>South Bend, IN</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>29</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-10-29</END_START>
+			<END_END>2009-10-29</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="19718043649" dmd:lastModified="2009-12-28T13:30:12" dmd:startDate="2009-10-09" dmd:endDate="2009-10-11">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Sustainability and the Catholic University </TITLE>
+			<ORG>University of Notre Dame</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC/>
+			<DTM_START>October</DTM_START>
+			<DTD_START>9</DTD_START>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-10-09</START_START>
+			<START_END>2009-10-09</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>11</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-10-11</END_START>
+			<END_END>2009-10-11</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="30503280641" dmd:lastModified="2011-01-25T13:24:51" dmd:startDate="2009-06-01" dmd:endDate="2009-06-30">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>AACSB Sustainability Conference</TITLE>
+			<ORG>AACSB</ORG>
+			<CITYSTATE>Denver, CO</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-06-01</END_START>
+			<END_END>2009-06-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+	</Record>
+</Data>

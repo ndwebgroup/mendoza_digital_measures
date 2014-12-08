@@ -13,7 +13,7 @@ module DigitalMeasures
       url = self.url_template
       request = Typhoeus::Request.new(
         url,
-        userpwd: ENV['MENDOZA_DIGITAL_MEASURES_USER_AUTH']
+        userpwd: ENV['DIGITAL_MEASURES_CREDENTIALS']
       )
       response = request.run
       doc = Nokogiri.parse(response.response_body)
@@ -23,7 +23,7 @@ module DigitalMeasures
     def initialize
       @response = Typhoeus.get(
         self.url_template,
-        userpwd: ENV['MENDOZA_DIGITAL_MEASURES_USER_AUTH']
+        userpwd: ENV['DIGITAL_MEASURES_CREDENTIALS']
       )
     end
 

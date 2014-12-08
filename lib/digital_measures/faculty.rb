@@ -24,7 +24,8 @@ module DigitalMeasures
       :books,
       :presentations,
       :teaching,
-      :working_papers
+      :working_papers,
+      :articles_and_chapters
     )
 
     def initialize(xml)
@@ -52,6 +53,7 @@ module DigitalMeasures
       @presentations = find_presentations(measure)
       @teaching = find_teaching(measure)
       @working_papers = find_working_papers(measure)
+      @articles_and_chapters = find_books_articles_chapters(measure)
     end
 
 
@@ -111,6 +113,7 @@ module DigitalMeasures
 
   private
 
+
     def find_areas_of_expertise(measure)
       expertisei = []
         measure.xpath("//PCI/PCI_EXPERTISE/EXPERTISE").each do | e |
@@ -145,12 +148,54 @@ module DigitalMeasures
       return teachings
     end
 
+    ######################################################
+    # => INTELLCONT ITEMS
+
+    def find_books_articles_chapters(measure)
+      contypes = ["Book, Referred Article", "Book, Review", "Book, Scholarly-Contributed Chapter"]
+      items = []
+
+      measure.xpath("//INTELLCONT").each do | n |
+        if contypes.include?(n.xpath("CONTYPE").first.text.strip) && (n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes" )
+          authors = []
+          parts = []
+
+          parts << make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS"))
+
+          authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
+
+          unless authors.empty?
+            parts << "(with #{authors.join(", ")})"
+          end
+
+          items << parts.join(" ")
+
+        end
+      end
+
+      return items
+
+
+    end
+
+
+
     def find_publications(measure)
       #marked for web
       contypes = ["Journal Articles, Refereed", "Journal Articles", "Non-Refereed", "Other"]
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include? n.xpath("CONTYPE").first.text.strip
+
+          authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
+
+          unless authors.empty?
+            with = "(with #{authors.join(", ")})"
+          else
+            with = ""
+          end
+
+
           link = "<a href=\"#{n.xpath("WEB_ADDRESS").first.text.strip}\">\"#{n.xpath("TITLE").first.text.strip}\"</a>,"
           #<xsl:if test="string-length(t:PAGENUM) > 0">
           if n.xpath("STATUS").first.text.strip == "Accepted"
@@ -158,8 +203,21 @@ module DigitalMeasures
           else
             where_preface = ""
           end
-          where = "#{where_preface}<i>#{n.xpath("PUBLISHER").first.text.strip}</i>, #{n.xpath("VOLUME").first.text.strip}, #{n.xpath("DTY_PUB").first.text.strip}."
-          items << [link, where].join(" ")
+          where_parts = []
+
+          where_parts << "#{where_preface}<i>#{n.xpath("PUBLISHER").first.text.strip}</i>"
+
+          unless n.xpath("VOLUME").first.text.strip.blank?
+            where_parts << n.xpath("VOLUME").first.text.strip
+          end
+
+          unless n.xpath("DTY_PUB").first.text.strip.blank?
+            where_parts << n.xpath("DTY_PUB").first.text.strip
+          end
+
+          where = where_parts.join(", ")
+
+          items << [link, with, where].join(" ") + "."
         end
       end
       return items
@@ -171,7 +229,18 @@ module DigitalMeasures
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include?(n.xpath("CONTYPE").first.text.strip) && n.xpath("WEBPAGE_INCLUDE").first.text.strip != "No"
-          items << "#{n.xpath("TITLE").first.text.strip}"
+          parts = []
+          authors = []
+          parts << "#{n.xpath("TITLE").first.text.strip}"
+
+          authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
+
+          unless authors.empty?
+            parts << "(with #{authors.join(", ")})"
+          end
+
+          items << parts.join(" ")
+
         end
       end
       return items
@@ -209,7 +278,32 @@ module DigitalMeasures
       return items
     end
 
-    def self.log(msg)
+
+    #supporting methods
+
+    def make_linkable(text_node, url_node)
+      unless url_node.first.text.strip.blank? || url_node.first.text.strip == "http://"
+        "\"<a href=\"#{url_node.first.text.strip}\">#{text_node.first.text.strip}</a>.\""
+      else
+        "\"#{text_node.first.text.strip}.\""
+      end
+    end
+
+    def collect_authors(authors_xml)
+      authors = []
+      #puts authors_xml.count
+      authors_xml.each do | a |
+        unless a.xpath("FNAME").first.text.strip == @first_name && a.xpath("LNAME").first.text.strip == @last_name
+          authors << "#{a.xpath("FNAME").first.text.strip} #{a.xpath("LNAME").first.text.strip}"
+        end
+      end
+
+      return authors
+
+    end
+
+
+        def self.log(msg)
       msg = "[digital measures] #{msg}"
       if defined? Rails
         Rails.logger.info msg
@@ -218,5 +312,11 @@ module DigitalMeasures
         #puts msg
     end
   end
+
+
+
+
+
+
 
 end

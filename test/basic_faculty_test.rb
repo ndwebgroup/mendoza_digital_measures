@@ -64,6 +64,10 @@ describe DigitalMeasures::Faculty do
       @faculty.working_papers.must_be_kind_of Array
     end
 
+    it "returns articles and chapters" do
+      @faculty.articles_and_chapters.must_be_kind_of Array
+    end
+
   end
 
 end
