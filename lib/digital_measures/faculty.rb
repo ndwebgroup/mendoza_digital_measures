@@ -190,7 +190,7 @@ module DigitalMeasures
           authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
 
           unless authors.empty?
-            with = "(with #{authors.join(", ")})"
+            with = "(with #{authors.join(", ")}),"
           else
             with = ""
           end
@@ -218,7 +218,7 @@ module DigitalMeasures
 
           where = where_parts.join(", ")
 
-          items << ["\"#{link}\",", "#{with},", where].join(" ") + "."
+          items << ["\"#{link}\",", "#{with}", where].join(" ") + "."
         end
       end
       return items
