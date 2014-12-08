@@ -25,7 +25,7 @@ module DigitalMeasures
       :presentations,
       :teaching,
       :working_papers,
-      :articles
+      :articles_and_chapters
     )
 
     def initialize(xml)
@@ -53,7 +53,7 @@ module DigitalMeasures
       @presentations = find_presentations(measure)
       @teaching = find_teaching(measure)
       @working_papers = find_working_papers(measure)
-      @articles = find_books_articles_chapters(measure)
+      @articles_and_chapters = find_books_articles_chapters(measure)
     end
 
 
@@ -160,7 +160,6 @@ module DigitalMeasures
           authors = []
           parts = []
 
-
           parts << make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS"))
 
           authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
@@ -204,8 +203,21 @@ module DigitalMeasures
           else
             where_preface = ""
           end
-          where = "#{where_preface}<i>#{n.xpath("PUBLISHER").first.text.strip}</i>, #{n.xpath("VOLUME").first.text.strip}, #{n.xpath("DTY_PUB").first.text.strip}."
-          items << [link, with, where].join(" ")
+          where_parts = []
+
+          where_parts << "#{where_preface}<i>#{n.xpath("PUBLISHER").first.text.strip}</i>"
+
+          unless n.xpath("VOLUME").first.text.strip.blank?
+            where_parts << n.xpath("VOLUME").first.text.strip
+          end
+
+          unless n.xpath("DTY_PUB").first.text.strip.blank?
+            where_parts << n.xpath("DTY_PUB").first.text.strip
+          end
+
+          where = where_parts.join(", ")
+
+          items << [link, with, where].join(" ") + "."
         end
       end
       return items

@@ -151,30 +151,34 @@ describe DigitalMeasures::Faculty do
     end
 
     it "returns articles chapters" do
-      @faculty.articles.must_be_kind_of Array
-      @faculty.articles.count.must_equal 2
+      @faculty.articles_and_chapters.must_be_kind_of Array
+      @faculty.articles_and_chapters.count.must_equal 2
     end
 
   end
 
 
-  describe "with jmcmanus Data" do
+  describe "with jorourke Data" do
     before(:each) do
       @faculty = DigitalMeasures::Faculty.new(fixture_xml('jorourke'))
     end
 
-    it "returns articles chapters" do
-
-      @faculty.books.must_be_kind_of Array
-      @faculty.books.count.must_equal 13
-      #puts @faculty.books
+    it "returns articles and book chapters" do
+      @faculty.articles_and_chapters.must_be_kind_of Array
+      #@faculty.articles_and_chapters.count.must_equal 13
+      puts @faculty.articles_and_chapters
     end
 
+    it "pulls in books" do
+      puts @faculty.books
+      @faculty.books.must_be_kind_of Array
+      #@faculty.books.count.must_equal 13
+    end
 
-    it "returns articles chapters" do
-      #puts @faculty.publications
+    it "returns publications" do
+      puts @faculty.publications
       @faculty.publications.must_be_kind_of Array
-      @faculty.publications.count.must_equal 21
+      #@faculty.publications.count.must_equal 21
     end
 
   end
