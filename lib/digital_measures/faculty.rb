@@ -196,7 +196,8 @@ module DigitalMeasures
           end
 
 
-          link = "<a href=\"#{n.xpath("WEB_ADDRESS").first.text.strip}\">\"#{n.xpath("TITLE").first.text.strip}\"</a>,"
+          link = make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS") )
+
           #<xsl:if test="string-length(t:PAGENUM) > 0">
           if n.xpath("STATUS").first.text.strip == "Accepted"
             where_preface = "To appear in "
@@ -217,7 +218,7 @@ module DigitalMeasures
 
           where = where_parts.join(", ")
 
-          items << [link, with, where].join(" ") + "."
+          items << ["\"#{link}\",", with, where].join(" ") + "."
         end
       end
       return items
@@ -225,10 +226,10 @@ module DigitalMeasures
 
     def find_books(measure)
 
-      contypes = ["Book, Scholarly" "Book, Textbook-New" ,"Book, Textbook-Revised", "Book, Referred Article",  "Book, Review", "Book, Scholarly-Contributed Chapter"]
+      contypes = ["Book, Scholarly" "Book, Textbook-New" ,"Book, Textbook-Revised"]
       items = []
       measure.xpath("//INTELLCONT").each do | n |
-        if contypes.include?(n.xpath("CONTYPE").first.text.strip) && n.xpath("WEBPAGE_INCLUDE").first.text.strip != "No"
+        if contypes.include?(n.xpath("CONTYPE").first.text.strip) && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
           parts = []
           authors = []
           parts << "#{n.xpath("TITLE").first.text.strip}"
@@ -236,8 +237,12 @@ module DigitalMeasures
           authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
 
           unless authors.empty?
-            parts << "(with #{authors.join(", ")})"
+            parts << "(with #{authors.join(", ")}),"
           end
+
+          parts << n.xpath("PUBLISHER").first.text.strip + ","
+
+          parts << published_date(n)
 
           items << parts.join(" ")
 
@@ -281,11 +286,33 @@ module DigitalMeasures
 
     #supporting methods
 
+    def published_date(item)
+
+      date_parts = []
+
+      unless item.xpath("DTM_PUB").first.text.strip.blank?
+        date_parts << item.xpath("DTM_PUB").first.text.strip
+
+        unless item.xpath("DTD_PUB").first.text.strip.blank?
+          date_parts << item.xpath("DTD_PUB").first.text.strip + ","
+        end
+
+      end
+
+      unless item.xpath("DTY_PUB").first.text.strip.blank?
+        date_parts << item.xpath("DTY_PUB").first.text.strip
+      end
+
+      return date_parts.join(" ")
+
+    end
+
+
     def make_linkable(text_node, url_node)
       unless url_node.first.text.strip.blank? || url_node.first.text.strip == "http://"
-        "\"<a href=\"#{url_node.first.text.strip}\">#{text_node.first.text.strip}</a>.\""
+        "<a href=\"#{url_node.first.text.strip}\">#{text_node.first.text.strip}</a>"
       else
-        "\"#{text_node.first.text.strip}.\""
+        "#{text_node.first.text.strip}"
       end
     end
 
