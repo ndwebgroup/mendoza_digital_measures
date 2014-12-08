@@ -232,7 +232,13 @@ module DigitalMeasures
         if contypes.include?(n.xpath("CONTYPE").first.text.strip) && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
           parts = []
           authors = []
-          parts << "#{n.xpath("TITLE").first.text.strip}"
+          special_chars = ["?", "."]
+          title = n.xpath("TITLE").first.text.strip
+          if special_chars.include? title.split.last
+            parts << title
+          else
+            parts << title + ","
+          end
 
           authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
 
