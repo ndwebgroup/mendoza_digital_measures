@@ -115,7 +115,7 @@ describe DigitalMeasures::Faculty do
 
     it "formats publications in a very specific way" do
       #add "(with Sean  Handley,), after title link
-      @corey.publications.first.must_equal '"<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships</a>", (with Sean Handley) To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
+      @corey.publications.first.must_equal '"<a href="http://onlinelibrary.wiley.com/doi/10.1002/smj.2300/pdf">The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships</a>", (with Sean Handley), To appear in <i>Strategic Management Journal</i>, Forthcoming, 2015.'
     end
 
     it "pulls in books" do

@@ -218,7 +218,7 @@ module DigitalMeasures
 
           where = where_parts.join(", ")
 
-          items << ["\"#{link}\",", with, where].join(" ") + "."
+          items << ["\"#{link}\",", "#{with},", where].join(" ") + "."
         end
       end
       return items
