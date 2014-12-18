@@ -136,6 +136,7 @@ describe DigitalMeasures::Faculty do
     it "formats presentations in a very specific way" do
       @corey.presentations.must_be_kind_of Array
       @corey.presentations.first.must_equal "Corey Angst, Hesburgh Lecture Series, ND Club o f Greater Seattle, Seattle, WA, \"Who’s Watching Me?  What \“Big Data\” Means to All of Us\" (November 12, 2014)."
+      @corey.presentations.last.must_equal "Corey Angst, Toward an Electronic Patient Record (TEPR), , Ft. Lauderdale, FL, \"Patients' Perceived Value of Using a Personal Health Record\" (May 2004)."
     end
 
     it "returns working papers" do
@@ -171,17 +172,14 @@ describe DigitalMeasures::Faculty do
     it "returns articles, book reviews and book chapters" do
       @faculty.articles_and_chapters.must_be_kind_of Array
       #@faculty.articles_and_chapters.count.must_equal 13
-      puts @faculty.articles_and_chapters
     end
 
     it "returns books" do
-      puts @faculty.books
       @faculty.books.must_be_kind_of Array
       #@faculty.books.count.must_equal 13
     end
 
     it "returns publications" do
-      puts @faculty.publications
       @faculty.publications.must_be_kind_of Array
       #@faculty.publications.count.must_equal 21
     end
