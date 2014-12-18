@@ -268,10 +268,11 @@ module DigitalMeasures
           texties = []
           texties << "#{n.xpath("PRESENT_AUTH/FNAME").first.text.strip} #{n.xpath("PRESENT_AUTH/LNAME").first.text.strip}, #{n.xpath("NAME").first.text.strip}, #{n.xpath("ORG").first.text.strip}, #{n.xpath("LOCATION").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\""
           texties << "(#{n.xpath("DTM_DATE").first.text.strip}"
+
           unless n.xpath("DTD_DATE").first.text.strip.blank?
             texties << "#{n.xpath("DTD_DATE").first.text.strip},"
-
           end
+
           texties << "#{n.xpath("DTY_DATE").first.text.strip})."
 
           items << texties.join(" ")
