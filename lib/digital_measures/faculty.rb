@@ -5,6 +5,7 @@ module DigitalMeasures
   class Faculty
 
     attr_reader(
+      :netid,
       :first_name,
       :last_name,
       :middle_name,
@@ -25,13 +26,16 @@ module DigitalMeasures
       :presentations,
       :teaching,
       :working_papers,
-      :articles_and_chapters
+      :articles_and_chapters,
+      :cv_url
     )
 
     def initialize(xml)
       measure = Nokogiri.parse xml
       measure.remove_namespaces!
-      #single item valus (strings)
+      @netid = measure.xpath("//Record").attr("username").value
+
+          #single item valus (strings)
       @first_name = get_value_for(measure, "PCI/FNAME")
       @last_name = get_value_for(measure, "PCI/LNAME")
       @middle_name = get_value_for(measure, "PCI/MNAME")
@@ -54,7 +58,9 @@ module DigitalMeasures
       @teaching = find_teaching(measure)
       @working_papers = find_working_papers(measure)
       @articles_and_chapters = find_books_articles_chapters(measure)
+      @cv_url = find_cv_url(measure)
     end
+
 
 
     def get_value_for(xml_doc, xpath_for)
@@ -112,6 +118,14 @@ module DigitalMeasures
 
 
   private
+
+    def find_cv_url(measure)
+      if get_value_for(measure, "PCI/UPLOAD_CV").blank?
+        ""
+      else
+        "https://s3.amazonaws.com/digitalmeasures.fs.mendoza.notredame/#{get_value_for(measure, "PCI/UPLOAD_CV")}"
+      end
+    end
 
 
     def find_areas_of_expertise(measure)

@@ -68,6 +68,10 @@ describe DigitalMeasures::Faculty do
       @faculty.endowed_position.must_equal "Nolan Professorship for Excellence in Undergraduate Instruction"
     end
 
+    it "pulls in netid" do
+      @faculty.netid.must_equal "cackerm1"
+    end
+
     it "pulls in an array of expertise as area of expertise" do
       @faculty.areas_of_expertise.must_be_kind_of Array
       @faculty.areas_of_expertise.count.must_equal 3
@@ -103,6 +107,10 @@ describe DigitalMeasures::Faculty do
       @corey = DigitalMeasures::Faculty.new(fixture_xml('cangst'))
     end
 
+    it "returns an enpty url because there is no CV" do
+      @corey.cv_url.must_equal ""
+      puts @corey.cv_url
+    end
 
     it "pulls in publications" do
       @corey.publications.must_be_kind_of Array
@@ -167,6 +175,11 @@ describe DigitalMeasures::Faculty do
   describe "with jorourke Data" do
     before(:each) do
       @faculty = DigitalMeasures::Faculty.new(fixture_xml('jorourke'))
+    end
+
+    it "returns a formated url to cv with netid" do
+      @faculty.cv_url.must_equal "https://s3.amazonaws.com/digitalmeasures.fs.mendoza.notredame/jorourke/pci/jorourke.pdf"
+      puts @faculty.cv_url
     end
 
     it "returns articles, book reviews and book chapters" do
