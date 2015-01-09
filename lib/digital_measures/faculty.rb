@@ -123,7 +123,7 @@ module DigitalMeasures
       if get_value_for(measure, "PCI/UPLOAD_CV").blank?
         ""
       else
-        "https://s3.amazonaws.com/digitalmeasures.fs.mendoza.notredame/#{get_value_for(measure, "PCI/UPLOAD_CV")}"
+        "https://digitalmeasures.fs.mendoza.notredame.s3-website-us-east-1.amazonaws.com/#{get_value_for(measure, "PCI/UPLOAD_CV")}"
       end
     end
 
@@ -154,7 +154,7 @@ module DigitalMeasures
       #limit to 3 years
       teachings = []
       measure.xpath("//SCHTEACH").each do | e |
-        unless e.xpath("WEBPAGE_INCLUDE").first.text.strip == "No"  && e.xpath("TYY_TERM").first.text.strip.to_i == (DateTime.now.year - 3).to_i
+        unless e.xpath("WEBPAGE_INCLUDE").first.text.strip == "No"  || e.xpath("TYY_TERM").first.text.strip.to_i < (DateTime.now.year - 3).to_i
           teachings << "#{e.xpath("TITLE").first.text.strip}"
         end
       end

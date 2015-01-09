@@ -529,9 +529,9 @@ Ackermann is active in several University service projects and mentoring program
 		</MEMBER>
 		<SCHTEACH id="85510682625" dmd:lastModified="2014-01-31T16:52:46" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|FIN|20150|1">
 			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2013</TYY_TERM>
-			<TERM_START>2013-09-01</TERM_START>
-			<TERM_END>2013-12-31</TERM_END>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
 			<TITLE>Corporate Financial Management</TITLE>
 			<COURSEPRE>FIN</COURSEPRE>
 			<COURSENUM>20150</COURSENUM>
@@ -542,7 +542,7 @@ Ackermann is active in several University service projects and mentoring program
 			<NEWPREP/>
 			<PEDINN/>
 			<OUTREACH/>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SCHTEACH>
 		<SCHTEACH id="85510762497" dmd:lastModified="2014-01-31T16:54:07" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|FIN|20150|2">
 			<TYT_TERM>Fall</TYT_TERM>

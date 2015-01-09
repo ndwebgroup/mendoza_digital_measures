@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2015-01-09">
+	<Record userId="1586079" username="amckendr" termId="278" dmd:surveyId="13582723">
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
+		<PCI id="84311867392" dmd:lastModified="2015-01-09T11:44:56">
+			<PREFIX/>
+			<FNAME>Amanda</FNAME>
+			<PFNAME/>
+			<MNAME/>
+			<LNAME>McKendree</LNAME>
+			<SUFFIX/>
+			<ALT_NAME/>
+			<ENDPOS/>
+			<EMAIL>amckendr@nd.edu</EMAIL>
+			<ROOMNUM>233</ROOMNUM>
+			<OPHONE1>574</OPHONE1>
+			<OPHONE2>631</OPHONE2>
+			<OPHONE3>9153</OPHONE3>
+			<DPHONE1/>
+			<DPHONE2/>
+			<DPHONE3/>
+			<FAX1/>
+			<FAX2/>
+			<FAX3/>
+			<WEBSITE/>
+			<DTM_DOB>August</DTM_DOB>
+			<DTD_DOB>6</DTD_DOB>
+			<DTY_DOB>1979</DTY_DOB>
+			<GENDER>Female</GENDER>
+			<ETHNICITY>White, Non-Hispanic</ETHNICITY>
+			<CITIZEN>Yes</CITIZEN>
+			<PCI_EXPERTISE id="84311867393">
+				<EXPERTISE/>
+			</PCI_EXPERTISE>
+			<UPLOAD_CV/>
+			<BIO>Dr. Amanda G. McKendree teaches management writing, management speaking, and management communication at the University of Notre Dame, where she is an Associate Teaching Professor of Management in the Fanning Center for Business Communication. Professor McKendree's research examines crisis communication, conflict communication, and the influence of rhetoric on organizational identity.  She is published in the SAGE Encyclopedia of Identity, Business Communication Quarterly, Teaching Ideas for the Basic Communication Course, and Review of Communication.  She is the coauthor of Conflict Between Persons: The Origins of Leadership (Kendall Hunt Publishing Company, 2014). She received her BA in Global Policy Studies from Chatham University and MPA in Nonprofit/Public Management from the University of Pittsburgh Graduate School of Public and International Affairs.  She was awarded a one-year fellowship in public affairs at the Coro Center for Civic Leadership and Carnegie Mellon University, and earned her Ph.D. in Rhetoric at Duquesne University.  </BIO>
+		</PCI>
+		<ADMIN_PERM id="84311977984" dmd:lastModified="2014-01-13T15:04:39">
+			<SRANK>Associate Professional Specialist</SRANK>
+			<DTM_HIRE>January</DTM_HIRE>
+			<DTD_HIRE>13</DTD_HIRE>
+			<DTY_HIRE>2014</DTY_HIRE>
+			<DTM_ATTAIN_ASSISTANT_PROF/>
+			<DTD_ATTAIN_ASSISTANT_PROF/>
+			<DTY_ATTAIN_ASSISTANT_PROF/>
+			<SCHOOL_ASSISTANT_PROF/>
+			<DTM_ATTAIN_ASSOCIATE_PROF/>
+			<DTD_ATTAIN_ASSOCIATE_PROF/>
+			<DTY_ATTAIN_ASSOCIATE_PROF/>
+			<SCHOOL_ASSOCIATE_PROF/>
+			<DTM_ATTAIN_PROF/>
+			<DTD_ATTAIN_PROF/>
+			<DTY_ATTAIN_PROF/>
+			<SCHOOL_PROF/>
+			<DTM_ATTAIN_SENIOR_PROF/>
+			<DTD_ATTAIN_SENIOR_PROF/>
+			<DTY_ATTAIN_SENIOR_PROF/>
+			<SCHOOL_SENIOR_PROF/>
+			<DTM_ATTAIN_ENDOW/>
+			<DTD_ATTAIN_ENDOW/>
+			<DTY_ATTAIN_ENDOW/>
+			<ATTAIN_ENDOW_START></ATTAIN_ENDOW_START>
+			<ATTAIN_ENDOW_END></ATTAIN_ENDOW_END>
+			<SCHOOL_ENDOW/>
+			<DTM_TENURE_DECISION/>
+			<DTD_TENURE_DECISION/>
+			<DTY_TENURE_DECISION/>
+			<DTM_SEPARATION/>
+			<DTD_SEPARATION/>
+			<DTY_SEPARATION/>
+		</ADMIN_PERM>
+		<ADMIN id="84312164352" dmd:lastModified="2014-01-13T15:06:52" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+			<AC_YEAR>2013-2014</AC_YEAR>
+			<YEAR_START>2013-09-01</YEAR_START>
+			<YEAR_END>2014-08-31</YEAR_END>
+			<ADMIN_DEP id="84312164353" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS/>
+			<JOINT_APPOINTMENT/>
+		</ADMIN>
+		<AWARDHONOR id="103344062464" dmd:lastModified="2015-01-09T12:23:33" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<NAME>Presidential Team Irish Award</NAME>
+			<ORG>University of Notre Dame</ORG>
+			<SCOPE>Service, University</SCOPE>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-01-01</DATE_START>
+			<DATE_END>2012-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="103344021504" dmd:lastModified="2015-01-09T12:22:55" dmd:startDate="2012-11-01" dmd:endDate="2012-11-30">
+			<NAME>Top Paper Award</NAME>
+			<ORG>National Communication Association</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC/>
+			<DTM_DATE>November</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-11-01</DATE_START>
+			<DATE_END>2012-11-30</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<MEMBER id="85805762560" dmd:lastModified="2014-02-07T21:33:22">
+			<NAME>Eastern Communication Association</NAME>
+			<LEADERSHIP>Reviewer, Undergraduate Scholars Conference; Secretary, Reviewer, Philosophy of Communication Division</LEADERSHIP>
+			<SCOPE>Regional</SCOPE>
+			<DESC>The Eastern Communication Association was initially established in 1910 and continues as the oldest professional communication association in the United States. As a distinguished service-oriented organization with a history of achievement in research, criticism, communication theory, and excellence in teaching, the association welcomes members who share the goals and objectives of a membership dedicated to participation in state, regional, and national activity.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="85805789184" dmd:lastModified="2014-02-07T21:38:09">
+			<NAME>Midwest Regional Scholarship of Teaching and Learning Consortium</NAME>
+			<LEADERSHIP>Executive Committee</LEADERSHIP>
+			<SCOPE>Regional</SCOPE>
+			<DESC>An Annual Midwest Conference on the Scholarship of Teaching and Learning is held each year in April at Indiana University South Bend.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="85805725696" dmd:lastModified="2014-02-07T21:26:31">
+			<NAME>National Communication Association</NAME>
+			<LEADERSHIP>Secretary/Treasurer, Communication Ethics Division</LEADERSHIP>
+			<SCOPE>National</SCOPE>
+			<DESC>The National Communication Association advances communication as the discipline that studies all forms, modes, media and consequences of communication through humanistic, social scientific and aesthetic inquiry. </DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="85805778944" dmd:lastModified="2014-02-07T21:36:08">
+			<NAME>Pennsylvania Communication Association</NAME>
+			<LEADERSHIP>Executive Committee</LEADERSHIP>
+			<SCOPE>State</SCOPE>
+			<DESC>The Pennsylvania Communication Association (PCA) promotes teaching, scholarship, service, and an ongoing commitment to the discipline of human communication.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="85805748224" dmd:lastModified="2014-02-07T21:38:27">
+			<NAME>Professional and Organizational Development Network in Higher Education</NAME>
+			<LEADERSHIP>Newsletter Editor; Conference Proposal Reviewer; Co-chair, Crisis Management Topical Interest Group</LEADERSHIP>
+			<SCOPE>International</SCOPE>
+			<DESC>The Professional and Organizational Development (POD) Network in Higher Education is devoted to improving teaching and learning in higher education. Founded in 1975, POD provides its members with personal and academic relationships that are essential for professional growth.
+
+Central to POD’s philosophy is lifelong, holistic, personal, and professional learning, growth, and change for the higher education community.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<SCHTEACH id="103340038144" dmd:lastModified="2015-01-09T11:42:36" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|30220|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Management Communication</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>30220</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL/>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="103340099584" dmd:lastModified="2015-01-09T11:43:20" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|30220|03">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Management Communication</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>30220</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL/>
+			<CHOURS>0.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="103339952128" dmd:lastModified="2015-01-09T11:41:34" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MBCM|60420|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Management Writing</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60420</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>23</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="103339788288" dmd:lastModified="2015-01-09T11:38:34" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MGT|30220|">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Management Communication</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>30220</COURSENUM>
+			<SECTION/>
+			<ENROLL/>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="103339712512" dmd:lastModified="2015-01-09T11:39:09" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MSB|60240|02">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MSB</COURSEPRE>
+			<COURSENUM>60240</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL/>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>Specialized Master's</DEGREE_PROGRAM>
+			<DELIVERY_MODE/>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="103339581440" dmd:lastModified="2015-01-09T11:39:24" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MGT|30220|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Management Communication</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>30220</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL/>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="85805824000" dmd:lastModified="2014-02-07T21:43:30" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MBCM||">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Management Writing</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM/>
+			<SECTION/>
+			<ENROLL/>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<INTELLCONT id="86087221248" dmd:lastModified="2014-02-12T20:07:27" dmd:startDate="2014-01-01" dmd:endDate="2014-01-31">
+			<PUBLISHER>Kendall Hunt Publishing Company</PUBLISHER>
+			<TITLE>Conflict Between Persons:  The Origins of Leadership</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB>January (1st Quarter/Winter)</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2014</DTY_PUB>
+			<PUB_START>2014-01-01</PUB_START>
+			<PUB_END>2014-01-31</PUB_END>
+			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="86087221250">
+				<FACULTY_NAME/>
+				<FNAME>Ronald</FNAME>
+				<MNAME>C.</MNAME>
+				<LNAME>Arnett</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="86087221251">
+				<FACULTY_NAME/>
+				<FNAME>Leeanne</FNAME>
+				<MNAME>M.</MNAME>
+				<LNAME>Bell McManus</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="86087221249">
+				<FACULTY_NAME>1586079</FACULTY_NAME>
+				<FNAME>Amanda</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McKendree</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS/>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="103340494848" dmd:lastModified="2015-01-09T11:48:35" dmd:startDate="2011-07-01" dmd:endDate="2011-07-31">
+			<PUBLISHER>Review of Communication</PUBLISHER>
+			<TITLE>Synthesizing and Integrating the Crisis Literature:  A Reflective Practice</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB>July (3rd Quarter/Summer)</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2011</DTY_PUB>
+			<PUB_START>2011-07-01</PUB_START>
+			<PUB_END>2011-07-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="103340494849">
+				<FACULTY_NAME>1586079</FACULTY_NAME>
+				<FNAME>Amanda</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McKendree</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS/>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<PRESENT id="103341273088" dmd:lastModified="2015-01-09T12:00:30" dmd:startDate="2014-11-20" dmd:endDate="2014-11-20">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>National Communication Association Annual Conference</NAME>
+			<ORG>National Communication Association</ORG>
+			<LOCATION>Chicago</LOCATION>
+			<TITLE>“Reframing the 1982 Tylenol Crisis:  History, Historicity, and Interpretation”</TITLE>
+			<PRESENT_AUTH id="103341273089">
+				<FACULTY_NAME>1586079</FACULTY_NAME>
+				<FNAME>Amanda</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McKendree</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Panel</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>National</SCOPE>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>November</DTM_DATE>
+			<DTD_DATE>20</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-11-20</DATE_START>
+			<DATE_END>2014-11-20</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="103341389824" dmd:lastModified="2015-01-09T12:02:00" dmd:startDate="2014-09-27" dmd:endDate="2014-09-27">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>Pennsylvania Communication Association Annual Conference</NAME>
+			<ORG>Pennsylvania Communication Association</ORG>
+			<LOCATION>Pittsburgh</LOCATION>
+			<TITLE>“Contemplative Map Making:  A Response to Interpersonal Conflict” </TITLE>
+			<PRESENT_AUTH id="103341389825">
+				<FACULTY_NAME>1586079</FACULTY_NAME>
+				<FNAME>Amanda</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McKendree</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Panel</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>September</DTM_DATE>
+			<DTD_DATE>27</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-09-27</DATE_START>
+			<DATE_END>2014-09-27</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="103341473792" dmd:lastModified="2015-01-09T12:03:18" dmd:startDate="2014-06-06" dmd:endDate="2014-06-06">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>National Communication Ethics Conference</NAME>
+			<ORG>National Communication Association</ORG>
+			<LOCATION>Pittsburgh</LOCATION>
+			<TITLE>Capitalism and Social Responsibility:  Matters of Interpretation</TITLE>
+			<PRESENT_AUTH id="103341473793">
+				<FACULTY_NAME>1586079</FACULTY_NAME>
+				<FNAME>Amanda</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McKendree</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Panel</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE/>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>June</DTM_DATE>
+			<DTD_DATE>6</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-06-06</DATE_START>
+			<DATE_END>2014-06-06</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="103342133248" dmd:lastModified="2015-01-09T12:12:08" dmd:startDate="2014-04-25" dmd:endDate="2014-04-25">
+			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
+			<NAME>Eastern Communication Association Conference</NAME>
+			<ORG>Eastern Communication Association</ORG>
+			<LOCATION>Providence</LOCATION>
+			<TITLE>“Conflict Between Persons:  The Origins of Leadership</TITLE>
+			<PRESENT_AUTH id="103342133249">
+				<FACULTY_NAME>1586079</FACULTY_NAME>
+				<FNAME>Amanda</FNAME>
+				<MNAME></MNAME>
+				<LNAME>McKendree</LNAME>
+				<ROLE/>
+			</PRESENT_AUTH>
+			<MEETING_TYPE>Seminar</MEETING_TYPE>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE/>
+			<CLASSIFICATION/>
+			<ABSTRACT/>
+			<DTM_DATE>April</DTM_DATE>
+			<DTD_DATE>25</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-04-25</DATE_START>
+			<DATE_END>2014-04-25</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+	</Record>
+</Data>

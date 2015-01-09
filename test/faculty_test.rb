@@ -109,7 +109,6 @@ describe DigitalMeasures::Faculty do
 
     it "returns an enpty url because there is no CV" do
       @corey.cv_url.must_equal ""
-      puts @corey.cv_url
     end
 
     it "pulls in publications" do
@@ -117,6 +116,9 @@ describe DigitalMeasures::Faculty do
       @corey.publications.count.must_equal 16
     end
 
+    it "returns teaching from the last two years" do
+      @corey.teaching.count.must_equal 6
+    end
     it "skips publications that are not marked for web" do
 
     end
@@ -178,8 +180,7 @@ describe DigitalMeasures::Faculty do
     end
 
     it "returns a formated url to cv with netid" do
-      @faculty.cv_url.must_equal "https://s3.amazonaws.com/digitalmeasures.fs.mendoza.notredame/jorourke/pci/jorourke.pdf"
-      puts @faculty.cv_url
+      @faculty.cv_url.must_equal "https://digitalmeasures.fs.mendoza.notredame.s3-website-us-east-1.amazonaws.com/jorourke/pci/jorourke.pdf"
     end
 
     it "returns articles, book reviews and book chapters" do
@@ -199,5 +200,15 @@ describe DigitalMeasures::Faculty do
 
   end
 
+describe "with reasley Data" do
+    before(:each) do
+      @faculty = DigitalMeasures::Faculty.new(fixture_xml('reasley'))
+    end
 
+    it "returns teaching from the last two years" do
+      @faculty.teaching.count.must_equal 0
+    end
+
+
+  end
 end
