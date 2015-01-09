@@ -123,7 +123,7 @@ module DigitalMeasures
       if get_value_for(measure, "PCI/UPLOAD_CV").blank?
         ""
       else
-        "https://digitalmeasures.fs.mendoza.notredame.s3-website-us-east-1.amazonaws.com/#{get_value_for(measure, "PCI/UPLOAD_CV")}"
+        "http://digitalmeasures.fs.mendoza.notredame.s3-website-us-east-1.amazonaws.com/#{get_value_for(measure, "PCI/UPLOAD_CV")}"
       end
     end
 

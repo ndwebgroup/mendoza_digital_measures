@@ -180,7 +180,7 @@ describe DigitalMeasures::Faculty do
     end
 
     it "returns a formated url to cv with netid" do
-      @faculty.cv_url.must_equal "https://digitalmeasures.fs.mendoza.notredame.s3-website-us-east-1.amazonaws.com/jorourke/pci/jorourke.pdf"
+      @faculty.cv_url.must_equal "http://digitalmeasures.fs.mendoza.notredame.s3-website-us-east-1.amazonaws.com/jorourke/pci/jorourke.pdf"
     end
 
     it "returns articles, book reviews and book chapters" do
