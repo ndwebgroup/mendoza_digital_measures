@@ -239,8 +239,7 @@ module DigitalMeasures
     end
 
     def find_books(measure)
-
-      contypes = ["Book, Scholarly" "Book, Textbook-New" ,"Book, Textbook-Revised"]
+      contypes = ["Book, Scholarly", "Book, Textbook-New" ,"Book, Textbook-Revised"]
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include?(n.xpath("CONTYPE").first.text.strip) && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2015-01-28">
+	<Record userId="1625694" username="gbern" termId="278" dmd:surveyId="14594351">
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Finance" text="Finance"/>
+		<PCI id="90388705280" dmd:lastModified="2014-12-16T15:24:51">
+			<PREFIX/>
+			<FNAME>Gianna</FNAME>
+			<PFNAME>Gianna</PFNAME>
+			<MNAME/>
+			<LNAME>Bern</LNAME>
+			<SUFFIX/>
+			<ALT_NAME/>
+			<ENDPOS/>
+			<EMAIL>gbern@nd.edu</EMAIL>
+			<ROOMNUM>247</ROOMNUM>
+			<OPHONE1>574</OPHONE1>
+			<OPHONE2>631</OPHONE2>
+			<OPHONE3>0434</OPHONE3>
+			<DPHONE1/>
+			<DPHONE2/>
+			<DPHONE3/>
+			<FAX1/>
+			<FAX2/>
+			<FAX3/>
+			<WEBSITE/>
+			<DTM_DOB>May</DTM_DOB>
+			<DTD_DOB>2</DTD_DOB>
+			<DTY_DOB>1963</DTY_DOB>
+			<GENDER>Female</GENDER>
+			<ETHNICITY>Hispanic</ETHNICITY>
+			<CITIZEN>Yes</CITIZEN>
+			<PCI_EXPERTISE id="90388705281">
+				<EXPERTISE>International Finance</EXPERTISE>
+			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="90388705282">
+				<EXPERTISE>Risk Management</EXPERTISE>
+			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="90388705283">
+				<EXPERTISE>Energy Project Finance</EXPERTISE>
+			</PCI_EXPERTISE>
+			<UPLOAD_CV>gbern/pci/gbern.pdf</UPLOAD_CV>
+			<BIO>After a 25-year career in finance, Gianna joined the Special Professional faculty at the University of Notre Dame in 2014.  Gianna Bern is the Academic Director, Master of Science in Finance program and an Associate Teaching Professor of finance in the Mendoza College of Business.  Gianna teaches in the full-time MBA program and the new Master of Science in Finance program.  Gianna Bern is a founding principal of Chicago-based Brookshire Advisory and Research, Inc. a research and consulting firm focused on the energy sector.  Brookshire is a consultant to global corporate clients and publishes energy investment research for its clients.   Gianna is a former Senior Director, Fitch Ratings' Corporate Finance Latin America group focused on Oil, Gas, and Utilities.  Prior to that, Gianna managed a $2.1 billion commercial lease portfolio for a large commercial lessor.  Gianna has held managerial positions at BP Plc and Amoco Oil in energy economics, market analytics, and risk management.  Gianna began her career at Continental Bank (now part of Bank of America).</BIO>
+		</PCI>
+		<ADMIN_PERM id="90388944896" dmd:lastModified="2014-04-25T10:24:55">
+			<SRANK>Associate Professional Specialist</SRANK>
+			<DTM_HIRE>May</DTM_HIRE>
+			<DTD_HIRE>1</DTD_HIRE>
+			<DTY_HIRE>2014</DTY_HIRE>
+			<DTM_ATTAIN_ASSISTANT_PROF/>
+			<DTD_ATTAIN_ASSISTANT_PROF/>
+			<DTY_ATTAIN_ASSISTANT_PROF/>
+			<SCHOOL_ASSISTANT_PROF/>
+			<DTM_ATTAIN_ASSOCIATE_PROF/>
+			<DTD_ATTAIN_ASSOCIATE_PROF/>
+			<DTY_ATTAIN_ASSOCIATE_PROF/>
+			<SCHOOL_ASSOCIATE_PROF/>
+			<DTM_ATTAIN_PROF/>
+			<DTD_ATTAIN_PROF/>
+			<DTY_ATTAIN_PROF/>
+			<SCHOOL_PROF/>
+			<DTM_ATTAIN_SENIOR_PROF/>
+			<DTD_ATTAIN_SENIOR_PROF/>
+			<DTY_ATTAIN_SENIOR_PROF/>
+			<SCHOOL_SENIOR_PROF/>
+			<DTM_ATTAIN_ENDOW/>
+			<DTD_ATTAIN_ENDOW/>
+			<DTY_ATTAIN_ENDOW/>
+			<ATTAIN_ENDOW_START></ATTAIN_ENDOW_START>
+			<ATTAIN_ENDOW_END></ATTAIN_ENDOW_END>
+			<SCHOOL_ENDOW/>
+			<DTM_TENURE_DECISION/>
+			<DTD_TENURE_DECISION/>
+			<DTY_TENURE_DECISION/>
+			<DTM_SEPARATION/>
+			<DTD_SEPARATION/>
+			<DTY_SEPARATION/>
+		</ADMIN_PERM>
+		<ADMIN id="90388707328" dmd:lastModified="2014-04-25T10:26:49" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+			<AC_YEAR>2013-2014</AC_YEAR>
+			<YEAR_START>2013-09-01</YEAR_START>
+			<YEAR_END>2014-08-31</YEAR_END>
+			<ADMIN_DEP id="90388707329" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS/>
+			<JOINT_APPOINTMENT/>
+		</ADMIN>
+		<EDUCATION id="91049398272" dmd:lastModified="2014-05-09T13:56:08" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
+			<DEG>MBA</DEG>
+			<DEGOTHER/>
+			<SCHOOL>University of Chicago Booth School of Business</SCHOOL>
+			<MAJOR>Finance and International Business</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST>Yes</HIGHEST>
+			<YR_COMP>1989</YR_COMP>
+			<COMP_START>1989-01-01</COMP_START>
+			<COMP_END>1989-12-31</COMP_END>
+		</EDUCATION>
+		<EDUCATION id="91049437184" dmd:lastModified="2014-05-09T13:56:51" dmd:startDate="1987-01-01" dmd:endDate="1987-12-31">
+			<DEG>BBA</DEG>
+			<DEGOTHER/>
+			<SCHOOL>Illinois Institute of Technology</SCHOOL>
+			<MAJOR>Accounting</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST>No</HIGHEST>
+			<YR_COMP>1987</YR_COMP>
+			<COMP_START>1987-01-01</COMP_START>
+			<COMP_END>1987-12-31</COMP_END>
+		</EDUCATION>
+		<LICCERT id="91067740160" dmd:lastModified="2014-05-11T13:12:59" dmd:startDate="2012-01-01">
+			<TITLE>Commodity Trading Advisory license</TITLE>
+			<ORG>National Futures Association</ORG>
+			<DESC/>
+			<DTM_START>January</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-01</START_START>
+			<START_END>2012-01-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</LICCERT>
+		<LICCERT id="91067727872" dmd:lastModified="2014-05-11T13:12:36" dmd:startDate="2010-04-01">
+			<TITLE>Series 65 Registered Investment Advisory license</TITLE>
+			<ORG>State of Illinois</ORG>
+			<DESC/>
+			<DTM_START>April</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-04-01</START_START>
+			<START_END>2010-04-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</LICCERT>
+		<SCHTEACH id="91067717632" dmd:lastModified="2014-05-10T17:31:23">
+			<TYT_TERM/>
+			<TYY_TERM/>
+			<TERM_START></TERM_START>
+			<TERM_END></TERM_END>
+			<TITLE>Financial Statement Analysis</TITLE>
+			<COURSEPRE/>
+			<COURSENUM/>
+			<SECTION/>
+			<ENROLL/>
+			<CHOURS/>
+			<DELIVERY_MODE/>
+			<NEWPREP/>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="91067715584" dmd:lastModified="2014-05-14T19:08:17" dmd:startDate="2014-01-01" dmd:endDate="2014-01-14" dmd:primaryKey="Winter|2014|FIN|70500|">
+			<TYT_TERM>Winter</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-01</TERM_START>
+			<TERM_END>2014-01-14</TERM_END>
+			<TITLE>Multinational Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>70500</COURSENUM>
+			<SECTION/>
+			<ENROLL>16</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<OFF_LOAD_TEACH id="91072602112" dmd:lastModified="2014-05-11T13:06:46">
+			<TYT_TERM/>
+			<TYY_TERM/>
+			<TERM_START></TERM_START>
+			<TERM_END></TERM_END>
+			<TITLE>Multinational Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>70500</COURSENUM>
+			<SECTION/>
+			<ENROLL/>
+			<CHOURS>2.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<INTELLCONT id="91067789312" dmd:lastModified="2014-05-11T13:04:28" dmd:startDate="2011-06-01" dmd:endDate="2011-06-30">
+			<PUBLISHER>Wiley &amp; Sons (Bloomberg Financial Series)</PUBLISHER>
+			<TITLE>Investing in Energy: A Primer on the Economics of the Energy Industry</TITLE>
+			<VOLUME/>
+			<ISSUE>First</ISSUE>
+			<PAGENUM/>
+			<DTM_PUB>June</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2011</DTY_PUB>
+			<PUB_START>2011-06-01</PUB_START>
+			<PUB_END>2011-06-30</PUB_END>
+			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="91067789313">
+				<FACULTY_NAME>1625694</FACULTY_NAME>
+				<FNAME>Gianna</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Bern</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+	</Record>
+</Data>

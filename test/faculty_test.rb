@@ -208,7 +208,19 @@ describe "with reasley Data" do
     it "returns teaching from the last two years" do
       @faculty.teaching.count.must_equal 0
     end
-
-
   end
+
+  describe "with g bern Data" do
+      before(:each) do
+        @faculty = DigitalMeasures::Faculty.new(fixture_xml('gbern'))
+      end
+
+      it "returns book " do
+        @faculty.books.count.must_equal 1
+      end
+
+
+    end
+
+
 end
