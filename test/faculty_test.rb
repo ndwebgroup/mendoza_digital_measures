@@ -201,6 +201,7 @@ describe DigitalMeasures::Faculty do
   end
 
 describe "with reasley Data" do
+
     before(:each) do
       @faculty = DigitalMeasures::Faculty.new(fixture_xml('reasley'))
     end
@@ -208,19 +209,37 @@ describe "with reasley Data" do
     it "returns teaching from the last two years" do
       @faculty.teaching.count.must_equal 0
     end
+
+    it "returns a publication with collab authors" do
+      @faculty.publications.first.must_equal "\"Bidding Patterns, Experience, and Avoiding the Winner's Curse in Online Auctions\", (with Charles Wood, Sharad Barkataki), <i>JMIS</i>, 27, 2011."
+    end
   end
 
   describe "with g bern Data" do
-      before(:each) do
-        @faculty = DigitalMeasures::Faculty.new(fixture_xml('gbern'))
-      end
-
-      it "returns book " do
-        @faculty.books.count.must_equal 1
-      end
-
-
+    before(:each) do
+      @faculty = DigitalMeasures::Faculty.new(fixture_xml('gbern'))
     end
+
+    it "returns book " do
+      @faculty.books.count.must_equal 1
+    end
+  end
+
+
+  describe "with o williams Data" do
+    before(:each) do
+      @faculty = DigitalMeasures::Faculty.new(fixture_xml('owilliam'))
+    end
+
+    it "returns the userid" do
+      @faculty.user_id.must_equal 117578
+    end
+
+    it "first publication should not have a collab author" do
+      @faculty.publications.first.must_equal "\"The United Nations Global Compact: What Did It Promise?\",  <i>Journal of Business Ethics</i>, 25, 2014."
+    end
+
+  end
 
 
 end

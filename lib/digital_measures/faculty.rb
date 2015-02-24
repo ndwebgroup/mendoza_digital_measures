@@ -5,6 +5,7 @@ module DigitalMeasures
   class Faculty
 
     attr_reader(
+      :user_id,
       :netid,
       :first_name,
       :last_name,
@@ -34,6 +35,7 @@ module DigitalMeasures
       measure = Nokogiri.parse xml
       measure.remove_namespaces!
       @netid = measure.xpath("//Record").attr("username").value
+      @user_id = measure.xpath("//Record").attr("userId").value.to_i
 
           #single item valus (strings)
       @first_name = get_value_for(measure, "PCI/FNAME")
@@ -355,7 +357,8 @@ module DigitalMeasures
       authors = []
       #puts authors_xml.count
       authors_xml.each do | a |
-        unless a.xpath("FNAME").first.text.strip == @first_name && a.xpath("LNAME").first.text.strip == @last_name
+        #unless a.xpath("FNAME").first.text.strip == @first_name && a.xpath("LNAME").first.text.strip == @last_name
+        unless a.xpath("FACULTY_NAME").first.text.strip.to_i == @user_id
           authors << "#{a.xpath("FNAME").first.text.strip} #{a.xpath("LNAME").first.text.strip}"
         end
       end
