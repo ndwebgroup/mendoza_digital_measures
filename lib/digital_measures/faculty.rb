@@ -38,7 +38,7 @@ module DigitalMeasures
       @user_id = measure.xpath("//Record").attr("userId").value.to_i
 
           #single item valus (strings)
-      @first_name = get_value_for(measure, "PCI/FNAME")
+      @first_name = get_display_name(measure)
       @last_name = get_value_for(measure, "PCI/LNAME")
       @middle_name = get_value_for(measure, "PCI/MNAME")
       @prefix = get_value_for(measure, "PCI/PREFIX")
@@ -64,6 +64,10 @@ module DigitalMeasures
     end
 
 
+    def get_display_name(measure)
+      return get_value_for(measure, "PCI/PNAME") if get_value_for(measure, "PCI/PNAME").strip.present?
+      get_value_for(measure, "PCI/FNAME")
+    end
 
     def get_value_for(xml_doc, xpath_for)
       xml_doc.xpath("//#{xpath_for}").first.nil? ? "" : xml_doc.xpath("//#{xpath_for}").first.text.strip
@@ -198,7 +202,7 @@ module DigitalMeasures
 
     def find_publications(measure)
       #marked for web
-      contypes = ["Journal Articles, Refereed", "Journal Articles", "Non-Refereed", "Other"]
+      contypes = ["Journal Articles, Refereed", "Journal Articles", "Non-Refereed", "Other", "Journal Articles, Non-Refereed", "Published Conference Proceedings"]
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include? n.xpath("CONTYPE").first.text.strip
