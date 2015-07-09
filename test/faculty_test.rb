@@ -171,6 +171,15 @@ describe DigitalMeasures::Faculty do
       @faculty.articles_and_chapters.count.must_equal 2
     end
 
+    it "returns books" do
+      @faculty.books.must_be_kind_of Array
+      @faculty.books.count.must_equal 1
+    end
+
+    it "returns books with link if present" do
+      @faculty.books.first.must_equal '"<a href="http://EngagingEthicalMillennials.nd.edu">Engaging Millennials for Ethical Leadership: What Works for Young Professionals and Their Managers</a>", Business Expert Press; http://EngagingEthicalMillennials.nd.edu, 2015'
+    end
+
   end
 
 
@@ -191,6 +200,10 @@ describe DigitalMeasures::Faculty do
     it "returns books" do
       @faculty.books.must_be_kind_of Array
       #@faculty.books.count.must_equal 13
+    end
+
+    it "returns books without link if no web address is present" do
+      @faculty.books.first.must_equal '"Management Communication: A Case-Analysis Approach, 5/e", Prentice Hall, 2013'
     end
 
     it "returns publications" do

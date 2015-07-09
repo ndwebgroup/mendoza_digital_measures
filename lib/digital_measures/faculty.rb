@@ -248,7 +248,7 @@ module DigitalMeasures
           parts = []
           authors = []
           special_chars = ["?", "."]
-          title = "\"#{n.xpath("TITLE").first.text.strip}\""
+          title = "\"#{make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS"))}\""
           if special_chars.include? title.split.last
             parts << title
           else

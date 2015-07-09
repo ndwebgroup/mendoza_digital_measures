@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    digital_measures (0.4.3)
+    digital_measures (0.4.4)
       dotenv
       nokogiri
       rails (~> 3.2.18)
