@@ -65,7 +65,7 @@ module DigitalMeasures
 
 
     def get_display_name(measure)
-      return get_value_for(measure, "PCI/PNAME") if get_value_for(measure, "PCI/PNAME").strip.present?
+      return get_value_for(measure, "PCI/PFNAME") if get_value_for(measure, "PCI/PFNAME").strip.present?
       get_value_for(measure, "PCI/FNAME")
     end
 

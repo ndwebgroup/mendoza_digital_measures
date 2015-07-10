@@ -253,6 +253,17 @@ describe "with reasley Data" do
     end
   end
 
+  describe "with dspiess data" do
+    before(:each) do
+      @faculty = DigitalMeasures::Faculty.new(fixture_xml('dspiess'))
+    end
+
+    it "returns preffered name instead of first name if present" do
+      @faculty.last_name.must_equal "Spiess"
+      @faculty.first_name.must_equal "Katherine"
+    end
+  end
+
   describe "with metta world peace" do
     before(:each) do
       @faculty = DigitalMeasures::Faculty.new(fixture_xml('pname'))
