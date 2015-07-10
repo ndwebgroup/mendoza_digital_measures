@@ -238,7 +238,6 @@ describe "with reasley Data" do
     end
   end
 
-
   describe "with o williams Data" do
     before(:each) do
       @faculty = DigitalMeasures::Faculty.new(fixture_xml('owilliam'))
