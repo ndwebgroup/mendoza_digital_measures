@@ -290,7 +290,7 @@ describe "with reasley Data" do
     end
 
     it "pulls in only publications that are marked for the web" do
-      @faculty.publications.count.must_equal 15
+      @faculty.publications.count.must_equal 14
     end
   end
 
