@@ -1569,7 +1569,7 @@
 			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
 		<INTELLCONT id="1445574656" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2006-07-01" dmd:endDate="2006-07-31">
@@ -3564,7 +3564,7 @@
 			<TITLE>MIS Academic Leadership Conference</TITLE>
 			<ORG>Indiana University / AIS</ORG>
 			<CITYSTATE>Bloomington, IN</CITYSTATE>
-			<DESC>More than 40 academic leaders attended the Third Annual MIS Academic Leadership Conference. 
+			<DESC>More than 40 academic leaders attended the Third Annual MIS Academic Leadership Conference.
 Conference topics included: Undergraduate Programs, Graduate Programs, Information Systems Branding, Online Programs, Connections to Industry, Business Analytics and Research</DESC>
 			<DTM_START>October</DTM_START>
 			<DTD_START>25</DTD_START>

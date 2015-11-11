@@ -211,6 +211,7 @@ describe DigitalMeasures::Faculty do
       #@faculty.publications.count.must_equal 21
     end
 
+
   end
 
 describe "with reasley Data" do
@@ -280,6 +281,16 @@ describe "with reasley Data" do
 
     it "returns Journal Articles, Non-Refereed as a publication" do
       @faculty.publications.last.must_match "Tortious Government Conduct and the Government Contract: Tort, Breach of Contract or Both?"
+    end
+  end
+
+  describe "with hguo" do
+    before(:each) do
+      @faculty = DigitalMeasures::Faculty.new(fixture_xml('hguo'))
+    end
+
+    it "pulls in only publications that are marked for the web" do
+      @faculty.publications.count.must_equal 14
     end
   end
 
