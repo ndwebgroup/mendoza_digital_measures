@@ -1,0 +1,4280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2015-11-11">
+	<Record userId="509548" username="hguo" termId="278" dmd:surveyId="1593664">
+		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
+		<PCI id="16547270656" dmd:lastModified="2015-11-05T13:36:46">
+			<PREFIX>Dr.</PREFIX>
+			<FNAME>Hong</FNAME>
+			<PFNAME/>
+			<MNAME/>
+			<LNAME>Guo</LNAME>
+			<SUFFIX/>
+			<ALT_NAME/>
+			<ENDPOS/>
+			<EMAIL>hguo@nd.edu</EMAIL>
+			<ROOMNUM>356</ROOMNUM>
+			<OPHONE1>574</OPHONE1>
+			<OPHONE2>631</OPHONE2>
+			<OPHONE3>2927</OPHONE3>
+			<DPHONE1/>
+			<DPHONE2/>
+			<DPHONE3/>
+			<FAX1/>
+			<FAX2/>
+			<FAX3/>
+			<WEBSITE>www.nd.edu/~hguo/</WEBSITE>
+			<DTM_DOB>August</DTM_DOB>
+			<DTD_DOB>6</DTD_DOB>
+			<DTY_DOB>1978</DTY_DOB>
+			<GENDER>Female</GENDER>
+			<ETHNICITY/>
+			<CITIZEN>No</CITIZEN>
+			<PCI_EXPERTISE id="16547270657">
+				<EXPERTISE>Economic Analysis of IT Policies</EXPERTISE>
+			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="16547270658">
+				<EXPERTISE>Net Neutrality</EXPERTISE>
+			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="16547270659">
+				<EXPERTISE>Mining Online Social Networks</EXPERTISE>
+			</PCI_EXPERTISE>
+			<UPLOAD_CV>hguo/pci/CV_Hong Guo-7.pdf</UPLOAD_CV>
+			<BIO>Dr. Hong Guo studies economic analysis of IT policy issues such as net neutrality and public safety networks. She is also interested in characterizing key design features of emerging information systems (e.g., consumer review systems, mobile platforms, digital games, etc.) and examining firms’ corresponding strategies. She teaches analytical courses including quantitative decision modeling, process analytics, and statistics in business at Notre Dame.</BIO>
+		</PCI>
+		<ADMIN_PERM id="16640493569" dmd:lastModified="2010-01-29T22:46:54">
+			<SRANK>Assistant Professor</SRANK>
+			<DTM_HIRE>August</DTM_HIRE>
+			<DTD_HIRE/>
+			<DTY_HIRE>2009</DTY_HIRE>
+			<DTM_ATTAIN_ASSISTANT_PROF>August</DTM_ATTAIN_ASSISTANT_PROF>
+			<DTD_ATTAIN_ASSISTANT_PROF/>
+			<DTY_ATTAIN_ASSISTANT_PROF>2009</DTY_ATTAIN_ASSISTANT_PROF>
+			<SCHOOL_ASSISTANT_PROF>University of Notre Dame</SCHOOL_ASSISTANT_PROF>
+			<DTM_ATTAIN_ASSOCIATE_PROF/>
+			<DTD_ATTAIN_ASSOCIATE_PROF/>
+			<DTY_ATTAIN_ASSOCIATE_PROF/>
+			<SCHOOL_ASSOCIATE_PROF/>
+			<DTM_ATTAIN_PROF/>
+			<DTD_ATTAIN_PROF/>
+			<DTY_ATTAIN_PROF/>
+			<SCHOOL_PROF/>
+			<DTM_ATTAIN_SENIOR_PROF/>
+			<DTD_ATTAIN_SENIOR_PROF/>
+			<DTY_ATTAIN_SENIOR_PROF/>
+			<SCHOOL_SENIOR_PROF/>
+			<DTM_ATTAIN_ENDOW/>
+			<DTD_ATTAIN_ENDOW/>
+			<DTY_ATTAIN_ENDOW/>
+			<ATTAIN_ENDOW_START></ATTAIN_ENDOW_START>
+			<ATTAIN_ENDOW_END></ATTAIN_ENDOW_END>
+			<SCHOOL_ENDOW/>
+			<DTM_TENURE_DECISION/>
+			<DTD_TENURE_DECISION/>
+			<DTY_TENURE_DECISION/>
+			<DTM_SEPARATION/>
+			<DTD_SEPARATION/>
+			<DTY_SEPARATION/>
+		</ADMIN_PERM>
+		<ADMIN id="104662571008" dmd:lastModified="2015-01-31T20:32:36" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="104662571009" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Assistant Professor</RANK>
+			<TENURE>Tenure-Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<QUALIFICATION_BASIS/>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="77707008000" dmd:lastModified="2015-01-31T20:32:10" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+			<AC_YEAR>2013-2014</AC_YEAR>
+			<YEAR_START>2013-09-01</YEAR_START>
+			<YEAR_END>2014-08-31</YEAR_END>
+			<ADMIN_DEP id="77707008001" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Assistant Professor</RANK>
+			<TENURE>Tenure-Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<QUALIFICATION_BASIS/>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="67227566080" dmd:lastModified="2015-01-31T20:32:25" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+			<AC_YEAR>2012-2013</AC_YEAR>
+			<YEAR_START>2012-09-01</YEAR_START>
+			<YEAR_END>2013-08-31</YEAR_END>
+			<ADMIN_DEP id="67227566081" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Assistant Professor</RANK>
+			<TENURE>Tenure-Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<QUALIFICATION_BASIS/>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="67227561984" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+			<AC_YEAR>2011-2012</AC_YEAR>
+			<YEAR_START>2011-09-01</YEAR_START>
+			<YEAR_END>2012-08-31</YEAR_END>
+			<ADMIN_DEP id="67227561985" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Assistant Professor</RANK>
+			<TENURE>Tenure-Track</TENURE>
+			<GRADUATE/>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="16547272704" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-09-01" dmd:endDate="2010-08-31" dmd:primaryKey="2009-2010">
+			<AC_YEAR>2009-2010</AC_YEAR>
+			<YEAR_START>2009-09-01</YEAR_START>
+			<YEAR_END>2010-08-31</YEAR_END>
+			<ADMIN_DEP id="16547272705" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Assistant Professor</RANK>
+			<TENURE>Tenure-Track</TENURE>
+			<GRADUATE>No</GRADUATE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<AACSBQUAL>Academically and Professionally Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<PASTHIST id="20596893697" dmd:lastModified="2010-01-30T15:23:59" dmd:startDate="2009-08-01">
+			<EXPTYPE>Academic</EXPTYPE>
+			<ORG>University of Notre Dame</ORG>
+			<TITLE>Assistant Professor</TITLE>
+			<DESC/>
+			<OWN_COMPANY>No</OWN_COMPANY>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-08-01</START_START>
+			<START_END>2009-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PASTHIST>
+		<AWARDHONOR id="84307210240" dmd:lastModified="2014-01-13T13:55:35" dmd:startDate="2013-12-15" dmd:endDate="2013-12-15">
+			<NAME>Best Paper Award Nominee</NAME>
+			<ORG>WITS 2013</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC>Four papers of the 32 accepted were nominated for the best paper award.</DESC>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE>15</DTD_DATE>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-12-15</DATE_START>
+			<DATE_END>2013-12-15</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="75798439936" dmd:lastModified="2013-07-26T11:59:29" dmd:startDate="2013-05-01" dmd:endDate="2013-05-31">
+			<NAME>2013 James Dincolo Outstanding Teaching Award</NAME>
+			<ORG>Department of Management, Mendoza College of Business, University of Notre Dame</ORG>
+			<SCOPE>Teaching</SCOPE>
+			<DESC/>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-05-01</DATE_START>
+			<DATE_END>2013-05-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<AWARDHONOR id="20596981761" dmd:lastModified="2010-01-29T16:02:56" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
+			<NAME>Second Runner-Up of ACM SIGMIS Doctoral Dissertation Award Competition</NAME>
+			<ORG>ACM SIGMIS</ORG>
+			<SCOPE>Scholarship/Research</SCOPE>
+			<DESC/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2009</DTY_DATE>
+			<DATE_START>2009-12-01</DATE_START>
+			<DATE_END>2009-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
+		<EDUCATION id="16642947073" dmd:lastModified="2015-01-31T20:34:15" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<DEG>Ph D</DEG>
+			<DEGOTHER/>
+			<SCHOOL>University of Florida</SCHOOL>
+			<MAJOR>Information Systems</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE>For Whom the Net Tolls: A Two-Sided Market Analysis and Public Policy Implications for the Net Neutrality Debate</DISSTITLE>
+			<HIGHEST>Yes</HIGHEST>
+			<YR_COMP>2009</YR_COMP>
+			<COMP_START>2009-01-01</COMP_START>
+			<COMP_END>2009-12-31</COMP_END>
+		</EDUCATION>
+		<EDUCATION id="20597102593" dmd:lastModified="2015-01-31T20:34:10" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<DEG>MSBA</DEG>
+			<DEGOTHER/>
+			<SCHOOL>University of Rochester</SCHOOL>
+			<MAJOR>Information Systems</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST>No</HIGHEST>
+			<YR_COMP>2005</YR_COMP>
+			<COMP_START>2005-01-01</COMP_START>
+			<COMP_END>2005-12-31</COMP_END>
+		</EDUCATION>
+		<EDUCATION id="20597157889" dmd:lastModified="2010-01-29T16:06:51" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<DEG>Other</DEG>
+			<DEGOTHER>M.Eng.</DEGOTHER>
+			<SCHOOL>Renmin University of China</SCHOOL>
+			<MAJOR>Information Systems</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST>No</HIGHEST>
+			<YR_COMP>2002</YR_COMP>
+			<COMP_START>2002-01-01</COMP_START>
+			<COMP_END>2002-12-31</COMP_END>
+		</EDUCATION>
+		<EDUCATION id="20597184513" dmd:lastModified="2010-01-29T16:07:13" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<DEG>Other</DEG>
+			<DEGOTHER>B.Eng.</DEGOTHER>
+			<SCHOOL>Renmin University of China</SCHOOL>
+			<MAJOR>Information Systems</MAJOR>
+			<SUPPAREA/>
+			<DISSTITLE/>
+			<HIGHEST>No</HIGHEST>
+			<YR_COMP>1999</YR_COMP>
+			<COMP_START>1999-01-01</COMP_START>
+			<COMP_END>1999-12-31</COMP_END>
+		</EDUCATION>
+		<MEMBER id="20611721217" dmd:lastModified="2010-01-30T15:32:19" dmd:startDate="2008-01-01">
+			<NAME>Decision Sciences Institute (DSI)</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC>The Decision Sciences Institute (DSI) is a professional organization of academicians and practitioners interested in the application of quantitative and behavioral methods to the problems of society.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="17546393601" dmd:lastModified="2010-01-30T15:31:34" dmd:startDate="2006-01-01">
+			<NAME>Association for Information Systems (AIS)</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC>The Association for Information Systems (AIS), is the premier global organization for academics specializing in information systems. Founded in 1994,  AIS is an international professional society of 4,000 members from 90 countries and a key player in the advancement of the IS academic community.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<MEMBER id="17546397697" dmd:lastModified="2010-01-30T15:33:19" dmd:startDate="2006-01-01">
+			<NAME>Institute for Operations Research and the Management Sciences (INFORMS)</NAME>
+			<LEADERSHIP/>
+			<SCOPE>International</SCOPE>
+			<DESC>The Institute for Operations Research and the Management Sciences (INFORMS) is the largest professional society in the world for professionals in the field of operations research (O.R.), management science, and business analytics.
+</DESC>			<DTM_START/>			<DTD_START/>			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</MEMBER>
+		<SCHTEACH id="114071087105" dmd:lastModified="2015-09-08T13:52:36" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MGT|40750|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>23</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="114071097345" dmd:lastModified="2015-09-08T13:52:50" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MGT|40750|02">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>23</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="114071101441" dmd:lastModified="2015-09-08T13:53:09" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MGT|40750|03">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>24</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104662757377" dmd:lastModified="2015-01-31T20:38:59" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|40750|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>19</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104662763521" dmd:lastModified="2015-01-31T20:39:10" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|40750|02">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>19</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104662767617" dmd:lastModified="2015-01-31T20:39:25" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|40750|03">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>19</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104662712321" dmd:lastModified="2015-01-31T20:37:16" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MGT|40750|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>22</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104662724609" dmd:lastModified="2015-01-31T20:37:32" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MGT|40750|02">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>25</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104662734849" dmd:lastModified="2015-01-31T20:37:50" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MGT|40750|03">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>22</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="86400094209" dmd:lastModified="2014-02-19T14:54:55" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MGT|40750|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>22</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="86400104449" dmd:lastModified="2014-02-19T14:55:04" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MGT|40750|02">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>22</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="86400108545" dmd:lastModified="2014-02-19T14:55:15" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MGT|40750|03">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>22</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="86400063489" dmd:lastModified="2014-02-19T14:54:17" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|MGT|40750|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>22</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="86400073729" dmd:lastModified="2014-02-19T14:54:28" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|MGT|40750|02">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>22</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="86400081921" dmd:lastModified="2014-02-19T14:54:40" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|MGT|40750|03">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>22</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="75798515713" dmd:lastModified="2013-07-26T12:01:16" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|MGT|40750|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="75798525953" dmd:lastModified="2013-07-26T12:01:31" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|MGT|40750|02">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="75798532097" dmd:lastModified="2013-07-26T12:01:39" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|MGT|40750|03">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-01-15</TERM_START>
+			<TERM_END>2013-04-30</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="59741933569" dmd:lastModified="2012-09-25T20:41:57" dmd:startDate="2012-09-01" dmd:endDate="2012-12-31" dmd:primaryKey="Fall|2012|MGT|40750|02">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2012</TYY_TERM>
+			<TERM_START>2012-09-01</TERM_START>
+			<TERM_END>2012-12-31</TERM_END>
+			<TITLE>Quantitative Decision Modeling</TITLE>
+			<COURSEPRE>MGT</COURSEPRE>
+			<COURSENUM>40750</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="40445052929" dmd:lastModified="2011-08-09T13:05:31" dmd:startDate="2011-09-01" dmd:endDate="2011-12-31" dmd:primaryKey="Fall|2011|BAMG|20100|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-09-01</TERM_START>
+			<TERM_END>2011-12-31</TERM_END>
+			<TITLE>Statistics in Business</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>20100</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>45</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="40445063169" dmd:lastModified="2011-08-09T13:05:57" dmd:startDate="2011-09-01" dmd:endDate="2011-12-31" dmd:primaryKey="Fall|2011|BAMG|20100|02">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-09-01</TERM_START>
+			<TERM_END>2011-12-31</TERM_END>
+			<TITLE>Statistics in Business</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>20100</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>45</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="40445067265" dmd:lastModified="2011-08-09T13:06:03" dmd:startDate="2011-09-01" dmd:endDate="2011-12-31" dmd:primaryKey="Fall|2011|BAMG|20100|03">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-09-01</TERM_START>
+			<TERM_END>2011-12-31</TERM_END>
+			<TITLE>Statistics in Business</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>20100</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>45</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="40445005825" dmd:lastModified="2011-08-09T13:04:01" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|BAMG|20100|07">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-01-15</TERM_START>
+			<TERM_END>2011-04-30</TERM_END>
+			<TITLE>Statistics in Business</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>20100</COURSENUM>
+			<SECTION>07</SECTION>
+			<ENROLL>44</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="40445014017" dmd:lastModified="2011-08-09T13:03:52" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|BAMG|20100|08">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2011</TYY_TERM>
+			<TERM_START>2011-01-15</TERM_START>
+			<TERM_END>2011-04-30</TERM_END>
+			<TITLE>Statistics in Business</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>20100</COURSENUM>
+			<SECTION>08</SECTION>
+			<ENROLL>42</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="31686209537" dmd:lastModified="2011-08-09T13:04:09" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31" dmd:primaryKey="Fall|2010|BAMG|30700|07">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-09-01</TERM_START>
+			<TERM_END>2010-12-31</TERM_END>
+			<TITLE>Introduction to Process Analytics</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>30700</COURSENUM>
+			<SECTION>07</SECTION>
+			<ENROLL>32</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="31686211585" dmd:lastModified="2011-08-09T13:04:16" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31" dmd:primaryKey="Fall|2010|BAMG|30700|08">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-09-01</TERM_START>
+			<TERM_END>2010-12-31</TERM_END>
+			<TITLE>Introduction to Process Analytics</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>30700</COURSENUM>
+			<SECTION>08</SECTION>
+			<ENROLL>32</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="17504794625" dmd:lastModified="2010-05-15T23:26:58" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|BAMG|20100|06">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-01-15</TERM_START>
+			<TERM_END>2010-04-30</TERM_END>
+			<TITLE>Statistics in Business</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>20100</COURSENUM>
+			<SECTION>06</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="17504802817" dmd:lastModified="2010-05-15T23:27:05" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|BAMG|20100|07">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2010</TYY_TERM>
+			<TERM_START>2010-01-15</TERM_START>
+			<TERM_END>2010-04-30</TERM_END>
+			<TITLE>Statistics in Business</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>20100</COURSENUM>
+			<SECTION>07</SECTION>
+			<ENROLL>32</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="17218215937" dmd:lastModified="2010-05-15T23:28:39" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31" dmd:primaryKey="Fall|2009|BAMG|30700|09">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-09-01</TERM_START>
+			<TERM_END>2009-12-31</TERM_END>
+			<TITLE>Introduction to Process Analytics</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>30700</COURSENUM>
+			<SECTION>09</SECTION>
+			<ENROLL>34</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="17504782337" dmd:lastModified="2010-05-15T23:30:02" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31" dmd:primaryKey="Fall|2009|BAMG|30700|10">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2009</TYY_TERM>
+			<TERM_START>2009-09-01</TERM_START>
+			<TERM_END>2009-12-31</TERM_END>
+			<TITLE>Introduction to Process Analytics</TITLE>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>30700</COURSENUM>
+			<SECTION>10</SECTION>
+			<ENROLL>33</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DELIVERY_MODE/>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<DSL id="104663060480" dmd:lastModified="2015-01-31T20:50:11" dmd:startDate="2011-01-18" dmd:endDate="2011-05-04">
+			<TYPE>Directed Individual/Independent Study</TYPE>
+			<DSL_STUDENT id="104663060481">
+				<FNAME>Michael</FNAME>
+				<LNAME>Renner</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Accounting</SHDEP>
+			<COURSEPRE>BAMG</COURSEPRE>
+			<COURSENUM>36005</COURSENUM>
+			<CHOURS>1.5</CHOURS>
+			<TITLE>Statistics in Sports</TITLE>
+			<COMPSTAGE>Completed</COMPSTAGE>
+			<COMMENT/>
+			<DTM_START>January</DTM_START>
+			<DTD_START>18</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-18</START_START>
+			<START_END>2011-01-18</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>4</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-05-04</END_START>
+			<END_END>2011-05-04</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</DSL>
+		<CONGRANT id="59822045185" dmd:lastModified="2012-09-26T21:09:19" dmd:startDate="2012-05-01" dmd:endDate="2012-09-30">
+			<TYPE>Grant</TYPE>
+			<TITLE>Design of Consumer Review Systems and Product Pricing</TITLE>
+			<SPONORG>Networks, Electronic Commerce and Telecommunications (NET) Institute</SPONORG>
+			<AWARDORG>Private</AWARDORG>
+			<CONGRANT_INVEST id="59822045186">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Principal</ROLE>
+			</CONGRANT_INVEST>
+			<CONGRANT_INVEST id="59822045187">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+				<ROLE>Co-Principal</ROLE>
+			</CONGRANT_INVEST>
+			<AMOUNT>4500</AMOUNT>
+			<ABSTRACT/>
+			<STATUS>Funded</STATUS>
+			<DTM_START>May</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-05-01</START_START>
+			<START_END>2012-05-31</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-09-01</END_START>
+			<END_END>2012-09-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</CONGRANT>
+		<CONGRANT id="31719913473" dmd:lastModified="2011-01-05T21:57:23" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<TYPE>Grant</TYPE>
+			<TITLE>Would Carrier Competition Maintain the Neutrality of Mobile Net?</TITLE>
+			<SPONORG>Faculty Research Scholarship Program (FRSP) Initiation Grant, Office of the Vice President for Research</SPONORG>
+			<AWARDORG>University of Notre Dame</AWARDORG>
+			<CONGRANT_INVEST id="31719913474">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Principal</ROLE>
+			</CONGRANT_INVEST>
+			<AMOUNT>10000</AMOUNT>
+			<ABSTRACT>The mobile broadband market in the United States is undergoing rapid change characterized by widespread deployment of high-speed mobile broadband, high consumer adoption rate of smart phones, and the resulting explosive growth of mobile Internet usage. The mobile carrier can essentially act as a gatekeeper who has the capability to regulate all content delivered to consumers and potentially discriminate certain content. Similar to the net neutrality case for wired Internet, proponents of mobile net neutrality argue that content discrimination over mobile net will discourage application innovations and hurt consumers.
+
+In this research, we intend to model the key difference in market structure of wired and wireless Internet – the intensity of competition among network providers. Further, we plan to explore how the competition of wireless carriers affects their own behavior as well as the behavior of application providers and end consumers. From a policy perspective, it is especially useful to consider whether the consumers stand to gain from such carrier competition and how is the social welfare affected as a result. Based on the research findings, we would be able to answer the question of whether and/or to what extent carrier competition would maintain the neutrality of mobile net and whether the regulation of mobile net neutrality is required to maximize social welfare.</ABSTRACT>
+			<STATUS>Funded</STATUS>
+			<DTM_START>January</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-01-01</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END>31</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-12-31</END_START>
+			<END_END>2011-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</CONGRANT>
+		<CONGRANT id="20597559297" dmd:lastModified="2010-05-15T23:31:56" dmd:startDate="2009-04-01" dmd:endDate="2009-12-31">
+			<TYPE>Grant</TYPE>
+			<TITLE>Usage-based Pricing and Broadband Users Differentiation</TITLE>
+			<SPONORG>Public Utility Research Center (PURC)</SPONORG>
+			<AWARDORG>State</AWARDORG>
+			<CONGRANT_INVEST id="20597559298">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Co-Principal</ROLE>
+			</CONGRANT_INVEST>
+			<CONGRANT_INVEST id="20597559299">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+				<ROLE>Principal</ROLE>
+			</CONGRANT_INVEST>
+			<CONGRANT_INVEST id="20597559300">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+				<ROLE>Co-Principal</ROLE>
+			</CONGRANT_INVEST>
+			<AMOUNT>5000</AMOUNT>
+			<ABSTRACT/>
+			<STATUS>Funded</STATUS>
+			<DTM_START>April</DTM_START>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-04-01</START_START>
+			<START_END>2009-04-30</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-12-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</CONGRANT>
+		<CONGRANT id="17546477569" dmd:lastModified="2010-01-30T15:35:41" dmd:startDate="2009-05-01" dmd:endDate="2009-09-30">
+			<TYPE>Grant</TYPE>
+			<TITLE>The Economic Effect of Broadband User Discrimination</TITLE>
+			<SPONORG>Networks, Electronic Commerce and Telecommunications (NET) Institute</SPONORG>
+			<AWARDORG>Private</AWARDORG>
+			<CONGRANT_INVEST id="17546477570">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Principal</ROLE>
+			</CONGRANT_INVEST>
+			<CONGRANT_INVEST id="17546477571">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+				<ROLE>Co-Principal</ROLE>
+			</CONGRANT_INVEST>
+			<CONGRANT_INVEST id="17546477572">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+				<ROLE>Co-Principal</ROLE>
+			</CONGRANT_INVEST>
+			<AMOUNT>3000</AMOUNT>
+			<ABSTRACT>The net neutrality debate has brought out economic rationale for and against a variety of proposals of the broadband service providers to differentiate between different classes of users. Broadband users are characterized by the differing amounts of content they request online, as well as their valuation for such content. A broadband service provider (BSP) has two potential instruments for user discrimination – price discrimination and traffic prioritization (or degradation). We model six different pricing and prioritization options that cover many of the strategies that actual BSPs have adopted in the marketplace. By comparing these options, we find that imposing net neutrality increases the BSP‟s profit if the BSP price discriminates different consumer groups. If net neutrality is not imposed, however, the BSP might still prefer a net neutrality outcome depending on the various parameter values. These and other results will be useful both for the broadband service providers as they mull over the introduction of the different pricing strategies and for policymakers who are dealing with the net neutrality issue.</ABSTRACT>
+			<STATUS>Funded</STATUS>
+			<DTM_START>May</DTM_START>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-05-01</START_START>
+			<START_END>2009-05-31</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-09-01</END_START>
+			<END_END>2009-09-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</CONGRANT>
+		<CONGRANT id="31828000769" dmd:lastModified="2011-01-10T21:38:04" dmd:startDate="2008-05-01" dmd:endDate="2008-09-30">
+			<TYPE>Grant</TYPE>
+			<TITLE>Computer Virus Propagation in a Network Organization: The Interplay between Social and Technological Networks</TITLE>
+			<SPONORG>Networks, Electronic Commerce and Telecommunications (NET) Institute</SPONORG>
+			<AWARDORG>Private</AWARDORG>
+			<CONGRANT_INVEST id="31828000770">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Principal</ROLE>
+			</CONGRANT_INVEST>
+			<CONGRANT_INVEST id="31828000772">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+				<ROLE>Co-Principal</ROLE>
+			</CONGRANT_INVEST>
+			<AMOUNT>4500</AMOUNT>
+			<ABSTRACT/>
+			<STATUS>Funded</STATUS>
+			<DTM_START>May</DTM_START>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-05-01</START_START>
+			<START_END>2008-05-31</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-09-01</END_START>
+			<END_END>2008-09-30</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</CONGRANT>
+		<INTELLCONT id="111376275456" dmd:lastModified="2015-09-08T13:51:49" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<PUBLISHER>Information Systems Research</PUBLISHER>
+			<TITLE>Design of consumer review systems and product pricing</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2015</DTY_PUB>
+			<PUB_START>2015-01-01</PUB_START>
+			<PUB_END>2015-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="111376275458">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="111376275457">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Accepted</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="111376275460">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="117421791232" dmd:lastModified="2015-11-05T13:36:15" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<PUBLISHER>MIS Quarterly</PUBLISHER>
+			<TITLE>Effects of competition among Internet service providers and content providers on the net neutrality debate</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2015</DTY_PUB>
+			<PUB_START>2015-01-01</PUB_START>
+			<PUB_END>2015-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="117421791233">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="117421791234">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="117421791238">
+				<FACULTY_NAME/>
+				<FNAME>Arthur</FNAME>
+				<MNAME/>
+				<LNAME>Lim</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="117421791240">
+				<FACULTY_NAME/>
+				<FNAME>Yu-Chen</FNAME>
+				<MNAME/>
+				<LNAME>Yang</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="117421791241">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Accepted</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="117421791236">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="117421742080" dmd:lastModified="2015-11-06T22:58:25" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<PUBLISHER>Production and Operations Management</PUBLISHER>
+			<TITLE>Network neutrality versus paid prioritization: Analyzing the impact on content innovation</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2015</DTY_PUB>
+			<PUB_START>2015-01-01</PUB_START>
+			<PUB_END>2015-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="117421742081">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="117421742082">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Accepted</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="117421742084">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="111376252928" dmd:lastModified="2015-11-06T22:57:49" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<PUBLISHER>Decision Sciences</PUBLISHER>
+			<TITLE>Push or pull? Design of content delivery systems</TITLE>
+			<VOLUME>46</VOLUME>
+			<ISSUE>5</ISSUE>
+			<PAGENUM>937-960</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2015</DTY_PUB>
+			<PUB_START>2015-01-01</PUB_START>
+			<PUB_END>2015-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="111376252929">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="111376252930">
+				<FACULTY_NAME/>
+				<FNAME>Sean</FNAME>
+				<MNAME/>
+				<LNAME>Marston</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="111376252931">
+				<FACULTY_NAME/>
+				<FNAME>Yuwen</FNAME>
+				<MNAME/>
+				<LNAME>Chen</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="111376252932">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="104665581569" dmd:lastModified="2015-09-09T19:06:59" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<PUBLISHER>Proceedings of the 2014 International Conference on Information Systems (ICIS 2014)</PUBLISHER>
+			<TITLE>Cross-market integration and sabotage</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2014</DTY_PUB>
+			<PUB_START>2014-01-01</PUB_START>
+			<PUB_END>2014-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="104665581570">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665581571">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665581568">
+				<FACULTY_NAME/>
+				<FNAME>Asoo</FNAME>
+				<MNAME>J.</MNAME>
+				<LNAME>Vakharia</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665581575">
+				<FACULTY_NAME/>
+				<FNAME>Arthur</FNAME>
+				<MNAME/>
+				<LNAME>Lim</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="104665581573">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="104665622529" dmd:lastModified="2015-09-09T19:06:43" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<PUBLISHER>Proceedings of the 2014 Workshop on Information Technologies and Systems (WITS 2014)</PUBLISHER>
+			<TITLE>Pricing strategies of in-game virtual currency</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2014</DTY_PUB>
+			<PUB_START>2014-01-01</PUB_START>
+			<PUB_END>2014-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="104665622530">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665622531">
+				<FACULTY_NAME>1238087</FACULTY_NAME>
+				<FNAME>Lin</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Hao</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665622528">
+				<FACULTY_NAME/>
+				<FNAME>Tridas</FNAME>
+				<MNAME/>
+				<LNAME>Mukhopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665622535">
+				<FACULTY_NAME>117570</FACULTY_NAME>
+				<FNAME>Daewon</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sun</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="104665622533">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="104665475073" dmd:lastModified="2015-09-09T19:06:30" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<PUBLISHER>Proceedings of the 2013 Workshop on Information Technologies and Systems (WITS 2013)</PUBLISHER>
+			<TITLE>A mobile platform's monetizing strategy for advertising under agency pricing for app sales</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2013</DTY_PUB>
+			<PUB_START>2013-01-01</PUB_START>
+			<PUB_END>2013-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="104665475075">
+				<FACULTY_NAME>1238087</FACULTY_NAME>
+				<FNAME>Lin</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Hao</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665475074">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665475072">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="104665475077">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="75798624257" dmd:lastModified="2015-09-08T13:13:00" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<PUBLISHER>Production and Operations Management</PUBLISHER>
+			<TITLE>Broadband network management and the net neutrality debate</TITLE>
+			<VOLUME>22</VOLUME>
+			<ISSUE>5</ISSUE>
+			<PAGENUM>1287-1298</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2013</DTY_PUB>
+			<PUB_START>2013-01-01</PUB_START>
+			<PUB_END>2013-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="75798624258">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75798624260">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75798624259">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="75798624256">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="75798736897" dmd:lastModified="2015-09-08T13:28:08" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<PUBLISHER>Proceedings of the 2013 Hawaii International Conference on System Sciences (HICSS 2013)</PUBLISHER>
+			<TITLE>Design of consumer review systems and product pricing</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2013</DTY_PUB>
+			<PUB_START>2013-01-01</PUB_START>
+			<PUB_END>2013-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="75798736899">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75798736898">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="75798736896">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="84307429376" dmd:lastModified="2015-09-08T13:12:11" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<PUBLISHER>Decision Sciences</PUBLISHER>
+			<TITLE>Estimating social influences from social networking sites - Articulated friendships versus communication interactions</TITLE>
+			<VOLUME>46</VOLUME>
+			<ISSUE>1</ISSUE>
+			<PAGENUM>135-163</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2013</DTY_PUB>
+			<PUB_START>2013-01-01</PUB_START>
+			<PUB_END>2013-12-31</PUB_END>
+			<CONTYPE/>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="84307429377">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="84307429378">
+				<FACULTY_NAME/>
+				<FNAME>Praveen</FNAME>
+				<MNAME/>
+				<LNAME>Pathak</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="84307429379">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="84307429380">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="75799017473" dmd:lastModified="2015-09-08T13:23:38" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<PUBLISHER>Proceedings of the 2013 International Conference on Information Systems (ICIS 2013)</PUBLISHER>
+			<TITLE>Technology, interoperability, and provision of public safety networks</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2013</DTY_PUB>
+			<PUB_START>2013-01-01</PUB_START>
+			<PUB_END>2013-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="75799017475">
+				<FACULTY_NAME/>
+				<FNAME>Yipeng</FNAME>
+				<MNAME/>
+				<LNAME>Liu</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75799017474">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75799017472">
+				<FACULTY_NAME/>
+				<FNAME>Barrie</FNAME>
+				<MNAME>R.</MNAME>
+				<LNAME>Nault</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="75799017477">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="104665434113" dmd:lastModified="2015-09-09T19:05:44" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<PUBLISHER>Proceedings of the 2013 DSI Annual Meeting (DSI 2013)</PUBLISHER>
+			<TITLE>Who cares about your big day? Impact of life events on dynamics of social networks</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2013</DTY_PUB>
+			<PUB_START>2013-01-01</PUB_START>
+			<PUB_END>2013-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="104665434115">
+				<FACULTY_NAME/>
+				<FNAME>Arati</FNAME>
+				<MNAME/>
+				<LNAME>Srinivasan</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665434114">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665434112">
+				<FACULTY_NAME>117516</FACULTY_NAME>
+				<FNAME>Sarv</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Devaraj</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="104665434117">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="48705118209" dmd:lastModified="2015-09-08T13:13:10" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<PUBLISHER>Decision Sciences</PUBLISHER>
+			<TITLE>Net neutrality, broadband market coverage, and innovations at the edge</TITLE>
+			<VOLUME>43</VOLUME>
+			<ISSUE>1</ISSUE>
+			<PAGENUM>141–172</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2012</DTY_PUB>
+			<PUB_START>2012-01-01</PUB_START>
+			<PUB_END>2012-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="48705118210">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="48705118212">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="48705118211">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="48705118208">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="104665272321" dmd:lastModified="2015-09-08T13:33:12" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<PUBLISHER>Proceedings of the 2012 International Conference on Information Systems (ICIS 2012)</PUBLISHER>
+			<TITLE>Optimal design of consumer review systems</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2012</DTY_PUB>
+			<PUB_START>2012-01-01</PUB_START>
+			<PUB_END>2012-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="104665272322">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="104665272323">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="104665272320">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="75798974465" dmd:lastModified="2015-09-09T19:05:19" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<PUBLISHER>Proceedings of the 2009 Workshop on e-Business (WeB 2012)</PUBLISHER>
+			<TITLE>Push or pull? Design of content delivery systems</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2012</DTY_PUB>
+			<PUB_START>2012-01-01</PUB_START>
+			<PUB_END>2012-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="75798974466">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75798974467">
+				<FACULTY_NAME/>
+				<FNAME>Sean</FNAME>
+				<MNAME/>
+				<LNAME>Marston</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75798974464">
+				<FACULTY_NAME/>
+				<FNAME>Yuwen</FNAME>
+				<MNAME/>
+				<LNAME>Chen</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="75798974468">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="75798796289" dmd:lastModified="2015-09-09T19:05:11" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<PUBLISHER>Proceedings of the 2012 Workshop on Information Technologies and Systems (WITS 2012)</PUBLISHER>
+			<TITLE>Quality of service tiering: Implications for content innovation and broadband coverage</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2012</DTY_PUB>
+			<PUB_START>2012-01-01</PUB_START>
+			<PUB_END>2012-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="75798796290">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75798796291">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="75798796288">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="17506242561" dmd:lastModified="2015-09-08T13:13:34" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<PUBLISHER>Information Systems Research</PUBLISHER>
+			<TITLE>The debate on net neutrality: A policy perspective</TITLE>
+			<VOLUME>22</VOLUME>
+			<ISSUE>1</ISSUE>
+			<PAGENUM>60-82</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2011</DTY_PUB>
+			<PUB_START>2011-01-01</PUB_START>
+			<PUB_END>2011-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="17506242564">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="17506242563">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="17506242562">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT>The status quo of prohibiting broadband service providers from charging websites for preferential access to their customers – the bedrock principle of net neutrality – is under fierce debate. We develop a game-theoretic model to address two critical issues of net neutrality: (1) Who are gainers and losers of abandoning net neutrality; and (2) Will broadband service providers have greater incentive to expand their capacity without net neutrality? We find that if the principle of net neutrality is abolished, the broadband service provider stands to gain from the arrangement, as a result of extracting the preferential access fees from content providers. Content providers are thus left worse off, mirroring the stances of the two sides in the debate. Depending on parameter values in our framework, consumer surplus either does not change or is higher in the short run. When compared to the baseline case under net neutrality, social welfare in the short run increases if one content provider pays for preferential treatment, but remains unchanged if both content providers pay. Finally, we find that the incentive to expand infrastructure capacity for the broadband service provider and its optimal capacity choice under net neutrality are higher than those under the no net neutrality regime except in some specific cases. Under net neutrality, the broadband service provider always invests in broadband infrastructure at the socially optimal level, but either under- or over-invests in infrastructure capacity in the absence of net neutrality.</ABSTRACT>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="17506242560">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="75799138305" dmd:lastModified="2015-09-09T19:04:53" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			<PUBLISHER>Proceedings of the 2010 Americas Conference on Information Systems (AMCIS 2010)</PUBLISHER>
+			<TITLE>Net neutrality and its implications</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2010</DTY_PUB>
+			<PUB_START>2010-01-01</PUB_START>
+			<PUB_END>2010-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="75799138306">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75799138307">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75799138308">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="75799138304">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="24301547521" dmd:lastModified="2015-09-08T13:14:27" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			<PUBLISHER>Journal of Management Information Systems</PUBLISHER>
+			<TITLE>Net neutrality and vertical integration of content and broadband services</TITLE>
+			<VOLUME>27</VOLUME>
+			<ISSUE>2</ISSUE>
+			<PAGENUM>243-275</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2010</DTY_PUB>
+			<PUB_START>2010-01-01</PUB_START>
+			<PUB_END>2010-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="24301547522">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="24301547523">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="24301547524">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="24301547525">
+				<FACULTY_NAME/>
+				<FNAME>Yu-Chen</FNAME>
+				<MNAME/>
+				<LNAME>Yang</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="24301547520">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612966401" dmd:lastModified="2015-09-09T19:04:33" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<PUBLISHER>Proceedings of the 2009 Annual Workshop on Information Technologies and Systems (WITS 2009)</PUBLISHER>
+			<TITLE>A different angle on net neutrality - Should we charge broadband users rather than content providers?</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2009</DTY_PUB>
+			<PUB_START>2009-01-01</PUB_START>
+			<PUB_END>2009-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612966402">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612966403">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612966404">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="20612966400">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612909057" dmd:lastModified="2015-09-09T19:04:24" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<PUBLISHER>Proceedings of the 2009 Workshop on e-Business (WeB 2009)</PUBLISHER>
+			<TITLE>Personal event detection in social networking sites</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2009</DTY_PUB>
+			<PUB_START>2009-01-01</PUB_START>
+			<PUB_END>2009-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612909058">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612909059">
+				<FACULTY_NAME/>
+				<FNAME>Shengli</FNAME>
+				<MNAME/>
+				<LNAME>Li</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612909060">
+				<FACULTY_NAME/>
+				<FNAME>Praveen</FNAME>
+				<MNAME/>
+				<LNAME>Pathak</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="20612909056">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612888577" dmd:lastModified="2015-09-09T19:04:15" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<PUBLISHER>Proceedings of the 2009 Pacific Asia Conference on Information Systems (PACIS 2009)</PUBLISHER>
+			<TITLE>The vertical integration of content and broadband services: The net neutrality debate</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2009</DTY_PUB>
+			<PUB_START>2009-01-01</PUB_START>
+			<PUB_END>2009-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612888579">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612888580">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612888578">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612888581">
+				<FACULTY_NAME/>
+				<FNAME>Yu-Chen</FNAME>
+				<MNAME/>
+				<LNAME>Yang</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="20612888576">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612935681" dmd:lastModified="2015-09-09T19:04:04" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<PUBLISHER>Proceedings of the 2009 Workshop on e-Business (WeB 2009)</PUBLISHER>
+			<TITLE>User discrimination and net neutrality</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2009</DTY_PUB>
+			<PUB_START>2009-01-01</PUB_START>
+			<PUB_END>2009-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612935682">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612935683">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612935684">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="20612935680">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="75799312385" dmd:lastModified="2015-09-09T19:03:55" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<PUBLISHER>Proceedings of the 2008 Workshop on Information Technologies and Systems (WITS 2008)</PUBLISHER>
+			<TITLE>A study of computer virus propagation: The interplay between social and technological networks</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2008</DTY_PUB>
+			<PUB_START>2008-01-01</PUB_START>
+			<PUB_END>2008-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="75799312387">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="75799312386">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="75799312384">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="17504901121" dmd:lastModified="2015-09-08T13:15:27" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<PUBLISHER>Decision Support Systems</PUBLISHER>
+			<TITLE>A survey of quantum games</TITLE>
+			<VOLUME>46</VOLUME>
+			<ISSUE>1</ISSUE>
+			<PAGENUM>318-332</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2008</DTY_PUB>
+			<PUB_START>2008-01-01</PUB_START>
+			<PUB_END>2008-12-31</PUB_END>
+			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="17504901122">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="17504901123">
+				<FACULTY_NAME/>
+				<FNAME>Juheng</FNAME>
+				<MNAME/>
+				<LNAME>Zhang</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="17504901124">
+				<FACULTY_NAME/>
+				<FNAME>Gary</FNAME>
+				<MNAME>J.</MNAME>
+				<LNAME>Koehler</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="17504901120">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612831233" dmd:lastModified="2015-09-09T19:03:46" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<PUBLISHER>Proceedings of the 2008 Workshop on e-Business (WeB 2008)</PUBLISHER>
+			<TITLE>Computer-mediated social interactions and virtual community participation</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2008</DTY_PUB>
+			<PUB_START>2008-01-01</PUB_START>
+			<PUB_END>2008-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612831234">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612831235">
+				<FACULTY_NAME/>
+				<FNAME>Praveen</FNAME>
+				<MNAME/>
+				<LNAME>Pathak</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612831236">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="20612831232">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612747265" dmd:lastModified="2015-09-09T19:03:34" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<PUBLISHER>The 2008 Winter Conference on Business Intelligence, David Eccles School of Business, University of Utah</PUBLISHER>
+			<TITLE>Social network discovery and customer network value assessment</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2008</DTY_PUB>
+			<PUB_START>2008-01-01</PUB_START>
+			<PUB_END>2008-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612747266">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612747267">
+				<FACULTY_NAME/>
+				<FNAME>Praveen</FNAME>
+				<MNAME/>
+				<LNAME>Pathak</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612747268">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="20612747264">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612669441" dmd:lastModified="2015-09-08T13:44:39" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<PUBLISHER>Proceedings of the 2007 International Conference on Information Systems (ICIS 2007)</PUBLISHER>
+			<TITLE>Computer virus propagation in social networks</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2007</DTY_PUB>
+			<PUB_START>2007-01-01</PUB_START>
+			<PUB_END>2007-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612669442">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612669443">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="20612669440">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612634625" dmd:lastModified="2015-09-09T19:02:39" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<PUBLISHER>Proceedings of the 2007 Workshop on Information Technologies and Systems (WITS 2007)</PUBLISHER>
+			<TITLE>Discovering composite social networks from social networking websites</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2007</DTY_PUB>
+			<PUB_START>2007-01-01</PUB_START>
+			<PUB_END>2007-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612634626">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612634627">
+				<FACULTY_NAME/>
+				<FNAME>Praveen</FNAME>
+				<MNAME/>
+				<LNAME>Pathak</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612634628">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="20612634624">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="20612413441" dmd:lastModified="2015-10-22T15:28:11" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<PUBLISHER>Proceedings of the 2007 International Conference on Information Systems Technology and Management (ICISTM 2007)</PUBLISHER>
+			<TITLE>The debate on net neutrality</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM/>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2007</DTY_PUB>
+			<PUB_START>2007-01-01</PUB_START>
+			<PUB_END>2007-12-31</PUB_END>
+			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="20612413443">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612413444">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="20612413442">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<STATUS>Published</STATUS>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="20612413440">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<PRESENT id="104664299521" dmd:lastModified="2015-01-31T21:29:16" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>The 2014 International Conference on Information Systems (ICIS 2014)</NAME>
+			<ORG>Association for Information Systems (AIS)</ORG>
+			<LOCATION>Auckland, New Zealand</LOCATION>
+			<TITLE>Cross-Market Integration and Sabotage</TITLE>
+			<PRESENT_AUTH id="104664299522">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104664299520">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104664299525">
+				<FACULTY_NAME/>
+				<FNAME>Asoo</FNAME>
+				<MNAME/>
+				<LNAME>Vakharia</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104664299526">
+				<FACULTY_NAME/>
+				<FNAME>Arthur</FNAME>
+				<MNAME/>
+				<LNAME>Lim</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-12-01</DATE_START>
+			<DATE_END>2014-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="104664260609" dmd:lastModified="2015-01-31T21:27:37" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
+			<PRESENTATION_TYPE>Poster</PRESENTATION_TYPE>
+			<NAME>The 2014 Workshop on Information Systems and Economics (WISE 2014)</NAME>
+			<ORG/>
+			<LOCATION>Auckland, New Zealand</LOCATION>
+			<TITLE>An Analysis of A Mobile Platform's In-App Advertising Contract under Agency Pricing for App Sales</TITLE>
+			<PRESENT_AUTH id="104664260612">
+				<FACULTY_NAME>1238087</FACULTY_NAME>
+				<FNAME>Lin</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Hao</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104664260610">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104664260608">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-12-01</DATE_START>
+			<DATE_END>2014-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="104663820289" dmd:lastModified="2015-01-31T21:15:21" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>The 2014 Workshop on Information Technologies and Systems (WITS 2014)</NAME>
+			<ORG/>
+			<LOCATION>Auckland, New Zealand</LOCATION>
+			<TITLE>Pricing Strategies of In-Game Virtual Currency</TITLE>
+			<PRESENT_AUTH id="104663820290">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663820288">
+				<FACULTY_NAME>1238087</FACULTY_NAME>
+				<FNAME>Lin</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Hao</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663820294">
+				<FACULTY_NAME/>
+				<FNAME>Tridas</FNAME>
+				<MNAME/>
+				<LNAME>Mukhopadhyay</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663820296">
+				<FACULTY_NAME>117570</FACULTY_NAME>
+				<FNAME>Daewon</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sun</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-12-01</DATE_START>
+			<DATE_END>2014-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="104663441409" dmd:lastModified="2015-01-31T21:02:25" dmd:startDate="2014-11-01" dmd:endDate="2014-11-30">
+			<PRESENTATION_TYPE>Poster</PRESENTATION_TYPE>
+			<NAME>The 2014 Conference on Information Systems and Technology (CIST 2014)</NAME>
+			<ORG/>
+			<LOCATION>San Francisco, CA</LOCATION>
+			<TITLE>Pricing Strategies of In-Game Virtual Currency</TITLE>
+			<PRESENT_AUTH id="104663441410">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663441408">
+				<FACULTY_NAME>1238087</FACULTY_NAME>
+				<FNAME>Lin</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Hao</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663441414">
+				<FACULTY_NAME/>
+				<FNAME>Tridas</FNAME>
+				<MNAME/>
+				<LNAME>Mukhopadhyay</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663441416">
+				<FACULTY_NAME>117570</FACULTY_NAME>
+				<FNAME>Daewon</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Sun</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>November</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-11-01</DATE_START>
+			<DATE_END>2014-11-30</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="104663183361" dmd:lastModified="2015-01-31T20:54:58" dmd:startDate="2014-05-01" dmd:endDate="2014-05-31">
+			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
+			<NAME>The 2014 Producation and Operations Management Society Annual Conference (POMS 2014)</NAME>
+			<ORG/>
+			<LOCATION>Atlanta, GA</LOCATION>
+			<TITLE>Integration and Bilateral Sabotage</TITLE>
+			<PRESENT_AUTH id="104663183362">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663183360">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663183365">
+				<FACULTY_NAME/>
+				<FNAME>Asoo</FNAME>
+				<MNAME/>
+				<LNAME>Vakharia</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="104663183367">
+				<FACULTY_NAME/>
+				<FNAME>Arthur</FNAME>
+				<MNAME/>
+				<LNAME>Lim</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-05-01</DATE_START>
+			<DATE_END>2014-05-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="86411640833" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>The 2013 International Conference on Information Systems (ICIS 2013)</NAME>
+			<ORG>Association for Information Systems (AIS)</ORG>
+			<LOCATION>Milan, Italy</LOCATION>
+			<TITLE>Technology, Interoperability, and Provision of Public Safety Networks</TITLE>
+			<PRESENT_AUTH id="86411640835">
+				<FACULTY_NAME/>
+				<FNAME>Yipeng</FNAME>
+				<MNAME/>
+				<LNAME>Liu</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="86411640834">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="86411640832">
+				<FACULTY_NAME/>
+				<FNAME>Barrie</FNAME>
+				<MNAME/>
+				<LNAME>Nault</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-12-01</DATE_START>
+			<DATE_END>2013-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="86411610113" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>The 2013 Workshop on Information Technologies and Systems (WITS 2013)</NAME>
+			<ORG/>
+			<LOCATION>Milan, Italy</LOCATION>
+			<TITLE>A Mobile Platform's Monetizing Strategy for Advertising under Agency Pricing for App Sales</TITLE>
+			<PRESENT_AUTH id="86411610112">
+				<FACULTY_NAME>1238087</FACULTY_NAME>
+				<FNAME>Lin</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Hao</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="86411610114">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="86411610118">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-12-01</DATE_START>
+			<DATE_END>2013-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="86411479041" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+			<PRESENTATION_TYPE>Poster</PRESENTATION_TYPE>
+			<NAME>The 2013 Workshop on Information Technologies and Systems (WITS 2013)</NAME>
+			<ORG/>
+			<LOCATION>Milan, Italy</LOCATION>
+			<TITLE>Integration and Bilateral Sabotage</TITLE>
+			<PRESENT_AUTH id="86411479042">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="86411479040">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="86411479045">
+				<FACULTY_NAME/>
+				<FNAME>Asoo</FNAME>
+				<MNAME/>
+				<LNAME>Vakharia</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-12-01</DATE_START>
+			<DATE_END>2013-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="86411368449" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-11-01" dmd:endDate="2013-11-30">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>The 2013 DSI Annual Meeting</NAME>
+			<ORG>Decision Sciences Institute</ORG>
+			<LOCATION>Baltimore, MD</LOCATION>
+			<TITLE>Who Cares About Your Big Day? Impact of Life Events on Dynamics of Social Networks</TITLE>
+			<PRESENT_AUTH id="86411368451">
+				<FACULTY_NAME/>
+				<FNAME>Arati</FNAME>
+				<MNAME/>
+				<LNAME>Srinivasan</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="86411368450">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="86411368448">
+				<FACULTY_NAME/>
+				<FNAME>Sarv</FNAME>
+				<MNAME/>
+				<LNAME>Devaraj</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>November</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-11-01</DATE_START>
+			<DATE_END>2013-11-30</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75801100289" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-10-01" dmd:endDate="2013-10-31">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>The 2013 INFORMS Annual Meeting</NAME>
+			<ORG>Institute for Operations Research and the Management Sciences (INFORMS)</ORG>
+			<LOCATION>Minneapolis, MN</LOCATION>
+			<TITLE>Technology, Interoperability, and Provision of Public Safety Networks</TITLE>
+			<PRESENT_AUTH id="75801100291">
+				<FACULTY_NAME/>
+				<FNAME>Yipeng</FNAME>
+				<MNAME/>
+				<LNAME>Liu</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75801100290">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-10-01</DATE_START>
+			<DATE_END>2013-10-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75801133057" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-01" dmd:endDate="2013-01-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2013 Hawaii International Conference on System Sciences (HICSS 2013)</NAME>
+			<ORG/>
+			<LOCATION>Maui, HI</LOCATION>
+			<TITLE>Design of Consumer Review Systems and Product Pricing</TITLE>
+			<PRESENT_AUTH id="75801133059">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75801133058">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>January</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2013</DTY_DATE>
+			<DATE_START>2013-01-01</DATE_START>
+			<DATE_END>2013-01-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75801167873" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2012 International Conference on Information Systems (ICIS 2012)</NAME>
+			<ORG>Association for Information Systems (AIS)</ORG>
+			<LOCATION>Orlando, FL</LOCATION>
+			<TITLE>Optimal Design of Consumer Review Systems</TITLE>
+			<PRESENT_AUTH id="75801167874">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75801167875">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-12-01</DATE_START>
+			<DATE_END>2012-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75801243649" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2012 Workshop on e-Business (WeB 2012)</NAME>
+			<ORG/>
+			<LOCATION>Orlando, FL</LOCATION>
+			<TITLE>Push or Pull? Design of Content Delivery Systems</TITLE>
+			<PRESENT_AUTH id="75801243650">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75801243651">
+				<FACULTY_NAME/>
+				<FNAME>Sean</FNAME>
+				<MNAME/>
+				<LNAME>Marston</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75801243648">
+				<FACULTY_NAME/>
+				<FNAME>Yuwen</FNAME>
+				<MNAME/>
+				<LNAME>Chen</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-12-01</DATE_START>
+			<DATE_END>2012-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75801210881" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2012 Workshop on Information Technologies and Systems (WITS 2012)</NAME>
+			<ORG/>
+			<LOCATION>Orlando, FL</LOCATION>
+			<TITLE>Quality of Service Tiering: Implications for Content Innovation and Broadband Coverage</TITLE>
+			<PRESENT_AUTH id="75801210882">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75801210883">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-12-01</DATE_START>
+			<DATE_END>2012-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75801268225" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-10-01" dmd:endDate="2012-10-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2012 INFORMS Annual Meeting</NAME>
+			<ORG>Institute for Operations Research and the Management Sciences (INFORMS)</ORG>
+			<LOCATION>Phoenix, AZ</LOCATION>
+			<TITLE>Optimal Design of Consumer Review Systems</TITLE>
+			<PRESENT_AUTH id="75801268227">
+				<FACULTY_NAME/>
+				<FNAME>Yabing</FNAME>
+				<MNAME/>
+				<LNAME>Jiang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75801268226">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>October</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-10-01</DATE_START>
+			<DATE_END>2012-10-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75801290753" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-05-01" dmd:endDate="2012-05-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2012 Big Ten Information Systems Research Symposium</NAME>
+			<ORG>Carlson School of Management, University of Minnesota</ORG>
+			<LOCATION>Minneapolis, MN</LOCATION>
+			<TITLE>Research Portfolio</TITLE>
+			<PRESENT_AUTH id="75801290754">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>Regional</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-05-01</DATE_START>
+			<DATE_END>2012-05-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="75801317377" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-03-01" dmd:endDate="2012-03-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The Management Seminar Series</NAME>
+			<ORG>University of Notre Dame</ORG>
+			<LOCATION>South Bend, IN</LOCATION>
+			<TITLE>Congestion Sensitive Content and Broadband Network Management</TITLE>
+			<PRESENT_AUTH id="75801317378">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="75801317376">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>Local</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>March</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2012</DTY_DATE>
+			<DATE_START>2012-03-01</DATE_START>
+			<DATE_END>2012-03-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="48705581057" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-11-01" dmd:endDate="2011-11-30">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2011 INFORMS Annual Meeting</NAME>
+			<ORG>Institute for Operations Research and the Management Sciences (INFORMS)</ORG>
+			<LOCATION>Charlotte, NC</LOCATION>
+			<TITLE>Congestion Sensitive Content and Network Management</TITLE>
+			<PRESENT_AUTH id="48705581058">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="48705581059">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>November</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2011</DTY_DATE>
+			<DATE_START>2011-11-01</DATE_START>
+			<DATE_END>2011-11-30</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="48705497089" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-11-01" dmd:endDate="2011-11-30">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2011 INFORMS Annual Meeting</NAME>
+			<ORG>Institute for Operations Research and the Management Sciences (INFORMS)</ORG>
+			<LOCATION>Charlotte, NC</LOCATION>
+			<TITLE>Personal Event Detection in Social Networking Sites</TITLE>
+			<PRESENT_AUTH id="48705497090">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="48705497091">
+				<FACULTY_NAME/>
+				<FNAME>Shengli</FNAME>
+				<MNAME/>
+				<LNAME>Li</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="48705497092">
+				<FACULTY_NAME/>
+				<FNAME>Praveen</FNAME>
+				<MNAME/>
+				<LNAME>Pathak</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="48705497088">
+				<FACULTY_NAME/>
+				<FNAME>Haldun</FNAME>
+				<MNAME/>
+				<LNAME>Aytug</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>November</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2011</DTY_DATE>
+			<DATE_START>2011-11-01</DATE_START>
+			<DATE_END>2011-11-30</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="24301522945" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-05-07" dmd:endDate="2010-05-07">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2010 Big Ten Information Systems Research Symposium</NAME>
+			<ORG>Stephen M. Ross School of Business, University of Michigan</ORG>
+			<LOCATION>Ann Arbor, MI</LOCATION>
+			<TITLE>Net Neutrality and Vertical Integration of Content and Broadband Services</TITLE>
+			<PRESENT_AUTH id="24301522946">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>Regional</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE>7</DTD_DATE>
+			<DTY_DATE>2010</DTY_DATE>
+			<DATE_START>2010-05-07</DATE_START>
+			<DATE_END>2010-05-07</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="24301508609" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-04-23" dmd:endDate="2010-04-23">
+			<NAME>The Management Seminar Series</NAME>
+			<ORG>University of Notre Dame</ORG>
+			<LOCATION>South Bend, IN</LOCATION>
+			<TITLE>Net Neutrality and Vertical Integration of Content and Broadband Services</TITLE>
+			<PRESENT_AUTH id="24301508610">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>Local</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>April</DTM_DATE>
+			<DTD_DATE>23</DTD_DATE>
+			<DTY_DATE>2010</DTY_DATE>
+			<DATE_START>2010-04-23</DATE_START>
+			<DATE_END>2010-04-23</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="24301504513" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-04-16" dmd:endDate="2010-04-16">
+			<NAME>The MIS Seminar Series</NAME>
+			<ORG>Krannert School of Management, Purdue University</ORG>
+			<LOCATION>West Lafayette, IN</LOCATION>
+			<TITLE>Net Neutrality and Vertical Integration of Content and Broadband Services</TITLE>
+			<PRESENT_AUTH id="24301504514">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>State</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>April</DTM_DATE>
+			<DTD_DATE>16</DTD_DATE>
+			<DTY_DATE>2010</DTY_DATE>
+			<DATE_START>2010-04-16</DATE_START>
+			<DATE_END>2010-04-16</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="20612071425" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2009 Workshop on e-Business (WeB 2009)</NAME>
+			<ORG>AIS</ORG>
+			<LOCATION>Phoenix, AZ</LOCATION>
+			<TITLE>Personal Event Detection in Social Networking Sites</TITLE>
+			<PRESENT_AUTH id="20612071426">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20612071427">
+				<FACULTY_NAME/>
+				<FNAME>Shengli</FNAME>
+				<MNAME/>
+				<LNAME>Li</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20612071428">
+				<FACULTY_NAME/>
+				<FNAME>Praveen</FNAME>
+				<MNAME/>
+				<LNAME>Pathak</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2009</DTY_DATE>
+			<DATE_START>2009-12-01</DATE_START>
+			<DATE_END>2009-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="20612112385" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2009 Workshop on e-Business (WeB 2009)</NAME>
+			<ORG>AIS</ORG>
+			<LOCATION>Phoenix, AZ</LOCATION>
+			<TITLE>User Discrimination and Net Neutrality</TITLE>
+			<PRESENT_AUTH id="20612112386">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20612112387">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20612112388">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2009</DTY_DATE>
+			<DATE_START>2009-12-01</DATE_START>
+			<DATE_END>2009-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="20612153345" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
+			<PRESENTATION_TYPE/>
+			<NAME>The 2009 Workshop on Information Technologies and Systems (WITS 2009)</NAME>
+			<ORG>AIS</ORG>
+			<LOCATION>Phoenix, AZ</LOCATION>
+			<TITLE>A Different Angle on Net Neutrality – Should We Charge Broadband Users Rather Than Content Providers?</TITLE>
+			<PRESENT_AUTH id="20612153346">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20612153347">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20612153348">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2009</DTY_DATE>
+			<DATE_START>2009-12-01</DATE_START>
+			<DATE_END>2009-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<PRESENT id="20597796865" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-05-01" dmd:endDate="2009-05-31">
+			<PRESENTATION_TYPE/>
+			<NAME>ITM Research Symposium</NAME>
+			<ORG>University of Notre Dame</ORG>
+			<LOCATION/>
+			<TITLE>Net Neutrality and Vertical Integration of Content and Broadband Services</TITLE>
+			<PRESENT_AUTH id="20597796866">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+				<ROLE>Present and Author</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20597796867">
+				<FACULTY_NAME/>
+				<FNAME>Subhajyoti</FNAME>
+				<MNAME/>
+				<LNAME>Bandyopadhyay</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20597796868">
+				<FACULTY_NAME/>
+				<FNAME>Hsing</FNAME>
+				<MNAME>Kenneth</MNAME>
+				<LNAME>Cheng</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<PRESENT_AUTH id="20597796869">
+				<FACULTY_NAME/>
+				<FNAME>Yu-Chen</FNAME>
+				<MNAME/>
+				<LNAME>Yang</LNAME>
+				<ROLE>Author Only</ROLE>
+			</PRESENT_AUTH>
+			<MEETING_TYPE/>
+			<ACADEMIC>Academic</ACADEMIC>
+			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<SCOPE>Local</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>May</DTM_DATE>
+			<DTD_DATE/>
+			<DTY_DATE>2009</DTY_DATE>
+			<DATE_START>2009-05-01</DATE_START>
+			<DATE_END>2009-05-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</PRESENT>
+		<RESPROG id="106236729344" dmd:lastModified="2015-03-09T10:59:40">
+			<TITLE>An Analysis of a Mobile Platform's Advertising Contract under Agency Pricing for App Sales</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106236729345">
+				<NAME>Lin Hao</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236729347">
+				<NAME>Robert Easley</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Working Paper, Not submitted</STATUS>
+			<JOURNAL_NAME>Production and Operations Management</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106236907520" dmd:lastModified="2015-03-09T11:04:03">
+			<TITLE>Cross-Market Integration and Sabotage</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106236907521">
+				<NAME>Yabing Jiang</NAME>
+				<INSTITUTION>Florida Gulf Coast University</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236907523">
+				<NAME>Asoo Vakharia</NAME>
+				<INSTITUTION>University of Florida</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236907524">
+				<NAME>Arthur Lim</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Writing Results</STATUS>
+			<JOURNAL_NAME>Management Science</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106235097088" dmd:lastModified="2015-03-09T10:30:22">
+			<TITLE>Design of Consumer Review Systems and Product Pricing</TITLE>
+			<DESC>Conditionally accepted</DESC>
+			<RESPROG_COLL id="106235097089">
+				<NAME>Yabing Jiang</NAME>
+				<INSTITUTION>Florida Gulf Coast University</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Revision Requested</STATUS>
+			<JOURNAL_NAME>Information Systems Research</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106235232256" dmd:lastModified="2015-03-09T10:33:35">
+			<TITLE>Effects of Competition among Internet Service Providers and Content Providers on the Net Neutrality Debate</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106235232257">
+				<NAME>Subhajyoti Bandyopadhyay</NAME>
+				<INSTITUTION>University of Florida</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106235232259">
+				<NAME>Arthur Lim</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106235232260">
+				<NAME>Yu-Chen Yang</NAME>
+				<INSTITUTION>National Sun Yat-sen University</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106235232261">
+				<NAME>Kenny Cheng</NAME>
+				<INSTITUTION>University of Florida</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Revision Requested</STATUS>
+			<JOURNAL_NAME>MIS Quarterly</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106236868608" dmd:lastModified="2015-03-09T11:02:58">
+			<TITLE>Hierarchical SVM for Personal Event Detection on Social Networking Sites</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106236868609">
+				<NAME>Shengli Li</NAME>
+				<INSTITUTION>Xi'an Jiaotong University</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236868611">
+				<NAME>Haldun Aytug</NAME>
+				<INSTITUTION>University of Florida</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236868612">
+				<NAME>Praveen Pathak</NAME>
+				<INSTITUTION>University of Florida</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Writing Results</STATUS>
+			<JOURNAL_NAME>INFORMS Journal on Computing</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106236680192" dmd:lastModified="2015-03-09T10:58:12">
+			<TITLE>Impact of Network Structure on Malware Propagation: A Growth Curve Perspective</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106236680193">
+				<NAME>Kenny Cheng</NAME>
+				<INSTITUTION>University of Florida</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236680195">
+				<NAME>Ken Kelley</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Submitted</STATUS>
+			<JOURNAL_NAME>MIS Quarterly</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106236325888" dmd:lastModified="2015-03-09T10:49:13">
+			<TITLE>Network Neutrality versus Paid Fast Lanes: Analyzing the Impact on Content Innovation</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106236325889">
+				<NAME>Robert Easley</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236325891">
+				<NAME/>
+				<INSTITUTION/>
+			</RESPROG_COLL>
+			<STATUS>Submitted</STATUS>
+			<JOURNAL_NAME>Production and Operations Management</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106236391424" dmd:lastModified="2015-03-09T10:56:18">
+			<TITLE>Pricing Strategy for Virtual Currency in Gaming Industry</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106236391425">
+				<NAME>Lin Hao</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236391427">
+				<NAME>Tridas Mukhopadhyay</NAME>
+				<INSTITUTION>Carnegie Mellon University</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236391428">
+				<NAME>Daewon Sun</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Submitted</STATUS>
+			<JOURNAL_NAME>Information Systems Research</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106237190144" dmd:lastModified="2015-03-09T11:10:35">
+			<TITLE>Product Return Policies and Price Discrimination</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106237190145">
+				<NAME>Xuying Zhao</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Writing Results</STATUS>
+			<JOURNAL_NAME>Marketing Science</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106236512256" dmd:lastModified="2015-03-09T10:56:00">
+			<TITLE>Provision of Public Safety Networks: Interoperability, Organization Form and Network Assets</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106236512257">
+				<NAME>Yipeng Liu</NAME>
+				<INSTITUTION>Northern Illinois University</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236512259">
+				<NAME>Barrie Nault</NAME>
+				<INSTITUTION>University of Calgary</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Submitted</STATUS>
+			<JOURNAL_NAME>Production and Operations Management</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<RESPROG id="106236481536" dmd:lastModified="2015-03-09T10:53:23">
+			<TITLE>Who Cares About Your Big Day? Impact of Life Events on Dynamics of Social Networks</TITLE>
+			<DESC/>
+			<RESPROG_COLL id="106236481537">
+				<NAME>Arati Srinivasan</NAME>
+				<INSTITUTION>Providence College</INSTITUTION>
+			</RESPROG_COLL>
+			<RESPROG_COLL id="106236481539">
+				<NAME>Sarv Devaraj</NAME>
+				<INSTITUTION>University of Notre Dame</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Submitted</STATUS>
+			<JOURNAL_NAME>Decision Sciences</JOURNAL_NAME>
+			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
+			<URL/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</RESPROG>
+		<SERVICE_DEPARTMENT id="48706541568" dmd:lastModified="2012-01-30T14:29:01" dmd:startDate="2011-01-01" dmd:endDate="2012-12-31">
+			<ORG>ITM Recruiting Committee</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-01-01</END_START>
+			<END_END>2012-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_PROFESSIONAL id="48706197505" dmd:lastModified="2012-01-30T14:26:06" dmd:startDate="2012-01-01">
+			<ORG> MIS Quarterly</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-01</START_START>
+			<START_END>2012-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613058561" dmd:lastModified="2012-01-30T14:23:40" dmd:startDate="2010-01-01">
+			<ORG>Information Systems Research</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613171201" dmd:lastModified="2010-01-30T16:36:26" dmd:startDate="2010-01-01">
+			<ORG>International Conference on Information Systems, Technology and Management (ICISTM)</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY>Bangkok, Thailand</CITY>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613128193" dmd:lastModified="2010-01-30T16:34:33" dmd:startDate="2010-01-01">
+			<ORG>Pacific Asia Conference on Information Systems (PACIS)</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY>Taipei, Taiwan</CITY>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613042177" dmd:lastModified="2015-01-31T21:36:22" dmd:startDate="2009-01-01">
+			<ORG>International Conference on Information Systems (ICIS)</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664418305" dmd:lastModified="2015-01-31T21:32:50" dmd:startDate="2009-01-01">
+			<ORG>Management Science</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613099521" dmd:lastModified="2015-01-31T21:35:31" dmd:startDate="2008-01-01">
+			<ORG>Workshop on Information Technologies and Systems (WITS)</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664537089" dmd:lastModified="2015-01-31T21:35:49" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Conference on Information Systems and Technology (CIST)</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664367105" dmd:lastModified="2015-01-31T21:31:29" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Conference on Information Systems and Technology (CIST)</ORG>
+			<ROLE>Session Chair</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664379393" dmd:lastModified="2015-01-31T21:31:50" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>INFORMS Annual Meeting</ORG>
+			<ROLE>Session Chair</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664584193" dmd:lastModified="2015-01-31T21:37:16" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Workshop on e-Business (WeB)</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664471553" dmd:lastModified="2015-01-31T21:34:13" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Workshop on e-Business (WeB)</ORG>
+			<ROLE>Session Chair</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664561665" dmd:lastModified="2015-01-31T21:36:49" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Workshop on Information Technologies and Systems (WITS)</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664520705" dmd:lastModified="2015-01-31T21:35:23" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Workshop on Information Technologies and Systems (WITS)</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="104664391681" dmd:lastModified="2015-01-31T21:32:07" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<ORG>DSI Annual Meeting</ORG>
+			<ROLE>Session Chair</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-01-01</START_START>
+			<START_END>2013-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-01-01</END_START>
+			<END_END>2013-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="24341241857" dmd:lastModified="2010-05-18T15:08:59" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			<ORG>International Conference on Information Systems (ICIS)</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-01-01</END_START>
+			<END_END>2010-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613011457" dmd:lastModified="2010-01-30T16:31:21" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Electronic Commerce Research and Applications (ECRA)</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613017601" dmd:lastModified="2010-01-30T16:31:11" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>IEEE International Conference on Data Mining (ICDM)</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613070849" dmd:lastModified="2010-01-30T16:32:24" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Regulation &amp; Governance</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613085185" dmd:lastModified="2010-01-30T16:37:32" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<ORG>Workshop on e-Business (WeB)</ORG>
+			<ROLE>Session Chair</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="20613193729" dmd:lastModified="2010-01-30T16:37:18" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<ORG>Workshop on e-Business (WeB)</ORG>
+			<ROLE>Reviewer</ROLE>
+			<ROLEOTHER/>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_PROFESSIONAL>
+		<FACDEV id="31782393857" dmd:lastModified="2011-01-08T22:18:58" dmd:startDate="2010-11-29" dmd:endDate="2010-11-29">
+			<TYPE>Other</TYPE>
+			<TYPEOTHER>Company Visit</TYPEOTHER>
+			<TITLE>GE Aviation Visit</TITLE>
+			<ORG>Mendoza College of Business, University of Notre Dame</ORG>
+			<CITYSTATE>Cincinnati, OH</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>29</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-11-29</END_START>
+			<END_END>2010-11-29</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="31746172929" dmd:lastModified="2011-01-06T21:08:39" dmd:startDate="2010-11-20" dmd:endDate="2010-11-20">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>DSI 2010 New Faculty Development Consortium</TITLE>
+			<ORG>Decision Sciences Institute</ORG>
+			<CITYSTATE>San Diego, CA</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>20</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-11-20</END_START>
+			<END_END>2010-11-20</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="31745900545" dmd:lastModified="2011-01-08T22:19:59" dmd:startDate="2010-11-12" dmd:endDate="2010-11-12">
+			<TYPE>Other</TYPE>
+			<TYPEOTHER>Plant Tour</TYPEOTHER>
+			<TITLE>Neo Industries Plant Tour</TITLE>
+			<ORG/>
+			<CITYSTATE>Portage, IN</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>12</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-11-12</END_START>
+			<END_END>2010-11-12</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="31782426625" dmd:lastModified="2011-01-08T22:28:39" dmd:startDate="2010-10-28" dmd:endDate="2010-10-28">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Mentoring Undergraduate Research</TITLE>
+			<ORG>Kaneb Center, University of Notre Dame</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>28</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-10-28</END_START>
+			<END_END>2010-10-28</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="19868966913" dmd:lastModified="2010-01-05T17:43:55" dmd:startDate="2009-12-15" dmd:endDate="2009-12-18">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>ICIS 2009 MIS Faculty Camp</TITLE>
+			<ORG>Association for Information Systems</ORG>
+			<CITYSTATE>Phoenix, Arizona</CITYSTATE>
+			<DESC>The MIS Camp consists of panel, discussion, role-playing, and other interactive sessions built around issues related to becoming a successful member of the professoriate. Each activity will be facilitated by a select group of highly-successful IS faculty from universities around the world. This will allow each camper to interact with a wide variety of both new and senior faculty and to share their experiences, thoughts, and concerns about developing a career in the academy.</DESC>
+			<DTM_START>December</DTM_START>
+			<DTD_START>15</DTD_START>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-12-15</START_START>
+			<START_END>2009-12-15</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END>18</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-12-18</END_START>
+			<END_END>2009-12-18</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="17994899457" dmd:lastModified="2011-01-08T22:19:40" dmd:startDate="2009-11-12" dmd:endDate="2009-11-12">
+			<TYPE>Other</TYPE>
+			<TYPEOTHER>Plant Tour</TYPEOTHER>
+			<TITLE>Modineer Metal Fabrication Plant Tour</TITLE>
+			<ORG>Association for Manufacturing Excellence (AME)</ORG>
+			<CITYSTATE>Niles, MI</CITYSTATE>
+			<DESC>The plant tour of Modineer Metal Fabrication is part of the event series "Leveraging Lean Thinking in a Recession". The visit to Modineer provided me the opportunity to observe lean systems in a reallife setting.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>12</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-11-12</END_START>
+			<END_END>2009-11-12</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="16925358081" dmd:lastModified="2011-01-09T14:56:45" dmd:startDate="2009-09-12" dmd:endDate="2009-09-12">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Designing Courses for More Significant Student Learning</TITLE>
+			<ORG>Kaneb Center, University of Notre Dame</ORG>
+			<CITYSTATE>Notre Dame, IN</CITYSTATE>
+			<DESC>This one-day workshop is presented by Dr. L. Dee Fink, a nationally recognized expert on college teaching and faculty development. This workshop examines the role of course design in the overall act of teaching, and then leads participants through a new way of designing courses.</DESC>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>12</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-09-12</END_START>
+			<END_END>2009-09-12</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+	</Record>
+</Data>

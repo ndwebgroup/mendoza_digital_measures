@@ -206,39 +206,42 @@ module DigitalMeasures
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include? n.xpath("CONTYPE").first.text.strip
+          # puts "++ #{n.xpath("WEBPAGE_INCLUDE").first.text}"
+          if n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
 
-          authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
+            authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
 
-          unless authors.empty?
-            with = "(with #{authors.join(", ")}),"
-          else
-            with = ""
+            unless authors.empty?
+              with = "(with #{authors.join(", ")}),"
+            else
+              with = ""
+            end
+
+
+            link = make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS") )
+
+            #<xsl:if test="string-length(t:PAGENUM) > 0">
+            if n.xpath("STATUS").first.text.strip == "Accepted"
+              where_preface = "To appear in "
+            else
+              where_preface = ""
+            end
+            where_parts = []
+
+            where_parts << "#{where_preface}<i>#{n.xpath("PUBLISHER").first.text.strip}</i>"
+
+            unless n.xpath("VOLUME").first.text.strip.blank?
+              where_parts << n.xpath("VOLUME").first.text.strip
+            end
+
+            unless n.xpath("DTY_PUB").first.text.strip.blank?
+              where_parts << n.xpath("DTY_PUB").first.text.strip
+            end
+
+            where = where_parts.join(", ")
+
+            items << ["\"#{link}\",", "#{with}", where].join(" ") + "."
           end
-
-
-          link = make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS") )
-
-          #<xsl:if test="string-length(t:PAGENUM) > 0">
-          if n.xpath("STATUS").first.text.strip == "Accepted"
-            where_preface = "To appear in "
-          else
-            where_preface = ""
-          end
-          where_parts = []
-
-          where_parts << "#{where_preface}<i>#{n.xpath("PUBLISHER").first.text.strip}</i>"
-
-          unless n.xpath("VOLUME").first.text.strip.blank?
-            where_parts << n.xpath("VOLUME").first.text.strip
-          end
-
-          unless n.xpath("DTY_PUB").first.text.strip.blank?
-            where_parts << n.xpath("DTY_PUB").first.text.strip
-          end
-
-          where = where_parts.join(", ")
-
-          items << ["\"#{link}\",", "#{with}", where].join(" ") + "."
         end
       end
       return items
