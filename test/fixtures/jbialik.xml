@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-11-19">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="1494813" username="jbialik" termId="278" dmd:surveyId="12072555">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
-		<PCI id="78228535296" dmd:lastModified="2013-10-14T13:31:29">
+		<PCI id="78228535296" dmd:lastModified="2015-05-20T09:21:04">
+			<PREFIX/>
 			<FNAME>Jeffrey</FNAME>
+			<PFNAME/>
 			<MNAME/>
 			<LNAME>Bialik</LNAME>
+			<SUFFIX/>
+			<ALT_NAME/>
+			<ENDPOS/>
 			<EMAIL>jbialik@nd.edu</EMAIL>
+			<ROOMNUM/>
+			<OPHONE1/>
+			<OPHONE2/>
+			<OPHONE3/>
+			<DPHONE1/>
+			<DPHONE2/>
+			<DPHONE3/>
+			<FAX1/>
+			<FAX2/>
+			<FAX3/>
 			<WEBSITE>http://</WEBSITE>
+			<DTM_DOB/>
+			<DTD_DOB/>
+			<DTY_DOB/>
+			<GENDER>Male</GENDER>
+			<ETHNICITY/>
+			<CITIZEN/>
+			<PCI_EXPERTISE id="78228535297">
+				<EXPERTISE/>
+			</PCI_EXPERTISE>
+			<UPLOAD_CV/>
+			<BIO/>
 		</PCI>
-		<ADMIN_PERM id="78278696960" dmd:lastModified="2013-10-15T14:22:23">
+		<ADMIN_PERM id="78278696960" dmd:lastModified="2015-05-20T09:21:12">
 			<SRANK>Adjunct Faculty</SRANK>
 			<DTM_HIRE>July</DTM_HIRE>
 			<DTD_HIRE/>
@@ -44,37 +70,48 @@
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="78278723584" dmd:lastModified="2013-10-15T14:22:35">
-			<AC_YEAR/>
-			<YEAR_START></YEAR_START>
-			<YEAR_END></YEAR_END>
-			<ADMIN_DEP id="78278723585">
-				<DEP/>
+		<ADMIN id="78278723584" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="78278723585" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
 			</ADMIN_DEP>
-			<RANK/>
-			<TENURE/>
-			<GRADUATE/>
+			<RANK>Adjunct Faculty</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
 			<DEDMISS>5</DEDMISS>
+			<QUALIFICATION>Instructional Practitioner</QUALIFICATION>
 			<AACSBQUAL/>
-			<AACSBSUFF/>
-			<AACSBTCLASS/>
+			<AACSBSUFF>Supporting</AACSBSUFF>
+			<AACSBTCLASS>Substantial coursework but no doctoral degree</AACSBTCLASS>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="78228537344" dmd:lastModified="2013-10-14T13:31:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="78228537344" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
 			<ADMIN_DEP id="78228537345" dmd:primaryKey="Management">
 				<DEP>Management</DEP>
 			</ADMIN_DEP>
+			<RANK>Adjunct Faculty</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<SABBATICAL/>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS>5</DEDMISS>
+			<QUALIFICATION>Instructional Practitioner</QUALIFICATION>
+			<AACSBQUAL/>
+			<AACSBSUFF>Supporting</AACSBSUFF>
+			<AACSBTCLASS>Substantial coursework but no doctoral degree</AACSBTCLASS>
+			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<EDUCATION id="78278684672" dmd:lastModified="2013-10-15T14:21:11" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
+		<EDUCATION id="78278684672" dmd:lastModified="2015-05-20T09:25:55" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
 			<DEG>MBA</DEG>
 			<DEGOTHER/>
-			<SCHOOL/>
+			<SCHOOL>University of California at Berkeley</SCHOOL>
 			<MAJOR/>
 			<SUPPAREA/>
 			<DISSTITLE/>
@@ -83,5 +120,21 @@
 			<COMP_START>1989-01-01</COMP_START>
 			<COMP_END>1989-12-31</COMP_END>
 		</EDUCATION>
+		<LICCERT id="109817761792" dmd:lastModified="2015-05-20T09:26:22" dmd:startDate="1984-01-01">
+			<TITLE>CPA</TITLE>
+			<ORG>State of Texas</ORG>
+			<DESC/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1984</DTY_START>
+			<START_START>1984-01-01</START_START>
+			<START_END>1984-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</LICCERT>
 	</Record>
 </Data>

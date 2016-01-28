@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-12-05">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="118108" username="jorourke" termId="278" dmd:surveyId="47915">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
-		<PCI id="1459603456" dmd:lastModified="2014-12-04T11:58:58">
+		<PCI id="1459603456" dmd:lastModified="2015-12-07T13:24:24">
 			<PREFIX>Professor</PREFIX>
 			<FNAME>James</FNAME>
-			<PFNAME>Jim</PFNAME>
+			<PFNAME>James</PFNAME>
 			<MNAME>S.</MNAME>
 			<LNAME>O'Rourke</LNAME>
 			<SUFFIX>IV</SUFFIX>
@@ -42,7 +42,7 @@
 			<PCI_EXPERTISE id="1459603460">
 				<EXPERTISE>Business Writing</EXPERTISE>
 			</PCI_EXPERTISE>
-			<UPLOAD_CV>jorourke/pci/jorourke.pdf</UPLOAD_CV>
+			<UPLOAD_CV>jorourke/pci/Vitae-1.pdf</UPLOAD_CV>
 			<BIO>James S. O'Rourke teaches management and corporate communication, as well as business writing and speaking, at the University of Notre Dame, where he is a Teaching Professor of Management and the Arthur F. and Mary J. O'Neil Director of the Fanning Center for Business Communication.  He earned a BBA in Management from Notre Dame, an MS in Mass Communication from Temple University, an MA in Speech Communication from the University of New Mexico, and a Ph.D. in Public Communication from Syracuse University.  He is the author of 17 prominent textbooks, including Management Communication (5/e Prentice Hall) and The Truth About Confident Presenting (Financial Times).  He is principal author or directing editor of more than 250 case studies in management and corporate communication.  O'Rourke is a trustee of both the Arthur W. Page Society and the Institute for Public Relations.  He is a member of the Reputation Institute and the Management Communication Association, and a regular consultant to Fortune 500 and mid-size businesses throughout North America.</BIO>
 		</PCI>
 		<ADMIN_PERM id="1459605504" dmd:lastModified="2011-01-17T10:04:16">
@@ -79,7 +79,28 @@
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="77707091968" dmd:lastModified="2013-09-25T13:44:34" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="109513353216" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="109513353217" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="77707091968" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
@@ -88,18 +109,18 @@
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67231666176" dmd:lastModified="2013-02-05T12:43:33" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+		<ADMIN id="67231666176" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
 			<AC_YEAR>2012-2013</AC_YEAR>
 			<YEAR_START>2012-09-01</YEAR_START>
 			<YEAR_END>2013-08-31</YEAR_END>
@@ -108,18 +129,18 @@
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67231657984" dmd:lastModified="2013-02-05T12:43:21" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+		<ADMIN id="67231657984" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
 			<AC_YEAR>2011-2012</AC_YEAR>
 			<YEAR_START>2011-09-01</YEAR_START>
 			<YEAR_END>2012-08-31</YEAR_END>
@@ -128,18 +149,18 @@
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="31422070785" dmd:lastModified="2011-01-17T11:12:10" dmd:startDate="2010-09-01" dmd:endDate="2011-08-31" dmd:primaryKey="2010-2011">
+		<ADMIN id="31422070785" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-09-01" dmd:endDate="2011-08-31" dmd:primaryKey="2010-2011">
 			<AC_YEAR>2010-2011</AC_YEAR>
 			<YEAR_START>2010-09-01</YEAR_START>
 			<YEAR_END>2011-08-31</YEAR_END>
@@ -148,21 +169,20 @@
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE>Yes</GRADUATE>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Non-Credit Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="31422031873" dmd:lastModified="2010-12-17T11:09:00" dmd:startDate="2009-09-01" dmd:endDate="2010-08-31" dmd:primaryKey="2009-2010">
+		<ADMIN id="31422031873" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-09-01" dmd:endDate="2010-08-31" dmd:primaryKey="2009-2010">
 			<AC_YEAR>2009-2010</AC_YEAR>
 			<YEAR_START>2009-09-01</YEAR_START>
 			<YEAR_END>2010-08-31</YEAR_END>
@@ -171,21 +191,20 @@
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE>Yes</GRADUATE>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Non-Credit Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921684480" dmd:lastModified="2010-12-17T11:08:43" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="11921684480" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -194,20 +213,20 @@
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE>Yes</GRADUATE>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921682432" dmd:lastModified="2010-12-17T11:08:33" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+		<ADMIN id="11921682432" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
 			<AC_YEAR>2007-2008</AC_YEAR>
 			<YEAR_START>2007-09-01</YEAR_START>
 			<YEAR_END>2008-08-31</YEAR_END>
@@ -216,21 +235,20 @@
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE>Yes</GRADUATE>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Non-Credit Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="1459607552" dmd:lastModified="2010-12-17T11:08:24" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+		<ADMIN id="1459607552" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
 			<AC_YEAR>2006-2007</AC_YEAR>
 			<YEAR_START>2006-09-01</YEAR_START>
 			<YEAR_END>2007-08-31</YEAR_END>
@@ -239,14 +257,13 @@
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE>Yes</GRADUATE>
 			<SABBATICAL/>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Non-Credit Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
@@ -271,8 +288,7 @@
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</PASTHIST>
-		<PASTHIST id="1459611648" dmd:lastModified="2007-02-13T03:32:27" dmd:startDate="1970-08-15" dmd:endDate="1990-08-14">
-			<EXPTYPE>Military</EXPTYPE>
+		<PASTHIST id="1459611648" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="1970-08-15" dmd:endDate="1990-08-14">
 			<ORG>United States Air Force</ORG>
 			<TITLE>Lieutenant Colonel, USAF</TITLE>
 			<DESC>Served as a commissioned officer in the United States Air Force from 1970-1990.  Military decorations include Meritorious Service Medal, Joint Service Commendation Medal, Air Force Commendation Medal, and others.</DESC>
@@ -718,6 +734,347 @@
 			<PEDINN/>
 			<OUTREACH/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123026970624" dmd:lastModified="2016-01-11T13:51:43" dmd:startDate="2016-05-15" dmd:endDate="2016-08-31" dmd:primaryKey="Summer|2016|MBCM|60400|01">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-05-15</TERM_START>
+			<TERM_END>2016-08-31</TERM_END>
+			<TITLE>Management Communication</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60400</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>65</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Introduced new case studies to support classroom discussion and case writing assignments.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123026464768" dmd:lastModified="2016-01-11T13:43:44" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|BACM|30400|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-01-15</TERM_START>
+			<TERM_END>2016-04-30</TERM_END>
+			<TITLE>Business Speaking</TITLE>
+			<COURSEPRE>BACM</COURSEPRE>
+			<COURSENUM>30400</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>18</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Renewed emphasis on research methods to produce evidence to be used in required classroom speeches.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123026749440" dmd:lastModified="2016-01-11T13:48:05" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|BACM|30420|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-01-15</TERM_START>
+			<TERM_END>2016-04-30</TERM_END>
+			<TITLE>Business Writing</TITLE>
+			<COURSEPRE>BACM</COURSEPRE>
+			<COURSENUM>30420</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>24</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>New case studies introduced into syllabus to support classroom discussion and writing assignments.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123026395136" dmd:lastModified="2016-01-11T13:44:00" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|MBCM|70450|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-01-15</TERM_START>
+			<TERM_END>2016-04-30</TERM_END>
+			<TITLE>Corporate Communication</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>70450</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>24</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Case</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123026331648" dmd:lastModified="2016-01-11T13:41:08" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|MBCM|60400|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-01-15</TERM_START>
+			<TERM_END>2016-04-30</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60400</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>18</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Renewed emphasis on research methods to produce evidence to be used in required speeches.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123026558976" dmd:lastModified="2016-01-11T13:45:18" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|MBCM|60400|02">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-01-15</TERM_START>
+			<TERM_END>2016-04-30</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60400</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>18</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Renewed emphasis on research methods to produce evidence to support classroom speeches.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123026628608" dmd:lastModified="2016-01-11T13:46:26" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|MBCM|60400|04">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-01-15</TERM_START>
+			<TERM_END>2016-04-30</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60400</COURSENUM>
+			<SECTION>04</SECTION>
+			<ENROLL>18</ENROLL>
+			<CHOURS/>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Renewed emphasis on research methods designed to produce evidence to support classroom speeches.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123026841600" dmd:lastModified="2016-01-11T13:49:51" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|BAUG|30210|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-01-15</TERM_START>
+			<TERM_END>2016-04-30</TERM_END>
+			<TITLE>Ten Years Hence: A Lecture Series</TITLE>
+			<COURSEPRE>BAUG</COURSEPRE>
+			<COURSENUM>30210</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>200</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>New theme for 2016: The Future of Work.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="121145569280" dmd:lastModified="2015-12-12T11:40:06" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|BACM|30420|03">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Business Writing</TITLE>
+			<COURSEPRE>BACM</COURSEPRE>
+			<COURSENUM>30420</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>24</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Case</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Introduced new case titles to the list of writing assignments. Updated lecture/discussion materials relation to social/digital media and organizational culture.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="121145538560" dmd:lastModified="2015-12-12T11:38:09" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MBCM|60400|02">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60400</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>18</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="121145581568" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MSM|60240|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MSM</COURSEPRE>
+			<COURSENUM>60240</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>18</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104489093120" dmd:lastModified="2015-01-29T15:00:22" dmd:startDate="2015-05-15" dmd:endDate="2015-08-31" dmd:primaryKey="Summer|2015|MBCM|60440|01">
+			<TYT_TERM>Summer</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-05-15</TERM_START>
+			<TERM_END>2015-08-31</TERM_END>
+			<TITLE>Management Communication</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60440</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>68</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Introduced new case studies into the instructional mix.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="102824402944" dmd:lastModified="2015-01-02T11:10:47" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|BACM|30400|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Business Speaking</TITLE>
+			<COURSEPRE>BACM</COURSEPRE>
+			<COURSENUM>30400</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>18</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Renewed emphasis on professional business outlines and visual aids to accompany presentations.  Revision to question-set for final examination.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="102824560640" dmd:lastModified="2015-01-02T11:16:30" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|BACM|30420|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Business Writing</TITLE>
+			<COURSEPRE>BACM</COURSEPRE>
+			<COURSENUM>30420</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>24</ENROLL>
+			<CHOURS>1.5</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Case</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Introduction of new case studies for writing assignments and classroom discussion.  Revision to the question-set for final examination.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="102824355840" dmd:lastModified="2015-01-02T11:09:04" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MBCM|70450|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Corporate Communication</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>70450</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>24</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Case</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Introduced new case studies for writing assignments and classroom discussion.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="102821613568" dmd:lastModified="2015-01-02T11:07:50" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MBCM|60400|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60400</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>21</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Renewed emphasis on professional business outlines and visual aids to accompany presentations.  Revision to the question-set for final examination</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="102824488960" dmd:lastModified="2015-01-02T11:13:45" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MBCM|60400|02">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60400</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>21</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Renewed emphasis on professional business outlines and visual aids to accompany presentations.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="102824521728" dmd:lastModified="2015-01-02T11:15:03" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MBCM|60400|04">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Management Speaking</TITLE>
+			<COURSEPRE>MBCM</COURSEPRE>
+			<COURSENUM>60400</COURSENUM>
+			<SECTION>04</SECTION>
+			<ENROLL>21</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>Renewed emphasis on professional business outlines and visual aids to accompany presentations.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="102824452096" dmd:lastModified="2015-01-02T11:12:18" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|BAUG|30210|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Ten Years Hence: A Lecture Series</TITLE>
+			<COURSEPRE>BAUG</COURSEPRE>
+			<COURSENUM>30210</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>165</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN>This year's lecture series involves speakers focused on Impact Investing.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SCHTEACH>
 		<SCHTEACH id="94703931392" dmd:lastModified="2014-07-24T11:30:14" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|BACM|30400|02">
 			<TYT_TERM>Fall</TYT_TERM>
@@ -2962,6 +3319,103 @@
 			<OUTREACH/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SCHTEACH>
+		<OFF_LOAD_TEACH id="123027142656" dmd:lastModified="2016-01-11T13:54:27" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2016</TYY_TERM>
+			<TERM_START>2016-01-15</TERM_START>
+			<TERM_END>2016-04-30</TERM_END>
+			<TITLE>Managerial Writing Workshop</TITLE>
+			<COURSEPRE>EMBA</COURSEPRE>
+			<COURSENUM>60621</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>40</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DEGREE_PROGRAM>EMBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="121145632768" dmd:lastModified="2015-12-12T11:44:51" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Management Writing Workshop</TITLE>
+			<COURSEPRE>MSF</COURSEPRE>
+			<COURSENUM>70900</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>53</ENROLL>
+			<CHOURS>0.5</CHOURS>
+			<DELIVERY_MODE>Classroom Case</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="121145659392" dmd:lastModified="2015-12-12T11:46:35" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Managerial Writing Workshop</TITLE>
+			<COURSEPRE>EMBA</COURSEPRE>
+			<COURSENUM>60621</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>60</ENROLL>
+			<CHOURS>0.5</CHOURS>
+			<DELIVERY_MODE>Classroom Case</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="121145497600" dmd:lastModified="2015-12-12T11:35:34" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>MSBA Capstone Project</TITLE>
+			<COURSEPRE>MSBA</COURSEPRE>
+			<COURSENUM/>
+			<SECTION>01</SECTION>
+			<ENROLL>39</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>Introduced personal coaching into the development and delivery of team-based client presentations. Issues related to organization, expression, support, and visual  aids were included.</PEDINN>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="102824724480" dmd:lastModified="2015-01-02T11:22:26" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Managerial Writing Workshop</TITLE>
+			<COURSEPRE>EMBA</COURSEPRE>
+			<COURSENUM>60621</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>65</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>Chicago EMBA class.  Introduction of two live-writing exercises to encourage students to think about professional business document design and composition in real time. </PEDINN>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<OFF_LOAD_TEACH id="102824679424" dmd:lastModified="2015-01-02T11:23:20" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Managerial Writing Workshop</TITLE>
+			<COURSEPRE>EMBA</COURSEPRE>
+			<COURSENUM>60621</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>65</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>South Bend EMBA class.  Two live-writing exercises were introduced to encourage students to think in real time about the design and composition of professional business documents.</PEDINN>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
 		<OFF_LOAD_TEACH id="94704148480" dmd:lastModified="2014-07-24T11:41:21" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31">
 			<TYT_TERM>Fall</TYT_TERM>
 			<TYY_TERM>2014</TYY_TERM>
@@ -3426,14 +3880,8 @@
 			<PEDINN>Introduced new case studies.</PEDINN>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</OFF_LOAD_TEACH>
-		<NCTEACH id="48278001664" dmd:lastModified="2012-01-18T15:04:09" dmd:startDate="2011-11-09" dmd:endDate="2011-11-09">
-			<TYPE>Management/Executive Development</TYPE>
-			<TYPEOTHER/>
-			<AUDIENCE>Internal to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="48278001664" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-11-09" dmd:endDate="2011-11-09">
 			<ORG>Office of the Provost</ORG>
-			<NUMPART>20</NUMPART>
-			<PROFACAD>Academic</PROFACAD>
-			<DESC>"Putting Your Personality to Work."  An explanation of human personality preferences in professional work settings, and a review of the Myers-Briggs Personality Type Inventory.</DESC>
 			<DTM_START>November</DTM_START>
 			<DTD_START>9</DTD_START>
 			<DTY_START>2011</DTY_START>
@@ -3446,14 +3894,8 @@
 			<END_END>2011-11-09</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<NCTEACH id="31423635457" dmd:lastModified="2010-12-17T11:30:35" dmd:startDate="2011-03-07" dmd:endDate="2011-03-07">
-			<TYPE>Certification</TYPE>
-			<TYPEOTHER/>
-			<AUDIENCE>External to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="31423635457" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-03-07" dmd:endDate="2011-03-07">
 			<ORG>Mendoza College of Business Executive Programs</ORG>
-			<NUMPART>30</NUMPART>
-			<PROFACAD>Professional</PROFACAD>
-			<DESC>"Putting Your Personality to Work" involves Myers-Briggs Type Indicator assessment for non-degree students enrolled in a Certificate in Executive Management program, both on campus and by distance learning at remote locations.</DESC>
 			<DTM_START>March</DTM_START>
 			<DTD_START>7</DTD_START>
 			<DTY_START>2011</DTY_START>
@@ -3466,14 +3908,8 @@
 			<END_END>2011-03-07</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<NCTEACH id="25517430785" dmd:lastModified="2010-06-17T13:58:00" dmd:startDate="2010-06-25" dmd:endDate="2010-09-10">
-			<TYPE>Management/Executive Development</TYPE>
-			<TYPEOTHER/>
-			<AUDIENCE>External to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="25517430785" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-06-25" dmd:endDate="2010-09-10">
 			<ORG>Pace Global Energy Services, LLC</ORG>
-			<NUMPART>15</NUMPART>
-			<PROFACAD>Professional</PROFACAD>
-			<DESC>Business Speaking: a hands-on approach to speaking to small groups and large audiences with the aim of becoming a more confident presenter.</DESC>
 			<DTM_START>June</DTM_START>
 			<DTD_START>25</DTD_START>
 			<DTY_START>2010</DTY_START>
@@ -3486,14 +3922,8 @@
 			<END_END>2010-09-10</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<NCTEACH id="21518616577" dmd:lastModified="2010-11-05T13:50:15" dmd:startDate="2010-03-08" dmd:endDate="2010-03-08">
-			<TYPE>Certification</TYPE>
-			<TYPEOTHER/>
-			<AUDIENCE>External to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="21518616577" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-03-08" dmd:endDate="2010-03-08">
 			<ORG>Mendoza College of Business Executive Programs</ORG>
-			<NUMPART>28</NUMPART>
-			<PROFACAD>Professional</PROFACAD>
-			<DESC>Putting Your Personality to Work: Using Myers-Briggs Type Indicator to understand personality preferences at work and and home.</DESC>
 			<DTM_START>March</DTM_START>
 			<DTD_START>8</DTD_START>
 			<DTY_START>2010</DTY_START>
@@ -3506,14 +3936,8 @@
 			<END_END>2010-03-08</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<NCTEACH id="21518569473" dmd:lastModified="2010-11-05T13:48:22" dmd:startDate="2009-01-23" dmd:endDate="2009-01-23">
-			<TYPE>Workshop</TYPE>
-			<TYPEOTHER/>
-			<AUDIENCE>Internal to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="21518569473" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-01-23" dmd:endDate="2009-01-23">
 			<ORG>MBA Career Services</ORG>
-			<NUMPART>20</NUMPART>
-			<PROFACAD>Professional</PROFACAD>
-			<DESC>Employment Correspondence: Resumes and cover letters.  </DESC>
 			<DTM_START>January</DTM_START>
 			<DTD_START>23</DTD_START>
 			<DTY_START>2009</DTY_START>
@@ -3526,7 +3950,110 @@
 			<END_END>2009-01-23</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<INTELLCONT id="89768425472" dmd:lastModified="2014-04-21T14:24:25" dmd:startDate="2014-04-01" dmd:endDate="2014-04-30">
+		<COMP_ADVISE id="123102371840" dmd:lastModified="2016-01-12T14:44:22" dmd:startDate="2002-08-23">
+			<TYPE>Student Group Advisor (time commitment &gt; 80 hrs per year)</TYPE>
+			<ORG>Arthur W. Page Society Case Writing Competition in Corporate Communication</ORG>
+			<COMMENT>Since the autumn of 2002, I have served as faculty advisor and case-writing coach for an average of six teams of MBA case writers in corporate communication. Each team is offered an opportunity to enter an original case study, PowerPoint deck, teaching note, and abstract in the Arthur W. Page Society annual Case Writing Competition in corporate communication. The Page Society is a select-membership organization comprising the chief communication officers of the Fortune 500, CEO's of the largest agencies in the world, and a small, select group of academics. Notre Dame has won 19 prizes in this competition, including the Grand Prize four times, more than any other college or university.</COMMENT>
+			<DTM_START>August</DTM_START>
+			<DTD_START>23</DTD_START>
+			<DTY_START>2002</DTY_START>
+			<START_START>2002-08-23</START_START>
+			<START_END>2002-08-23</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</COMP_ADVISE>
+		<COMP_ADVISE id="123102576640" dmd:lastModified="2016-01-12T14:46:53" dmd:startDate="1990-08-23">
+			<TYPE>Student Group Advisor (time commitment &lt; 80 hrs per year)</TYPE>
+			<ORG>Notre Dame Gavel Club</ORG>
+			<COMMENT>Since August of 1990, I have served as faculty advisor of the Notre Dame Gavel Club (formerly Toastmaster's Club), working to improve public speaking skills of Notre Dame undergraduate and graduate students. Twice-monthly meetings and a twice-yearly student dinner are principal features of this club.</COMMENT>
+			<DTM_START>August</DTM_START>
+			<DTD_START>23</DTD_START>
+			<DTY_START>1990</DTY_START>
+			<START_START>1990-08-23</START_START>
+			<START_END>1990-08-23</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</COMP_ADVISE>
+		<INTELLCONT id="103071401984" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<STATUS>Published</STATUS>
+			<PUBLISHER>GlobeComm Publishing</PUBLISHER>
+			<TITLE>Intercultural Communication for Business</TITLE>
+			<VOLUME>1</VOLUME>
+			<ISSUE/>
+			<PAGENUM>243</PAGENUM>
+			<DTM_PUB/>
+			<DTD_PUB/>
+			<DTY_PUB>2015</DTY_PUB>
+			<PUB_START>2015-01-01</PUB_START>
+			<PUB_END>2015-12-31</PUB_END>
+			<CONTYPE>Textbooks</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION/>
+			<INTELLCONT_AUTH id="103071401985">
+				<FACULTY_NAME>118108</FACULTY_NAME>
+				<FNAME>Elizabeth</FNAME>
+				<MNAME>A</MNAME>
+				<LNAME>Tuleja</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="103071401987">
+				<FACULTY_NAME>118108</FACULTY_NAME>
+				<FNAME>James</FNAME>
+				<MNAME>S</MNAME>
+				<LNAME>O'Rourke</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="103071401988">
+				<FACULTY_NAME/>
+				<FNAME/>
+				<MNAME/>
+				<LNAME/>
+			</INTELLCONT_AUTH>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="102825082880" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-08-01" dmd:endDate="2014-08-31">
+			<STATUS>Published</STATUS>
+			<PUBLISHER>The Arthur W. Page Society</PUBLISHER>
+			<TITLE>Teaching Stratetic Communication in Business Schools: New Evidence from the C-Suite</TITLE>
+			<VOLUME/>
+			<ISSUE/>
+			<PAGENUM>17 pp.</PAGENUM>
+			<DTM_PUB>August</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2014</DTY_PUB>
+			<PUB_START>2014-08-01</PUB_START>
+			<PUB_END>2014-08-31</PUB_END>
+			<CONTYPE>Other</CONTYPE>
+			<CONTYPEOTHER>Professional White Paper</CONTYPEOTHER>
+			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
+			<INTELLCONT_AUTH id="102825082881">
+				<FACULTY_NAME>118108</FACULTY_NAME>
+				<FNAME>James </FNAME>
+				<MNAME>S.</MNAME>
+				<LNAME>O'Rourke</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="102825082883">
+				<FACULTY_NAME/>
+				<FNAME>Jennifer</FNAME>
+				<MNAME/>
+				<LNAME>Prosek</LNAME>
+			</INTELLCONT_AUTH>
+			<WEB_ADDRESS/>
+			<ABSTRACT>A review of field interview data with Chief Executive Officers, Chief Marketing Officers, and Chief Communication Officers in Fortune 500 and Professional Services Firms on the value of strategic communication in a business school curriculum.'</ABSTRACT>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="89768425472" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-04-01" dmd:endDate="2014-04-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>University of Notre Dame Press</PUBLISHER>
 			<TITLE>Putting Reputation at Risk: The Seven Factors of Reputational Management.  In O. Williams (ed.), Sustainable Development: The UN Millennium Development Goals, The UN Global Compact, and the Common Good.</TITLE>
 			<VOLUME/>
@@ -3537,22 +4064,22 @@
 			<DTY_PUB>2014</DTY_PUB>
 			<PUB_START>2014-04-01</PUB_START>
 			<PUB_END>2014-04-30</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="89768425473">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="84238688256" dmd:lastModified="2014-01-10T15:14:33" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="84238688256" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Arthur W. Page Society</PUBLISHER>
 			<TITLE>Teaching Strategic Communication in Business Schools:  New Evidence from the C-Suite</TITLE>
 			<VOLUME/>
@@ -3565,20 +4092,20 @@
 			<PUB_END>2013-12-31</PUB_END>
 			<CONTYPE>Other</CONTYPE>
 			<CONTYPEOTHER>Professional Society White Paper Report</CONTYPEOTHER>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="84238688257">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>A survey of Fortune 500 firms, combined with personal interviews of selected C-Suite executives underscores the value of Strategic Communication as a curricular offering in both undergraduate and graduate schools of business.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="101828118528" dmd:lastModified="2014-12-03T07:53:12" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="101828118528" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Prentice Hall</PUBLISHER>
 			<TITLE>Management Communication: A Case-Analysis Approach, 5/e</TITLE>
 			<VOLUME/>
@@ -3589,22 +4116,22 @@
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-01-01</PUB_START>
 			<PUB_END>2013-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="101828118529">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME>S. </MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="50027227136" dmd:lastModified="2013-01-03T14:35:57" dmd:startDate="2013-03-01" dmd:endDate="2013-03-31">
+		<INTELLCONT id="50027227136" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-03-01" dmd:endDate="2013-03-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>Oxford, UK: Wiley Blackwell</PUBLISHER>
 			<TITLE>Corporate Reputation and the Discipline of Management Communication.  In C. Carroll (Ed.) Handbook of Communication and Corporate Reputation</TITLE>
 			<VOLUME/>
@@ -3615,22 +4142,22 @@
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-03-01</PUB_START>
 			<PUB_END>2013-03-31</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="50027227137">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="49760880640" dmd:lastModified="2012-02-29T12:23:53" dmd:startDate="2012-01-01" dmd:endDate="2012-01-31">
+		<INTELLCONT id="49760880640" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-01-01" dmd:endDate="2012-01-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Organizational Behavior Education</PUBLISHER>
 			<TITLE>BP and the Gulf Oil Spill (A)</TITLE>
 			<VOLUME>1</VOLUME>
@@ -3641,9 +4168,9 @@
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-01-01</PUB_START>
 			<PUB_END>2012-01-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="49760880642">
 				<FACULTY_NAME/>
 				<FNAME>Dan Marques</FNAME>
@@ -3668,13 +4195,13 @@
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>An April 20, 2010 explosion on board the Deepwater Horizon offshore oil-drilling platform killed 11 workers, injured 17 and triggered a leak that spilled more than 206 million gallons of oil over 665 miles of coastline and 4,000 square miles of fishing waters.  This case discusses the events that led to the disaster and oil spill in the Gulf of Mexico.  It also outlines key figures within BP's organization and how they factored into the long and difficult corporate communications process.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="49761073152" dmd:lastModified="2012-02-29T12:24:30" dmd:startDate="2012-01-01" dmd:endDate="2012-01-31">
+		<INTELLCONT id="49761073152" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-01-01" dmd:endDate="2012-01-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Organizational Behavior Education</PUBLISHER>
 			<TITLE>Carnival Cruise Lines: Fire Aboard a Stranded Cruise Ship</TITLE>
 			<VOLUME>1</VOLUME>
@@ -3685,9 +4212,9 @@
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-01-01</PUB_START>
 			<PUB_END>2012-01-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="49761073154">
 				<FACULTY_NAME/>
 				<FNAME>Russell Cramer</FNAME>
@@ -3712,13 +4239,13 @@
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>In the early morning hours of November 8, 2010, fire broke out in the aft engine room of Carnival Splendor, a 113,300 ton passenger cruise ship carrying over 3,000 guests.  Although the fire was quickly suppressed, Cruise Director John Heald and the ship's crew found themselves stranded in the Pacific Ocean, 200 miles south of San Diego.  With no electricity, poor sanitation, and spoiling food supplies, Carnival Cruise Lines must determine how best to manage this unforeseen event and ensure the safety of those onboard.  This crisis management case exposes the reader to the decision-making and communication challenges faced by senior leaders in the tumultous environment following such a crisis.  </ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="13890359297" dmd:lastModified="2009-03-13T15:28:23" dmd:startDate="2009-03-01" dmd:endDate="2009-03-31">
+		<INTELLCONT id="13890359297" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-03-01" dmd:endDate="2009-03-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Dorling  Kindersley: The Penguin Group, Ltd.</PUBLISHER>
 			<TITLE>Effective Communication</TITLE>
 			<VOLUME/>
@@ -3729,22 +4256,22 @@
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-03-01</PUB_START>
 			<PUB_END>2009-03-31</PUB_END>
-			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="13890359298">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>A part of DK's "Essential Managers" trade book series, this title features 34 brief chapters that provide a broad overview of management communication in an organizational setting.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="13890449409" dmd:lastModified="2012-01-18T15:05:37" dmd:startDate="2009-01-01" dmd:endDate="2009-01-31">
+		<INTELLCONT id="13890449409" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-01-01" dmd:endDate="2009-01-31">
+			<STATUS/>
 			<PUBLISHER>Prentice Hall</PUBLISHER>
 			<TITLE>Management Communication: A Case-Analysis Approach, 4/e</TITLE>
 			<VOLUME/>
@@ -3755,22 +4282,22 @@
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-01-01</PUB_START>
 			<PUB_END>2009-01-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="13890449410">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459826688" dmd:lastModified="2008-06-23T10:37:19" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="1459826688" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Cengage South-Western</PUBLISHER>
 			<TITLE>Graphics and Visual Communication for Managers</TITLE>
 			<VOLUME/>
@@ -3781,9 +4308,9 @@
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1459826689">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
@@ -3808,13 +4335,13 @@
 				<MNAME>P. </MNAME>
 				<LNAME>Keller</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>A comprehensive review of the basics of visual and graphic theory, combined with current best practices in management communication.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459785728" dmd:lastModified="2008-06-23T10:37:26" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="1459785728" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS/>
 			<PUBLISHER>Cengage South-Western</PUBLISHER>
 			<TITLE>Intercultural Communication for Business</TITLE>
 			<VOLUME/>
@@ -3825,7 +4352,7 @@
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459785729">
@@ -3840,7 +4367,6 @@
 				<MNAME>A,</MNAME>
 				<LNAME>Tuleja</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Sixth in an eight-volume series on Managerial
 Communication.  Prof. O'Rourke serves as
@@ -3848,7 +4374,8 @@ editor of the series</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459787776" dmd:lastModified="2008-06-23T10:37:35" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="1459787776" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS/>
 			<PUBLISHER>Cengage South-Western</PUBLISHER>
 			<TITLE>Interpersonal Communication: Listening and Responding</TITLE>
 			<VOLUME/>
@@ -3859,7 +4386,7 @@ editor of the series</ABSTRACT>
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459787777">
@@ -3874,7 +4401,6 @@ editor of the series</ABSTRACT>
 				<MNAME>D.</MNAME>
 				<LNAME>Collins</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Seventh in an eight-volume series on
 Managerial Communication.  Prof. O'Rourke
@@ -3882,7 +4408,8 @@ serves as editor of the series.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459771392" dmd:lastModified="2014-12-03T08:13:25" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="1459771392" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS/>
 			<PUBLISHER>Cengage South-Western</PUBLISHER>
 			<TITLE>Leading Groups and Teams</TITLE>
 			<VOLUME/>
@@ -3893,7 +4420,7 @@ serves as editor of the series.</ABSTRACT>
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459771393">
@@ -3908,15 +4435,15 @@ serves as editor of the series.</ABSTRACT>
 				<MNAME/>
 				<LNAME>Yarbrough</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
-			<ABSTRACT>First in an eight-volume series on
+			<ABSTRACT>First in an eight-volume series on 
 Managerial Communication.  Prof. O'Rourke
 serves as editor of the series</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="9573650433" dmd:lastModified="2009-10-26T08:33:54" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="9573650433" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Cengage South-Western</PUBLISHER>
 			<TITLE>Managing Conflict and Workplace Relationships</TITLE>
 			<VOLUME/>
@@ -3927,7 +4454,7 @@ serves as editor of the series</ABSTRACT>
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="9573650434">
@@ -3942,13 +4469,13 @@ serves as editor of the series</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>Collins</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="9573646337" dmd:lastModified="2008-06-23T10:38:11" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="9573646337" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Cengage SouthWestern</PUBLISHER>
 			<TITLE>Persuasion</TITLE>
 			<VOLUME/>
@@ -3959,7 +4486,7 @@ serves as editor of the series</ABSTRACT>
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="9573646338">
@@ -3974,13 +4501,13 @@ serves as editor of the series</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>Collins</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459789824" dmd:lastModified="2008-07-07T21:15:45" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="1459789824" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS/>
 			<PUBLISHER>Cengage South-Western</PUBLISHER>
 			<TITLE>Writing and Presenting a Business Plan</TITLE>
 			<VOLUME/>
@@ -3991,7 +4518,7 @@ serves as editor of the series</ABSTRACT>
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459789826">
@@ -4006,7 +4533,6 @@ serves as editor of the series</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Eighth in an eight-volume series on
 Managerial Communication.  Prof. O'Rourke
@@ -4014,7 +4540,8 @@ serves as editor of the series.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="9573636097" dmd:lastModified="2008-06-23T10:38:46" dmd:startDate="2008-03-01" dmd:endDate="2008-03-31">
+		<INTELLCONT id="9573636097" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-03-01" dmd:endDate="2008-03-31">
+			<STATUS/>
 			<PUBLISHER>Financial Times Press</PUBLISHER>
 			<TITLE>The Truth About Confident Presenting</TITLE>
 			<VOLUME/>
@@ -4025,22 +4552,22 @@ serves as editor of the series.</ABSTRACT>
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-03-01</PUB_START>
 			<PUB_END>2008-03-31</PUB_END>
-			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="9573636098">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459830784" dmd:lastModified="2007-02-13T03:32:27" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+		<INTELLCONT id="1459830784" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Pearson Prentice-Hall</PUBLISHER>
 			<TITLE>Beginning Your Career Search</TITLE>
 			<VOLUME/>
@@ -4051,22 +4578,22 @@ serves as editor of the series.</ABSTRACT>
 			<DTY_PUB>2007</DTY_PUB>
 			<PUB_START>2007-01-01</PUB_START>
 			<PUB_END>2007-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1459830785">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>A hands-on approach to building a career portfolio.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459828736" dmd:lastModified="2009-07-30T10:19:50" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+		<INTELLCONT id="1459828736" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<STATUS/>
 			<PUBLISHER>Prentice Hall</PUBLISHER>
 			<TITLE>Management Communication: A Case-Analysis Approach, 3/e</TITLE>
 			<VOLUME/>
@@ -4077,22 +4604,22 @@ serves as editor of the series.</ABSTRACT>
 			<DTY_PUB>2007</DTY_PUB>
 			<PUB_START>2007-01-01</PUB_START>
 			<PUB_END>2007-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-Revised</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1459828737">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="4281182209" dmd:lastModified="2009-03-13T15:33:46" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+		<INTELLCONT id="4281182209" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Thomson South-Western</PUBLISHER>
 			<TITLE>The Business Communication Casebook: A Notre Dame Collection, 2/e</TITLE>
 			<VOLUME/>
@@ -4103,22 +4630,22 @@ serves as editor of the series.</ABSTRACT>
 			<DTY_PUB>2007</DTY_PUB>
 			<PUB_START>2007-01-01</PUB_START>
 			<PUB_END>2007-12-31</PUB_END>
-			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="4281182210">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>A collection of 37 original case studies in business and corporate communication.  Key topics include brand image and identity, crisis management, financial services, international and intercultural communication, pharmaceutical, and transportation.  Each case is accompanied by a teaching note and powerpoint file (available online).  ISBN: 978-0-324-54509-8.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="4281188353" dmd:lastModified="2008-07-01T10:46:17" dmd:startDate="2007-05-01" dmd:endDate="2007-05-31">
+		<INTELLCONT id="4281188353" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2007-05-01" dmd:endDate="2007-05-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Business Strategy</PUBLISHER>
 			<TITLE>Google in China: Government Censorship and Corporate Reputation</TITLE>
 			<VOLUME>27</VOLUME>
@@ -4129,9 +4656,9 @@ serves as editor of the series.</ABSTRACT>
 			<DTY_PUB>2007</DTY_PUB>
 			<PUB_START>2007-05-01</PUB_START>
 			<PUB_END>2007-05-31</PUB_END>
-			<CONTYPE>Journal Articles, Non-Refereed</CONTYPE>
+			<CONTYPE>Non-Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="4281188354">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
@@ -4150,13 +4677,13 @@ serves as editor of the series.</ABSTRACT>
 				<MNAME/>
 				<LNAME>Ogilvy</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459832832" dmd:lastModified="2008-07-01T12:58:50" dmd:startDate="2006-07-01" dmd:endDate="2006-07-31">
+		<INTELLCONT id="1459832832" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2006-07-01" dmd:endDate="2006-07-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Business Strategy</PUBLISHER>
 			<TITLE>Merck &amp; Co. Inc.: Communication Lessons from the Withdrawl of Vioxx</TITLE>
 			<VOLUME>27</VOLUME>
@@ -4167,9 +4694,9 @@ serves as editor of the series.</ABSTRACT>
 			<DTY_PUB>2006</DTY_PUB>
 			<PUB_START>2006-07-01</PUB_START>
 			<PUB_END>2006-07-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1459832833">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
@@ -4188,13 +4715,13 @@ serves as editor of the series.</ABSTRACT>
 				<MNAME/>
 				<LNAME>Gust</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459783680" dmd:lastModified="2007-05-03T13:17:27" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<INTELLCONT id="1459783680" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<STATUS/>
 			<PUBLISHER>Thomson South-Western</PUBLISHER>
 			<TITLE>Managing Conflict and Workplace Relationships</TITLE>
 			<VOLUME/>
@@ -4205,7 +4732,7 @@ serves as editor of the series.</ABSTRACT>
 			<DTY_PUB>2005</DTY_PUB>
 			<PUB_START>2005-01-01</PUB_START>
 			<PUB_END>2005-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459783681">
@@ -4220,7 +4747,6 @@ serves as editor of the series.</ABSTRACT>
 				<MNAME>D.</MNAME>
 				<LNAME>Collins</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Fifth in an eight-volume series on
 Managerial Communication.  Prof. O'Rourke
@@ -4228,7 +4754,8 @@ serves as editor of the series</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459773440" dmd:lastModified="2007-05-03T13:19:45" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<INTELLCONT id="1459773440" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<STATUS/>
 			<PUBLISHER>Prentice Hall</PUBLISHER>
 			<TITLE>Management Communication: A Case-Analysis Approach, 2/e</TITLE>
 			<VOLUME/>
@@ -4239,7 +4766,7 @@ serves as editor of the series</ABSTRACT>
 			<DTY_PUB>2004</DTY_PUB>
 			<PUB_START>2004-01-01</PUB_START>
 			<PUB_END>2004-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459773441">
@@ -4248,18 +4775,18 @@ serves as editor of the series</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
-			<ABSTRACT>This is the second edition of a text on
-Management Communication aimed at first-year
-MBA candidates.  The central feature of the
-book is a series of case studies designed to
-engage students in authentic communication
+			<ABSTRACT>This is the second edition of a text on 
+Management Communication aimed at first-year 
+MBA candidates.  The central feature of the 
+book is a series of case studies designed to 
+engage students in authentic communication 
 issues and activities</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459824640" dmd:lastModified="2008-07-01T12:54:25" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<INTELLCONT id="1459824640" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Public Relations Review</PUBLISHER>
 			<TITLE>Martha Stewart Living Omnimedia, Inc.: The Fall of an American Icon</TITLE>
 			<VOLUME>30</VOLUME>
@@ -4270,9 +4797,9 @@ issues and activities</ABSTRACT>
 			<DTY_PUB>2004</DTY_PUB>
 			<PUB_START>2004-01-01</PUB_START>
 			<PUB_END>2004-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1459824641">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
@@ -4291,13 +4818,13 @@ issues and activities</ABSTRACT>
 				<MNAME/>
 				<LNAME>Moulton</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459777536" dmd:lastModified="2007-05-03T13:21:01" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="1459777536" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS/>
 			<PUBLISHER>Prentice Hall</PUBLISHER>
 			<TITLE>Beginning Your Career Search: A Hands-on Approach to Building Your Career Portfolio, 3/e</TITLE>
 			<VOLUME/>
@@ -4308,7 +4835,7 @@ issues and activities</ABSTRACT>
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-01-01</PUB_START>
 			<PUB_END>2003-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459777537">
@@ -4317,17 +4844,17 @@ issues and activities</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
-			<ABSTRACT>This is the third edition of a book aimed at
-upper-division undergraduates, providing
-practical advice and authentic examples of
-resume format, employment correspondence,
+			<ABSTRACT>This is the third edition of a book aimed at 
+upper-division undergraduates, providing 
+practical advice and authentic examples of 
+resume format, employment correspondence, 
 and career portfolio elements</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459761152" dmd:lastModified="2007-05-03T13:21:26" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="1459761152" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS/>
 			<PUBLISHER>Thomson South-Western</PUBLISHER>
 			<TITLE>Communication in a Virtual Organization</TITLE>
 			<VOLUME/>
@@ -4338,7 +4865,7 @@ and career portfolio elements</ABSTRACT>
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-01-01</PUB_START>
 			<PUB_END>2003-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459761153">
@@ -4353,15 +4880,15 @@ and career portfolio elements</ABSTRACT>
 				<MNAME>D.</MNAME>
 				<LNAME>Collins</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
-			<ABSTRACT>Third in an eight-volume series on
+			<ABSTRACT>Third in an eight-volume series on 
 Managerial Communication.  Prof. O'Rourke
 serves as editor of the series</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459769344" dmd:lastModified="2007-05-03T13:21:54" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="1459769344" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS/>
 			<PUBLISHER>Thomson South-Western</PUBLISHER>
 			<TITLE>e-Technology and the Fourth Economy</TITLE>
 			<VOLUME/>
@@ -4372,7 +4899,7 @@ serves as editor of the series</ABSTRACT>
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-01-01</PUB_START>
 			<PUB_END>2003-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459769345">
@@ -4387,15 +4914,15 @@ serves as editor of the series</ABSTRACT>
 				<MNAME>A.</MNAME>
 				<LNAME>Boulger</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
-			<ABSTRACT>Second in an eight-volume series on
+			<ABSTRACT>Second in an eight-volume series on 
 Managerial Communication.  Prof. O'Rourke
 serves as series editor.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459820544" dmd:lastModified="2007-08-29T13:48:12" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="1459820544" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Communication Management</PUBLISHER>
 			<TITLE>The Art of Downsizing: Communicating Layoffs to Key Stakeholders</TITLE>
 			<VOLUME>Vol. 8, No. 2</VOLUME>
@@ -4406,9 +4933,9 @@ serves as series editor.</ABSTRACT>
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-01-01</PUB_START>
 			<PUB_END>2003-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1459820545">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
@@ -4427,13 +4954,13 @@ serves as series editor.</ABSTRACT>
 				<MNAME>B.</MNAME>
 				<LNAME>Setterberg</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459775488" dmd:lastModified="2009-03-13T15:33:32" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<INTELLCONT id="1459775488" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<STATUS/>
 			<PUBLISHER>Thomson South-Western</PUBLISHER>
 			<TITLE>The Business Communication Casebook: A Notre Dame Collection, 1/e</TITLE>
 			<VOLUME/>
@@ -4444,7 +4971,7 @@ serves as series editor.</ABSTRACT>
 			<DTY_PUB>2002</DTY_PUB>
 			<PUB_START>2002-01-01</PUB_START>
 			<PUB_END>2002-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459775489">
@@ -4453,18 +4980,18 @@ serves as series editor.</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
-			<ABSTRACT>A collection of 36 original management and
-business communication case studies written
-by Mendoza College of Business MBA
-Candidates.  Each comes with a Teaching Note
-and PowerPoint file; many come with (B)
+			<ABSTRACT>A collection of 36 original management and 
+business communication case studies written 
+by Mendoza College of Business MBA 
+Candidates.  Each comes with a Teaching Note 
+and PowerPoint file; many come with (B) 
 cases</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459822592" dmd:lastModified="2007-08-29T13:48:37" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+		<INTELLCONT id="1459822592" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Corporate Reputation Review</PUBLISHER>
 			<TITLE>Bridgestone/Firestone, Inc. and Ford Motor Company: How a Product Safety Crisis Ended a Hundred-Year Relationship</TITLE>
 			<VOLUME>Volume Four, Number Three</VOLUME>
@@ -4475,9 +5002,9 @@ cases</ABSTRACT>
 			<DTY_PUB>2001</DTY_PUB>
 			<PUB_START>2001-01-01</PUB_START>
 			<PUB_END>2001-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1459822593">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
@@ -4496,13 +5023,13 @@ cases</ABSTRACT>
 				<MNAME/>
 				<LNAME>Lagueux</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459779584" dmd:lastModified="2007-05-03T13:24:55" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+		<INTELLCONT id="1459779584" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<STATUS/>
 			<PUBLISHER>Thomson South-Western</PUBLISHER>
 			<TITLE>Business Communication: A Framework for Success</TITLE>
 			<VOLUME/>
@@ -4513,7 +5040,7 @@ cases</ABSTRACT>
 			<DTY_PUB>2001</DTY_PUB>
 			<PUB_START>2001-01-01</PUB_START>
 			<PUB_END>2001-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459779585">
@@ -4540,17 +5067,17 @@ cases</ABSTRACT>
 				<MNAME>J.</MNAME>
 				<LNAME>O'Hair</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT>A comprehensive textbook aimed at upper-
-division undergraduate business students.
-Focuses on writing, speaking, and
-communication applications in organizations
+division undergraduate business students.  
+Focuses on writing, speaking, and 
+communication applications in organizations 
 large and small</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459791872" dmd:lastModified="2007-05-03T13:25:34" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+		<INTELLCONT id="1459791872" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<STATUS/>
 			<PUBLISHER>Business Communication Quarterly</PUBLISHER>
 			<TITLE>American Electrical, Inc.: Managing an Environmental Crisis</TITLE>
 			<VOLUME>Vol. 61, No. 1</VOLUME>
@@ -4561,7 +5088,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1998</DTY_PUB>
 			<PUB_START>1998-01-01</PUB_START>
 			<PUB_END>1998-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459791873">
@@ -4570,13 +5097,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="75921145856" dmd:lastModified="2014-12-03T08:13:56" dmd:startDate="1995-01-01" dmd:endDate="1995-12-31">
+		<INTELLCONT id="75921145856" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1995-01-01" dmd:endDate="1995-12-31">
+			<STATUS/>
 			<PUBLISHER>In P. Ulrich and C. Sarasin, Facing Public Interest: The Ethical Challenge to Business Policy and Corporate Communications.  Dordrecht, The Netherlands: Kluwer Academic Publishers.</PUBLISHER>
 			<TITLE>Excel Industries, Inc.: Family Issues of Employees -- A Conflict with Public Perception.</TITLE>
 			<VOLUME>1</VOLUME>
@@ -4587,22 +5114,22 @@ large and small</ABSTRACT>
 			<DTY_PUB>1995</DTY_PUB>
 			<PUB_START>1995-01-01</PUB_START>
 			<PUB_END>1995-12-31</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="75921145857">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459793920" dmd:lastModified="2007-05-03T13:26:09" dmd:startDate="1995-01-01" dmd:endDate="1995-12-31">
+		<INTELLCONT id="1459793920" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1995-01-01" dmd:endDate="1995-12-31">
+			<STATUS/>
 			<PUBLISHER>Business Communication Quarterly</PUBLISHER>
 			<TITLE>The Ethics of Resumes and Recommendations: When Do Filler and Fluff Becomes Deception and Lies?</TITLE>
 			<VOLUME>Vol. 56, No. 4</VOLUME>
@@ -4613,7 +5140,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1995</DTY_PUB>
 			<PUB_START>1995-01-01</PUB_START>
 			<PUB_END>1995-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459793921">
@@ -4622,13 +5149,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459798016" dmd:lastModified="2008-07-09T21:27:27" dmd:startDate="1993-01-01" dmd:endDate="1993-12-31">
+		<INTELLCONT id="1459798016" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1993-01-01" dmd:endDate="1993-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the Midwest Business Teaching Conference</PUBLISHER>
 			<TITLE>Business Communication and the MBA of the 1990s: Curriculum Innovations for Graduate Students of Business at the University of Notre Dame</TITLE>
 			<VOLUME>Vol. 2, No.1</VOLUME>
@@ -4639,22 +5166,22 @@ large and small</ABSTRACT>
 			<DTY_PUB>1993</DTY_PUB>
 			<PUB_START>1993-01-01</PUB_START>
 			<PUB_END>1993-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1459798017">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459795968" dmd:lastModified="2007-05-03T13:27:11" dmd:startDate="1993-01-01" dmd:endDate="1993-12-31">
+		<INTELLCONT id="1459795968" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1993-01-01" dmd:endDate="1993-12-31">
+			<STATUS/>
 			<PUBLISHER>The Bulletin of the Association for Business Communication</PUBLISHER>
 			<TITLE>Intercultural Business Communication: Building a Course from the Ground Up</TITLE>
 			<VOLUME>Vol. 56, No. 4</VOLUME>
@@ -4665,7 +5192,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1993</DTY_PUB>
 			<PUB_START>1993-01-01</PUB_START>
 			<PUB_END>1993-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459795969">
@@ -4674,13 +5201,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459802112" dmd:lastModified="2007-05-03T13:27:36" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
+		<INTELLCONT id="1459802112" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
+			<STATUS/>
 			<PUBLISHER>Military Media Review</PUBLISHER>
 			<TITLE>Briefing the Commander</TITLE>
 			<VOLUME>Vol. 16, No. 2</VOLUME>
@@ -4691,7 +5218,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1989</DTY_PUB>
 			<PUB_START>1989-01-01</PUB_START>
 			<PUB_END>1989-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459802113">
@@ -4700,13 +5227,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459800064" dmd:lastModified="2007-05-03T13:28:03" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
+		<INTELLCONT id="1459800064" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
+			<STATUS/>
 			<PUBLISHER>Military Media Review</PUBLISHER>
 			<TITLE>The Media Pool: Is It the Solution?</TITLE>
 			<VOLUME>Vol. 16, No. 3</VOLUME>
@@ -4717,7 +5244,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1989</DTY_PUB>
 			<PUB_START>1989-01-01</PUB_START>
 			<PUB_END>1989-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459800065">
@@ -4726,13 +5253,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459781632" dmd:lastModified="2007-05-03T13:28:49" dmd:startDate="1988-01-01" dmd:endDate="1988-12-31">
+		<INTELLCONT id="1459781632" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1988-01-01" dmd:endDate="1988-12-31">
+			<STATUS/>
 			<PUBLISHER>Breffny Books, Ltd</PUBLISHER>
 			<TITLE>Reflections in the Dome: Sixty Years of Life at Notre Dame</TITLE>
 			<VOLUME/>
@@ -4743,7 +5270,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1988</DTY_PUB>
 			<PUB_START>1988-01-01</PUB_START>
 			<PUB_END>1988-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459781633">
@@ -4752,13 +5279,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459804160" dmd:lastModified="2007-05-03T13:29:29" dmd:startDate="1987-01-01" dmd:endDate="1987-12-31">
+		<INTELLCONT id="1459804160" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1987-01-01" dmd:endDate="1987-12-31">
+			<STATUS/>
 			<PUBLISHER>Military Media Review</PUBLISHER>
 			<TITLE>Terrorism and the Mass Media, Part I</TITLE>
 			<VOLUME>Vol. 14, No. 3</VOLUME>
@@ -4769,7 +5296,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1987</DTY_PUB>
 			<PUB_START>1987-01-01</PUB_START>
 			<PUB_END>1987-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459804161">
@@ -4778,13 +5305,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459806208" dmd:lastModified="2007-05-03T13:29:53" dmd:startDate="1987-01-01" dmd:endDate="1987-12-31">
+		<INTELLCONT id="1459806208" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1987-01-01" dmd:endDate="1987-12-31">
+			<STATUS/>
 			<PUBLISHER>Military Media Review</PUBLISHER>
 			<TITLE>Terrorism and the Mass Media, Part II</TITLE>
 			<VOLUME>Vol. 14, No. 4</VOLUME>
@@ -4795,7 +5322,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1987</DTY_PUB>
 			<PUB_START>1987-01-01</PUB_START>
 			<PUB_END>1987-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459806209">
@@ -4804,13 +5331,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459763200" dmd:lastModified="2007-05-03T13:30:22" dmd:startDate="1986-01-01" dmd:endDate="1986-12-31">
+		<INTELLCONT id="1459763200" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1986-01-01" dmd:endDate="1986-12-31">
+			<STATUS/>
 			<PUBLISHER>U.S. Government Printing Office</PUBLISHER>
 			<TITLE>Meeting the Media</TITLE>
 			<VOLUME/>
@@ -4821,7 +5348,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1986</DTY_PUB>
 			<PUB_START>1986-01-01</PUB_START>
 			<PUB_END>1986-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459763201">
@@ -4830,13 +5357,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459808256" dmd:lastModified="2007-05-03T13:30:49" dmd:startDate="1986-01-01" dmd:endDate="1986-12-31">
+		<INTELLCONT id="1459808256" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1986-01-01" dmd:endDate="1986-12-31">
+			<STATUS/>
 			<PUBLISHER>Military Media Review</PUBLISHER>
 			<TITLE>The Behaviorist Approach to Persuasion</TITLE>
 			<VOLUME>Vol. 13, No. 2</VOLUME>
@@ -4847,7 +5374,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1986</DTY_PUB>
 			<PUB_START>1986-01-01</PUB_START>
 			<PUB_END>1986-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459808257">
@@ -4856,13 +5383,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459810304" dmd:lastModified="2009-10-26T08:32:01" dmd:startDate="1985-01-01" dmd:endDate="1985-12-31">
+		<INTELLCONT id="1459810304" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1985-01-01" dmd:endDate="1985-12-31">
+			<STATUS/>
 			<PUBLISHER>Military Review</PUBLISHER>
 			<TITLE>Military Leadership for the 1990s and Beyond</TITLE>
 			<VOLUME>Vol. 61, No. 2</VOLUME>
@@ -4873,7 +5400,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1985</DTY_PUB>
 			<PUB_START>1985-01-01</PUB_START>
 			<PUB_END>1985-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459810305">
@@ -4882,13 +5409,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459765248" dmd:lastModified="2007-05-03T13:31:41" dmd:startDate="1985-01-01" dmd:endDate="1985-12-31">
+		<INTELLCONT id="1459765248" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1985-01-01" dmd:endDate="1985-12-31">
+			<STATUS/>
 			<PUBLISHER>U.S. Government Printing Office</PUBLISHER>
 			<TITLE>Public Affairs Handbook</TITLE>
 			<VOLUME/>
@@ -4899,7 +5426,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1985</DTY_PUB>
 			<PUB_START>1985-01-01</PUB_START>
 			<PUB_END>1985-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459765249">
@@ -4908,13 +5435,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459812352" dmd:lastModified="2007-05-03T13:32:04" dmd:startDate="1983-01-01" dmd:endDate="1983-12-31">
+		<INTELLCONT id="1459812352" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1983-01-01" dmd:endDate="1983-12-31">
+			<STATUS/>
 			<PUBLISHER>Journalism History</PUBLISHER>
 			<TITLE>The Development of Color Television: A Study in the Free-Market Process</TITLE>
 			<VOLUME>Vol. 9, Nos. 3-4</VOLUME>
@@ -4925,7 +5452,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1983</DTY_PUB>
 			<PUB_START>1983-01-01</PUB_START>
 			<PUB_END>1983-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459812353">
@@ -4934,13 +5461,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="9700304897" dmd:lastModified="2008-07-09T21:22:15" dmd:startDate="1982-01-01" dmd:endDate="1982-12-31">
+		<INTELLCONT id="9700304897" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1982-01-01" dmd:endDate="1982-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>The International Journal of Instructional Media</PUBLISHER>
 			<TITLE>Is Television in Color Educationally Justifiable?  A Review of the Research</TITLE>
 			<VOLUME>Vol. 9, No. 3</VOLUME>
@@ -4951,22 +5478,22 @@ large and small</ABSTRACT>
 			<DTY_PUB>1982</DTY_PUB>
 			<PUB_START>1982-01-01</PUB_START>
 			<PUB_END>1982-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="9700304898">
 				<FACULTY_NAME>118108</FACULTY_NAME>
 				<FNAME>James</FNAME>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459816448" dmd:lastModified="2007-05-03T13:33:14" dmd:startDate="1981-01-01" dmd:endDate="1981-12-31">
+		<INTELLCONT id="1459816448" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1981-01-01" dmd:endDate="1981-12-31">
+			<STATUS/>
 			<PUBLISHER>The International Journal of Instructional Media</PUBLISHER>
 			<TITLE>A Little Plain Talk About Television: Are You Sure It's What You're Looking For?</TITLE>
 			<VOLUME>Vol. 8, No. 3</VOLUME>
@@ -4977,7 +5504,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1981</DTY_PUB>
 			<PUB_START>1981-01-01</PUB_START>
 			<PUB_END>1981-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459816449">
@@ -4986,13 +5513,13 @@ large and small</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459767296" dmd:lastModified="2007-05-03T13:33:29" dmd:startDate="1980-01-01" dmd:endDate="1980-12-31">
+		<INTELLCONT id="1459767296" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1980-01-01" dmd:endDate="1980-12-31">
+			<STATUS/>
 			<PUBLISHER>Syracuse University: ERIC</PUBLISHER>
 			<TITLE>Television in Community and Junior Colleges: An Overview and Guidelines</TITLE>
 			<VOLUME/>
@@ -5003,7 +5530,7 @@ large and small</ABSTRACT>
 			<DTY_PUB>1980</DTY_PUB>
 			<PUB_START>1980-01-01</PUB_START>
 			<PUB_END>1980-12-31</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459767297">
@@ -5024,15 +5551,15 @@ large and small</ABSTRACT>
 				<MNAME>W.</MNAME>
 				<LNAME>Portre</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
-			<ABSTRACT>A publication of the Syracuse University
-Educational Resources Instructional
+			<ABSTRACT>A publication of the Syracuse University 
+Educational Resources Instructional 
 Clearninghouse</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1459818496" dmd:lastModified="2007-05-03T13:33:52" dmd:startDate="1979-01-01" dmd:endDate="1979-12-31">
+		<INTELLCONT id="1459818496" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1979-01-01" dmd:endDate="1979-12-31">
+			<STATUS/>
 			<PUBLISHER>Journalism History</PUBLISHER>
 			<TITLE>The San Francisco Chronicle and the Air Mail Emergency of 1934: The Heisenberg Principle Exemplified in Journalism</TITLE>
 			<VOLUME>Vol. 6, No. 1</VOLUME>
@@ -5043,7 +5570,7 @@ Clearninghouse</ABSTRACT>
 			<DTY_PUB>1979</DTY_PUB>
 			<PUB_START>1979-01-01</PUB_START>
 			<PUB_END>1979-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1459818497">
@@ -5052,30 +5579,35 @@ Clearninghouse</ABSTRACT>
 				<MNAME></MNAME>
 				<LNAME>O'Rourke</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<PRESENT id="94703878144" dmd:lastModified="2014-07-24T11:26:51" dmd:startDate="2014-06-25" dmd:endDate="2014-06-25">
+		<PRESENT id="123027427328" dmd:lastModified="2016-01-11T13:57:13" dmd:startDate="2016-01-07" dmd:endDate="2016-01-07">
+			<PRESENTATION_TYPE/>
+			<NAME>Undergraduate Admissions Office: Lunch-and-Learn</NAME>
+			<TITLE>Key Factors in Reputation Management</TITLE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>Other</MEETING_TYPE>
+			<SCOPE>Local</SCOPE>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
+			<ABSTRACT>A review of research and current best corporate practices in the measurement and management of corporate reputation</ABSTRACT>
+			<DTM_DATE>January</DTM_DATE>
+			<DTD_DATE>7</DTD_DATE>
+			<DTY_DATE>2016</DTY_DATE>
+			<DATE_START>2016-01-07</DATE_START>
+			<DATE_END>2016-01-07</DATE_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</PRESENT>
+		<PRESENT id="94703878144" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-06-25" dmd:endDate="2014-06-25">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>2014 Edelman Academic Summit: Storytelling at the Speech of Now</NAME>
-			<ORG>DePaul University and University of Notre Dame</ORG>
-			<LOCATION>Chicago, Illinois</LOCATION>
 			<TITLE>Why Soft Skills Matter</TITLE>
-			<PRESENT_AUTH id="94703878145">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE>Co-Chair</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Chair/Co-Chair</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>June</DTM_DATE>
 			<DTD_DATE>25</DTD_DATE>
@@ -5083,26 +5615,15 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2014-06-25</DATE_START>
 			<DATE_END>2014-06-25</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75135205376" dmd:lastModified="2013-07-11T13:52:15" dmd:startDate="2013-06-05" dmd:endDate="2013-06-05">
+		<PRESENT id="75135205376" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-06-05" dmd:endDate="2013-06-05">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The Seventeenth Global Conference on Corporate Reputation, Identity and Competitiveness</NAME>
-			<ORG>The Reputation Institute</ORG>
-			<LOCATION>Barcelona, Spain</LOCATION>
 			<TITLE>Reputation Crisis Management.  Carnival Cruise Lines: The Wreck of the Costa Concordia.</TITLE>
-			<PRESENT_AUTH id="75135205377">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT>This case study examines the actions and responses of Carnival Cruise Lines, parent company of Costa Cruises following the wreck of the Costa Concordia off the cost of Italy in 2012.</ABSTRACT>
 			<DTM_DATE>June</DTM_DATE>
 			<DTD_DATE>5</DTD_DATE>
@@ -5110,24 +5631,13 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2013-06-05</DATE_START>
 			<DATE_END>2013-06-05</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="33859137537" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2011-03-22" dmd:endDate="2011-03-22">
+		<PRESENT id="33859137537" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-03-22" dmd:endDate="2011-03-22">
 			<NAME>The U.N. Millennium Development Goals, The Global Compact, and the Common Good</NAME>
-			<ORG>University of Notre Dame</ORG>
-			<LOCATION>McKenna Hall, Notre Dame, Indiana</LOCATION>
 			<TITLE>Putting Reputation at Risk: The Seven Factors of Reputational Management</TITLE>
-			<PRESENT_AUTH id="33859137538">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>March</DTM_DATE>
 			<DTD_DATE>22</DTD_DATE>
@@ -5135,24 +5645,13 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2011-03-22</DATE_START>
 			<DATE_END>2011-03-22</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="33429237761" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2011-03-16" dmd:endDate="2011-03-16">
+		<PRESENT id="33429237761" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-03-16" dmd:endDate="2011-03-16">
 			<NAME>University of Delaware</NAME>
-			<ORG>Department of Communication</ORG>
-			<LOCATION>Newark, Delaware</LOCATION>
 			<TITLE>Crisis Communication: Ten Best Practices</TITLE>
-			<PRESENT_AUTH id="33429237762">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>March</DTM_DATE>
 			<DTD_DATE>16</DTD_DATE>
@@ -5160,24 +5659,13 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2011-03-16</DATE_START>
 			<DATE_END>2011-03-16</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="25517213697" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2010-05-28" dmd:endDate="2010-05-28">
+		<PRESENT id="25517213697" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-05-28" dmd:endDate="2010-05-28">
 			<NAME>Association for Business Communication, Europe</NAME>
-			<ORG>University of Antwerp / Lessius University</ORG>
-			<LOCATION>Antwerp, Belgium</LOCATION>
 			<TITLE>Domino's "Special" Delivery: Going Viral Through Social Media</TITLE>
-			<PRESENT_AUTH id="25517213698">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>May</DTM_DATE>
 			<DTD_DATE>28</DTD_DATE>
@@ -5185,24 +5673,13 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2010-05-28</DATE_START>
 			<DATE_END>2010-05-28</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="16276021249" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2009-07-23" dmd:endDate="2009-07-23">
+		<PRESENT id="16276021249" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-07-23" dmd:endDate="2009-07-23">
 			<NAME>BMW Global Corporate Communication Conference</NAME>
-			<ORG>BMW World Headquarters</ORG>
-			<LOCATION>Munich, Germany</LOCATION>
 			<TITLE>The Authentic Enterprise: Relationships, Values, and the Evolution of Corporate Communications</TITLE>
-			<PRESENT_AUTH id="16276021250">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>July</DTM_DATE>
 			<DTD_DATE>23</DTD_DATE>
@@ -5210,24 +5687,13 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2009-07-23</DATE_START>
 			<DATE_END>2009-07-23</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="7331211265" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2007-03-09" dmd:endDate="2007-03-09">
+		<PRESENT id="7331211265" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2007-03-09" dmd:endDate="2007-03-09">
 			<NAME>California State University Fullerton</NAME>
-			<ORG>College of Business Administration</ORG>
-			<LOCATION>Fullerton, California</LOCATION>
 			<TITLE>Teaching with Cases: Using Participant-Centered Learning and Classroom Discussion to Achieve Your Learning Objectives</TITLE>
-			<PRESENT_AUTH id="7331211266">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
-			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>March</DTM_DATE>
 			<DTD_DATE>9</DTD_DATE>
@@ -5235,21 +5701,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2007-03-09</DATE_START>
 			<DATE_END>2007-03-09</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459855360" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+		<PRESENT id="1459855360" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
 			<NAME>10th Annual Conference of The Reputation Institute</NAME>
-			<ORG/>
-			<LOCATION>New York, New York</LOCATION>
 			<TITLE>Merck &amp; Company, Inc.: Communication Lessons from the Withdrawal of Vioxx</TITLE>
-			<PRESENT_AUTH id="1459855361">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5259,21 +5715,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2006-01-01</DATE_START>
 			<DATE_END>2006-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459853312" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+		<PRESENT id="1459853312" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
 			<NAME>Arthur W. Page Society Conference on Corporate Communication</NAME>
-			<ORG/>
-			<LOCATION>Tuck School of Business, Dartmouth College</LOCATION>
 			<TITLE>Merck &amp; Company, Inc.: Communication Lessons from the Withdrawal of Vioxx</TITLE>
-			<PRESENT_AUTH id="1459853313">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5283,21 +5729,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2006-01-01</DATE_START>
 			<DATE_END>2006-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459857408" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
+		<PRESENT id="1459857408" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
 			<NAME>The Conference Board Council on Corporate Communication Strategy</NAME>
-			<ORG/>
-			<LOCATION>Chicago, Illinois</LOCATION>
 			<TITLE>Educating the Next Generation of Communication Professionals: Challenges and Opportunities</TITLE>
-			<PRESENT_AUTH id="1459857409">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5307,21 +5743,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2006-01-01</DATE_START>
 			<DATE_END>2006-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459847168" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<PRESENT id="1459847168" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
 			<NAME>Conference of the Association for Business Communication, Europe, Copenhagen Denmark</NAME>
-			<ORG/>
-			<LOCATION>Copenhagen Business School, Copenhagen, Denmark</LOCATION>
 			<TITLE>Merck &amp; Company, Inc.: The Recall of Vioxx</TITLE>
-			<PRESENT_AUTH id="1459847169">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5331,21 +5757,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2005-01-01</DATE_START>
 			<DATE_END>2005-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459849216" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<PRESENT id="1459849216" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
 			<NAME>Faculty and students of the Copenhagen Business School, Copenhagen, Denmark</NAME>
-			<ORG/>
-			<LOCATION>Copenhagen, Denmark</LOCATION>
 			<TITLE>Corporate Reputation and Brand Alignment: An American Perspective</TITLE>
-			<PRESENT_AUTH id="1459849217">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5355,21 +5771,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2005-01-01</DATE_START>
 			<DATE_END>2005-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459843072" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<PRESENT id="1459843072" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
 			<NAME>2004 Conference of the Management Communication Association</NAME>
-			<ORG/>
-			<LOCATION>Freeman School of Business, Tulane University, New Orleans, Louisiana</LOCATION>
 			<TITLE>Getting Into Print: Strategies for Sharing What You Know</TITLE>
-			<PRESENT_AUTH id="1459843073">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5379,21 +5785,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2004-01-01</DATE_START>
 			<DATE_END>2004-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459841024" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<PRESENT id="1459841024" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
 			<NAME>7th Annual International Public Relations Research Conference</NAME>
-			<ORG/>
-			<LOCATION>University of Miami, Miami, Florida</LOCATION>
 			<TITLE>Managing Public Image and Stakeholder Interests: The Role of the Corporate Communication Officer</TITLE>
-			<PRESENT_AUTH id="1459841025">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5403,21 +5799,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2004-01-01</DATE_START>
 			<DATE_END>2004-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459838976" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<PRESENT id="1459838976" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
 			<NAME>Singapore Management University</NAME>
-			<ORG/>
-			<LOCATION>Singapore</LOCATION>
 			<TITLE>Management Education and Case Method Instruction</TITLE>
-			<PRESENT_AUTH id="1459838977">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5427,21 +5813,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2004-01-01</DATE_START>
 			<DATE_END>2004-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459845120" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2004-10-01" dmd:endDate="2004-10-31">
+		<PRESENT id="1459845120" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-10-01" dmd:endDate="2004-10-31">
 			<NAME>2004 Conference of the Association for Business Communication, Europe</NAME>
-			<ORG/>
-			<LOCATION>Universita Cattolica del Sacro Cuore, Milan, Italy</LOCATION>
 			<TITLE>Wriitng a Case Study: Turning Business Problems into Learning Opportunities</TITLE>
-			<PRESENT_AUTH id="1459845121">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5451,21 +5827,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2004-10-01</DATE_START>
 			<DATE_END>2004-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459851264" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<PRESENT id="1459851264" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
 			<NAME>Seventh Global Conference on Corporate Reputation, Manchester Business School, Manchester, England</NAME>
-			<ORG/>
-			<LOCATION>Manchester, England UK</LOCATION>
 			<TITLE>Martha Stewart Living Omnimedia, Inc.: An Accusation of Insider Trading</TITLE>
-			<PRESENT_AUTH id="1459851265">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5475,21 +5841,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2003-01-01</DATE_START>
 			<DATE_END>2003-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459834880" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<PRESENT id="1459834880" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
 			<NAME>Sears Roebuck and Company</NAME>
-			<ORG/>
-			<LOCATION>Corporate Headquarters, Hoffman Estates, Illinois</LOCATION>
 			<TITLE>Martha Stewart Living Omnimedia, Inc.: Accusations of Insider Trading</TITLE>
-			<PRESENT_AUTH id="1459834881">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5499,21 +5855,11 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2002-01-01</DATE_START>
 			<DATE_END>2002-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1459836928" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<PRESENT id="1459836928" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
 			<NAME>The Boeing Company</NAME>
-			<ORG/>
-			<LOCATION>Corporate Headquarters, Chicago, Illinois</LOCATION>
 			<TITLE>Martha Stewart Living Omnimedia, Inc.: An Accusation of Insider Trading</TITLE>
-			<PRESENT_AUTH id="1459836929">
-				<FACULTY_NAME>118108</FACULTY_NAME>
-				<FNAME>James</FNAME>
-				<MNAME></MNAME>
-				<LNAME>O'Rourke</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5523,7 +5869,6 @@ Clearninghouse</ABSTRACT>
 			<DATE_START>2002-01-01</DATE_START>
 			<DATE_END>2002-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
 		<OFF_SHORE id="85331513344" dmd:lastModified="2014-01-29T11:56:48" dmd:startDate="2013-06-05" dmd:endDate="2013-06-07">
 			<UNIVERSITY>The Reputation Institute</UNIVERSITY>
@@ -5758,9 +6103,8 @@ Clearninghouse</ABSTRACT>
 			<END_END>2010-11-06</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
-		<SERVICE_COLLEGE id="28596353025" dmd:lastModified="2010-11-05T12:53:03" dmd:startDate="2010-10-25" dmd:endDate="2010-10-25">
+		<SERVICE_COLLEGE id="28596353025" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-10-25" dmd:endDate="2010-10-25">
 			<ORG>ND Forum</ORG>
-			<ROLE>Faculty Advisor</ROLE>
 			<ROLEOTHER>Led workshop on "Running a Discussion" for student dorm discussion leaders</ROLEOTHER>
 			<DTM_START>October</DTM_START>
 			<DTD_START>25</DTD_START>
@@ -5774,9 +6118,8 @@ Clearninghouse</ABSTRACT>
 			<END_END>2010-10-25</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
-		<SERVICE_COLLEGE id="28596238337" dmd:lastModified="2010-11-05T12:44:55" dmd:startDate="2010-10-12" dmd:endDate="2010-10-14">
+		<SERVICE_COLLEGE id="28596238337" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-10-12" dmd:endDate="2010-10-14">
 			<ORG>MBA InterTerm Fall 2010</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER>Lectured on "Preparing to Speak" to first-year MBA Candidates.  Coached MBA teams on their presentations and problem solutions.</ROLEOTHER>
 			<DTM_START>October</DTM_START>
 			<DTD_START>12</DTD_START>
@@ -5806,9 +6149,24 @@ Clearninghouse</ABSTRACT>
 			<END_END>2010-08-12</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
-		<SERVICE_UNIVERSITY id="28597383169" dmd:lastModified="2010-11-05T13:57:57" dmd:startDate="2009-05-01">
+		<SERVICE_UNIVERSITY id="106965829632" dmd:lastModified="2015-04-02T16:03:07" dmd:startDate="2015-04-07">
+			<ORG>Valedictorian Selection Committee</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Selection Committee Member</ROLEOTHER>
+			<DTM_START>April</DTM_START>
+			<DTD_START>7</DTD_START>
+			<DTY_START>2015</DTY_START>
+			<START_START>2015-04-07</START_START>
+			<START_END>2015-04-07</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="28597383169" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-05-01">
 			<ORG>Presidential Speech Review Team</ORG>
-			<ROLE>Faculty Advisor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>May</DTM_START>
 			<DTD_START/>
@@ -5822,15 +6180,45 @@ Clearninghouse</ABSTRACT>
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="94717241344" dmd:lastModified="2014-07-24T14:51:01" dmd:startDate="1997-01-01">
-			<ORG>Notre Dame Women's Lacrosse Team</ORG>
-			<ROLE>Faculty Mentor</ROLE>
+		<SERVICE_UNIVERSITY id="104489506816" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="1997-01-01">
+			<ORG>Corporate Communication Case Writing</ORG>
 			<ROLEOTHER/>
 			<DTM_START/>
 			<DTD_START/>
 			<DTY_START>1997</DTY_START>
 			<START_START>1997-01-01</START_START>
 			<START_END>1997-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="94717241344" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="1997-01-01">
+			<ORG>Notre Dame Women's Lacrosse Team</ORG>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1997</DTY_START>
+			<START_START>1997-01-01</START_START>
+			<START_END>1997-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="104489615360" dmd:lastModified="2015-01-29T15:06:53" dmd:startDate="1990-01-01">
+			<ORG>Basilica of the Sacred Heart</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Captain of Ushers</ROLEOTHER>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1990</DTY_START>
+			<START_START>1990-01-01</START_START>
+			<START_END>1990-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
 			<DTY_END/>
@@ -5902,25 +6290,6 @@ Clearninghouse</ABSTRACT>
 			<END_END>1999-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_PROFESSIONAL id="94746081280" dmd:lastModified="2014-07-28T09:37:38" dmd:startDate="2011-01-01">
-			<ORG>Journal of Organizational Behavior Education</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY>London</CITY>
-			<STATE>United Kingdom</STATE>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2011</DTY_START>
-			<START_START>2011-01-01</START_START>
-			<START_END>2011-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="1459873792" dmd:lastModified="2010-12-17T11:38:09" dmd:startDate="2000-01-01">
 			<ORG>Trustee, The Arthur W. Page Society</ORG>
 			<ROLE>Other</ROLE>
@@ -5997,11 +6366,54 @@ Clearninghouse</ABSTRACT>
 			<END_END>2005-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_PROFESSIONAL>
-		<CONSULT id="94716848128" dmd:lastModified="2014-07-24T14:35:12" dmd:startDate="2013-06-01" dmd:endDate="2013-09-30">
+		<EDITREV id="122701170688" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Organizational Behavior Education</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY>London</CITY>
+			<STATE>United Kingdom</STATE>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-01-01</START_START>
+			<START_END>2011-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<CONSULT id="94716848128" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-06-01" dmd:endDate="2013-09-30">
 			<TYPE>Management</TYPE>
 			<TYPEOTHER/>
 			<ORG>Harley-Davidson Motor Company</ORG>
-			<COMP>Compensated</COMP>
 			<NUMHOURS>35</NUMHOURS>
 			<DESC>I assisted Joanne Bischmann, Vice President for Communications at Harley-Davidson with a structural reorganization of her global comms team.  Work streams, reporting lines, accountability, productivity measures, and more were considered.  A new organization chart and new lines of accountability resulted.</DESC>
 			<DTM_START>June</DTM_START>
@@ -6016,11 +6428,10 @@ Clearninghouse</ABSTRACT>
 			<END_END>2013-09-30</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</CONSULT>
-		<CONSULT id="1459630080" dmd:lastModified="2010-11-05T13:54:08" dmd:startDate="2010-02-01" dmd:endDate="2010-02-28">
+		<CONSULT id="1459630080" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-02-01" dmd:endDate="2010-02-28">
 			<TYPE>Management</TYPE>
 			<TYPEOTHER/>
 			<ORG>Quarles &amp; Brady, LLP</ORG>
-			<COMP>Compensated</COMP>
 			<NUMHOURS>6</NUMHOURS>
 			<DESC>Consulted with Milwaukee law firm Quarles &amp; Brady LLP on the design of a training program that would incorporate case studies to improve critical thinking and communication skills.</DESC>
 			<DTM_START>February</DTM_START>
@@ -6035,11 +6446,10 @@ Clearninghouse</ABSTRACT>
 			<END_END>2010-02-28</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</CONSULT>
-		<CONSULT id="28597350401" dmd:lastModified="2010-11-05T13:56:33" dmd:startDate="2009-07-01" dmd:endDate="2009-09-30">
+		<CONSULT id="28597350401" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-07-01" dmd:endDate="2009-09-30">
 			<TYPE>Management</TYPE>
 			<TYPEOTHER/>
 			<ORG>AM General Corporation</ORG>
-			<COMP>Compensated</COMP>
 			<NUMHOURS>20</NUMHOURS>
 			<DESC>Consulted with AM General Corporation on the design and delivery of an executive speech training program intended to improve presentation skills.</DESC>
 			<DTM_START>July</DTM_START>
@@ -6054,6 +6464,575 @@ Clearninghouse</ABSTRACT>
 			<END_END>2009-09-30</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</CONSULT>
+		<CONSULT id="104490061824" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2004-07-18" dmd:endDate="2004-07-26">
+			<TYPE>Litigation</TYPE>
+			<TYPEOTHER/>
+			<ORG>Beck, DeCorso, Daly, Kreindler &amp; Harris</ORG>
+			<NUMHOURS>40</NUMHOURS>
+			<DESC>An external review of Fleishman-Hillard, Inc. performance on the Los Angeles Department of Water and Power Account, 1998-2004.</DESC>
+			<DTM_START>July</DTM_START>
+			<DTD_START>18</DTD_START>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-07-18</START_START>
+			<START_END>2004-07-18</START_END>
+			<DTM_END>July</DTM_END>
+			<DTD_END>26</DTD_END>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-07-26</END_START>
+			<END_END>2004-07-26</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</CONSULT>
+		<FACDEV id="104490342400" dmd:lastModified="2015-01-29T15:17:52" dmd:startDate="2015-06-04" dmd:endDate="2015-06-07">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>Dartmouth College</ORG>
+			<CITYSTATE>Hanover, New Hampshire</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>June</DTM_START>
+			<DTD_START>4</DTD_START>
+			<DTY_START>2015</DTY_START>
+			<START_START>2015-06-04</START_START>
+			<START_END>2015-06-04</START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END>7</DTD_END>
+			<DTY_END>2015</DTY_END>
+			<END_START>2015-06-07</END_START>
+			<END_END>2015-06-07</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104493019136" dmd:lastModified="2015-01-29T15:39:50" dmd:startDate="2015-04-09" dmd:endDate="2015-04-10">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>9</DTD_START>
+			<DTY_START>2015</DTY_START>
+			<START_START>2015-04-09</START_START>
+			<START_END>2015-04-09</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>10</DTD_END>
+			<DTY_END>2015</DTY_END>
+			<END_START>2015-04-10</END_START>
+			<END_END>2015-04-10</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104540665856" dmd:lastModified="2015-01-30T12:41:45" dmd:startDate="2014-10-17" dmd:endDate="2014-10-18">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>17th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>17</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-10-17</START_START>
+			<START_END>2014-10-17</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>18</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-10-18</END_START>
+			<END_END>2014-10-18</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104543399936" dmd:lastModified="2015-01-30T11:14:25" dmd:startDate="2014-09-21" dmd:endDate="2014-09-23">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Philadelphia, Pennsylvania</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>21</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-09-21</START_START>
+			<START_END>2014-09-21</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>23</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-09-23</END_START>
+			<END_END>2014-09-23</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104490737664" dmd:lastModified="2015-01-29T15:17:20" dmd:startDate="2014-05-15" dmd:endDate="2014-05-18">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>College of William and Mary</ORG>
+			<CITYSTATE>Williamsburg, Virginia</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>15</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-05-15</START_START>
+			<START_END>2014-05-15</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>18</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-05-18</END_START>
+			<END_END>2014-05-18</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104493225984" dmd:lastModified="2015-01-29T15:41:59" dmd:startDate="2014-04-02" dmd:endDate="2014-04-05">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>2</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-04-02</START_START>
+			<START_END>2014-04-02</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>5</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-04-05</END_START>
+			<END_END>2014-04-05</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104540807168" dmd:lastModified="2015-01-30T12:42:15" dmd:startDate="2013-10-11" dmd:endDate="2013-10-12">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>16th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>11</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-10-11</START_START>
+			<START_END>2013-10-11</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>12</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-10-12</END_START>
+			<END_END>2013-10-12</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104543600640" dmd:lastModified="2015-01-30T11:17:01" dmd:startDate="2013-09-28" dmd:endDate="2013-10-01">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Boston, Massachusetts</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>28</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-09-28</START_START>
+			<START_END>2013-09-28</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>1</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-10-01</END_START>
+			<END_END>2013-10-01</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104546848768" dmd:lastModified="2015-01-30T11:50:31" dmd:startDate="2013-06-04" dmd:endDate="2013-06-08">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Global Conference on Corporate Reputation, Identity, and Competitiveness</TITLE>
+			<ORG>The Reputation Institute</ORG>
+			<CITYSTATE>Barcelona, Spain</CITYSTATE>
+			<DESC>A global conference of academics and practitioners to explore issues related to corporate reputation management.</DESC>
+			<DTM_START>June</DTM_START>
+			<DTD_START>4</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-06-04</START_START>
+			<START_END>2013-06-04</START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END>8</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-06-08</END_START>
+			<END_END>2013-06-08</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104491128832" dmd:lastModified="2015-01-29T15:19:59" dmd:startDate="2013-05-09" dmd:endDate="2013-05-12">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>Northwestern University</ORG>
+			<CITYSTATE>Chicago, Illinois</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>9</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-05-09</START_START>
+			<START_END>2013-05-09</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>12</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-05-12</END_START>
+			<END_END>2013-05-12</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104493350912" dmd:lastModified="2015-01-29T15:43:38" dmd:startDate="2013-04-03" dmd:endDate="2013-04-06">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>3</DTD_START>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-04-03</START_START>
+			<START_END>2013-04-03</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>6</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-04-06</END_START>
+			<END_END>2013-04-06</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104540964864" dmd:lastModified="2015-01-30T12:42:36" dmd:startDate="2012-09-28" dmd:endDate="2012-09-29">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>15th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Centerr for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>28</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-09-28</START_START>
+			<START_END>2012-09-28</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>29</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-09-29</END_START>
+			<END_END>2012-09-29</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104543721472" dmd:lastModified="2015-01-30T11:18:59" dmd:startDate="2012-09-08" dmd:endDate="2012-09-11">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>San Francisco, California</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>8</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-09-08</START_START>
+			<START_END>2012-09-08</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>11</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-09-11</END_START>
+			<END_END>2012-09-11</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104491366400" dmd:lastModified="2015-01-29T15:22:26" dmd:startDate="2012-05-24" dmd:endDate="2012-05-27">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>Emory University</ORG>
+			<CITYSTATE>Atlanta, Georgia</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>24</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-05-24</START_START>
+			<START_END>2012-05-24</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>27</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-05-27</END_START>
+			<END_END>2012-05-27</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104493670400" dmd:lastModified="2015-01-29T15:45:09" dmd:startDate="2012-03-21" dmd:endDate="2012-03-24">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>March</DTM_START>
+			<DTD_START>21</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-03-21</START_START>
+			<START_END>2012-03-21</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>24</DTD_END>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-03-24</END_START>
+			<END_END>2012-03-24</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104541128704" dmd:lastModified="2015-01-30T12:42:52" dmd:startDate="2011-09-30" dmd:endDate="2011-10-01">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>14th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>30</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-09-30</START_START>
+			<START_END>2011-09-30</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>1</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-10-01</END_START>
+			<END_END>2011-10-01</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104543862784" dmd:lastModified="2015-01-30T11:20:32" dmd:startDate="2011-09-10" dmd:endDate="2011-09-13">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Washington, D.C.</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>10</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-09-10</START_START>
+			<START_END>2011-09-10</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>13</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-09-13</END_START>
+			<END_END>2011-09-13</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104491493376" dmd:lastModified="2015-01-29T15:23:52" dmd:startDate="2011-05-26" dmd:endDate="2011-05-29">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>Tulane University</ORG>
+			<CITYSTATE>New Orleans, Louisiana</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>26</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-05-26</START_START>
+			<START_END>2011-05-26</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>29</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-05-29</END_START>
+			<END_END>2011-05-29</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104493799424" dmd:lastModified="2015-01-29T15:46:26" dmd:startDate="2011-04-06" dmd:endDate="2011-04-09">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>6</DTD_START>
+			<DTY_START>2011</DTY_START>
+			<START_START>2011-04-06</START_START>
+			<START_END>2011-04-06</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>9</DTD_END>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-04-09</END_START>
+			<END_END>2011-04-09</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104544071680" dmd:lastModified="2015-01-30T11:23:17" dmd:startDate="2010-09-25" dmd:endDate="2010-09-28">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Palos Verdes, California</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>25</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-09-25</START_START>
+			<START_END>2010-09-25</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>28</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-09-28</END_START>
+			<END_END>2010-09-28</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104541255680" dmd:lastModified="2015-01-30T12:43:16" dmd:startDate="2010-09-17" dmd:endDate="2010-09-18">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>13th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>17</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-09-17</START_START>
+			<START_END>2010-09-17</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>18</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-09-18</END_START>
+			<END_END>2010-09-18</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104580997120" dmd:lastModified="2015-01-30T12:10:57" dmd:startDate="2010-05-25" dmd:endDate="2010-05-29">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Conference</TITLE>
+			<ORG>Association for Business Communication, Europe</ORG>
+			<CITYSTATE>Antwerp, Belgium</CITYSTATE>
+			<DESC>A conference of academics devoted to teaching and research in the discipline of business communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>25</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-05-25</START_START>
+			<START_END>2010-05-25</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>29</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-05-29</END_START>
+			<END_END>2010-05-29</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104493963264" dmd:lastModified="2015-01-29T15:48:00" dmd:startDate="2010-04-07" dmd:endDate="2010-04-10">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>7</DTD_START>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-04-07</START_START>
+			<START_END>2010-04-07</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>10</DTD_END>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-04-10</END_START>
+			<END_END>2010-04-10</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104541464576" dmd:lastModified="2015-01-30T12:43:30" dmd:startDate="2009-10-09" dmd:endDate="2009-10-10">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>12th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>9</DTD_START>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-10-09</START_START>
+			<START_END>2009-10-09</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>10</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-10-10</END_START>
+			<END_END>2009-10-10</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104544182272" dmd:lastModified="2015-01-30T11:24:43" dmd:startDate="2009-09-12" dmd:endDate="2009-09-15">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Chicago, Illinois</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>12</DTD_START>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-09-12</START_START>
+			<START_END>2009-09-12</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>15</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-09-15</END_START>
+			<END_END>2009-09-15</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104491671552" dmd:lastModified="2015-01-29T15:25:43" dmd:startDate="2009-05-14" dmd:endDate="2009-05-17">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>Stanford University</ORG>
+			<CITYSTATE>Palo Alto, California</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>14</DTD_START>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-05-14</START_START>
+			<START_END>2009-05-14</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>17</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-05-17</END_START>
+			<END_END>2009-05-17</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104494086144" dmd:lastModified="2015-01-29T15:49:20" dmd:startDate="2009-04-01" dmd:endDate="2009-04-03">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-04-01</START_START>
+			<START_END>2009-04-01</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>3</DTD_END>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-04-03</END_START>
+			<END_END>2009-04-03</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104541620224" dmd:lastModified="2015-01-30T12:43:45" dmd:startDate="2008-10-10" dmd:endDate="2008-10-11">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>11th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>10</DTD_START>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-10-10</START_START>
+			<START_END>2008-10-10</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>11</DTD_END>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-10-11</END_START>
+			<END_END>2008-10-11</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104544344064" dmd:lastModified="2015-01-30T11:26:30" dmd:startDate="2008-09-20" dmd:endDate="2008-09-23">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Chatham, Massachusetts</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>20</DTD_START>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-09-20</START_START>
+			<START_END>2008-09-20</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>23</DTD_END>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-09-23</END_START>
+			<END_END>2008-09-23</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
 		<FACDEV id="12035622913" dmd:lastModified="2008-12-15T12:36:37" dmd:startDate="2008-05-19" dmd:endDate="2008-05-21">
 			<TYPE>Attended Conference</TYPE>
 			<TYPEOTHER/>
@@ -6071,6 +7050,63 @@ Clearninghouse</ABSTRACT>
 			<DTY_END>2008</DTY_END>
 			<END_START>2008-05-21</END_START>
 			<END_END>2008-05-21</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104491814912" dmd:lastModified="2015-01-29T15:27:26" dmd:startDate="2008-05-07" dmd:endDate="2008-05-08">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>University of Western Ontario</ORG>
+			<CITYSTATE>London, Ontario, Canada</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>7</DTD_START>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-05-07</START_START>
+			<START_END>2008-05-07</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>8</DTD_END>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-05-08</END_START>
+			<END_END>2008-05-08</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104494399488" dmd:lastModified="2015-01-29T15:52:50" dmd:startDate="2008-04-09" dmd:endDate="2008-04-11">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>9</DTD_START>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-04-09</START_START>
+			<START_END>2008-04-09</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>11</DTD_END>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-04-11</END_START>
+			<END_END>2008-04-11</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104544520192" dmd:lastModified="2015-01-30T11:28:03" dmd:startDate="2007-09-14" dmd:endDate="2007-09-18">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>laguna Nigel, California</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>14</DTD_START>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-09-14</START_START>
+			<START_END>2007-09-14</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>18</DTD_END>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-09-18</END_START>
+			<END_END>2007-09-18</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</FACDEV>
 		<FACDEV id="7302979585" dmd:lastModified="2008-02-01T15:29:42" dmd:startDate="2007-05-21" dmd:endDate="2007-05-23">
@@ -6091,6 +7127,766 @@ Clearninghouse</ABSTRACT>
 			<END_START>2007-05-23</END_START>
 			<END_END>2007-05-23</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104491960320" dmd:lastModified="2015-01-29T15:29:14" dmd:startDate="2007-05-19" dmd:endDate="2007-05-21">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>Emory University</ORG>
+			<CITYSTATE>Atlanta, Georgia</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>19</DTD_START>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-05-19</START_START>
+			<START_END>2007-05-19</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>21</DTD_END>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-05-21</END_START>
+			<END_END>2007-05-21</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104494581760" dmd:lastModified="2015-01-29T15:54:42" dmd:startDate="2007-04-12" dmd:endDate="2007-04-13">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>12</DTD_START>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-04-12</START_START>
+			<START_END>2007-04-12</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>13</DTD_END>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-04-13</END_START>
+			<END_END>2007-04-13</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104544667648" dmd:lastModified="2015-01-30T11:29:32" dmd:startDate="2006-10-21" dmd:endDate="2006-10-24">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Sarasota, Florida</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>21</DTD_START>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-10-21</START_START>
+			<START_END>2006-10-21</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>24</DTD_END>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-10-24</END_START>
+			<END_END>2006-10-24</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104541784064" dmd:lastModified="2015-01-30T12:45:53" dmd:startDate="2006-09-22" dmd:endDate="2006-09-23">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>10th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>22</DTD_START>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-09-22</START_START>
+			<START_END>2006-09-22</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>23</DTD_END>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-09-23</END_START>
+			<END_END>2006-09-23</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104547117056" dmd:lastModified="2015-01-30T11:53:50" dmd:startDate="2006-05-25" dmd:endDate="2006-05-28">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Global Conference on Corporate Reputation, Identity, and Competitiveness</TITLE>
+			<ORG>The Reputation Institute</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>A global conference of academics and practitioners to explore issues related to corporate reputation management.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>25</DTD_START>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-05-25</START_START>
+			<START_END>2006-05-25</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>28</DTD_END>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-05-28</END_START>
+			<END_END>2006-05-28</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104492156928" dmd:lastModified="2015-01-29T15:30:52" dmd:startDate="2006-05-04" dmd:endDate="2006-05-07">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>University of Southern California</ORG>
+			<CITYSTATE>Los Angeles, California</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>4</DTD_START>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-05-04</START_START>
+			<START_END>2006-05-04</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>7</DTD_END>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-05-07</END_START>
+			<END_END>2006-05-07</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104494712832" dmd:lastModified="2015-01-29T15:56:20" dmd:startDate="2006-04-06" dmd:endDate="2006-04-07">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>6</DTD_START>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-04-06</START_START>
+			<START_END>2006-04-06</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>7</DTD_END>
+			<DTY_END>2006</DTY_END>
+			<END_START>2006-04-07</END_START>
+			<END_END>2006-04-07</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104541900800" dmd:lastModified="2015-01-30T12:46:07" dmd:startDate="2005-10-07" dmd:endDate="2005-10-08">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>9th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>7</DTD_START>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-10-07</START_START>
+			<START_END>2005-10-07</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>8</DTD_END>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-10-08</END_START>
+			<END_END>2005-10-08</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104544841728" dmd:lastModified="2015-01-30T11:31:06" dmd:startDate="2005-09-17" dmd:endDate="2005-09-20">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Napa, California</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>17</DTD_START>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-09-17</START_START>
+			<START_END>2005-09-17</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>20</DTD_END>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-09-20</END_START>
+			<END_END>2005-09-20</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104580878336" dmd:lastModified="2015-01-30T12:09:19" dmd:startDate="2005-05-22" dmd:endDate="2005-05-28">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Conference</TITLE>
+			<ORG>Association for Buisness Communication, Europe</ORG>
+			<CITYSTATE>Copenhagen, Denmark</CITYSTATE>
+			<DESC>A conference of academics devoted to teaching and research in the discipline of business communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>22</DTD_START>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-05-22</START_START>
+			<START_END>2005-05-22</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>28</DTD_END>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-05-28</END_START>
+			<END_END>2005-05-28</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104494837760" dmd:lastModified="2015-01-29T15:57:40" dmd:startDate="2005-03-07" dmd:endDate="2005-04-08">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>March</DTM_START>
+			<DTD_START>7</DTD_START>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-03-07</START_START>
+			<START_END>2005-03-07</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>8</DTD_END>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-04-08</END_START>
+			<END_END>2005-04-08</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104542031872" dmd:lastModified="2015-01-30T12:46:24" dmd:startDate="2004-10-15" dmd:endDate="2004-10-16">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>8th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>15</DTD_START>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-10-15</START_START>
+			<START_END>2004-10-15</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>16</DTD_END>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-10-16</END_START>
+			<END_END>2004-10-16</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104545003520" dmd:lastModified="2015-01-30T11:32:58" dmd:startDate="2004-09-10" dmd:endDate="2004-09-14">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Chantilly, Virginia</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>10</DTD_START>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-09-10</START_START>
+			<START_END>2004-09-10</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>14</DTD_END>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-09-14</END_START>
+			<END_END>2004-09-14</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104580734976" dmd:lastModified="2015-01-30T12:07:38" dmd:startDate="2004-05-17" dmd:endDate="2004-05-23">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Conference</TITLE>
+			<ORG>Association for Business Communication, Europe</ORG>
+			<CITYSTATE>Milan, Italy</CITYSTATE>
+			<DESC>a conference of academics devoted to teaching and research in the discipline of business communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>17</DTD_START>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-05-17</START_START>
+			<START_END>2004-05-17</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>23</DTD_END>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-05-23</END_START>
+			<END_END>2004-05-23</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104492392448" dmd:lastModified="2015-01-29T15:33:18" dmd:startDate="2004-05-06" dmd:endDate="2004-05-08">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>Tulane University</ORG>
+			<CITYSTATE>New Orleans, Louisiana</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>6</DTD_START>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-05-06</START_START>
+			<START_END>2004-05-06</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>8</DTD_END>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-05-08</END_START>
+			<END_END>2004-05-08</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104494966784" dmd:lastModified="2015-01-29T15:58:58" dmd:startDate="2004-04-01" dmd:endDate="2004-04-02">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>1</DTD_START>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-04-01</START_START>
+			<START_END>2004-04-01</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>2</DTD_END>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-04-02</END_START>
+			<END_END>2004-04-02</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104542150656" dmd:lastModified="2015-01-30T12:46:39" dmd:startDate="2003-10-10" dmd:endDate="2003-10-11">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>7th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>10</DTD_START>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-10-10</START_START>
+			<START_END>2003-10-10</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>11</DTD_END>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-10-11</END_START>
+			<END_END>2003-10-11</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104545157120" dmd:lastModified="2015-01-30T11:34:27" dmd:startDate="2003-09-13" dmd:endDate="2003-09-16">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Coronado, California</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>13</DTD_START>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-09-13</START_START>
+			<START_END>2003-09-13</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>16</DTD_END>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-09-16</END_START>
+			<END_END>2003-09-16</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104547584000" dmd:lastModified="2015-01-30T11:56:10" dmd:startDate="2003-05-21" dmd:endDate="2003-05-24">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Global Conference on Corporate Reputation, Identity, and Competitiveness</TITLE>
+			<ORG>The Reputation Institute</ORG>
+			<CITYSTATE>Manchester, England UK</CITYSTATE>
+			<DESC>A global conference of academics and practitioners to explore issues related to corporate reputation management.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>21</DTD_START>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-05-21</START_START>
+			<START_END>2003-05-21</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>24</DTD_END>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-05-24</END_START>
+			<END_END>2003-05-24</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104492560384" dmd:lastModified="2015-01-29T15:35:06" dmd:startDate="2003-04-24" dmd:endDate="2003-04-27">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>University of Arizona</ORG>
+			<CITYSTATE>Tucson, Arizona</CITYSTATE>
+			<DESC>Annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>24</DTD_START>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-04-24</START_START>
+			<START_END>2003-04-24</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>27</DTD_END>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-04-27</END_START>
+			<END_END>2003-04-27</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104495106048" dmd:lastModified="2015-01-29T16:00:28" dmd:startDate="2003-04-02" dmd:endDate="2003-04-04">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>2</DTD_START>
+			<DTY_START>2003</DTY_START>
+			<START_START>2003-04-02</START_START>
+			<START_END>2003-04-02</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>4</DTD_END>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-04-04</END_START>
+			<END_END>2003-04-04</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104542310400" dmd:lastModified="2015-01-30T12:46:53" dmd:startDate="2002-10-18" dmd:endDate="2002-10-19">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>6th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>October</DTM_START>
+			<DTD_START>18</DTD_START>
+			<DTY_START>2002</DTY_START>
+			<START_START>2002-10-18</START_START>
+			<START_END>2002-10-18</START_END>
+			<DTM_END>October</DTM_END>
+			<DTD_END>19</DTD_END>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-10-19</END_START>
+			<END_END>2002-10-19</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104545300480" dmd:lastModified="2015-01-30T11:36:01" dmd:startDate="2002-09-21" dmd:endDate="2002-09-24">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Bolton Landing, New York</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>21</DTD_START>
+			<DTY_START>2002</DTY_START>
+			<START_START>2002-09-21</START_START>
+			<START_END>2002-09-21</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>24</DTD_END>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-09-24</END_START>
+			<END_END>2002-09-24</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104547876864" dmd:lastModified="2015-01-30T11:59:39" dmd:startDate="2002-05-23" dmd:endDate="2002-05-25">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Global Conference on Corporate Reputation, Identity, and Competitiveness</TITLE>
+			<ORG>The Reputation Institute</ORG>
+			<CITYSTATE>Boston, Massachusetts</CITYSTATE>
+			<DESC>A global conference of academics and practitioners to explore issues related to corporate reputation management.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>23</DTD_START>
+			<DTY_START>2002</DTY_START>
+			<START_START>2002-05-23</START_START>
+			<START_END>2002-05-23</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>25</DTD_END>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-05-25</END_START>
+			<END_END>2002-05-25</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104492705792" dmd:lastModified="2015-01-29T15:36:43" dmd:startDate="2002-05-11" dmd:endDate="2002-05-13">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Management Communication Association</TITLE>
+			<ORG>University of Notre Dame</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted annual meeting of directors and faculty who instruct graduate students of business in management communication.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>11</DTD_START>
+			<DTY_START>2002</DTY_START>
+			<START_START>2002-05-11</START_START>
+			<START_END>2002-05-11</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>13</DTD_END>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-05-13</END_START>
+			<END_END>2002-05-13</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104495233024" dmd:lastModified="2015-01-29T16:01:51" dmd:startDate="2002-04-04" dmd:endDate="2002-04-06">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>4</DTD_START>
+			<DTY_START>2002</DTY_START>
+			<START_START>2002-04-04</START_START>
+			<START_END>2002-04-04</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>6</DTD_END>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-04-06</END_START>
+			<END_END>2002-04-06</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104542488576" dmd:lastModified="2015-01-30T12:47:10" dmd:startDate="2001-09-07" dmd:endDate="2001-09-08">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>5th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>7</DTD_START>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-09-07</START_START>
+			<START_END>2001-09-07</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>8</DTD_END>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-09-08</END_START>
+			<END_END>2001-09-08</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104569526272" dmd:lastModified="2015-01-30T12:05:36" dmd:startDate="2001-05-24" dmd:endDate="2001-05-28">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Biennial Conference</TITLE>
+			<ORG>Association for Business Communication, Europe</ORG>
+			<CITYSTATE>Dresden, Germany</CITYSTATE>
+			<DESC>A conference of academics devoted to teaching and research in the discipline of business communication</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>24</DTD_START>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-05-24</START_START>
+			<START_END>2001-05-24</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>28</DTD_END>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-05-28</END_START>
+			<END_END>2001-05-28</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104554850304" dmd:lastModified="2015-01-30T12:02:02" dmd:startDate="2001-05-16" dmd:endDate="2001-05-19">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Global Conference on Corporate Reputation, Identity, and Competitiveness</TITLE>
+			<ORG>The Reputation Institute</ORG>
+			<CITYSTATE>Paris, France</CITYSTATE>
+			<DESC>A global conference of academics and practitioners to explore issues related to corporate reputation management.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>16</DTD_START>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-05-16</START_START>
+			<START_END>2001-05-16</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>19</DTD_END>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-05-19</END_START>
+			<END_END>2001-05-19</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104495368192" dmd:lastModified="2015-01-29T16:03:19" dmd:startDate="2001-04-03" dmd:endDate="2001-04-05">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>3</DTD_START>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-04-03</START_START>
+			<START_END>2001-04-03</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>5</DTD_END>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-04-05</END_START>
+			<END_END>2001-04-05</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104542625792" dmd:lastModified="2015-01-30T12:47:30" dmd:startDate="2000-11-17" dmd:endDate="2000-11-18">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>4th Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>November</DTM_START>
+			<DTD_START>17</DTD_START>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-11-17</START_START>
+			<START_END>2000-11-17</START_END>
+			<DTM_END>November</DTM_END>
+			<DTD_END>18</DTD_END>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-11-18</END_START>
+			<END_END>2000-11-18</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104545458176" dmd:lastModified="2015-01-30T11:37:52" dmd:startDate="2000-09-24" dmd:endDate="2000-09-27">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>Charleston, South Carolina</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>24</DTD_START>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-09-24</START_START>
+			<START_END>2000-09-24</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>27</DTD_END>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-09-27</END_START>
+			<END_END>2000-09-27</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104495468544" dmd:lastModified="2015-01-29T16:04:34" dmd:startDate="2000-04-05" dmd:endDate="2000-04-06">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>5</DTD_START>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-04-05</START_START>
+			<START_END>2000-04-05</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>6</DTD_END>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-04-06</END_START>
+			<END_END>2000-04-06</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104542754816" dmd:lastModified="2015-01-30T12:47:45" dmd:startDate="1999-12-03" dmd:endDate="1999-12-04">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>3rd Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>December</DTM_START>
+			<DTD_START>3</DTD_START>
+			<DTY_START>1999</DTY_START>
+			<START_START>1999-12-03</START_START>
+			<START_END>1999-12-03</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END>4</DTD_END>
+			<DTY_END>1999</DTY_END>
+			<END_START>1999-12-04</END_START>
+			<END_END>1999-12-04</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104545818624" dmd:lastModified="2015-01-30T11:42:13" dmd:startDate="1999-09-11" dmd:endDate="1999-09-14">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Annual Meeting</TITLE>
+			<ORG>Arthur W. Page Socity</ORG>
+			<CITYSTATE>Vail, Colorado</CITYSTATE>
+			<DESC>A three-day conference of the chief communication officers of the Fortune 500 and select practitioners and academics.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>11</DTD_START>
+			<DTY_START>1999</DTY_START>
+			<START_START>1999-09-11</START_START>
+			<START_END>1999-09-11</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>14</DTD_END>
+			<DTY_END>1999</DTY_END>
+			<END_START>1999-09-14</END_START>
+			<END_END>1999-09-14</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104495568896" dmd:lastModified="2015-01-29T16:05:59" dmd:startDate="1999-04-07" dmd:endDate="1999-04-08">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>Arthur W. Page Society Spring Seminar</TITLE>
+			<ORG>Arthur W. Page Society</ORG>
+			<CITYSTATE>New York, New York</CITYSTATE>
+			<DESC>Two-day gathering of corporate communication professionals, practitioners, and academics to review current issues and best practices.</DESC>
+			<DTM_START>April</DTM_START>
+			<DTD_START>7</DTD_START>
+			<DTY_START>1999</DTY_START>
+			<START_START>1999-04-07</START_START>
+			<START_END>1999-04-07</START_END>
+			<DTM_END>April</DTM_END>
+			<DTD_END>8</DTD_END>
+			<DTY_END>1999</DTY_END>
+			<END_START>1999-04-08</END_START>
+			<END_END>1999-04-08</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104542900224" dmd:lastModified="2015-01-30T12:48:29" dmd:startDate="1998-12-03" dmd:endDate="1998-12-04">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>2nd Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>December</DTM_START>
+			<DTD_START>3</DTD_START>
+			<DTY_START>1998</DTY_START>
+			<START_START>1998-12-03</START_START>
+			<START_END>1998-12-03</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END>4</DTD_END>
+			<DTY_END>1998</DTY_END>
+			<END_START>1998-12-04</END_START>
+			<END_END>1998-12-04</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104546035712" dmd:lastModified="2015-01-30T11:45:02" dmd:startDate="1998-03-13" dmd:endDate="1998-03-14">
+			<TYPE>Seminar</TYPE>
+			<TYPEOTHER/>
+			<TITLE>The Art and Craft of Discussion Leadership</TITLE>
+			<ORG>Harvard Business School</ORG>
+			<CITYSTATE>Boston, Massachusetts</CITYSTATE>
+			<DESC>A two-day seminar on the use of case studies in business education.</DESC>
+			<DTM_START>March</DTM_START>
+			<DTD_START>13</DTD_START>
+			<DTY_START>1998</DTY_START>
+			<START_START>1998-03-13</START_START>
+			<START_END>1998-03-13</START_END>
+			<DTM_END>March</DTM_END>
+			<DTD_END>14</DTD_END>
+			<DTY_END>1998</DTY_END>
+			<END_START>1998-03-14</END_START>
+			<END_END>1998-03-14</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104543178752" dmd:lastModified="2015-01-30T12:48:45" dmd:startDate="1997-09-26" dmd:endDate="1997-09-27">
+			<TYPE>Attended Conference</TYPE>
+			<TYPEOTHER/>
+			<TITLE>1st Conference on Corporate Communication</TITLE>
+			<ORG>Fanning Center for Business Communication</ORG>
+			<CITYSTATE>Notre Dame, Indiana</CITYSTATE>
+			<DESC>Hosted a two-day gathering of corporate communication professionals and academics to explore current issues and best practices.</DESC>
+			<DTM_START>September</DTM_START>
+			<DTD_START>26</DTD_START>
+			<DTY_START>1997</DTY_START>
+			<START_START>1997-09-26</START_START>
+			<START_END>1997-09-26</START_END>
+			<DTM_END>September</DTM_END>
+			<DTD_END>27</DTD_END>
+			<DTY_END>1997</DTY_END>
+			<END_START>1997-09-27</END_START>
+			<END_END>1997-09-27</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</FACDEV>
+		<FACDEV id="104546490368" dmd:lastModified="2015-01-30T11:46:58" dmd:startDate="1992-05-13" dmd:endDate="1992-05-16">
+			<TYPE>Workshop</TYPE>
+			<TYPEOTHER/>
+			<TITLE>The Myers-Briggs Personality Type Indicator</TITLE>
+			<ORG>Association for Psychological Type</ORG>
+			<CITYSTATE>Chicago, Illinois</CITYSTATE>
+			<DESC>A four-day workshop for administrator-instructor certification in the MBTI.</DESC>
+			<DTM_START>May</DTM_START>
+			<DTD_START>13</DTD_START>
+			<DTY_START>1992</DTY_START>
+			<START_START>1992-05-13</START_START>
+			<START_END>1992-05-13</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>16</DTD_END>
+			<DTY_END>1992</DTY_END>
+			<END_START>1992-05-16</END_START>
+			<END_END>1992-05-16</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</FACDEV>
 	</Record>
 </Data>

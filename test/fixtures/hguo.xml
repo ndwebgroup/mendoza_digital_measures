@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2015-11-11">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="509548" username="hguo" termId="278" dmd:surveyId="1593664">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
-		<PCI id="16547270656" dmd:lastModified="2015-11-05T13:36:46">
+		<PCI id="16547270656" dmd:lastModified="2015-11-30T15:39:29">
 			<PREFIX>Dr.</PREFIX>
 			<FNAME>Hong</FNAME>
 			<PFNAME/>
@@ -39,7 +39,7 @@
 			<PCI_EXPERTISE id="16547270659">
 				<EXPERTISE>Mining Online Social Networks</EXPERTISE>
 			</PCI_EXPERTISE>
-			<UPLOAD_CV>hguo/pci/CV_Hong Guo-7.pdf</UPLOAD_CV>
+			<UPLOAD_CV>hguo/pci/CV_Hong Guo-8.pdf</UPLOAD_CV>
 			<BIO>Dr. Hong Guo studies economic analysis of IT policy issues such as net neutrality and public safety networks. She is also interested in characterizing key design features of emerging information systems (e.g., consumer review systems, mobile platforms, digital games, etc.) and examining firms’ corresponding strategies. She teaches analytical courses including quantitative decision modeling, process analytics, and statistics in business at Notre Dame.</BIO>
 		</PCI>
 		<ADMIN_PERM id="16640493569" dmd:lastModified="2010-01-29T22:46:54">
@@ -76,7 +76,7 @@
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="104662571008" dmd:lastModified="2015-01-31T20:32:36" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+		<ADMIN id="104662571008" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
 			<AC_YEAR>2014-2015</AC_YEAR>
 			<YEAR_START>2014-09-01</YEAR_START>
 			<YEAR_END>2015-08-31</YEAR_END>
@@ -85,7 +85,6 @@
 			</ADMIN_DEP>
 			<RANK>Assistant Professor</RANK>
 			<TENURE>Tenure-Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
@@ -93,13 +92,12 @@
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<QUALIFICATION/>
-			<QUALIFICATION_BASIS/>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="77707008000" dmd:lastModified="2015-01-31T20:32:10" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="77707008000" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
@@ -108,7 +106,6 @@
 			</ADMIN_DEP>
 			<RANK>Assistant Professor</RANK>
 			<TENURE>Tenure-Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
@@ -116,13 +113,12 @@
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<QUALIFICATION/>
-			<QUALIFICATION_BASIS/>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67227566080" dmd:lastModified="2015-01-31T20:32:25" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+		<ADMIN id="67227566080" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
 			<AC_YEAR>2012-2013</AC_YEAR>
 			<YEAR_START>2012-09-01</YEAR_START>
 			<YEAR_END>2013-08-31</YEAR_END>
@@ -131,7 +127,6 @@
 			</ADMIN_DEP>
 			<RANK>Assistant Professor</RANK>
 			<TENURE>Tenure-Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
@@ -139,13 +134,12 @@
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<QUALIFICATION/>
-			<QUALIFICATION_BASIS/>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67227561984" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+		<ADMIN id="67227561984" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
 			<AC_YEAR>2011-2012</AC_YEAR>
 			<YEAR_START>2011-09-01</YEAR_START>
 			<YEAR_END>2012-08-31</YEAR_END>
@@ -154,7 +148,6 @@
 			</ADMIN_DEP>
 			<RANK>Assistant Professor</RANK>
 			<TENURE>Tenure-Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
@@ -166,7 +159,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="16547272704" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-09-01" dmd:endDate="2010-08-31" dmd:primaryKey="2009-2010">
+		<ADMIN id="16547272704" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-09-01" dmd:endDate="2010-08-31" dmd:primaryKey="2009-2010">
 			<AC_YEAR>2009-2010</AC_YEAR>
 			<YEAR_START>2009-09-01</YEAR_START>
 			<YEAR_END>2010-08-31</YEAR_END>
@@ -175,7 +168,6 @@
 			</ADMIN_DEP>
 			<RANK>Assistant Professor</RANK>
 			<TENURE>Tenure-Track</TENURE>
-			<GRADUATE>No</GRADUATE>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
@@ -857,8 +849,8 @@
 			<OUTREACH/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SCHTEACH>
-		<DSL id="104663060480" dmd:lastModified="2015-01-31T20:50:11" dmd:startDate="2011-01-18" dmd:endDate="2011-05-04">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="104663060480" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-01-18" dmd:endDate="2011-05-04">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="104663060481">
 				<FNAME>Michael</FNAME>
 				<LNAME>Renner</LNAME>
@@ -882,11 +874,9 @@
 			<END_END>2011-05-04</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<CONGRANT id="59822045185" dmd:lastModified="2012-09-26T21:09:19" dmd:startDate="2012-05-01" dmd:endDate="2012-09-30">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="59822045185" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2012-05-01" dmd:endDate="2012-09-30">
 			<TITLE>Design of Consumer Review Systems and Product Pricing</TITLE>
 			<SPONORG>Networks, Electronic Commerce and Telecommunications (NET) Institute</SPONORG>
-			<AWARDORG>Private</AWARDORG>
 			<CONGRANT_INVEST id="59822045186">
 				<FACULTY_NAME>509548</FACULTY_NAME>
 				<FNAME>Hong</FNAME>
@@ -903,7 +893,6 @@
 			</CONGRANT_INVEST>
 			<AMOUNT>4500</AMOUNT>
 			<ABSTRACT/>
-			<STATUS>Funded</STATUS>
 			<DTM_START>May</DTM_START>
 			<DTD_START/>
 			<DTY_START>2012</DTY_START>
@@ -917,11 +906,9 @@
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="31719913473" dmd:lastModified="2011-01-05T21:57:23" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="31719913473" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
 			<TITLE>Would Carrier Competition Maintain the Neutrality of Mobile Net?</TITLE>
 			<SPONORG>Faculty Research Scholarship Program (FRSP) Initiation Grant, Office of the Vice President for Research</SPONORG>
-			<AWARDORG>University of Notre Dame</AWARDORG>
 			<CONGRANT_INVEST id="31719913474">
 				<FACULTY_NAME>509548</FACULTY_NAME>
 				<FNAME>Hong</FNAME>
@@ -933,7 +920,6 @@
 			<ABSTRACT>The mobile broadband market in the United States is undergoing rapid change characterized by widespread deployment of high-speed mobile broadband, high consumer adoption rate of smart phones, and the resulting explosive growth of mobile Internet usage. The mobile carrier can essentially act as a gatekeeper who has the capability to regulate all content delivered to consumers and potentially discriminate certain content. Similar to the net neutrality case for wired Internet, proponents of mobile net neutrality argue that content discrimination over mobile net will discourage application innovations and hurt consumers.
 
 In this research, we intend to model the key difference in market structure of wired and wireless Internet – the intensity of competition among network providers. Further, we plan to explore how the competition of wireless carriers affects their own behavior as well as the behavior of application providers and end consumers. From a policy perspective, it is especially useful to consider whether the consumers stand to gain from such carrier competition and how is the social welfare affected as a result. Based on the research findings, we would be able to answer the question of whether and/or to what extent carrier competition would maintain the neutrality of mobile net and whether the regulation of mobile net neutrality is required to maximize social welfare.</ABSTRACT>
-			<STATUS>Funded</STATUS>
 			<DTM_START>January</DTM_START>
 			<DTD_START>1</DTD_START>
 			<DTY_START>2011</DTY_START>
@@ -947,11 +933,9 @@ In this research, we intend to model the key difference in market structure of w
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="20597559297" dmd:lastModified="2010-05-15T23:31:56" dmd:startDate="2009-04-01" dmd:endDate="2009-12-31">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="20597559297" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2009-04-01" dmd:endDate="2009-12-31">
 			<TITLE>Usage-based Pricing and Broadband Users Differentiation</TITLE>
 			<SPONORG>Public Utility Research Center (PURC)</SPONORG>
-			<AWARDORG>State</AWARDORG>
 			<CONGRANT_INVEST id="20597559298">
 				<FACULTY_NAME>509548</FACULTY_NAME>
 				<FNAME>Hong</FNAME>
@@ -975,7 +959,6 @@ In this research, we intend to model the key difference in market structure of w
 			</CONGRANT_INVEST>
 			<AMOUNT>5000</AMOUNT>
 			<ABSTRACT/>
-			<STATUS>Funded</STATUS>
 			<DTM_START>April</DTM_START>
 			<DTD_START/>
 			<DTY_START>2009</DTY_START>
@@ -989,11 +972,9 @@ In this research, we intend to model the key difference in market structure of w
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="17546477569" dmd:lastModified="2010-01-30T15:35:41" dmd:startDate="2009-05-01" dmd:endDate="2009-09-30">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="17546477569" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2009-05-01" dmd:endDate="2009-09-30">
 			<TITLE>The Economic Effect of Broadband User Discrimination</TITLE>
 			<SPONORG>Networks, Electronic Commerce and Telecommunications (NET) Institute</SPONORG>
-			<AWARDORG>Private</AWARDORG>
 			<CONGRANT_INVEST id="17546477570">
 				<FACULTY_NAME>509548</FACULTY_NAME>
 				<FNAME>Hong</FNAME>
@@ -1017,7 +998,6 @@ In this research, we intend to model the key difference in market structure of w
 			</CONGRANT_INVEST>
 			<AMOUNT>3000</AMOUNT>
 			<ABSTRACT>The net neutrality debate has brought out economic rationale for and against a variety of proposals of the broadband service providers to differentiate between different classes of users. Broadband users are characterized by the differing amounts of content they request online, as well as their valuation for such content. A broadband service provider (BSP) has two potential instruments for user discrimination – price discrimination and traffic prioritization (or degradation). We model six different pricing and prioritization options that cover many of the strategies that actual BSPs have adopted in the marketplace. By comparing these options, we find that imposing net neutrality increases the BSP‟s profit if the BSP price discriminates different consumer groups. If net neutrality is not imposed, however, the BSP might still prefer a net neutrality outcome depending on the various parameter values. These and other results will be useful both for the broadband service providers as they mull over the introduction of the different pricing strategies and for policymakers who are dealing with the net neutrality issue.</ABSTRACT>
-			<STATUS>Funded</STATUS>
 			<DTM_START>May</DTM_START>
 			<DTD_START/>
 			<DTY_START>2009</DTY_START>
@@ -1031,11 +1011,9 @@ In this research, we intend to model the key difference in market structure of w
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="31828000769" dmd:lastModified="2011-01-10T21:38:04" dmd:startDate="2008-05-01" dmd:endDate="2008-09-30">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="31828000769" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2008-05-01" dmd:endDate="2008-09-30">
 			<TITLE>Computer Virus Propagation in a Network Organization: The Interplay between Social and Technological Networks</TITLE>
 			<SPONORG>Networks, Electronic Commerce and Telecommunications (NET) Institute</SPONORG>
-			<AWARDORG>Private</AWARDORG>
 			<CONGRANT_INVEST id="31828000770">
 				<FACULTY_NAME>509548</FACULTY_NAME>
 				<FNAME>Hong</FNAME>
@@ -1052,7 +1030,6 @@ In this research, we intend to model the key difference in market structure of w
 			</CONGRANT_INVEST>
 			<AMOUNT>4500</AMOUNT>
 			<ABSTRACT/>
-			<STATUS>Funded</STATUS>
 			<DTM_START>May</DTM_START>
 			<DTD_START/>
 			<DTY_START>2008</DTY_START>
@@ -1066,7 +1043,8 @@ In this research, we intend to model the key difference in market structure of w
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<INTELLCONT id="111376275456" dmd:lastModified="2015-09-08T13:51:49" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+		<INTELLCONT id="111376275456" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>Information Systems Research</PUBLISHER>
 			<TITLE>Design of consumer review systems and product pricing</TITLE>
 			<VOLUME/>
@@ -1077,7 +1055,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2015</DTY_PUB>
 			<PUB_START>2015-01-01</PUB_START>
 			<PUB_END>2015-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="111376275458">
@@ -1092,7 +1070,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME></MNAME>
 				<LNAME>Guo</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1109,7 +1086,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="117421791232" dmd:lastModified="2015-11-05T13:36:15" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+		<INTELLCONT id="117421791232" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>MIS Quarterly</PUBLISHER>
 			<TITLE>Effects of competition among Internet service providers and content providers on the net neutrality debate</TITLE>
 			<VOLUME/>
@@ -1120,7 +1098,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2015</DTY_PUB>
 			<PUB_START>2015-01-01</PUB_START>
 			<PUB_END>2015-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="117421791233">
@@ -1153,7 +1131,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1170,7 +1147,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="117421742080" dmd:lastModified="2015-11-06T22:58:25" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+		<INTELLCONT id="117421742080" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>Production and Operations Management</PUBLISHER>
 			<TITLE>Network neutrality versus paid prioritization: Analyzing the impact on content innovation</TITLE>
 			<VOLUME/>
@@ -1181,7 +1159,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2015</DTY_PUB>
 			<PUB_START>2015-01-01</PUB_START>
 			<PUB_END>2015-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="117421742081">
@@ -1196,7 +1174,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1213,7 +1190,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="111376252928" dmd:lastModified="2015-11-06T22:57:49" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+		<INTELLCONT id="111376252928" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2015-01-01" dmd:endDate="2015-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Decision Sciences</PUBLISHER>
 			<TITLE>Push or pull? Design of content delivery systems</TITLE>
 			<VOLUME>46</VOLUME>
@@ -1224,7 +1202,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2015</DTY_PUB>
 			<PUB_START>2015-01-01</PUB_START>
 			<PUB_END>2015-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="111376252929">
@@ -1245,7 +1223,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Chen</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1262,7 +1239,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="104665581569" dmd:lastModified="2015-09-09T19:06:59" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+		<INTELLCONT id="104665581569" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2014 International Conference on Information Systems (ICIS 2014)</PUBLISHER>
 			<TITLE>Cross-market integration and sabotage</TITLE>
 			<VOLUME/>
@@ -1273,7 +1251,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2014</DTY_PUB>
 			<PUB_START>2014-01-01</PUB_START>
 			<PUB_END>2014-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="104665581570">
@@ -1300,7 +1278,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Lim</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1317,7 +1294,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="104665622529" dmd:lastModified="2015-09-09T19:06:43" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+		<INTELLCONT id="104665622529" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2014 Workshop on Information Technologies and Systems (WITS 2014)</PUBLISHER>
 			<TITLE>Pricing strategies of in-game virtual currency</TITLE>
 			<VOLUME/>
@@ -1328,7 +1306,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2014</DTY_PUB>
 			<PUB_START>2014-01-01</PUB_START>
 			<PUB_END>2014-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="104665622530">
@@ -1355,7 +1333,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME></MNAME>
 				<LNAME>Sun</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -1372,7 +1349,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="104665475073" dmd:lastModified="2015-09-09T19:06:30" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="104665475073" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2013 Workshop on Information Technologies and Systems (WITS 2013)</PUBLISHER>
 			<TITLE>A mobile platform's monetizing strategy for advertising under agency pricing for app sales</TITLE>
 			<VOLUME/>
@@ -1383,7 +1361,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-01-01</PUB_START>
 			<PUB_END>2013-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="104665475075">
@@ -1404,7 +1382,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -1421,7 +1398,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="75798624257" dmd:lastModified="2015-09-08T13:13:00" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="75798624257" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Production and Operations Management</PUBLISHER>
 			<TITLE>Broadband network management and the net neutrality debate</TITLE>
 			<VOLUME>22</VOLUME>
@@ -1432,7 +1410,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-01-01</PUB_START>
 			<PUB_END>2013-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="75798624258">
@@ -1453,7 +1431,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Bandyopadhyay</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1470,7 +1447,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="75798736897" dmd:lastModified="2015-09-08T13:28:08" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="75798736897" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2013 Hawaii International Conference on System Sciences (HICSS 2013)</PUBLISHER>
 			<TITLE>Design of consumer review systems and product pricing</TITLE>
 			<VOLUME/>
@@ -1481,7 +1459,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-01-01</PUB_START>
 			<PUB_END>2013-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="75798736899">
@@ -1496,10 +1474,9 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME></MNAME>
 				<LNAME>Guo</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<CITATION id="75798736896">
 				<LOCATION/>
 				<DTM_CITE/>
@@ -1513,7 +1490,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="84307429376" dmd:lastModified="2015-09-08T13:12:11" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="84307429376" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Decision Sciences</PUBLISHER>
 			<TITLE>Estimating social influences from social networking sites - Articulated friendships versus communication interactions</TITLE>
 			<VOLUME>46</VOLUME>
@@ -1545,7 +1523,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1562,7 +1539,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="75799017473" dmd:lastModified="2015-09-08T13:23:38" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="75799017473" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2013 International Conference on Information Systems (ICIS 2013)</PUBLISHER>
 			<TITLE>Technology, interoperability, and provision of public safety networks</TITLE>
 			<VOLUME/>
@@ -1573,7 +1551,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-01-01</PUB_START>
 			<PUB_END>2013-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="75799017475">
@@ -1594,7 +1572,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>R.</MNAME>
 				<LNAME>Nault</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1611,7 +1588,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="104665434113" dmd:lastModified="2015-09-09T19:05:44" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="104665434113" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2013 DSI Annual Meeting (DSI 2013)</PUBLISHER>
 			<TITLE>Who cares about your big day? Impact of life events on dynamics of social networks</TITLE>
 			<VOLUME/>
@@ -1622,7 +1600,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-01-01</PUB_START>
 			<PUB_END>2013-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="104665434115">
@@ -1643,7 +1621,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME></MNAME>
 				<LNAME>Devaraj</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -1660,7 +1637,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="48705118209" dmd:lastModified="2015-09-08T13:13:10" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+		<INTELLCONT id="48705118209" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Decision Sciences</PUBLISHER>
 			<TITLE>Net neutrality, broadband market coverage, and innovations at the edge</TITLE>
 			<VOLUME>43</VOLUME>
@@ -1671,7 +1649,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-01-01</PUB_START>
 			<PUB_END>2012-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="48705118210">
@@ -1692,7 +1670,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Bandyopadhyay</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1709,7 +1686,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="104665272321" dmd:lastModified="2015-09-08T13:33:12" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+		<INTELLCONT id="104665272321" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2012 International Conference on Information Systems (ICIS 2012)</PUBLISHER>
 			<TITLE>Optimal design of consumer review systems</TITLE>
 			<VOLUME/>
@@ -1720,7 +1698,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-01-01</PUB_START>
 			<PUB_END>2012-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="104665272322">
@@ -1735,7 +1713,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Jiang</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1752,7 +1729,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="75798974465" dmd:lastModified="2015-09-09T19:05:19" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+		<INTELLCONT id="75798974465" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2009 Workshop on e-Business (WeB 2012)</PUBLISHER>
 			<TITLE>Push or pull? Design of content delivery systems</TITLE>
 			<VOLUME/>
@@ -1763,7 +1741,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-01-01</PUB_START>
 			<PUB_END>2012-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="75798974466">
@@ -1784,7 +1762,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Chen</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -1801,7 +1778,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="75798796289" dmd:lastModified="2015-09-09T19:05:11" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+		<INTELLCONT id="75798796289" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2012 Workshop on Information Technologies and Systems (WITS 2012)</PUBLISHER>
 			<TITLE>Quality of service tiering: Implications for content innovation and broadband coverage</TITLE>
 			<VOLUME/>
@@ -1812,7 +1790,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-01-01</PUB_START>
 			<PUB_END>2012-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="75798796290">
@@ -1827,7 +1805,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -1844,7 +1821,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="17506242561" dmd:lastModified="2015-09-08T13:13:34" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+		<INTELLCONT id="17506242561" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Information Systems Research</PUBLISHER>
 			<TITLE>The debate on net neutrality: A policy perspective</TITLE>
 			<VOLUME>22</VOLUME>
@@ -1855,7 +1833,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2011</DTY_PUB>
 			<PUB_START>2011-01-01</PUB_START>
 			<PUB_END>2011-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="17506242564">
@@ -1876,7 +1854,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME></MNAME>
 				<LNAME>Guo</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>The status quo of prohibiting broadband service providers from charging websites for preferential access to their customers – the bedrock principle of net neutrality – is under fierce debate. We develop a game-theoretic model to address two critical issues of net neutrality: (1) Who are gainers and losers of abandoning net neutrality; and (2) Will broadband service providers have greater incentive to expand their capacity without net neutrality? We find that if the principle of net neutrality is abolished, the broadband service provider stands to gain from the arrangement, as a result of extracting the preferential access fees from content providers. Content providers are thus left worse off, mirroring the stances of the two sides in the debate. Depending on parameter values in our framework, consumer surplus either does not change or is higher in the short run. When compared to the baseline case under net neutrality, social welfare in the short run increases if one content provider pays for preferential treatment, but remains unchanged if both content providers pay. Finally, we find that the incentive to expand infrastructure capacity for the broadband service provider and its optimal capacity choice under net neutrality are higher than those under the no net neutrality regime except in some specific cases. Under net neutrality, the broadband service provider always invests in broadband infrastructure at the socially optimal level, but either under- or over-invests in infrastructure capacity in the absence of net neutrality.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1893,7 +1870,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="75799138305" dmd:lastModified="2015-09-09T19:04:53" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+		<INTELLCONT id="75799138305" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2010 Americas Conference on Information Systems (AMCIS 2010)</PUBLISHER>
 			<TITLE>Net neutrality and its implications</TITLE>
 			<VOLUME/>
@@ -1904,7 +1882,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2010</DTY_PUB>
 			<PUB_START>2010-01-01</PUB_START>
 			<PUB_END>2010-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="75799138306">
@@ -1925,7 +1903,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -1942,7 +1919,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="24301547521" dmd:lastModified="2015-09-08T13:14:27" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+		<INTELLCONT id="24301547521" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Management Information Systems</PUBLISHER>
 			<TITLE>Net neutrality and vertical integration of content and broadband services</TITLE>
 			<VOLUME>27</VOLUME>
@@ -1953,7 +1931,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2010</DTY_PUB>
 			<PUB_START>2010-01-01</PUB_START>
 			<PUB_END>2010-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="24301547522">
@@ -1980,7 +1958,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Yang</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -1997,7 +1974,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612966401" dmd:lastModified="2015-09-09T19:04:33" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+		<INTELLCONT id="20612966401" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2009 Annual Workshop on Information Technologies and Systems (WITS 2009)</PUBLISHER>
 			<TITLE>A different angle on net neutrality - Should we charge broadband users rather than content providers?</TITLE>
 			<VOLUME/>
@@ -2008,7 +1986,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-01-01</PUB_START>
 			<PUB_END>2009-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612966402">
@@ -2029,7 +2007,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2046,7 +2023,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612909057" dmd:lastModified="2015-09-09T19:04:24" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+		<INTELLCONT id="20612909057" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2009 Workshop on e-Business (WeB 2009)</PUBLISHER>
 			<TITLE>Personal event detection in social networking sites</TITLE>
 			<VOLUME/>
@@ -2057,7 +2035,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-01-01</PUB_START>
 			<PUB_END>2009-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612909058">
@@ -2078,7 +2056,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Pathak</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2095,7 +2072,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612888577" dmd:lastModified="2015-09-09T19:04:15" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+		<INTELLCONT id="20612888577" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2009 Pacific Asia Conference on Information Systems (PACIS 2009)</PUBLISHER>
 			<TITLE>The vertical integration of content and broadband services: The net neutrality debate</TITLE>
 			<VOLUME/>
@@ -2106,7 +2084,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-01-01</PUB_START>
 			<PUB_END>2009-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612888579">
@@ -2133,7 +2111,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME/>
 				<LNAME>Yang</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2150,7 +2127,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612935681" dmd:lastModified="2015-09-09T19:04:04" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+		<INTELLCONT id="20612935681" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2009 Workshop on e-Business (WeB 2009)</PUBLISHER>
 			<TITLE>User discrimination and net neutrality</TITLE>
 			<VOLUME/>
@@ -2161,7 +2139,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-01-01</PUB_START>
 			<PUB_END>2009-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612935682">
@@ -2182,7 +2160,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2199,7 +2176,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="75799312385" dmd:lastModified="2015-09-09T19:03:55" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="75799312385" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2008 Workshop on Information Technologies and Systems (WITS 2008)</PUBLISHER>
 			<TITLE>A study of computer virus propagation: The interplay between social and technological networks</TITLE>
 			<VOLUME/>
@@ -2210,7 +2188,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="75799312387">
@@ -2225,7 +2203,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME></MNAME>
 				<LNAME>Guo</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2242,7 +2219,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="17504901121" dmd:lastModified="2015-09-08T13:15:27" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="17504901121" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Decision Support Systems</PUBLISHER>
 			<TITLE>A survey of quantum games</TITLE>
 			<VOLUME>46</VOLUME>
@@ -2253,7 +2231,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="17504901122">
@@ -2274,7 +2252,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>J.</MNAME>
 				<LNAME>Koehler</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -2291,7 +2268,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612831233" dmd:lastModified="2015-09-09T19:03:46" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="20612831233" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2008 Workshop on e-Business (WeB 2008)</PUBLISHER>
 			<TITLE>Computer-mediated social interactions and virtual community participation</TITLE>
 			<VOLUME/>
@@ -2302,7 +2280,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612831234">
@@ -2323,7 +2301,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2340,7 +2317,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612747265" dmd:lastModified="2015-09-09T19:03:34" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="20612747265" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>The 2008 Winter Conference on Business Intelligence, David Eccles School of Business, University of Utah</PUBLISHER>
 			<TITLE>Social network discovery and customer network value assessment</TITLE>
 			<VOLUME/>
@@ -2351,7 +2329,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612747266">
@@ -2372,7 +2350,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2389,7 +2366,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612669441" dmd:lastModified="2015-09-08T13:44:39" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+		<INTELLCONT id="20612669441" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2007 International Conference on Information Systems (ICIS 2007)</PUBLISHER>
 			<TITLE>Computer virus propagation in social networks</TITLE>
 			<VOLUME/>
@@ -2400,7 +2378,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2007</DTY_PUB>
 			<PUB_START>2007-01-01</PUB_START>
 			<PUB_END>2007-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612669442">
@@ -2415,7 +2393,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -2432,7 +2409,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612634625" dmd:lastModified="2015-09-09T19:02:39" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+		<INTELLCONT id="20612634625" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2007 Workshop on Information Technologies and Systems (WITS 2007)</PUBLISHER>
 			<TITLE>Discovering composite social networks from social networking websites</TITLE>
 			<VOLUME/>
@@ -2443,7 +2421,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2007</DTY_PUB>
 			<PUB_START>2007-01-01</PUB_START>
 			<PUB_END>2007-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612634626">
@@ -2464,7 +2442,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME>Kenneth</MNAME>
 				<LNAME>Cheng</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2481,7 +2458,8 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20612413441" dmd:lastModified="2015-10-22T15:28:11" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+		<INTELLCONT id="20612413441" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Proceedings of the 2007 International Conference on Information Systems Technology and Management (ICISTM 2007)</PUBLISHER>
 			<TITLE>The debate on net neutrality</TITLE>
 			<VOLUME/>
@@ -2492,7 +2470,7 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_PUB>2007</DTY_PUB>
 			<PUB_START>2007-01-01</PUB_START>
 			<PUB_END>2007-12-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="20612413443">
@@ -2513,7 +2491,6 @@ In this research, we intend to model the key difference in market structure of w
 				<MNAME></MNAME>
 				<LNAME>Guo</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
@@ -2530,43 +2507,12 @@ In this research, we intend to model the key difference in market structure of w
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<PRESENT id="104664299521" dmd:lastModified="2015-01-31T21:29:16" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
+		<PRESENT id="104664299521" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The 2014 International Conference on Information Systems (ICIS 2014)</NAME>
-			<ORG>Association for Information Systems (AIS)</ORG>
-			<LOCATION>Auckland, New Zealand</LOCATION>
 			<TITLE>Cross-Market Integration and Sabotage</TITLE>
-			<PRESENT_AUTH id="104664299522">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104664299520">
-				<FACULTY_NAME/>
-				<FNAME>Yabing</FNAME>
-				<MNAME/>
-				<LNAME>Jiang</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104664299525">
-				<FACULTY_NAME/>
-				<FNAME>Asoo</FNAME>
-				<MNAME/>
-				<LNAME>Vakharia</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104664299526">
-				<FACULTY_NAME/>
-				<FNAME>Arthur</FNAME>
-				<MNAME/>
-				<LNAME>Lim</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2576,38 +2522,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2014-12-01</DATE_START>
 			<DATE_END>2014-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="104664260609" dmd:lastModified="2015-01-31T21:27:37" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
+		<PRESENT id="104664260609" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
 			<PRESENTATION_TYPE>Poster</PRESENTATION_TYPE>
 			<NAME>The 2014 Workshop on Information Systems and Economics (WISE 2014)</NAME>
-			<ORG/>
-			<LOCATION>Auckland, New Zealand</LOCATION>
 			<TITLE>An Analysis of A Mobile Platform's In-App Advertising Contract under Agency Pricing for App Sales</TITLE>
-			<PRESENT_AUTH id="104664260612">
-				<FACULTY_NAME>1238087</FACULTY_NAME>
-				<FNAME>Lin</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Hao</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104664260610">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104664260608">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2617,45 +2538,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2014-12-01</DATE_START>
 			<DATE_END>2014-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="104663820289" dmd:lastModified="2015-01-31T21:15:21" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
+		<PRESENT id="104663820289" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-12-01" dmd:endDate="2014-12-31">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The 2014 Workshop on Information Technologies and Systems (WITS 2014)</NAME>
-			<ORG/>
-			<LOCATION>Auckland, New Zealand</LOCATION>
 			<TITLE>Pricing Strategies of In-Game Virtual Currency</TITLE>
-			<PRESENT_AUTH id="104663820290">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663820288">
-				<FACULTY_NAME>1238087</FACULTY_NAME>
-				<FNAME>Lin</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Hao</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663820294">
-				<FACULTY_NAME/>
-				<FNAME>Tridas</FNAME>
-				<MNAME/>
-				<LNAME>Mukhopadhyay</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663820296">
-				<FACULTY_NAME>117570</FACULTY_NAME>
-				<FNAME>Daewon</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Sun</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2665,45 +2554,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2014-12-01</DATE_START>
 			<DATE_END>2014-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="104663441409" dmd:lastModified="2015-01-31T21:02:25" dmd:startDate="2014-11-01" dmd:endDate="2014-11-30">
+		<PRESENT id="104663441409" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-11-01" dmd:endDate="2014-11-30">
 			<PRESENTATION_TYPE>Poster</PRESENTATION_TYPE>
 			<NAME>The 2014 Conference on Information Systems and Technology (CIST 2014)</NAME>
-			<ORG/>
-			<LOCATION>San Francisco, CA</LOCATION>
 			<TITLE>Pricing Strategies of In-Game Virtual Currency</TITLE>
-			<PRESENT_AUTH id="104663441410">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663441408">
-				<FACULTY_NAME>1238087</FACULTY_NAME>
-				<FNAME>Lin</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Hao</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663441414">
-				<FACULTY_NAME/>
-				<FNAME>Tridas</FNAME>
-				<MNAME/>
-				<LNAME>Mukhopadhyay</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663441416">
-				<FACULTY_NAME>117570</FACULTY_NAME>
-				<FNAME>Daewon</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Sun</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2713,45 +2570,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2014-11-01</DATE_START>
 			<DATE_END>2014-11-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="104663183361" dmd:lastModified="2015-01-31T20:54:58" dmd:startDate="2014-05-01" dmd:endDate="2014-05-31">
+		<PRESENT id="104663183361" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-05-01" dmd:endDate="2014-05-31">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>The 2014 Producation and Operations Management Society Annual Conference (POMS 2014)</NAME>
-			<ORG/>
-			<LOCATION>Atlanta, GA</LOCATION>
 			<TITLE>Integration and Bilateral Sabotage</TITLE>
-			<PRESENT_AUTH id="104663183362">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663183360">
-				<FACULTY_NAME/>
-				<FNAME>Yabing</FNAME>
-				<MNAME/>
-				<LNAME>Jiang</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663183365">
-				<FACULTY_NAME/>
-				<FNAME>Asoo</FNAME>
-				<MNAME/>
-				<LNAME>Vakharia</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="104663183367">
-				<FACULTY_NAME/>
-				<FNAME>Arthur</FNAME>
-				<MNAME/>
-				<LNAME>Lim</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2761,38 +2586,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2014-05-01</DATE_START>
 			<DATE_END>2014-05-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="86411640833" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+		<PRESENT id="86411640833" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The 2013 International Conference on Information Systems (ICIS 2013)</NAME>
-			<ORG>Association for Information Systems (AIS)</ORG>
-			<LOCATION>Milan, Italy</LOCATION>
 			<TITLE>Technology, Interoperability, and Provision of Public Safety Networks</TITLE>
-			<PRESENT_AUTH id="86411640835">
-				<FACULTY_NAME/>
-				<FNAME>Yipeng</FNAME>
-				<MNAME/>
-				<LNAME>Liu</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="86411640834">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="86411640832">
-				<FACULTY_NAME/>
-				<FNAME>Barrie</FNAME>
-				<MNAME/>
-				<LNAME>Nault</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2802,38 +2602,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2013-12-01</DATE_START>
 			<DATE_END>2013-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="86411610113" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+		<PRESENT id="86411610113" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The 2013 Workshop on Information Technologies and Systems (WITS 2013)</NAME>
-			<ORG/>
-			<LOCATION>Milan, Italy</LOCATION>
 			<TITLE>A Mobile Platform's Monetizing Strategy for Advertising under Agency Pricing for App Sales</TITLE>
-			<PRESENT_AUTH id="86411610112">
-				<FACULTY_NAME>1238087</FACULTY_NAME>
-				<FNAME>Lin</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Hao</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="86411610114">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="86411610118">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2843,38 +2618,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2013-12-01</DATE_START>
 			<DATE_END>2013-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="86411479041" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+		<PRESENT id="86411479041" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
 			<PRESENTATION_TYPE>Poster</PRESENTATION_TYPE>
 			<NAME>The 2013 Workshop on Information Technologies and Systems (WITS 2013)</NAME>
-			<ORG/>
-			<LOCATION>Milan, Italy</LOCATION>
 			<TITLE>Integration and Bilateral Sabotage</TITLE>
-			<PRESENT_AUTH id="86411479042">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="86411479040">
-				<FACULTY_NAME/>
-				<FNAME>Yabing</FNAME>
-				<MNAME/>
-				<LNAME>Jiang</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="86411479045">
-				<FACULTY_NAME/>
-				<FNAME>Asoo</FNAME>
-				<MNAME/>
-				<LNAME>Vakharia</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2884,38 +2634,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2013-12-01</DATE_START>
 			<DATE_END>2013-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="86411368449" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-11-01" dmd:endDate="2013-11-30">
+		<PRESENT id="86411368449" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-11-01" dmd:endDate="2013-11-30">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The 2013 DSI Annual Meeting</NAME>
-			<ORG>Decision Sciences Institute</ORG>
-			<LOCATION>Baltimore, MD</LOCATION>
 			<TITLE>Who Cares About Your Big Day? Impact of Life Events on Dynamics of Social Networks</TITLE>
-			<PRESENT_AUTH id="86411368451">
-				<FACULTY_NAME/>
-				<FNAME>Arati</FNAME>
-				<MNAME/>
-				<LNAME>Srinivasan</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="86411368450">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="86411368448">
-				<FACULTY_NAME/>
-				<FNAME>Sarv</FNAME>
-				<MNAME/>
-				<LNAME>Devaraj</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2925,31 +2650,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2013-11-01</DATE_START>
 			<DATE_END>2013-11-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75801100289" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-10-01" dmd:endDate="2013-10-31">
+		<PRESENT id="75801100289" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-10-01" dmd:endDate="2013-10-31">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The 2013 INFORMS Annual Meeting</NAME>
-			<ORG>Institute for Operations Research and the Management Sciences (INFORMS)</ORG>
-			<LOCATION>Minneapolis, MN</LOCATION>
 			<TITLE>Technology, Interoperability, and Provision of Public Safety Networks</TITLE>
-			<PRESENT_AUTH id="75801100291">
-				<FACULTY_NAME/>
-				<FNAME>Yipeng</FNAME>
-				<MNAME/>
-				<LNAME>Liu</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="75801100290">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2959,31 +2666,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2013-10-01</DATE_START>
 			<DATE_END>2013-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75801133057" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-01" dmd:endDate="2013-01-31">
+		<PRESENT id="75801133057" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-01" dmd:endDate="2013-01-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2013 Hawaii International Conference on System Sciences (HICSS 2013)</NAME>
-			<ORG/>
-			<LOCATION>Maui, HI</LOCATION>
 			<TITLE>Design of Consumer Review Systems and Product Pricing</TITLE>
-			<PRESENT_AUTH id="75801133059">
-				<FACULTY_NAME/>
-				<FNAME>Yabing</FNAME>
-				<MNAME/>
-				<LNAME>Jiang</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="75801133058">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2993,31 +2682,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2013-01-01</DATE_START>
 			<DATE_END>2013-01-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75801167873" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
+		<PRESENT id="75801167873" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2012 International Conference on Information Systems (ICIS 2012)</NAME>
-			<ORG>Association for Information Systems (AIS)</ORG>
-			<LOCATION>Orlando, FL</LOCATION>
 			<TITLE>Optimal Design of Consumer Review Systems</TITLE>
-			<PRESENT_AUTH id="75801167874">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="75801167875">
-				<FACULTY_NAME/>
-				<FNAME>Yabing</FNAME>
-				<MNAME/>
-				<LNAME>Jiang</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3027,38 +2698,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2012-12-01</DATE_START>
 			<DATE_END>2012-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75801243649" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
+		<PRESENT id="75801243649" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2012 Workshop on e-Business (WeB 2012)</NAME>
-			<ORG/>
-			<LOCATION>Orlando, FL</LOCATION>
 			<TITLE>Push or Pull? Design of Content Delivery Systems</TITLE>
-			<PRESENT_AUTH id="75801243650">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="75801243651">
-				<FACULTY_NAME/>
-				<FNAME>Sean</FNAME>
-				<MNAME/>
-				<LNAME>Marston</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="75801243648">
-				<FACULTY_NAME/>
-				<FNAME>Yuwen</FNAME>
-				<MNAME/>
-				<LNAME>Chen</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3068,31 +2714,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2012-12-01</DATE_START>
 			<DATE_END>2012-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75801210881" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
+		<PRESENT id="75801210881" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2012 Workshop on Information Technologies and Systems (WITS 2012)</NAME>
-			<ORG/>
-			<LOCATION>Orlando, FL</LOCATION>
 			<TITLE>Quality of Service Tiering: Implications for Content Innovation and Broadband Coverage</TITLE>
-			<PRESENT_AUTH id="75801210882">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="75801210883">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3102,31 +2730,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2012-12-01</DATE_START>
 			<DATE_END>2012-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75801268225" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-10-01" dmd:endDate="2012-10-31">
+		<PRESENT id="75801268225" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-10-01" dmd:endDate="2012-10-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2012 INFORMS Annual Meeting</NAME>
-			<ORG>Institute for Operations Research and the Management Sciences (INFORMS)</ORG>
-			<LOCATION>Phoenix, AZ</LOCATION>
 			<TITLE>Optimal Design of Consumer Review Systems</TITLE>
-			<PRESENT_AUTH id="75801268227">
-				<FACULTY_NAME/>
-				<FNAME>Yabing</FNAME>
-				<MNAME/>
-				<LNAME>Jiang</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="75801268226">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3136,24 +2746,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2012-10-01</DATE_START>
 			<DATE_END>2012-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75801290753" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-05-01" dmd:endDate="2012-05-31">
+		<PRESENT id="75801290753" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-05-01" dmd:endDate="2012-05-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2012 Big Ten Information Systems Research Symposium</NAME>
-			<ORG>Carlson School of Management, University of Minnesota</ORG>
-			<LOCATION>Minneapolis, MN</LOCATION>
 			<TITLE>Research Portfolio</TITLE>
-			<PRESENT_AUTH id="75801290754">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3163,31 +2762,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2012-05-01</DATE_START>
 			<DATE_END>2012-05-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75801317377" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-03-01" dmd:endDate="2012-03-31">
+		<PRESENT id="75801317377" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-03-01" dmd:endDate="2012-03-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The Management Seminar Series</NAME>
-			<ORG>University of Notre Dame</ORG>
-			<LOCATION>South Bend, IN</LOCATION>
 			<TITLE>Congestion Sensitive Content and Broadband Network Management</TITLE>
-			<PRESENT_AUTH id="75801317378">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="75801317376">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>Local</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3197,31 +2778,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2012-03-01</DATE_START>
 			<DATE_END>2012-03-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="48705581057" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-11-01" dmd:endDate="2011-11-30">
+		<PRESENT id="48705581057" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-11-01" dmd:endDate="2011-11-30">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2011 INFORMS Annual Meeting</NAME>
-			<ORG>Institute for Operations Research and the Management Sciences (INFORMS)</ORG>
-			<LOCATION>Charlotte, NC</LOCATION>
 			<TITLE>Congestion Sensitive Content and Network Management</TITLE>
-			<PRESENT_AUTH id="48705581058">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="48705581059">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3231,45 +2794,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2011-11-01</DATE_START>
 			<DATE_END>2011-11-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="48705497089" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-11-01" dmd:endDate="2011-11-30">
+		<PRESENT id="48705497089" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-11-01" dmd:endDate="2011-11-30">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2011 INFORMS Annual Meeting</NAME>
-			<ORG>Institute for Operations Research and the Management Sciences (INFORMS)</ORG>
-			<LOCATION>Charlotte, NC</LOCATION>
 			<TITLE>Personal Event Detection in Social Networking Sites</TITLE>
-			<PRESENT_AUTH id="48705497090">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="48705497091">
-				<FACULTY_NAME/>
-				<FNAME>Shengli</FNAME>
-				<MNAME/>
-				<LNAME>Li</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="48705497092">
-				<FACULTY_NAME/>
-				<FNAME>Praveen</FNAME>
-				<MNAME/>
-				<LNAME>Pathak</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="48705497088">
-				<FACULTY_NAME/>
-				<FNAME>Haldun</FNAME>
-				<MNAME/>
-				<LNAME>Aytug</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3279,24 +2810,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2011-11-01</DATE_START>
 			<DATE_END>2011-11-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="24301522945" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-05-07" dmd:endDate="2010-05-07">
+		<PRESENT id="24301522945" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-05-07" dmd:endDate="2010-05-07">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2010 Big Ten Information Systems Research Symposium</NAME>
-			<ORG>Stephen M. Ross School of Business, University of Michigan</ORG>
-			<LOCATION>Ann Arbor, MI</LOCATION>
 			<TITLE>Net Neutrality and Vertical Integration of Content and Broadband Services</TITLE>
-			<PRESENT_AUTH id="24301522946">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3306,22 +2826,11 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2010-05-07</DATE_START>
 			<DATE_END>2010-05-07</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="24301508609" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-04-23" dmd:endDate="2010-04-23">
+		<PRESENT id="24301508609" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-04-23" dmd:endDate="2010-04-23">
 			<NAME>The Management Seminar Series</NAME>
-			<ORG>University of Notre Dame</ORG>
-			<LOCATION>South Bend, IN</LOCATION>
 			<TITLE>Net Neutrality and Vertical Integration of Content and Broadband Services</TITLE>
-			<PRESENT_AUTH id="24301508610">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Local</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3331,22 +2840,11 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2010-04-23</DATE_START>
 			<DATE_END>2010-04-23</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="24301504513" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-04-16" dmd:endDate="2010-04-16">
+		<PRESENT id="24301504513" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-04-16" dmd:endDate="2010-04-16">
 			<NAME>The MIS Seminar Series</NAME>
-			<ORG>Krannert School of Management, Purdue University</ORG>
-			<LOCATION>West Lafayette, IN</LOCATION>
 			<TITLE>Net Neutrality and Vertical Integration of Content and Broadband Services</TITLE>
-			<PRESENT_AUTH id="24301504514">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>State</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3356,38 +2854,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2010-04-16</DATE_START>
 			<DATE_END>2010-04-16</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20612071425" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
+		<PRESENT id="20612071425" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2009 Workshop on e-Business (WeB 2009)</NAME>
-			<ORG>AIS</ORG>
-			<LOCATION>Phoenix, AZ</LOCATION>
 			<TITLE>Personal Event Detection in Social Networking Sites</TITLE>
-			<PRESENT_AUTH id="20612071426">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20612071427">
-				<FACULTY_NAME/>
-				<FNAME>Shengli</FNAME>
-				<MNAME/>
-				<LNAME>Li</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20612071428">
-				<FACULTY_NAME/>
-				<FNAME>Praveen</FNAME>
-				<MNAME/>
-				<LNAME>Pathak</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3397,38 +2870,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2009-12-01</DATE_START>
 			<DATE_END>2009-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20612112385" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
+		<PRESENT id="20612112385" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2009 Workshop on e-Business (WeB 2009)</NAME>
-			<ORG>AIS</ORG>
-			<LOCATION>Phoenix, AZ</LOCATION>
 			<TITLE>User Discrimination and Net Neutrality</TITLE>
-			<PRESENT_AUTH id="20612112386">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20612112387">
-				<FACULTY_NAME/>
-				<FNAME>Subhajyoti</FNAME>
-				<MNAME/>
-				<LNAME>Bandyopadhyay</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20612112388">
-				<FACULTY_NAME/>
-				<FNAME>Hsing</FNAME>
-				<MNAME>Kenneth</MNAME>
-				<LNAME>Cheng</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3438,38 +2886,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2009-12-01</DATE_START>
 			<DATE_END>2009-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20612153345" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
+		<PRESENT id="20612153345" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
 			<PRESENTATION_TYPE/>
 			<NAME>The 2009 Workshop on Information Technologies and Systems (WITS 2009)</NAME>
-			<ORG>AIS</ORG>
-			<LOCATION>Phoenix, AZ</LOCATION>
 			<TITLE>A Different Angle on Net Neutrality – Should We Charge Broadband Users Rather Than Content Providers?</TITLE>
-			<PRESENT_AUTH id="20612153346">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20612153347">
-				<FACULTY_NAME/>
-				<FNAME>Subhajyoti</FNAME>
-				<MNAME/>
-				<LNAME>Bandyopadhyay</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20612153348">
-				<FACULTY_NAME/>
-				<FNAME>Hsing</FNAME>
-				<MNAME>Kenneth</MNAME>
-				<LNAME>Cheng</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3479,45 +2902,13 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2009-12-01</DATE_START>
 			<DATE_END>2009-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20597796865" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-05-01" dmd:endDate="2009-05-31">
+		<PRESENT id="20597796865" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-05-01" dmd:endDate="2009-05-31">
 			<PRESENTATION_TYPE/>
 			<NAME>ITM Research Symposium</NAME>
-			<ORG>University of Notre Dame</ORG>
-			<LOCATION/>
 			<TITLE>Net Neutrality and Vertical Integration of Content and Broadband Services</TITLE>
-			<PRESENT_AUTH id="20597796866">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20597796867">
-				<FACULTY_NAME/>
-				<FNAME>Subhajyoti</FNAME>
-				<MNAME/>
-				<LNAME>Bandyopadhyay</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20597796868">
-				<FACULTY_NAME/>
-				<FNAME>Hsing</FNAME>
-				<MNAME>Kenneth</MNAME>
-				<LNAME>Cheng</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20597796869">
-				<FACULTY_NAME/>
-				<FNAME>Yu-Chen</FNAME>
-				<MNAME/>
-				<LNAME>Yang</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE/>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>Local</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3527,7 +2918,6 @@ In this research, we intend to model the key difference in market structure of w
 			<DATE_START>2009-05-01</DATE_START>
 			<DATE_END>2009-05-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
 		<RESPROG id="106236729344" dmd:lastModified="2015-03-09T10:59:40">
 			<TITLE>An Analysis of a Mobile Platform's Advertising Contract under Agency Pricing for App Sales</TITLE>
@@ -3744,44 +3134,6 @@ In this research, we intend to model the key difference in market structure of w
 			<END_END>2012-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_PROFESSIONAL id="48706197505" dmd:lastModified="2012-01-30T14:26:06" dmd:startDate="2012-01-01">
-			<ORG> MIS Quarterly</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2012</DTY_START>
-			<START_START>2012-01-01</START_START>
-			<START_END>2012-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="20613058561" dmd:lastModified="2012-01-30T14:23:40" dmd:startDate="2010-01-01">
-			<ORG>Information Systems Research</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-01-01</START_START>
-			<START_END>2010-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="20613171201" dmd:lastModified="2010-01-30T16:36:26" dmd:startDate="2010-01-01">
 			<ORG>International Conference on Information Systems, Technology and Management (ICISTM)</ORG>
 			<ROLE>Committee Member</ROLE>
@@ -3813,63 +3165,6 @@ In this research, we intend to model the key difference in market structure of w
 			<DTY_START>2010</DTY_START>
 			<START_START>2010-01-01</START_START>
 			<START_END>2010-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="20613042177" dmd:lastModified="2015-01-31T21:36:22" dmd:startDate="2009-01-01">
-			<ORG>International Conference on Information Systems (ICIS)</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2009</DTY_START>
-			<START_START>2009-01-01</START_START>
-			<START_END>2009-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="104664418305" dmd:lastModified="2015-01-31T21:32:50" dmd:startDate="2009-01-01">
-			<ORG>Management Science</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2009</DTY_START>
-			<START_START>2009-01-01</START_START>
-			<START_END>2009-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="20613099521" dmd:lastModified="2015-01-31T21:35:31" dmd:startDate="2008-01-01">
-			<ORG>Workshop on Information Technologies and Systems (WITS)</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2008</DTY_START>
-			<START_START>2008-01-01</START_START>
-			<START_END>2008-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
 			<DTY_END/>
@@ -4029,82 +3324,6 @@ In this research, we intend to model the key difference in market structure of w
 			<END_END>2013-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="24341241857" dmd:lastModified="2010-05-18T15:08:59" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
-			<ORG>International Conference on Information Systems (ICIS)</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-01-01</START_START>
-			<START_END>2010-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2010</DTY_END>
-			<END_START>2010-01-01</END_START>
-			<END_END>2010-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="20613011457" dmd:lastModified="2010-01-30T16:31:21" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
-			<ORG>Electronic Commerce Research and Applications (ECRA)</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2009</DTY_START>
-			<START_START>2009-01-01</START_START>
-			<START_END>2009-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2009</DTY_END>
-			<END_START>2009-01-01</END_START>
-			<END_END>2009-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="20613017601" dmd:lastModified="2010-01-30T16:31:11" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
-			<ORG>IEEE International Conference on Data Mining (ICDM)</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2009</DTY_START>
-			<START_START>2009-01-01</START_START>
-			<START_END>2009-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2009</DTY_END>
-			<END_START>2009-01-01</END_START>
-			<END_END>2009-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="20613070849" dmd:lastModified="2010-01-30T16:32:24" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
-			<ORG>Regulation &amp; Governance</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2009</DTY_START>
-			<START_START>2009-01-01</START_START>
-			<START_END>2009-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2009</DTY_END>
-			<END_START>2009-01-01</END_START>
-			<END_END>2009-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="20613085185" dmd:lastModified="2010-01-30T16:37:32" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
 			<ORG>Workshop on e-Business (WeB)</ORG>
 			<ROLE>Session Chair</ROLE>
@@ -4124,10 +3343,431 @@ In this research, we intend to model the key difference in market structure of w
 			<END_END>2009-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="20613193729" dmd:lastModified="2010-01-30T16:37:18" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
-			<ORG>Workshop on e-Business (WeB)</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
+		<EDITREV id="122700316672" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2012-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL> MIS Quarterly</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-01</START_START>
+			<START_END>2012-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700308480" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Information Systems Research</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700310528" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>International Conference on Information Systems (ICIS)</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700314624" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Management Science</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700322816" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2008-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Workshop on Information Technologies and Systems (WITS)</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700312576" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-01-01" dmd:endDate="2010-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>International Conference on Information Systems (ICIS)</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2010</DTY_END>
+			<END_START>2010-01-01</END_START>
+			<END_END>2010-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700304384" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Electronic Commerce Research and Applications (ECRA)</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700306432" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>IEEE International Conference on Data Mining (ICDM)</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700318720" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Regulation &amp; Governance</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2009</DTY_END>
+			<END_START>2009-01-01</END_START>
+			<END_END>2009-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122700320768" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2008-01-01" dmd:endDate="2008-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Workshop on e-Business (WeB)</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
 			<STATE/>
 			<AUDIENCE/>
@@ -4142,7 +3782,7 @@ In this research, we intend to model the key difference in market structure of w
 			<END_START>2008-01-01</END_START>
 			<END_END>2008-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
+		</EDITREV>
 		<FACDEV id="31782393857" dmd:lastModified="2011-01-08T22:18:58" dmd:startDate="2010-11-29" dmd:endDate="2010-11-29">
 			<TYPE>Other</TYPE>
 			<TYPEOTHER>Company Visit</TYPEOTHER>

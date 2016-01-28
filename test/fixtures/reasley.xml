@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2015-01-09">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="117518" username="reasley" termId="278" dmd:surveyId="47836">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
-		<PCI id="1445459968" dmd:lastModified="2014-12-16T15:24:51">
+		<PCI id="1445459968" dmd:lastModified="2016-01-05T08:04:15">
 			<PREFIX/>
 			<FNAME>Robert</FNAME>
 			<PFNAME>Rob</PFNAME>
@@ -13,7 +13,7 @@
 			<ALT_NAME/>
 			<ENDPOS/>
 			<EMAIL>reasley@nd.edu</EMAIL>
-			<ROOMNUM>311</ROOMNUM>
+			<ROOMNUM>102G</ROOMNUM>
 			<OPHONE1>574</OPHONE1>
 			<OPHONE2>631</OPHONE2>
 			<OPHONE3>6077</OPHONE3>
@@ -73,7 +73,29 @@
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="77706967040" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="109513246720" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="109513246721" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professor</RANK>
+			<TENURE>Tenured</TENURE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Administration</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="77706967040" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
@@ -82,7 +104,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
@@ -95,7 +116,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67226810368" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+		<ADMIN id="67226810368" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
 			<AC_YEAR>2012-2013</AC_YEAR>
 			<YEAR_START>2012-09-01</YEAR_START>
 			<YEAR_END>2013-08-31</YEAR_END>
@@ -104,7 +125,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
@@ -117,7 +137,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67226804224" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+		<ADMIN id="67226804224" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
 			<AC_YEAR>2011-2012</AC_YEAR>
 			<YEAR_START>2011-09-01</YEAR_START>
 			<YEAR_END>2012-08-31</YEAR_END>
@@ -126,7 +146,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
@@ -139,7 +158,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="32317292545" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-09-01" dmd:endDate="2010-08-31" dmd:primaryKey="2009-2010">
+		<ADMIN id="32317292545" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-09-01" dmd:endDate="2010-08-31" dmd:primaryKey="2009-2010">
 			<AC_YEAR>2009-2010</AC_YEAR>
 			<YEAR_START>2009-09-01</YEAR_START>
 			<YEAR_END>2010-08-31</YEAR_END>
@@ -148,7 +167,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE/>
 			<NPRESP>Administration</NPRESP>
@@ -161,7 +179,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921362944" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="11921362944" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -170,7 +188,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE/>
 			<NPRESP>Administration</NPRESP>
@@ -183,7 +200,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921360896" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+		<ADMIN id="11921360896" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
 			<AC_YEAR>2007-2008</AC_YEAR>
 			<YEAR_START>2007-09-01</YEAR_START>
 			<YEAR_END>2008-08-31</YEAR_END>
@@ -192,7 +209,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE/>
 			<NPRESP>Administration</NPRESP>
@@ -205,7 +221,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="1445464064" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+		<ADMIN id="1445464064" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
 			<AC_YEAR>2006-2007</AC_YEAR>
 			<YEAR_START>2006-09-01</YEAR_START>
 			<YEAR_END>2007-08-31</YEAR_END>
@@ -214,7 +230,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE/>
 			<NPRESP/>
@@ -402,6 +417,42 @@
 			<END_END>2007-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</MEMBER>
+		<SCHTEACH id="118636615680" dmd:lastModified="2015-11-13T13:35:56" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MGTI|30610|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Application Development</TITLE>
+			<COURSEPRE>MGTI</COURSEPRE>
+			<COURSENUM>30610</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>33</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Laboratory</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH>Some final team projects involve ND Athletics and Burkhart Advertising, South Bend.</OUTREACH>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="118636640256" dmd:lastModified="2015-11-13T13:36:03" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MGTI|30610|02">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Application Development</TITLE>
+			<COURSEPRE>MGTI</COURSEPRE>
+			<COURSENUM>30610</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>27</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Laboratory</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH>Some final team projects involve ND Athletics and Burkhart Advertising, South Bend.</OUTREACH>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
 		<SCHTEACH id="103199404032" dmd:lastModified="2015-01-08T12:08:05" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MGTI|30610|1">
 			<TYT_TERM>Fall</TYT_TERM>
 			<TYY_TERM>2014</TYY_TERM>
@@ -1345,8 +1396,8 @@
 			<PEDINN/>
 			<WEBPAGE_INCLUDE/>
 		</SCHTEACH>
-		<DSL id="20585959425" dmd:lastModified="2010-01-29T12:32:55" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="20585959425" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="20585959426">
 				<FNAME>Rachael</FNAME>
 				<LNAME>Dougherty</LNAME>
@@ -1370,8 +1421,8 @@
 			<END_END>2009-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<DSL id="2326628353" dmd:lastModified="2007-02-14T09:34:26" dmd:startDate="2007-01-01" dmd:endDate="2007-05-31">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="2326628353" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-01-01" dmd:endDate="2007-05-31">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="2326628354">
 				<FNAME>Christopher</FNAME>
 				<LNAME>Pollock</LNAME>
@@ -1395,8 +1446,8 @@
 			<END_END>2007-05-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<DSL id="2391269377" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2005-01-01" dmd:endDate="2005-05-31">
-			<TYPE>Supervised Research</TYPE>
+		<DSL id="2391269377" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2005-01-01" dmd:endDate="2005-05-31">
+			<TYPE>Undergraduate Thesis Committee</TYPE>
 			<DSL_STUDENT id="2391269378">
 				<FNAME>Kyle</FNAME>
 				<LNAME>Wong</LNAME>
@@ -1420,20 +1471,64 @@
 			<END_END>2005-05-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<INTELLCONT id="79045009408" dmd:lastModified="2013-11-20T09:47:44">
-			<PUBLISHER>Decision Sciences</PUBLISHER>
-			<TITLE>Optimal Digital Rights Management with Uncertain Piracy</TITLE>
+		<INTELLCONT id="118609514496" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2016-01-01" dmd:endDate="2016-12-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
+			<PUBLISHER>Production and Operations Management</PUBLISHER>
+			<TITLE>Network Neutrality versus Paid Prioritization: Analyzing the Impact on Content Innovation</TITLE>
 			<VOLUME/>
 			<ISSUE/>
 			<PAGENUM/>
 			<DTM_PUB/>
 			<DTD_PUB/>
-			<DTY_PUB/>
-			<PUB_START></PUB_START>
-			<PUB_END></PUB_END>
-			<CONTYPE/>
+			<DTY_PUB>2016</DTY_PUB>
+			<PUB_START>2016-01-01</PUB_START>
+			<PUB_END>2016-12-31</PUB_END>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION/>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<INTELLCONT_AUTH id="118609514500">
+				<FACULTY_NAME>509548</FACULTY_NAME>
+				<FNAME>Hong</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Guo</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="118609514497">
+				<FACULTY_NAME>117518</FACULTY_NAME>
+				<FNAME>Robert</FNAME>
+				<MNAME>F</MNAME>
+				<LNAME>Easley</LNAME>
+			</INTELLCONT_AUTH>
+			<WEB_ADDRESS/>
+			<ABSTRACT/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="118609514498">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
+		<INTELLCONT id="79045009408" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2015-02-01" dmd:endDate="2015-02-28">
+			<STATUS>Published</STATUS>
+			<PUBLISHER>Decision Sciences</PUBLISHER>
+			<TITLE>Optimal Digital Rights Management with Uncertain Piracy</TITLE>
+			<VOLUME>46</VOLUME>
+			<ISSUE>1</ISSUE>
+			<PAGENUM>165-191</PAGENUM>
+			<DTM_PUB>February</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2015</DTY_PUB>
+			<PUB_START>2015-02-01</PUB_START>
+			<PUB_END>2015-02-28</PUB_END>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="79045009410">
 				<FACULTY_NAME>117570</FACULTY_NAME>
 				<FNAME>Daewon</FNAME>
@@ -1452,13 +1547,24 @@
 				<MNAME>Cho</MNAME>
 				<LNAME>Kim</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<CITATION id="79045009412">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20586266625" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-01-01" dmd:endDate="2011-01-31">
+		<INTELLCONT id="20586266625" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2011-01-01" dmd:endDate="2011-01-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>JMIS</PUBLISHER>
 			<TITLE>Bidding Patterns, Experience, and Avoiding the Winner's Curse in Online Auctions</TITLE>
 			<VOLUME>27</VOLUME>
@@ -1469,7 +1575,7 @@
 			<DTY_PUB>2011</DTY_PUB>
 			<PUB_START>2011-01-01</PUB_START>
 			<PUB_END>2011-01-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="20586266626">
@@ -1490,13 +1596,13 @@
 				<MNAME></MNAME>
 				<LNAME>Barkataki</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>The design and implementation of online auctions has given rise to a unique set of bidding strategies that has stimulated a growing body of research.  We make use of a theoretically grounded, well understood and empirically observable bidder behavior – the winner’s curse adjustment for the expected number of bidders in an auction – to examine the relationships between bidder experience, bidding patterns, and the winner’s curse adjustment in rare coin online auctions.  We also examine the impact of uncertainty on the winner’s curse adjustment, both by using precise measures of uncertainty and by considering seller and bidder strategies for reducing that uncertainty.  We analyze a complete record of all auctions in a three-month period for rare US coins, examining 284,681 bids from 62,625 auctions hosted by eBay, the market leader in online auctions.  One of the main contributions of this paper is to demonstrate that the bidding patterns associated with different bidders are strongly related with whether or not they calculate their bids to take into account the number of competing bidders, as predicted for common-value auctions. This is a substantial extension and empirical confirmation of prior work that has explored the implications of different observed patterns of bidding. We also explore new territory by examining the relationships between bidder experience, bidding patterns observed, and the economic outcomes for bidders. We are able to show that bidder’s with more domain-specific experience (rather than general auction experience) make better adjustments for the winner’s curse, that experience has an effect on the type of bidding strategy, and that the type of bidding strategy has a significant impact on the economic outcomes for the bidders.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="17160962049" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-10-01" dmd:endDate="2009-10-31">
+		<INTELLCONT id="17160962049" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-10-01" dmd:endDate="2009-10-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Organizational Computing and Electronic Commerce</PUBLISHER>
 			<TITLE>Market-Model Based Channel Selection in B2B E-Commerce: Exploring a buyer’s adoption decisions</TITLE>
 			<VOLUME>19</VOLUME>
@@ -1507,7 +1613,7 @@
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-10-01</PUB_START>
 			<PUB_END>2009-10-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="17160962051">
@@ -1528,13 +1634,13 @@
 				<MNAME>J</MNAME>
 				<LNAME>Shaw</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="7224436737" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2008-03-01" dmd:endDate="2008-03-31">
+		<INTELLCONT id="7224436737" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-03-01" dmd:endDate="2008-03-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Information Systems Research</PUBLISHER>
 			<TITLE>How Does Personality Matter? Relating the Five Factor Model to Technology Acceptance and Use</TITLE>
 			<VOLUME>19</VOLUME>
@@ -1545,7 +1651,7 @@
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-03-01</PUB_START>
 			<PUB_END>2008-03-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="7224436739">
@@ -1566,13 +1672,13 @@
 				<MNAME>Michael</MNAME>
 				<LNAME>Crant</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445574656" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2006-07-01" dmd:endDate="2006-07-31">
+		<INTELLCONT id="1445574656" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2006-07-01" dmd:endDate="2006-07-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Mathematical and Computer Modelling</PUBLISHER>
 			<TITLE>A Preference Scoring Technique for Personalized Advertisements on Internet Storefront</TITLE>
 			<VOLUME>44</VOLUME>
@@ -1583,7 +1689,7 @@
 			<DTY_PUB>2006</DTY_PUB>
 			<PUB_START>2006-07-01</PUB_START>
 			<PUB_END>2006-07-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445574658">
@@ -1622,13 +1728,13 @@
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445582848" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2006-07-01" dmd:endDate="2006-07-31">
+		<INTELLCONT id="1445582848" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2006-07-01" dmd:endDate="2006-07-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Management Information Systems</PUBLISHER>
 			<TITLE>Market Segmentation within Consolidated E-Markets: A Generalized Combinatorial Auction Approach</TITLE>
 			<VOLUME>23</VOLUME>
@@ -1639,7 +1745,7 @@
 			<DTY_PUB>2006</DTY_PUB>
 			<PUB_START>2006-07-01</PUB_START>
 			<PUB_END>2006-07-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445582850">
@@ -1660,13 +1766,13 @@
 				<MNAME>J.</MNAME>
 				<LNAME>Koehler</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445580800" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<INTELLCONT id="1445580800" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Business Ethics</PUBLISHER>
 			<TITLE>Ethical Issues in the Music Industry Response to Innovation and Piracy</TITLE>
 			<VOLUME>62</VOLUME>
@@ -1677,7 +1783,7 @@
 			<DTY_PUB>2005</DTY_PUB>
 			<PUB_START>2005-01-01</PUB_START>
 			<PUB_END>2005-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445580801">
@@ -1686,13 +1792,13 @@
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445578752" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2004-10-01" dmd:endDate="2004-10-31">
+		<INTELLCONT id="1445578752" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2004-10-01" dmd:endDate="2004-10-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Management Science</PUBLISHER>
 			<TITLE>Jump-Bidding Strategies in Internet Auctions</TITLE>
 			<VOLUME>50</VOLUME>
@@ -1703,7 +1809,7 @@
 			<DTY_PUB>2004</DTY_PUB>
 			<PUB_START>2004-10-01</PUB_START>
 			<PUB_END>2004-10-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445578753">
@@ -1718,13 +1824,13 @@
 				<MNAME/>
 				<LNAME>Tenorio</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445572608" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2003-11-01" dmd:endDate="2003-11-30">
+		<INTELLCONT id="1445572608" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-11-01" dmd:endDate="2003-11-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Communications of the ACM</PUBLISHER>
 			<TITLE>The MP3 Open Standard and the Music Industry's Technological Response to Internet Piracy</TITLE>
 			<VOLUME>46</VOLUME>
@@ -1735,7 +1841,7 @@
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-11-01</PUB_START>
 			<PUB_END>2003-11-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445572609">
@@ -1756,13 +1862,13 @@
 				<MNAME></MNAME>
 				<LNAME>Devaraj</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445576704" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2003-06-01" dmd:endDate="2003-06-30">
+		<INTELLCONT id="1445576704" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-06-01" dmd:endDate="2003-06-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Information Systems and E-Business Management</PUBLISHER>
 			<TITLE>A Comparative Study of Exchange and Aggregation Models in the B2B E-Marketplace</TITLE>
 			<VOLUME>1</VOLUME>
@@ -1773,7 +1879,7 @@
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-06-01</PUB_START>
 			<PUB_END>2003-06-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445576706">
@@ -1794,13 +1900,13 @@
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445570560" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2003-04-01" dmd:endDate="2003-04-30">
+		<INTELLCONT id="1445570560" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-04-01" dmd:endDate="2003-04-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Management Information Systems</PUBLISHER>
 			<TITLE>Relating Collaborative Technology Use to Teamwork Quality and Performance: An Empirical Analysis</TITLE>
 			<VOLUME>19</VOLUME>
@@ -1811,7 +1917,7 @@
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-04-01</PUB_START>
 			<PUB_END>2003-04-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445570561">
@@ -1832,13 +1938,13 @@
 				<MNAME>Michael</MNAME>
 				<LNAME>Crant</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445556224" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<INTELLCONT id="1445556224" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>M. E. Sharpe, Armonk NY</PUBLISHER>
 			<TITLE>A Survey of Recommendation Systems in Electronic Commerce</TITLE>
 			<VOLUME/>
@@ -1849,7 +1955,7 @@
 			<DTY_PUB>2002</DTY_PUB>
 			<PUB_START>2002-01-01</PUB_START>
 			<PUB_END>2002-12-31</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445556226">
@@ -1870,13 +1976,13 @@
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>e-Service: New Directions in Theory and Practice, edited by Roland T. Rust and P. K. Kannan</ABSTRACT>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445554176" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<INTELLCONT id="1445554176" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Kluwer Academic Publishers, Boston</PUBLISHER>
 			<TITLE>Web-based Recommendation Systems for Supporting Personalized e-Commerce Shopping</TITLE>
 			<VOLUME/>
@@ -1887,7 +1993,7 @@
 			<DTY_PUB>2002</DTY_PUB>
 			<PUB_START>2002-01-01</PUB_START>
 			<PUB_END>2002-12-31</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445554178">
@@ -1908,13 +2014,13 @@
 				<MNAME>J.</MNAME>
 				<LNAME>Shaw</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>e-Business Management: Integrations of Web Technologies with Business Models, edited by Michael J. Shaw</ABSTRACT>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445558272" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2000-06-01" dmd:endDate="2000-06-30">
+		<INTELLCONT id="1445558272" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2000-06-01" dmd:endDate="2000-06-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>European Journal of Operational Research</PUBLISHER>
 			<TITLE>Capturing Group Preferences in a Multicriteria Decision</TITLE>
 			<VOLUME>125</VOLUME>
@@ -1925,7 +2031,7 @@
 			<DTY_PUB>2000</DTY_PUB>
 			<PUB_START>2000-06-01</PUB_START>
 			<PUB_END>2000-06-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445558273">
@@ -1946,13 +2052,13 @@
 				<MNAME>A.</MNAME>
 				<LNAME>Venkataramanan</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445560320" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+		<INTELLCONT id="1445560320" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Networks</PUBLISHER>
 			<TITLE>Crossing Properties of Multiterminal Cuts</TITLE>
 			<VOLUME>34</VOLUME>
@@ -1963,7 +2069,7 @@
 			<DTY_PUB>1999</DTY_PUB>
 			<PUB_START>1999-01-01</PUB_START>
 			<PUB_END>1999-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445560321">
@@ -1978,13 +2084,13 @@
 				<MNAME>B</MNAME>
 				<LNAME>Hartvigsen</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445562368" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+		<INTELLCONT id="1445562368" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Accounting and Economics</PUBLISHER>
 			<TITLE>Concentration Without Differentiation:  A New Look at the Determinants of Audit Market Concentration</TITLE>
 			<VOLUME>25</VOLUME>
@@ -1995,7 +2101,7 @@
 			<DTY_PUB>1998</DTY_PUB>
 			<PUB_START>1998-01-01</PUB_START>
 			<PUB_END>1998-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445562370">
@@ -2010,13 +2116,13 @@
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445568512" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1996-01-01" dmd:endDate="1996-12-31">
+		<INTELLCONT id="1445568512" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1996-01-01" dmd:endDate="1996-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>International Marketing Review</PUBLISHER>
 			<TITLE>International Differences in Product Perception: A Product Map Analysis</TITLE>
 			<VOLUME>13</VOLUME>
@@ -2027,7 +2133,7 @@
 			<DTY_PUB>1996</DTY_PUB>
 			<PUB_START>1996-01-01</PUB_START>
 			<PUB_END>1996-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445568514">
@@ -2042,13 +2148,13 @@
 				<MNAME>F</MNAME>
 				<LNAME>Easley</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445564416" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1995-11-01" dmd:endDate="1995-11-30">
+		<INTELLCONT id="1445564416" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1995-11-01" dmd:endDate="1995-11-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Marketing Research</PUBLISHER>
 			<TITLE>A Single Ideal Point Model for Market Structure Analysis</TITLE>
 			<VOLUME>32</VOLUME>
@@ -2059,7 +2165,7 @@
 			<DTY_PUB>1995</DTY_PUB>
 			<PUB_START>1995-11-01</PUB_START>
 			<PUB_END>1995-11-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445564418">
@@ -2080,13 +2186,13 @@
 				<MNAME>L.</MNAME>
 				<LNAME>Zinnes</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1445566464" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1995-06-01" dmd:endDate="1995-06-30">
+		<INTELLCONT id="1445566464" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1995-06-01" dmd:endDate="1995-06-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Mathematical and Computer Modelling</PUBLISHER>
 			<TITLE>Supporting Complex Group Decisions: A Probabilistic Multidimensional Scaling Approach</TITLE>
 			<VOLUME>21</VOLUME>
@@ -2097,7 +2203,7 @@
 			<DTY_PUB>1995</DTY_PUB>
 			<PUB_START>1995-06-01</PUB_START>
 			<PUB_END>1995-06-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1445566465">
@@ -2112,42 +2218,49 @@
 				<MNAME>B.</MNAME>
 				<LNAME>MacKay</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<PRESENT id="79044919296" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-12-14" dmd:endDate="2013-12-14">
+		<PRESENT id="104004919296" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-12-18" dmd:endDate="2014-12-18">
+			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
+			<NAME>Workshop on Information Systems</NAME>
+			<TITLE>Discussant for: Who Benefits More from Social Media: Evidence from Large-Sample Firm Value Analysis</TITLE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE>18</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-12-18</DATE_START>
+			<DATE_END>2014-12-18</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PRESENT>
+		<PRESENT id="104004481024" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-12-18" dmd:endDate="2014-12-18">
+			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
+			<NAME>Workshop on Information Systems</NAME>
+			<TITLE>Will the FCC Make its Triple-Cushion Shot? Analyzing the Impact of Network Neutrality on Content Innovation</TITLE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
+			<SCOPE>International</SCOPE>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<ABSTRACT/>
+			<DTM_DATE>December</DTM_DATE>
+			<DTD_DATE>18</DTD_DATE>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-12-18</DATE_START>
+			<DATE_END>2014-12-18</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PRESENT>
+		<PRESENT id="79044919296" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-12-14" dmd:endDate="2013-12-14">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>Workshop on Information Technologies and Systems</NAME>
-			<ORG/>
-			<LOCATION>Milan, Italy</LOCATION>
 			<TITLE>A Mobile Platform's Monetizing Strategy for Advertising under Agency Pricing for App Sales</TITLE>
-			<PRESENT_AUTH id="79044919298">
-				<FACULTY_NAME>1238087</FACULTY_NAME>
-				<FNAME>Lin</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Hao</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="79044919299">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="79044919297">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2157,31 +2270,13 @@
 			<DATE_START>2013-12-14</DATE_START>
 			<DATE_END>2013-12-14</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="65168519168" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-16" dmd:endDate="2012-12-16">
+		<PRESENT id="65168519168" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-12-16" dmd:endDate="2012-12-16">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>Workshop on Information Technologies and Systems</NAME>
-			<ORG/>
-			<LOCATION>Orlando, FL</LOCATION>
 			<TITLE>Quality of Service Tiering: Implicatino for Content Innovation and Broadband Coverage</TITLE>
-			<PRESENT_AUTH id="65168519169">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Chair</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="65168519170">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Chair/Co-Chair</ROLE>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2191,22 +2286,11 @@
 			<DATE_START>2012-12-16</DATE_START>
 			<DATE_END>2012-12-16</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="48708093952" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-01-05" dmd:endDate="2012-01-05">
+		<PRESENT id="48708093952" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-01-05" dmd:endDate="2012-01-05">
 			<NAME>45th Annual Hawaii International Conference on System Sciences</NAME>
-			<ORG>HICSS</ORG>
-			<LOCATION>Maui, HI</LOCATION>
 			<TITLE>Optimal Digital Rights Management with Uncertain Piracy</TITLE>
-			<PRESENT_AUTH id="48708093953">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2216,29 +2300,11 @@
 			<DATE_START>2012-01-05</DATE_START>
 			<DATE_END>2012-01-05</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="48707934208" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-11-13" dmd:endDate="2011-11-13">
+		<PRESENT id="48707934208" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-11-13" dmd:endDate="2011-11-13">
 			<NAME>INFORMS Annual Meeting</NAME>
-			<ORG>INFORMS</ORG>
-			<LOCATION>Charlotte, NC</LOCATION>
 			<TITLE>Congestion Sensitive Content and Network Management</TITLE>
-			<PRESENT_AUTH id="48707934209">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="48707934210">
-				<FACULTY_NAME>509548</FACULTY_NAME>
-				<FNAME>Hong</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Guo</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2248,35 +2314,11 @@
 			<DATE_START>2011-11-13</DATE_START>
 			<DATE_END>2011-11-13</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445619712" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2006-11-01" dmd:endDate="2006-11-30">
+		<PRESENT id="1445619712" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-11-01" dmd:endDate="2006-11-30">
 			<NAME>INFORMS</NAME>
-			<ORG/>
-			<LOCATION/>
 			<TITLE>Market Segmentation within Consolidated E-Markets: A Generalized Combinatorial Auction Approach</TITLE>
-			<PRESENT_AUTH id="1445619713">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445619714">
-				<FACULTY_NAME/>
-				<FNAME>Joni</FNAME>
-				<MNAME>L.</MNAME>
-				<LNAME>Jones</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445619715">
-				<FACULTY_NAME/>
-				<FNAME>G.</FNAME>
-				<MNAME>J.</MNAME>
-				<LNAME>Koehler</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2286,35 +2328,11 @@
 			<DATE_START>2006-11-01</DATE_START>
 			<DATE_END>2006-11-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445617664" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2006-04-01" dmd:endDate="2006-04-30">
+		<PRESENT id="1445617664" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-04-01" dmd:endDate="2006-04-30">
 			<NAME>Big Ten Information Systems Research Symposium</NAME>
-			<ORG/>
-			<LOCATION>UIUC</LOCATION>
 			<TITLE>Bridging MIS and Economics: A Classic Example</TITLE>
-			<PRESENT_AUTH id="1445617665">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445617666">
-				<FACULTY_NAME>117499</FACULTY_NAME>
-				<FNAME>Sharad</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Barkataki</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445617667">
-				<FACULTY_NAME>117581</FACULTY_NAME>
-				<FNAME>Charles</FNAME>
-				<MNAME>A</MNAME>
-				<LNAME>Wood</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2324,56 +2342,11 @@
 			<DATE_START>2006-04-01</DATE_START>
 			<DATE_END>2006-04-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445615616" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2005-12-01" dmd:endDate="2005-12-31">
+		<PRESENT id="1445615616" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-12-01" dmd:endDate="2005-12-31">
 			<NAME>Annual Meeting of the American Society of Tropical Medicine and Hygiene</NAME>
-			<ORG/>
-			<LOCATION>Washington, D.C.</LOCATION>
 			<TITLE>Genetic dissection of differential growth rates in Plasmodium falciparum in chloroquine resistant and sensitive progeny clones.</TITLE>
-			<PRESENT_AUTH id="1445615617">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445615618">
-				<FACULTY_NAME/>
-				<FNAME>Heather</FNAME>
-				<MNAME>B.</MNAME>
-				<LNAME>Reilly</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445615619">
-				<FACULTY_NAME/>
-				<FNAME>Hongjung</FNAME>
-				<MNAME/>
-				<LNAME>Wang</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445615620">
-				<FACULTY_NAME/>
-				<FNAME>Kyle</FNAME>
-				<MNAME/>
-				<LNAME>Wong</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445615621">
-				<FACULTY_NAME/>
-				<FNAME>Roland</FNAME>
-				<MNAME/>
-				<LNAME>Cooper</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445615622">
-				<FACULTY_NAME/>
-				<FNAME>Michael</FNAME>
-				<MNAME>T.</MNAME>
-				<LNAME>Ferdig</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>National</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2383,28 +2356,11 @@
 			<DATE_START>2005-12-01</DATE_START>
 			<DATE_END>2005-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445613568" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2004-12-01" dmd:endDate="2004-12-31">
+		<PRESENT id="1445613568" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-12-01" dmd:endDate="2004-12-31">
 			<NAME>WISE 2004: Workshop on Information Systems and Economics</NAME>
-			<ORG/>
-			<LOCATION>R.H. Smith School of Business at the University of Maryland</LOCATION>
 			<TITLE>Bidder Strategies, Valuations, and the Winner's Curse: An Empirical Investigation</TITLE>
-			<PRESENT_AUTH id="1445613569">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445613570">
-				<FACULTY_NAME>117581</FACULTY_NAME>
-				<FNAME>Charles</FNAME>
-				<MNAME>A</MNAME>
-				<LNAME>Wood</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2414,21 +2370,11 @@
 			<DATE_START>2004-12-01</DATE_START>
 			<DATE_END>2004-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445611520" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2004-11-01" dmd:endDate="2004-11-30">
+		<PRESENT id="1445611520" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-11-01" dmd:endDate="2004-11-30">
 			<NAME>Ethical Dimensions in Business: Reflections from the Business Academic Community</NAME>
-			<ORG/>
-			<LOCATION>Mendoza College of Business, University of Notre Dame</LOCATION>
 			<TITLE>Ethical Issues in the Music Industry Response to Innovation and Piracy</TITLE>
-			<PRESENT_AUTH id="1445611521">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Local</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2438,42 +2384,11 @@
 			<DATE_START>2004-11-01</DATE_START>
 			<DATE_END>2004-11-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="2391705601" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2004-11-01" dmd:endDate="2004-11-30">
+		<PRESENT id="2391705601" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-11-01" dmd:endDate="2004-11-30">
 			<NAME>the 6th INFORMS Conference on Information Systems and Technology (CIST)</NAME>
-			<ORG>CIST-2001</ORG>
-			<LOCATION>Miami Beach, FL</LOCATION>
 			<TITLE>E-Commerce Research Opportunities: Behavioral, Technical, and Economic Perspectives</TITLE>
-			<PRESENT_AUTH id="2391705602">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="2391705603">
-				<FACULTY_NAME/>
-				<FNAME>M.</FNAME>
-				<MNAME>J.</MNAME>
-				<LNAME>Shaw</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="2391705604">
-				<FACULTY_NAME/>
-				<FNAME>R.</FNAME>
-				<MNAME/>
-				<LNAME>Agarwal</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="2391705605">
-				<FACULTY_NAME/>
-				<FNAME>A.</FNAME>
-				<MNAME>R.</MNAME>
-				<LNAME>Hevner</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT>Panel Discussion</ABSTRACT>
@@ -2483,35 +2398,11 @@
 			<DATE_START>2004-11-01</DATE_START>
 			<DATE_END>2004-11-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445609472" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2004-04-01" dmd:endDate="2004-04-30">
+		<PRESENT id="1445609472" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-04-01" dmd:endDate="2004-04-30">
 			<NAME>MIS Research Symposium</NAME>
-			<ORG/>
-			<LOCATION>Mendoza College of Business, University of Notre Dame</LOCATION>
 			<TITLE>Piracy and Technology Adoption: Evidence from the Music Industry</TITLE>
-			<PRESENT_AUTH id="1445609473">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445609474">
-				<FACULTY_NAME>118104</FACULTY_NAME>
-				<FNAME>John</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Michel</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445609475">
-				<FACULTY_NAME>117516</FACULTY_NAME>
-				<FNAME>Sarv</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Devaraj</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2521,28 +2412,11 @@
 			<DATE_START>2004-04-01</DATE_START>
 			<DATE_END>2004-04-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445607424" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<PRESENT id="1445607424" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
 			<NAME>MIS Research Symposium</NAME>
-			<ORG/>
-			<LOCATION>University of Notre Dame</LOCATION>
 			<TITLE>Bidding Behavior and the Winner's Curse</TITLE>
-			<PRESENT_AUTH id="1445607425">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445607426">
-				<FACULTY_NAME>117581</FACULTY_NAME>
-				<FNAME>Charles</FNAME>
-				<MNAME>A</MNAME>
-				<LNAME>Wood</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2552,28 +2426,11 @@
 			<DATE_START>2003-01-01</DATE_START>
 			<DATE_END>2003-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445599232" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2001-12-01" dmd:endDate="2001-12-31">
+		<PRESENT id="1445599232" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2001-12-01" dmd:endDate="2001-12-31">
 			<NAME>International Conference on Information Systems (ICIS)</NAME>
-			<ORG/>
-			<LOCATION>New Orleans, Louisiana</LOCATION>
 			<TITLE>Open Standards, IS Strategy and Adoption of Innovative Technology: The Case of the Recording Industry and the MP3 Standard</TITLE>
-			<PRESENT_AUTH id="1445599233">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445599234">
-				<FACULTY_NAME>118104</FACULTY_NAME>
-				<FNAME>John</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Michel</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2583,28 +2440,11 @@
 			<DATE_START>2001-12-01</DATE_START>
 			<DATE_END>2001-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445603328" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+		<PRESENT id="1445603328" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
 			<NAME>2001 Meetings of the Southern Economic Association</NAME>
-			<ORG/>
-			<LOCATION>Tampa, FL</LOCATION>
 			<TITLE>Jump-Bidding Strategies in Internet Auctions</TITLE>
-			<PRESENT_AUTH id="1445603329">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445603330">
-				<FACULTY_NAME/>
-				<FNAME>R.</FNAME>
-				<MNAME/>
-				<LNAME>Tenorio</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2614,28 +2454,11 @@
 			<DATE_START>2001-01-01</DATE_START>
 			<DATE_END>2001-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445601280" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+		<PRESENT id="1445601280" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
 			<NAME>the 6th INFORMS Conference on Information Systems and Technology (CIST)</NAME>
-			<ORG/>
-			<LOCATION>Miami Beach, FL</LOCATION>
 			<TITLE>Market-Model Based Channel Selection in B2B E-Commerce: Deciding Between a Private or an Independent E-Marketplace</TITLE>
-			<PRESENT_AUTH id="1445601281">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445601282">
-				<FACULTY_NAME/>
-				<FNAME>H.</FNAME>
-				<MNAME>L.</MNAME>
-				<LNAME>Change</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2645,35 +2468,11 @@
 			<DATE_START>2001-01-01</DATE_START>
 			<DATE_END>2001-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445605376" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2001-07-01" dmd:endDate="2001-07-31">
+		<PRESENT id="1445605376" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2001-07-01" dmd:endDate="2001-07-31">
 			<NAME>1st Asian e-Biz Workshop</NAME>
-			<ORG/>
-			<LOCATION>Tsinghua University, BeiJing, China</LOCATION>
 			<TITLE>Recommendation Systems Model Selection For Electronic-Commerce Personalization</TITLE>
-			<PRESENT_AUTH id="1445605377">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445605378">
-				<FACULTY_NAME/>
-				<FNAME>J.</FNAME>
-				<MNAME>W.</MNAME>
-				<LNAME>Kim</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445605379">
-				<FACULTY_NAME/>
-				<FNAME>M.</FNAME>
-				<MNAME>J.</MNAME>
-				<LNAME>Shaw</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2683,28 +2482,11 @@
 			<DATE_START>2001-07-01</DATE_START>
 			<DATE_END>2001-07-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445584896" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2000-08-01" dmd:endDate="2000-08-31">
+		<PRESENT id="1445584896" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2000-08-01" dmd:endDate="2000-08-31">
 			<NAME>Academy of Management Conference</NAME>
-			<ORG/>
-			<LOCATION/>
 			<TITLE>Competitive Response to Technology-Driven Change:  The Recording Industry and Internet Music Distribution</TITLE>
-			<PRESENT_AUTH id="1445584897">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445584898">
-				<FACULTY_NAME>118104</FACULTY_NAME>
-				<FNAME>John</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Michel</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2714,28 +2496,11 @@
 			<DATE_START>2000-08-01</DATE_START>
 			<DATE_END>2000-08-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445586944" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1999-10-01" dmd:endDate="1999-10-31">
+		<PRESENT id="1445586944" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1999-10-01" dmd:endDate="1999-10-31">
 			<NAME>IU-Florida E-Business Conference</NAME>
-			<ORG/>
-			<LOCATION>Bloomington, IN</LOCATION>
 			<TITLE>Organization Response to Technological Change:  The Recording Industry and Digital Music Distribution</TITLE>
-			<PRESENT_AUTH id="1445586945">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445586946">
-				<FACULTY_NAME>118104</FACULTY_NAME>
-				<FNAME>John</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Michel</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2745,28 +2510,11 @@
 			<DATE_START>1999-10-01</DATE_START>
 			<DATE_END>1999-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445588992" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1999-06-01" dmd:endDate="1999-06-30">
+		<PRESENT id="1445588992" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1999-06-01" dmd:endDate="1999-06-30">
 			<NAME>Fifth International Conference of the Society for Computational Economics</NAME>
-			<ORG/>
-			<LOCATION>Boston, MA</LOCATION>
 			<TITLE>Bidding Strategies in Internet Yankee Auctions:  Theory and Evidence</TITLE>
-			<PRESENT_AUTH id="1445588993">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445588994">
-				<FACULTY_NAME/>
-				<FNAME>R.</FNAME>
-				<MNAME/>
-				<LNAME>Tenorio</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2776,35 +2524,11 @@
 			<DATE_START>1999-06-01</DATE_START>
 			<DATE_END>1999-06-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445591040" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1999-01-01" dmd:endDate="1999-01-31">
+		<PRESENT id="1445591040" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1999-01-01" dmd:endDate="1999-01-31">
 			<NAME>American Accounting Association Midyear Auditing Meetings</NAME>
-			<ORG/>
-			<LOCATION>Atlanta, GA</LOCATION>
 			<TITLE>Leverage and Audit Firm Mergers</TITLE>
-			<PRESENT_AUTH id="1445591041">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445591042">
-				<FACULTY_NAME/>
-				<FNAME>R.</FNAME>
-				<MNAME/>
-				<LNAME>Doogar</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445591043">
-				<FACULTY_NAME>117556</FACULTY_NAME>
-				<FNAME>David</FNAME>
-				<MNAME>N</MNAME>
-				<LNAME>Ricchiute</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>National</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2814,28 +2538,11 @@
 			<DATE_START>1999-01-01</DATE_START>
 			<DATE_END>1999-01-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445593088" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1999-01-01" dmd:endDate="1999-01-31">
+		<PRESENT id="1445593088" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1999-01-01" dmd:endDate="1999-01-31">
 			<NAME>Econometric Society Winter Meetings</NAME>
-			<ORG/>
-			<LOCATION>New York, NY</LOCATION>
 			<TITLE>Yankee Auctions:  Theory and Evidence</TITLE>
-			<PRESENT_AUTH id="1445593089">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445593090">
-				<FACULTY_NAME/>
-				<FNAME>R.</FNAME>
-				<MNAME/>
-				<LNAME>Tenorio</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2845,28 +2552,11 @@
 			<DATE_START>1999-01-01</DATE_START>
 			<DATE_END>1999-01-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1445595136" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1998-10-01" dmd:endDate="1998-10-31">
+		<PRESENT id="1445595136" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1998-10-01" dmd:endDate="1998-10-31">
 			<NAME>INFORMS</NAME>
-			<ORG/>
-			<LOCATION>Seattle, WA</LOCATION>
 			<TITLE>Bidding Strategies in Internet Yankee Auctions</TITLE>
-			<PRESENT_AUTH id="1445595137">
-				<FACULTY_NAME>117518</FACULTY_NAME>
-				<FNAME>Robert</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Easley</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1445595138">
-				<FACULTY_NAME/>
-				<FNAME>R.</FNAME>
-				<MNAME/>
-				<LNAME>Tenorio</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -2876,10 +2566,9 @@
 			<DATE_START>1998-10-01</DATE_START>
 			<DATE_END>1998-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<RESPROG id="48708474880" dmd:lastModified="2014-03-20T14:47:20">
-			<TITLE>An Analysis of A Mobile Platform's Advertising Contract Under Agency Pricing for App Sales</TITLE>
+		<RESPROG id="48708474880" dmd:lastModified="2015-11-13T13:31:18">
+			<TITLE>A Mobile Platform's In-App Advertising Contract under Agency Pricing for App Sales</TITLE>
 			<DESC/>
 			<RESPROG_COLL id="48708474881">
 				<NAME>Lin Hao</NAME>
@@ -2889,79 +2578,46 @@
 				<NAME>Hong Guo</NAME>
 				<INSTITUTION>ND</INSTITUTION>
 			</RESPROG_COLL>
-			<STATUS>Submitted</STATUS>
-			<JOURNAL_NAME>MISQ</JOURNAL_NAME>
+			<STATUS>Resubmitted</STATUS>
+			<JOURNAL_NAME>Production and Operations Management</JOURNAL_NAME>
 			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
 			<URL/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</RESPROG>
-		<RESPROG id="32317691905" dmd:lastModified="2014-01-13T13:05:03">
-			<TITLE>Impacts of inheritance of drug selected allele combinations on the fitness of Plasmodium falciparum</TITLE>
-			<DESC>Kyle Wong (an ITM graduate) coded specific data and statistical analysis tools, under my direction, to assist the biology team in determining which genetic sequences to target for further analysis.  That analysis has formed the basis for an on-going research project that has now spanned the careers of two doctoral students.  Prof. Ferdig assures me that this continues to be an active project and the paper will be completed at some point.</DESC>
-			<RESPROG_COLL id="32317691906">
-				<NAME>Mark Wacker</NAME>
-				<INSTITUTION>ND biology doctoral student</INSTITUTION>
-			</RESPROG_COLL>
-			<RESPROG_COLL id="32317691907">
-				<NAME>Heather Ayala</NAME>
-				<INSTITUTION>Bethel College</INSTITUTION>
-			</RESPROG_COLL>
-			<RESPROG_COLL id="32317691908">
-				<NAME>Kyle Wong</NAME>
-				<INSTITUTION/>
-			</RESPROG_COLL>
-			<RESPROG_COLL id="32317691909">
-				<NAME>Jake Decker</NAME>
-				<INSTITUTION/>
-			</RESPROG_COLL>
-			<RESPROG_COLL id="32317691910">
-				<NAME>Michael Mount</NAME>
-				<INSTITUTION/>
-			</RESPROG_COLL>
-			<RESPROG_COLL id="32317691911">
-				<NAME>Adolfo Ayala</NAME>
-				<INSTITUTION/>
-			</RESPROG_COLL>
-			<RESPROG_COLL id="32317691912">
-				<NAME>Mike Ferdig</NAME>
-				<INSTITUTION>ND biology faculty</INSTITUTION>
-			</RESPROG_COLL>
-			<STATUS>Working Paper, Not submitted</STATUS>
-			<JOURNAL_NAME/>
-			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
-			<URL/>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</RESPROG>
-		<RESPROG id="73386727424" dmd:lastModified="2013-05-16T15:51:48">
-			<TITLE>The Impact of a Resale Market on eBook Pricing</TITLE>
+		<RESPROG id="104046268416" dmd:lastModified="2015-11-13T13:32:02">
+			<TITLE>From Network Neutrality to Data Neutrality: A Techno-Economic Framework and Research Agenda</TITLE>
 			<DESC/>
-			<RESPROG_COLL id="73386727425">
-				<NAME>Lin Hao</NAME>
-				<INSTITUTION>ND</INSTITUTION>
-			</RESPROG_COLL>
-			<RESPROG_COLL id="73386727426">
+			<RESPROG_COLL id="104046268417">
 				<NAME>Hong Guo</NAME>
-				<INSTITUTION>ND</INSTITUTION>
+				<INSTITUTION>Notre Dame</INSTITUTION>
 			</RESPROG_COLL>
-			<STATUS>Writing Results</STATUS>
-			<JOURNAL_NAME/>
+			<RESPROG_COLL id="104046268419">
+				<NAME>Jan Krämer</NAME>
+				<INSTITUTION>University of Passau</INSTITUTION>
+			</RESPROG_COLL>
+			<STATUS>Submitted</STATUS>
+			<JOURNAL_NAME>Information Systems Research</JOURNAL_NAME>
 			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
 			<URL/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</RESPROG>
-		<RESPROG id="32317906945" dmd:lastModified="2014-05-07T11:54:16">
-			<TITLE>Will the FCC Make its Triple-Cushion Shot? Analyzing the Impact of Network Neutrality on Content Innovation</TITLE>
-			<DESC>Examines net neutrality issues in a model that accomodates both mobile and land-line internet services.  Submitted in May 2014 to MISQ.</DESC>
-			<RESPROG_COLL id="32317906946">
-				<NAME>Hong Guo</NAME>
-				<INSTITUTION>ND</INSTITUTION>
-			</RESPROG_COLL>
-			<STATUS>Working Paper, Not submitted</STATUS>
-			<JOURNAL_NAME/>
-			<RESEARCH_TYPE>Academic</RESEARCH_TYPE>
-			<URL/>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</RESPROG>
+		<OFF_SHORE id="104003893248" dmd:lastModified="2015-01-21T16:20:35" dmd:startDate="2014-12-18" dmd:endDate="2014-12-20">
+			<UNIVERSITY>University of Auckland Business School</UNIVERSITY>
+			<COUNTRY>New Zealand</COUNTRY>
+			<PURPOSE>Conference</PURPOSE>
+			<ACTIVITY>Attendance at off-shore conferences</ACTIVITY>
+			<DTM_START>December</DTM_START>
+			<DTD_START>18</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-12-18</START_START>
+			<START_END>2014-12-18</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END>20</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-12-20</END_START>
+			<END_END>2014-12-20</END_END>
+			<DISPLAY_WEB>No</DISPLAY_WEB>
+		</OFF_SHORE>
 		<SERVICE_DEPARTMENT id="20586483713" dmd:lastModified="2010-01-29T12:43:44" dmd:startDate="2009-12-01">
 			<ORG>Curriculum Committee</ORG>
 			<ROLE>Committee Chair</ROLE>
@@ -3154,38 +2810,6 @@
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="75798523904" dmd:lastModified="2013-07-26T12:01:28" dmd:startDate="2013-07-01">
-			<ORG>SAP University Alliance</ORG>
-			<ROLE>Other</ROLE>
-			<ROLEOTHER>University Alliances Faculty Coordinator</ROLEOTHER>
-			<DTM_START>July</DTM_START>
-			<DTD_START/>
-			<DTY_START>2013</DTY_START>
-			<START_START>2013-07-01</START_START>
-			<START_END>2013-07-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="76627302400" dmd:lastModified="2013-08-21T13:04:31" dmd:startDate="2013-01-01">
-			<ORG>Rome Study Abroad Planning Committee</ORG>
-			<ROLE>Committee Member</ROLE>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2013</DTY_START>
-			<START_START>2013-01-01</START_START>
-			<START_END>2013-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
 		<SERVICE_UNIVERSITY id="1445646336" dmd:lastModified="2012-07-31T16:38:10" dmd:startDate="2003-01-01" dmd:endDate="2015-12-31">
 			<ORG>University Committee for Academic Technologies</ORG>
 			<ROLE>Committee Member</ROLE>
@@ -3201,6 +2825,38 @@
 			<END_START>2015-01-01</END_START>
 			<END_END>2015-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75798523904" dmd:lastModified="2015-01-21T16:31:46" dmd:startDate="2013-07-01" dmd:endDate="2014-12-31">
+			<ORG>SAP University Alliance</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>University Alliances Faculty Coordinator</ROLEOTHER>
+			<DTM_START>July</DTM_START>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-07-01</START_START>
+			<START_END>2013-07-31</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-12-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="76627302400" dmd:lastModified="2015-01-21T16:32:04" dmd:startDate="2013-01-01" dmd:endDate="2014-12-31">
+			<ORG>Rome Study Abroad Planning Committee</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2013</DTY_START>
+			<START_START>2013-01-01</START_START>
+			<START_END>2013-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
 		<SERVICE_UNIVERSITY id="1445650432" dmd:lastModified="2013-07-26T12:00:06" dmd:startDate="2004-01-01" dmd:endDate="2013-10-31">
 			<ORG>Course Management System Steering Committee</ORG>
@@ -3282,9 +2938,8 @@
 			<END_END>2005-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="1445648384" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<SERVICE_UNIVERSITY id="1445648384" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
 			<ORG>Student International Business Council</ORG>
-			<ROLE>Attendee, Convocation</ROLE>
 			<ROLEOTHER>Round Table Discussion</ROLEOTHER>
 			<DTM_START/>
 			<DTD_START/>
@@ -3298,24 +2953,24 @@
 			<END_END>2004-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_PROFESSIONAL id="1445656576" dmd:lastModified="2012-01-30T14:52:29" dmd:startDate="2001-01-01">
-			<ORG>Information Systems and e-Business Management</ORG>
-			<ROLE>Associate Editor</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2001</DTY_START>
-			<START_START>2001-01-01</START_START>
-			<START_END>2001-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE/>
+		<SERVICE_PROFESSIONAL id="104006883328" dmd:lastModified="2015-01-21T16:33:50" dmd:startDate="2014-12-18" dmd:endDate="2014-12-19">
+			<ORG>Workshop on Information Systems</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Discussant</ROLEOTHER>
+			<CITY>Auckland</CITY>
+			<STATE>NZ</STATE>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>December</DTM_START>
+			<DTD_START>18</DTD_START>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-12-18</START_START>
+			<START_END>2014-12-18</START_END>
+			<DTM_END>December</DTM_END>
+			<DTD_END>19</DTD_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-12-19</END_START>
+			<END_END>2014-12-19</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="67319900160" dmd:lastModified="2013-02-06T15:43:29" dmd:startDate="2012-12-16" dmd:endDate="2012-12-16">
 			<ORG>ICIS: International Conference on Information Systems</ORG>
@@ -3354,25 +3009,6 @@
 			<END_START>2008-05-01</END_START>
 			<END_END>2008-05-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1445662720" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="1998-01-01" dmd:endDate="2007-12-31">
-			<ORG>Various IS &amp; related journals</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>1998</DTY_START>
-			<START_START>1998-01-01</START_START>
-			<START_END>1998-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2007</DTY_END>
-			<END_START>2007-01-01</END_START>
-			<END_END>2007-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
 		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="6641897473" dmd:lastModified="2008-01-03T15:05:55" dmd:startDate="2007-06-01" dmd:endDate="2007-08-31">
 			<ORG>Indiana University, Bloomington, Kelley School of Business</ORG>
@@ -3520,11 +3156,98 @@
 			<END_END>2005-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_PUBLIC>
-		<CONSULT id="2333136897" dmd:lastModified="2007-09-07T17:32:46" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<EDITREV id="122700072960" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2001-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Information Systems and e-Business Management</JOURNAL>
+			<ROLE>Associate Editor/Editorial Board</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-01-01</START_START>
+			<START_END>2001-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE/>
+		</EDITREV>
+		<EDITREV id="122700070912" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="1998-01-01" dmd:endDate="2007-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Various IS &amp; related journals</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1998</DTY_START>
+			<START_START>1998-01-01</START_START>
+			<START_END>1998-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2007</DTY_END>
+			<END_START>2007-01-01</END_START>
+			<END_END>2007-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</EDITREV>
+		<CONSULT id="2333136897" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
 			<TYPE>Management</TYPE>
 			<TYPEOTHER/>
 			<ORG>Saint Joseph County Health Department</ORG>
-			<COMP>Pro Bono</COMP>
 			<NUMHOURS>25</NUMHOURS>
 			<DESC>Assisted in planning and implementation of emergency cipro distribution clinic for Anthrax Bioterrorism Drill, with simulation study to improve throughput.</DESC>
 			<DTM_START/>
@@ -3539,11 +3262,10 @@
 			<END_END>2004-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</CONSULT>
-		<CONSULT id="2333128705" dmd:lastModified="2007-09-07T17:32:46" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<CONSULT id="2333128705" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
 			<TYPE>Management</TYPE>
 			<TYPEOTHER/>
 			<ORG>Saint Joseph County Health Department</ORG>
-			<COMP>Pro Bono</COMP>
 			<NUMHOURS>25</NUMHOURS>
 			<DESC>Assisted in planning and implementation of emergency small-pox vaccination clinic for BioTerrorism Drill, with simulation study to improve throughput.</DESC>
 			<DTM_START/>
@@ -3564,7 +3286,7 @@
 			<TITLE>MIS Academic Leadership Conference</TITLE>
 			<ORG>Indiana University / AIS</ORG>
 			<CITYSTATE>Bloomington, IN</CITYSTATE>
-			<DESC>More than 40 academic leaders attended the Third Annual MIS Academic Leadership Conference.
+			<DESC>More than 40 academic leaders attended the Third Annual MIS Academic Leadership Conference. 
 Conference topics included: Undergraduate Programs, Graduate Programs, Information Systems Branding, Online Programs, Connections to Industry, Business Analytics and Research</DESC>
 			<DTM_START>October</DTM_START>
 			<DTD_START>25</DTD_START>

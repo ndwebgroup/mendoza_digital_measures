@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-07-08">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="118127" username="cackerm1" termId="278" dmd:surveyId="47921">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Finance" text="Finance"/>
-		<PCI id="1460105216" dmd:lastModified="2013-09-06T08:45:02">
-			<PREFIX>Tester</PREFIX>
+		<PCI id="1460105216" dmd:lastModified="2015-08-23T15:46:14">
+			<PREFIX/>
 			<FNAME>Carl</FNAME>
 			<PFNAME/>
-			<MNAME>Alfred</MNAME>
+			<MNAME/>
 			<LNAME>Ackermann</LNAME>
-			<SUFFIX>Jr.</SUFFIX>
+			<SUFFIX/>
 			<ALT_NAME/>
 			<ENDPOS>Nolan Professorship for Excellence in Undergraduate Instruction</ENDPOS>
 			<EMAIL>Ackermann.1@nd.edu</EMAIL>
@@ -39,9 +39,10 @@
 			<PCI_EXPERTISE id="1460105220">
 				<EXPERTISE>Personal Finance</EXPERTISE>
 			</PCI_EXPERTISE>
+			<UPLOAD_CV>cackerm1/pci/Resume08232015-1.pdf</UPLOAD_CV>
 			<BIO>&lt;p&gt;Carl Ackermann teaches financial management and personal finance to University of Notre Dame undergraduates.  He crusades against excessive fees in the investment industry, redirecting them to fight poverty and despair.&lt;/p&gt;
 &lt;p&gt;
-At Notre Dame, Ackermann has had the good fortune of receiving several awards for his teaching and service.  He received the James Dincolo Outstanding Teacher Award in 2013, the Senior Class Fellow Award in 2003 and 2011, the BP Outstanding Teacher Award in 2001 and 2009, the Joyce Award for Excellence in Undergraduate Teaching in 2009, the inaugural Dockweiler Award for Excellence in Undergraduate Advising in 2007, and the Kaneb Teaching Award in 2006.  In 2012, Businessweek named him one of the ten favorite business professors nationwide.&lt;/p&gt;
+At Notre Dame, Ackermann has had the good fortune of receiving several awards for his teaching and service.  He received the Joyce Award for Excellence in Undergraduate Teaching in 2009 and 2014, the James Dincolo Outstanding Teacher Award in 2013, the Senior Class Fellow Award in 2003 and 2011, the BP Outstanding Teacher Award in 2001 and 2009, the inaugural Dockweiler Award for Excellence in Undergraduate Advising in 2007, and the Kaneb Teaching Award in 2006.  In 2012, Businessweek named him one of the ten favorite business professors nationwide.&lt;/p&gt;
 &lt;p&gt;
 Ackermann is active in several University service projects and mentoring programs, and participates in Football and Basketball recruiting.  He is also a Fellow of the Center for Social Concerns.  He holds an A.B. from Amherst College, and a Ph.D. from the University of North Carolina at Chapel Hill.&lt;/p&gt;</BIO>
 		</PCI>
@@ -79,7 +80,27 @@ Ackermann is active in several University service projects and mentoring program
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="75958351874" dmd:lastModified="2013-07-30T13:55:07" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="109513189378" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="109513189377" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<AACSBQUAL>Professionally Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="75958351874" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
@@ -88,10 +109,9 @@ Ackermann is active in several University service projects and mentoring program
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Professionally Qualified</AACSBQUAL>
@@ -99,7 +119,7 @@ Ackermann is active in several University service projects and mentoring program
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="40526352386" dmd:lastModified="2013-02-12T09:08:28" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+		<ADMIN id="40526352386" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
 			<AC_YEAR>2012-2013</AC_YEAR>
 			<YEAR_START>2012-09-01</YEAR_START>
 			<YEAR_END>2013-08-31</YEAR_END>
@@ -108,10 +128,9 @@ Ackermann is active in several University service projects and mentoring program
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
@@ -119,7 +138,7 @@ Ackermann is active in several University service projects and mentoring program
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67521947650" dmd:lastModified="2013-02-12T09:09:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+		<ADMIN id="67521947650" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
 			<AC_YEAR>2011-2012</AC_YEAR>
 			<YEAR_START>2011-09-01</YEAR_START>
 			<YEAR_END>2012-08-31</YEAR_END>
@@ -128,10 +147,9 @@ Ackermann is active in several University service projects and mentoring program
 			</ADMIN_DEP>
 			<RANK>Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
@@ -139,7 +157,7 @@ Ackermann is active in several University service projects and mentoring program
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921092608" dmd:lastModified="2008-12-21T05:34:24" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="11921092608" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -148,10 +166,9 @@ Ackermann is active in several University service projects and mentoring program
 			</ADMIN_DEP>
 			<RANK>Associate Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE>No</GRADUATE>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE/>
-			<NPRESP>Service</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS/>
 			<AACSBQUAL/>
@@ -159,7 +176,7 @@ Ackermann is active in several University service projects and mentoring program
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921090560" dmd:lastModified="2008-12-21T05:35:35" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+		<ADMIN id="11921090560" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
 			<AC_YEAR>2007-2008</AC_YEAR>
 			<YEAR_START>2007-09-01</YEAR_START>
 			<YEAR_END>2008-08-31</YEAR_END>
@@ -168,10 +185,9 @@ Ackermann is active in several University service projects and mentoring program
 			</ADMIN_DEP>
 			<RANK>Associate Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE>No</GRADUATE>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE/>
-			<NPRESP>Service</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS/>
 			<AACSBQUAL/>
@@ -179,7 +195,7 @@ Ackermann is active in several University service projects and mentoring program
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="1460109312" dmd:lastModified="2008-12-21T05:37:58" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+		<ADMIN id="1460109312" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
 			<AC_YEAR>2006-2007</AC_YEAR>
 			<YEAR_START>2006-09-01</YEAR_START>
 			<YEAR_END>2007-08-31</YEAR_END>
@@ -188,10 +204,9 @@ Ackermann is active in several University service projects and mentoring program
 			</ADMIN_DEP>
 			<RANK>Associate Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE>No</GRADUATE>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE/>
-			<NPRESP>Service</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS/>
 			<AACSBQUAL/>
@@ -289,6 +304,18 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2000-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</PASTHIST>
+		<AWARDHONOR id="104520400897" dmd:lastModified="2015-01-30T08:21:55" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<NAME>The Reverend Edmund P. Joyce, C.S.C., Award for Excellence in Undergraduate Teaching</NAME>
+			<ORG/>
+			<SCOPE/>
+			<DESC/>
+			<DTM_DATE/>
+			<DTD_DATE/>
+			<DTY_DATE>2014</DTY_DATE>
+			<DATE_START>2014-01-01</DATE_START>
+			<DATE_END>2014-12-31</DATE_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</AWARDHONOR>
 		<AWARDHONOR id="75958544384" dmd:lastModified="2013-07-30T13:58:32" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
 			<NAME>James Dincolo Outstanding Teacher Award</NAME>
 			<ORG/>
@@ -337,8 +364,8 @@ Ackermann is active in several University service projects and mentoring program
 			<DATE_END>2009-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</AWARDHONOR>
-		<AWARDHONOR id="20405495809" dmd:lastModified="2010-01-23T10:09:39" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
-			<NAME>The Reverend Edmund P. Joyce, C.S.C. Award for Excellence in Undergraduate Teaching</NAME>
+		<AWARDHONOR id="20405495809" dmd:lastModified="2015-01-30T08:22:20" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<NAME>The Reverend Edmund P. Joyce, C.S.C., Award for Excellence in Undergraduate Teaching</NAME>
 			<ORG/>
 			<SCOPE/>
 			<DESC/>
@@ -482,8 +509,8 @@ Ackermann is active in several University service projects and mentoring program
 			<COMP_END>2000-12-31</COMP_END>
 		</EDUCATION>
 		<EDUCATION id="1460125696" dmd:lastModified="2008-12-21T05:09:11" dmd:startDate="1984-01-01" dmd:endDate="1984-12-31">
-			<DEG>Other</DEG>
-			<DEGOTHER>PH Test</DEGOTHER>
+			<DEG>BA</DEG>
+			<DEGOTHER/>
 			<SCHOOL>Amherst College</SCHOOL>
 			<MAJOR>Economics</MAJOR>
 			<SUPPAREA/>
@@ -527,11 +554,83 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</MEMBER>
+		<SCHTEACH id="104520491009" dmd:lastModified="2015-01-30T16:50:31" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|FIN|20150|1">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>1</SECTION>
+			<ENROLL>126</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN>Expanded the personal finance section of this course.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104520525825" dmd:lastModified="2015-01-30T16:58:34" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|FIN|20150|2">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>2</SECTION>
+			<ENROLL>125</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN>Expanded the personal finance section of this course.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104520564737" dmd:lastModified="2015-01-30T16:51:26" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|FIN|20150|3">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>3</SECTION>
+			<ENROLL>125</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN>Expanded the personal finance section of this course.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104520603649" dmd:lastModified="2015-01-30T16:58:50" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|FIN|20150|4">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Corporate Financial Management</TITLE>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>20150</COURSENUM>
+			<SECTION>4</SECTION>
+			<ENROLL>126</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM/>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP/>
+			<PEDINN>Expanded the personal finance section of this course.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
 		<SCHTEACH id="85510682625" dmd:lastModified="2014-01-31T16:52:46" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|FIN|20150|1">
 			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2015</TYY_TERM>
-			<TERM_START>2015-09-01</TERM_START>
-			<TERM_END>2015-12-31</TERM_END>
+			<TYY_TERM>2013</TYY_TERM>
+			<TERM_START>2013-09-01</TERM_START>
+			<TERM_END>2013-12-31</TERM_END>
 			<TITLE>Corporate Financial Management</TITLE>
 			<COURSEPRE>FIN</COURSEPRE>
 			<COURSENUM>20150</COURSENUM>
@@ -542,7 +641,7 @@ Ackermann is active in several University service projects and mentoring program
 			<NEWPREP/>
 			<PEDINN/>
 			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SCHTEACH>
 		<SCHTEACH id="85510762497" dmd:lastModified="2014-01-31T16:54:07" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|FIN|20150|2">
 			<TYT_TERM>Fall</TYT_TERM>
@@ -1267,8 +1366,8 @@ Ackermann is active in several University service projects and mentoring program
 			<PEDINN/>
 			<WEBPAGE_INCLUDE/>
 		</SCHTEACH>
-		<DSL id="67087982593" dmd:lastModified="2013-01-31T19:34:58" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="67087982593" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="67087982594">
 				<FNAME>Netania</FNAME>
 				<LNAME>Boentaram</LNAME>
@@ -1292,8 +1391,8 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2012-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<DSL id="48809582593" dmd:lastModified="2012-02-01T04:20:29" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="48809582593" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-01-01" dmd:endDate="2011-12-31">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="48809582594">
 				<FNAME>Thomas</FNAME>
 				<LNAME>Dore</LNAME>
@@ -1325,8 +1424,8 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2011-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<DSL id="20405723137" dmd:lastModified="2010-01-23T10:39:38" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="20405723137" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-01-01" dmd:endDate="2009-12-31">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="20405723138">
 				<FNAME>Christopher</FNAME>
 				<LNAME>Larmoyeux</LNAME>
@@ -1350,8 +1449,8 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2009-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<DSL id="7011782657" dmd:lastModified="2008-01-24T15:02:35" dmd:startDate="2003-01-01" dmd:endDate="2007-12-31">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="7011782657" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2003-01-01" dmd:endDate="2007-12-31">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="7011782658">
 				<FNAME/>
 				<LNAME/>
@@ -1375,7 +1474,8 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2007-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<INTELLCONT id="7011889153" dmd:lastModified="2008-12-20T21:30:10" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+		<INTELLCONT id="7011889153" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Business Ethics</PUBLISHER>
 			<TITLE>Mutual Fund Incubation and the Role of the Securities and Exchange Commission</TITLE>
 			<VOLUME>70</VOLUME>
@@ -1386,9 +1486,9 @@ Ackermann is active in several University service projects and mentoring program
 			<DTY_PUB>2007</DTY_PUB>
 			<PUB_START>2007-01-01</PUB_START>
 			<PUB_END>2007-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="7011889154">
 				<FACULTY_NAME>118127</FACULTY_NAME>
 				<FNAME>Carl</FNAME>
@@ -1401,13 +1501,13 @@ Ackermann is active in several University service projects and mentoring program
 				<MNAME>J</MNAME>
 				<LNAME>Loughran</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1460148224" dmd:lastModified="2008-12-20T21:31:24" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+		<INTELLCONT id="1460148224" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Finance</PUBLISHER>
 			<TITLE>The Performance of Hedge Funds: Risk, Return and Incentives</TITLE>
 			<VOLUME>54</VOLUME>
@@ -1418,9 +1518,9 @@ Ackermann is active in several University service projects and mentoring program
 			<DTY_PUB>1999</DTY_PUB>
 			<PUB_START>1999-01-01</PUB_START>
 			<PUB_END>1999-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1460148225">
 				<FACULTY_NAME>118127</FACULTY_NAME>
 				<FNAME>Carl</FNAME>
@@ -1439,25 +1539,15 @@ Ackermann is active in several University service projects and mentoring program
 				<MNAME/>
 				<LNAME>Ravenscraft</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<PRESENT id="1460152320" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+		<PRESENT id="1460152320" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
 			<NAME>Financial Management Association Meetings, Seattle, WA</NAME>
-			<ORG/>
-			<LOCATION/>
 			<TITLE>How Industry Rivals Respond to Control Threats</TITLE>
-			<PRESENT_AUTH id="1460152321">
-				<FACULTY_NAME>118127</FACULTY_NAME>
-				<FNAME>Carl</FNAME>
-				<MNAME>B</MNAME>
-				<LNAME>Ackermann</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -1467,22 +1557,11 @@ Ackermann is active in several University service projects and mentoring program
 			<DATE_START>2000-01-01</DATE_START>
 			<DATE_END>2000-12-31</DATE_END>
 			<WEBPAGE_INCLUDE/>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1460150272" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+		<PRESENT id="1460150272" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
 			<NAME>Western Finance Association Meetings, Monterey, CA</NAME>
-			<ORG/>
-			<LOCATION/>
 			<TITLE>The Impact of Regulatory Restrictions on Fund Performance: A Comparative Study of Hedge Funds and Mutual Funds</TITLE>
-			<PRESENT_AUTH id="1460150273">
-				<FACULTY_NAME>118127</FACULTY_NAME>
-				<FNAME>Carl</FNAME>
-				<MNAME>B</MNAME>
-				<LNAME>Ackermann</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
-			<PRESENT_TYPE/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -1492,7 +1571,6 @@ Ackermann is active in several University service projects and mentoring program
 			<DATE_START>1998-01-01</DATE_START>
 			<DATE_END>1998-12-31</DATE_END>
 			<WEBPAGE_INCLUDE/>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
 		<RESPROG id="1460164608" dmd:lastModified="2007-02-13T03:32:29">
 			<TITLE>Several papers on Mutual Funds</TITLE>
@@ -1501,23 +1579,7 @@ Ackermann is active in several University service projects and mentoring program
 			<RESEARCH_TYPE/>
 			<WEBPAGE_INCLUDE/>
 		</RESPROG>
-		<SERVICE_DEPARTMENT id="67091085313" dmd:lastModified="2014-01-31T16:58:58" dmd:startDate="2012-01-01" dmd:endDate="2013-12-31">
-			<ORG>Faculty Representative, Chicago Quantitative Alliance Investment Challenge.  Coordinated a team of four undergraduates</ORG>
-			<ROLE/>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2012</DTY_START>
-			<START_START>2012-01-01</START_START>
-			<START_END>2012-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_DEPARTMENT>
-		<SERVICE_DEPARTMENT id="75958816769" dmd:lastModified="2013-07-30T14:03:58" dmd:startDate="2009-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_DEPARTMENT id="75958816769" dmd:lastModified="2015-01-30T08:34:49" dmd:startDate="2009-01-01" dmd:endDate="2014-12-31">
 			<ORG>With the Career Center, developed and implemented the Notre Dame Finance Mentoring Program.  Students interested in Financial Services are paired with Notre Dame alumni on Wall Street</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -1528,13 +1590,13 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2009-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_DEPARTMENT id="75958824961" dmd:lastModified="2013-07-30T14:04:09" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
-			<ORG>Initiate and cultivate relationships with elite finance firms and convince them to hire our students.  I do this primarily through relationships I have built with my former students.  Blackstone, Barclays, Fidelity and J.P. Morgan are recent examples</ORG>
+		<SERVICE_DEPARTMENT id="75958824961" dmd:lastModified="2015-01-30T16:53:00" dmd:startDate="2007-01-01" dmd:endDate="2014-12-31">
+			<ORG>Initiate and cultivate relationships with elite finance firms and convince them to hire our students.  I do this primarily through relationships I have built with my former students.  Blackstone, Barclays and J.P. Morgan are recent examples</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
 			<DTM_START/>
@@ -1544,12 +1606,12 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2007-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_DEPARTMENT id="75958837249" dmd:lastModified="2013-07-30T14:04:26" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_DEPARTMENT id="75958837249" dmd:lastModified="2015-01-30T08:35:14" dmd:startDate="2007-01-01" dmd:endDate="2014-12-31">
 			<ORG>Preparing Personal Finance course, which we may offer in the future</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -1560,12 +1622,12 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2007-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_DEPARTMENT id="75958849537" dmd:lastModified="2013-07-30T14:04:35" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_DEPARTMENT id="75958849537" dmd:lastModified="2015-01-30T08:35:30" dmd:startDate="2006-01-01" dmd:endDate="2014-12-31">
 			<ORG>Investigate case competitions and trading competitions, and encourage students and clubs to participate in them</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -1576,12 +1638,12 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2006-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_DEPARTMENT id="75958859777" dmd:lastModified="2013-07-30T14:04:46" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_DEPARTMENT id="75958859777" dmd:lastModified="2015-01-30T08:35:43" dmd:startDate="2006-01-01" dmd:endDate="2014-12-31">
 			<ORG>Investigate scholarships offered by premier financial firms and encourage students to apply for them</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -1590,6 +1652,22 @@ Ackermann is active in several University service projects and mentoring program
 			<DTY_START>2006</DTY_START>
 			<START_START>2006-01-01</START_START>
 			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_DEPARTMENT>
+		<SERVICE_DEPARTMENT id="67091085313" dmd:lastModified="2014-01-31T16:58:58" dmd:startDate="2012-01-01" dmd:endDate="2013-12-31">
+			<ORG>Faculty Representative, Chicago Quantitative Alliance Investment Challenge.  Coordinated a team of four undergraduates</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-01-01</START_START>
+			<START_END>2012-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
 			<DTY_END>2013</DTY_END>
@@ -1789,7 +1867,7 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>1999-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_COLLEGE id="77547429889" dmd:lastModified="2013-09-20T06:44:10" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_COLLEGE id="77547429889" dmd:lastModified="2015-01-30T08:36:26" dmd:startDate="2013-01-01" dmd:endDate="2014-12-31">
 			<ORG>Presented workshop on personal financial planning at Volunteers in Transition conference</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -1800,9 +1878,9 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2013-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
 		<SERVICE_COLLEGE id="75959029760" dmd:lastModified="2013-07-30T14:07:58" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
@@ -2237,8 +2315,71 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2003-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_COLLEGE>
-		<SERVICE_UNIVERSITY id="77547436032" dmd:lastModified="2013-09-20T06:47:03" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
-			<ORG>Speaker, Freshmen Orientation, Dillon Hall</ORG>
+		<SERVICE_UNIVERSITY id="104531402753" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Notre Dame Women's Club Volleyball</ORG>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="104528271361" dmd:lastModified="2015-01-30T08:41:07" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Participate in student fundraisers, several times per year</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="104526813184" dmd:lastModified="2015-01-30T08:38:42" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Reviewer and interviewer, Hesburgh-Yusko Scholars Program</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="104527785985" dmd:lastModified="2015-01-30T08:39:34" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Speaker, Last Lecture Series</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="104531279872" dmd:lastModified="2015-01-30T08:44:15" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>Speaker, University of Notre Dame Reilly Weekend</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
 			<DTM_START/>
@@ -2248,12 +2389,28 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END></START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="75959076865" dmd:lastModified="2013-07-30T14:08:56" dmd:startDate="2012-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_UNIVERSITY id="104531531777" dmd:lastModified="2015-01-30T08:48:04" dmd:startDate="2014-01-01" dmd:endDate="2014-12-31">
+			<ORG>University of Notre Dame Football recruiting</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-01-01</START_START>
+			<START_END>2014-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75959076865" dmd:lastModified="2015-01-30T08:40:00" dmd:startDate="2012-01-01" dmd:endDate="2014-12-31">
 			<ORG>University of Notre Dame Dockweiler Award Selection Committee</ORG>
 			<ROLE>Committee Member</ROLE>
 			<ROLEOTHER/>
@@ -2262,6 +2419,163 @@ Ackermann is active in several University service projects and mentoring program
 			<DTY_START>2012</DTY_START>
 			<START_START>2012-01-01</START_START>
 			<START_END>2012-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="12144998401" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-01-01" dmd:endDate="2014-12-31">
+			<ORG>Speak to student organizations on personal finance, approximately once per semester</ORG>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-01-01</START_START>
+			<START_END>2008-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75959126017" dmd:lastModified="2015-01-30T08:42:20" dmd:startDate="2007-01-01" dmd:endDate="2014-12-31">
+			<ORG>Fellow, Center for Social Concerns</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7059175425" dmd:lastModified="2015-01-30T08:42:35" dmd:startDate="2007-01-01" dmd:endDate="2014-12-31">
+			<ORG>Investigate national and international scholarships and fellowships and encourage students to apply for them</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="75959148545" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-01-01" dmd:endDate="2014-12-31">
+			<ORG>Building Bridges mentoring program</ORG>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="2330480641" dmd:lastModified="2015-01-30T08:42:56" dmd:startDate="2006-01-01" dmd:endDate="2014-12-31">
+			<ORG>Meet with admissions candidates and their families</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="12144865281" dmd:lastModified="2015-01-30T08:43:15" dmd:startDate="2006-01-01" dmd:endDate="2014-12-31">
+			<ORG>Meet with development interests.  I do feel that I have played a significant role in attracting several six and seven figure gifts to the University</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2006</DTY_START>
+			<START_START>2006-01-01</START_START>
+			<START_END>2006-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="1460213760" dmd:lastModified="2015-01-30T08:43:26" dmd:startDate="2005-01-01" dmd:endDate="2014-12-31">
+			<ORG>Meet and greet employer representatives at various Career Center events</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="7138797569" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2005-01-01" dmd:endDate="2014-12-31">
+			<ORG>Speak in the dorms on personal finance, approximately once per year</ORG>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-01-01</START_START>
+			<START_END>2005-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="1460211712" dmd:lastModified="2015-01-30T08:43:49" dmd:startDate="2001-01-01" dmd:endDate="2014-12-31">
+			<ORG>University Speaker for University of Notre Dame Alumni Celebrations around the country</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2001</DTY_START>
+			<START_START>2001-01-01</START_START>
+			<START_END>2001-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_UNIVERSITY>
+		<SERVICE_UNIVERSITY id="77547436032" dmd:lastModified="2013-09-20T06:47:03" dmd:startDate="2013-01-01" dmd:endDate="2013-12-31">
+			<ORG>Speaker, Freshmen Orientation, Dillon Hall</ORG>
+			<ROLE/>
+			<ROLEOTHER/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
 			<DTM_END/>
 			<DTD_END/>
 			<DTY_END>2013</DTY_END>
@@ -2301,102 +2615,6 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2013-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="12144998401" dmd:lastModified="2013-07-30T14:43:08" dmd:startDate="2008-01-01" dmd:endDate="2013-12-31">
-			<ORG>Speak to student organizations on personal finance, approximately once per semester</ORG>
-			<ROLE>Guest Speaker</ROLE>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2008</DTY_START>
-			<START_START>2008-01-01</START_START>
-			<START_END>2008-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="75959126017" dmd:lastModified="2013-07-30T14:09:38" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
-			<ORG>Fellow, Center for Social Concerns</ORG>
-			<ROLE/>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2007</DTY_START>
-			<START_START>2007-01-01</START_START>
-			<START_END>2007-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7059175425" dmd:lastModified="2013-09-20T06:47:53" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
-			<ORG>Investigate national and international scholarships and fellowships and encourage students to apply for them</ORG>
-			<ROLE/>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2007</DTY_START>
-			<START_START>2007-01-01</START_START>
-			<START_END>2007-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="75959148545" dmd:lastModified="2013-07-30T14:09:55" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
-			<ORG>Building Bridges mentoring program</ORG>
-			<ROLE>Faculty Mentor</ROLE>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2006</DTY_START>
-			<START_START>2006-01-01</START_START>
-			<START_END>2006-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="2330480641" dmd:lastModified="2013-07-30T14:14:40" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
-			<ORG>Meet with admissions candidates and their families</ORG>
-			<ROLE/>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2006</DTY_START>
-			<START_START>2006-01-01</START_START>
-			<START_END>2006-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="12144865281" dmd:lastModified="2013-07-30T14:15:08" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
-			<ORG>Meet with development interests.  I do feel that I have played a significant role in attracting several six and seven figure gifts to the University</ORG>
-			<ROLE/>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2006</DTY_START>
-			<START_START>2006-01-01</START_START>
-			<START_END>2006-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
 		<SERVICE_UNIVERSITY id="2330464257" dmd:lastModified="2013-07-30T14:15:21" dmd:startDate="2006-01-01" dmd:endDate="2013-12-31">
 			<ORG>Participate in Open Houses, hosted by Office of Undergraduate Admissions</ORG>
 			<ROLE/>
@@ -2412,54 +2630,6 @@ Ackermann is active in several University service projects and mentoring program
 			<END_START>2013-01-01</END_START>
 			<END_END>2013-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="1460213760" dmd:lastModified="2013-07-30T14:15:33" dmd:startDate="2005-01-01" dmd:endDate="2013-12-31">
-			<ORG>Meet and greet employer representatives at various Career Center events</ORG>
-			<ROLE/>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2005</DTY_START>
-			<START_START>2005-01-01</START_START>
-			<START_END>2005-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7138797569" dmd:lastModified="2013-07-30T14:15:44" dmd:startDate="2005-01-01" dmd:endDate="2013-12-31">
-			<ORG>Speak in the dorms on personal finance, approximately once per year</ORG>
-			<ROLE>Guest Speaker</ROLE>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2005</DTY_START>
-			<START_START>2005-01-01</START_START>
-			<START_END>2005-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="1460211712" dmd:lastModified="2014-01-31T17:03:11" dmd:startDate="2001-01-01" dmd:endDate="2013-12-31">
-			<ORG>University Speaker for University of Notre Dame Alumni Celebrations around the country</ORG>
-			<ROLE/>
-			<ROLEOTHER/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2001</DTY_START>
-			<START_START>2001-01-01</START_START>
-			<START_END>2001-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
 		</SERVICE_UNIVERSITY>
 		<SERVICE_UNIVERSITY id="67089815552" dmd:lastModified="2013-01-31T20:19:55" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">
 			<ORG>Facilitator, University of Notre Dame President's Circle</ORG>
@@ -2525,9 +2695,8 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2012-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7138662401" dmd:lastModified="2013-01-31T20:06:11" dmd:startDate="2006-01-01" dmd:endDate="2012-12-31">
+		<SERVICE_UNIVERSITY id="7138662401" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-01-01" dmd:endDate="2012-12-31">
 			<ORG>Notre Dame Camp Kesem.  This is a week-long summer camp for children whose parents have cancer</ORG>
-			<ROLE>Faculty Advisor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START/>
 			<DTD_START/>
@@ -2669,9 +2838,8 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2009-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7138934785" dmd:lastModified="2011-01-31T09:07:30" dmd:startDate="2003-01-01" dmd:endDate="2009-12-31">
+		<SERVICE_UNIVERSITY id="7138934785" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2003-01-01" dmd:endDate="2009-12-31">
 			<ORG>Academic Honors Program for student athletes</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START/>
 			<DTD_START/>
@@ -2717,9 +2885,8 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2008-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7059122177" dmd:lastModified="2008-01-25T10:17:40" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
+		<SERVICE_UNIVERSITY id="7059122177" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-01-01" dmd:endDate="2007-12-31">
 			<ORG>Career Center Senior Kick-off</ORG>
-			<ROLE>Guest Speaker</ROLE>
 			<ROLEOTHER/>
 			<DTM_START/>
 			<DTD_START/>
@@ -2733,9 +2900,8 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>2007-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7138854913" dmd:lastModified="2008-12-20T12:55:12" dmd:startDate="2005-01-01" dmd:endDate="2007-12-31">
+		<SERVICE_UNIVERSITY id="7138854913" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2005-01-01" dmd:endDate="2007-12-31">
 			<ORG>Speak in the dorms on career discernment, approximately once per year</ORG>
-			<ROLE>Guest Speaker</ROLE>
 			<ROLEOTHER/>
 			<DTM_START/>
 			<DTD_START/>
@@ -3279,7 +3445,7 @@ Ackermann is active in several University service projects and mentoring program
 			<END_END>1998-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PUBLIC id="48809775104" dmd:lastModified="2013-07-30T14:17:42" dmd:startDate="2011-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_PUBLIC id="48809775104" dmd:lastModified="2015-01-30T08:51:44" dmd:startDate="2011-01-01" dmd:endDate="2014-12-31">
 			<ORG>Advisory Board Member, Kids Unlimited (Holland, OH)</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -3290,12 +3456,12 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2011-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_PUBLIC>
-		<SERVICE_PUBLIC id="20406573057" dmd:lastModified="2013-09-20T06:48:32" dmd:startDate="2010-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_PUBLIC id="20406573057" dmd:lastModified="2015-01-30T08:51:55" dmd:startDate="2010-01-01" dmd:endDate="2014-12-31">
 			<ORG>Provide comprehensive financial planning for approximately 250 of my former students.  All told in my personal finance activities, I now interact with over 1000 members of the Notre Dame community per year.  I give them simple, proven strategies (such as choosing low expense ratio, low turnover and no entry/exit fee mutual funds) that should substantially increase their retirement wealth</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -3306,12 +3472,12 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2010-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_PUBLIC>
-		<SERVICE_PUBLIC id="26956814337" dmd:lastModified="2013-07-30T14:17:56" dmd:startDate="2009-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_PUBLIC id="26956814337" dmd:lastModified="2015-01-30T08:52:05" dmd:startDate="2009-01-01" dmd:endDate="2014-12-31">
 			<ORG>Member, Investment Committee, Center for Hospice and Palliative Care</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -3322,12 +3488,12 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2009-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_PUBLIC>
-		<SERVICE_PUBLIC id="7139190785" dmd:lastModified="2013-09-20T06:48:53" dmd:startDate="2007-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_PUBLIC id="7139190785" dmd:lastModified="2015-01-30T08:52:16" dmd:startDate="2007-01-01" dmd:endDate="2014-12-31">
 			<ORG>Help approximately 10 Notre Dame faculty and staff members invest in their 403(b)</ORG>
 			<ROLE>Other</ROLE>
 			<ROLEOTHER/>
@@ -3338,12 +3504,12 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2007-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_PUBLIC>
-		<SERVICE_PUBLIC id="2330664961" dmd:lastModified="2013-07-30T14:18:07" dmd:startDate="2003-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_PUBLIC id="2330664961" dmd:lastModified="2015-01-30T08:52:28" dmd:startDate="2003-01-01" dmd:endDate="2014-12-31">
 			<ORG>Extensive advising of current and former students, especially regarding their careers in Business and Finance.  This single activity accounts for approximately one-third of my time in service</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -3354,12 +3520,12 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2003-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_PUBLIC>
-		<SERVICE_PUBLIC id="1460269056" dmd:lastModified="2013-09-20T06:49:17" dmd:startDate="2003-01-01" dmd:endDate="2013-12-31">
+		<SERVICE_PUBLIC id="1460269056" dmd:lastModified="2015-01-30T08:52:40" dmd:startDate="2003-01-01" dmd:endDate="2014-12-31">
 			<ORG>Write hundreds of letters of recommendation for University of Notre Dame students</ORG>
 			<ROLE/>
 			<ROLEOTHER/>
@@ -3370,9 +3536,9 @@ Ackermann is active in several University service projects and mentoring program
 			<START_END>2003-12-31</START_END>
 			<DTM_END/>
 			<DTD_END/>
-			<DTY_END>2013</DTY_END>
-			<END_START>2013-01-01</END_START>
-			<END_END>2013-12-31</END_END>
+			<DTY_END>2014</DTY_END>
+			<END_START>2014-01-01</END_START>
+			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_PUBLIC>
 		<SERVICE_PUBLIC id="67089616897" dmd:lastModified="2014-01-31T17:04:48" dmd:startDate="2012-01-01" dmd:endDate="2012-12-31">

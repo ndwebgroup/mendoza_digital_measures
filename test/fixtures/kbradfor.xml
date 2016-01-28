@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-11-19">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="117504" username="kbradfor" termId="278" dmd:surveyId="47822">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Marketing" text="Marketing"/>
-		<PCI id="1443379200" dmd:lastModified="2011-09-06T10:37:43">
+		<PCI id="1443379200" dmd:lastModified="2014-12-16T15:24:51">
 			<PREFIX>Professor</PREFIX>
 			<FNAME>Kevin</FNAME>
 			<PFNAME/>
@@ -42,6 +42,7 @@
 			<PCI_EXPERTISE id="1443379204">
 				<EXPERTISE>Retailing</EXPERTISE>
 			</PCI_EXPERTISE>
+			<UPLOAD_CV>kbradfor/pci/kbradfor.pdf</UPLOAD_CV>
 			<BIO>Kevin Bradford conducts research on developing understanding of significant issues within the marketing system and its relationship to society.  This system can be viewed as consisting of three sets of actors – marketers, customers, and public policymakers.  To this point his work has centered on all three; the marketing domain (e.g., salespeople, sales management, and the development of relationships), the customer domain (e.g., buyer-seller relationships), and public policy domain (e.g., firearm diversion, distribution channel capability, and responsibility).  Kevin teaches courses to both MBAs and undergraduates in the areas of “personal selling and sales management” and “consumer and customer behavior".  Kevin worked for IBM as a client representative for 5 years with major account management responsibilities and also worked in retail management for 5 years for a major national building materials retailer.  Thus, Kevin’s work experience supports both his research and teaching interests.  Kevin received an “Excellence in Sales Scholarship Award” from the American Marketing Association’s special interest group supporting research in the selling and sales management for a paper entitled “Personal Selling and Sales Management: A Relationship Marketing Perspective,” which appeared in the Journal of the Academy of Marketing Science (with B. Weitz).  He also received the honorable mention award for the “Best Paper Contributing to Theory and Practice to Retail Marketing” from the Journal of Retailing for a paper entitled “Managing Conflict to Improve the Effectiveness of Retail Networks” (with B. Weitz and A. Stringfellow).  Kevin received his B.A. from the University of Northern Iowa, his M.B.A. from the University of Notre Dame, and his Ph.D. from the University of Florida.  </BIO>
 		</PCI>
 		<ADMIN_PERM id="1443381248" dmd:lastModified="2009-12-30T10:04:21">
@@ -78,7 +79,28 @@
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="77706917888" dmd:lastModified="2013-09-25T13:44:34" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="109513220096" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="109513220097" dmd:primaryKey="Marketing">
+				<DEP>Marketing</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="77706917888" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
@@ -87,18 +109,18 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="68771874816" dmd:lastModified="2013-03-12T10:57:34" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+		<ADMIN id="68771874816" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
 			<AC_YEAR>2012-2013</AC_YEAR>
 			<YEAR_START>2012-09-01</YEAR_START>
 			<YEAR_END>2013-08-31</YEAR_END>
@@ -107,18 +129,18 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="68771901440" dmd:lastModified="2013-03-12T10:57:59" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+		<ADMIN id="68771901440" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
 			<AC_YEAR>2011-2012</AC_YEAR>
 			<YEAR_START>2011-09-01</YEAR_START>
 			<YEAR_END>2012-08-31</YEAR_END>
@@ -127,18 +149,18 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Service</NPRESP>
-			<NPRESP>Undergraduate and Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921209344" dmd:lastModified="2010-02-05T11:39:37" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="11921209344" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -147,7 +169,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professional Specialist</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -157,7 +178,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="11921207296" dmd:lastModified="2008-12-05T12:00:37" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+		<ADMIN id="11921207296" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
 			<AC_YEAR>2007-2008</AC_YEAR>
 			<YEAR_START>2007-09-01</YEAR_START>
 			<YEAR_END>2008-08-31</YEAR_END>
@@ -166,7 +187,6 @@
 			</ADMIN_DEP>
 			<RANK>Assistant Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -176,7 +196,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="1443383296" dmd:lastModified="2007-02-13T03:31:28" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+		<ADMIN id="1443383296" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
 			<AC_YEAR>2006-2007</AC_YEAR>
 			<YEAR_START>2006-09-01</YEAR_START>
 			<YEAR_END>2007-08-31</YEAR_END>
@@ -185,7 +205,6 @@
 			</ADMIN_DEP>
 			<RANK>Assistant Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -380,6 +399,222 @@ Marketing Association</DESC>
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</MEMBER>
+		<SCHTEACH id="123403253760" dmd:lastModified="2016-01-16T08:59:00" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MARK|60550|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Consumer Behavior</TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>60550</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>8</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123403247616" dmd:lastModified="2016-01-16T08:57:57" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MARK|30450|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Sports Marketing</TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>30450</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123403163648" dmd:lastModified="2016-01-16T08:54:59" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MARK|30100|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Consumer and Industrial Buying Behavior</TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>30100</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>25</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123403155456" dmd:lastModified="2016-01-16T08:53:59" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MARK|30450|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Sports Marketing</TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>30450</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123403216896" dmd:lastModified="2016-01-16T08:55:56" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MARK|40100|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Strategic Marketing </TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>40100</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123403229184" dmd:lastModified="2016-01-16T08:56:33" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MARK|40100|02">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Strategic Marketing </TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>40100</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123403237376" dmd:lastModified="2016-01-16T08:57:16" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MARK|40100|03">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Strategic Marketing </TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>40100</COURSENUM>
+			<SECTION>03</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104603738112" dmd:lastModified="2015-01-30T15:10:59" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MARK|60550|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Consumer Behavior</TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>60550</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>20</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104603822080" dmd:lastModified="2015-01-30T15:11:48" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MARK|30450|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-09-01</TERM_START>
+			<TERM_END>2014-12-31</TERM_END>
+			<TITLE>Sports Marketing </TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>30450</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104603639808" dmd:lastModified="2015-01-30T15:10:04" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MARK|30450|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Sports Marketing </TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>30450</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104603383808" dmd:lastModified="2015-01-30T15:07:42" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MARK|2014|02">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Strategic Marketing Management</TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>2014</COURSENUM>
+			<SECTION>02</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="104603285504" dmd:lastModified="2015-01-30T15:06:57" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MARK|40100|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Strategic Marketing Management</TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>40100</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>35</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SCHTEACH>
 		<SCHTEACH id="80050667520" dmd:lastModified="2013-11-14T14:35:40" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|MARK|30100|01">
 			<TYT_TERM>Fall</TYT_TERM>
 			<TYY_TERM>2013</TYY_TERM>
@@ -1362,6 +1597,22 @@ Marketing Association</DESC>
 			<OUTREACH/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SCHTEACH>
+		<OFF_LOAD_TEACH id="104604035072" dmd:lastModified="2015-01-30T15:13:28" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2014</TYY_TERM>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
+			<TITLE>Trends in Marketing </TITLE>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM/>
+			<SECTION/>
+			<ENROLL>15</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
+			<NEWPREP>No</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
 		<OFF_LOAD_TEACH id="75437740032" dmd:lastModified="2013-07-18T10:18:24" dmd:startDate="2013-05-15" dmd:endDate="2013-08-31">
 			<TYT_TERM>Summer</TYT_TERM>
 			<TYY_TERM>2013</TYY_TERM>
@@ -1506,14 +1757,8 @@ Marketing Association</DESC>
 			<PEDINN/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</OFF_LOAD_TEACH>
-		<NCTEACH id="2375168001" dmd:lastModified="2013-01-31T11:27:08" dmd:startDate="2006-08-15" dmd:endDate="2006-12-12">
-			<TYPE>Other</TYPE>
-			<TYPEOTHER>Assistant Visiting Professor</TYPEOTHER>
-			<AUDIENCE>External to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="2375168001" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-08-15" dmd:endDate="2006-12-12">
 			<ORG>University of Illinois</ORG>
-			<NUMPART>11</NUMPART>
-			<PROFACAD>Academic</PROFACAD>
-			<DESC>Taught an undergraduate course entitled "Business to Business Selling".  This course was a new prep and was worth 3 credit hours to each student.  </DESC>
 			<DTM_START>August</DTM_START>
 			<DTD_START>15</DTD_START>
 			<DTY_START>2006</DTY_START>
@@ -1526,14 +1771,8 @@ Marketing Association</DESC>
 			<END_END>2006-12-12</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<NCTEACH id="2375149569" dmd:lastModified="2013-01-31T11:26:58" dmd:startDate="2006-08-15" dmd:endDate="2006-12-12">
-			<TYPE>Other</TYPE>
-			<TYPEOTHER>Visiting Assistant Professor </TYPEOTHER>
-			<AUDIENCE>External to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="2375149569" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-08-15" dmd:endDate="2006-12-12">
 			<ORG>University of Illinois</ORG>
-			<NUMPART>38</NUMPART>
-			<PROFACAD>Academic</PROFACAD>
-			<DESC>Taught a new prep entitled "Consumer and Indutrial Buying Behavior" to MBA students.  This course was worth 3 credit hours to the students.  </DESC>
 			<DTM_START>August</DTM_START>
 			<DTD_START>15</DTD_START>
 			<DTY_START>2006</DTY_START>
@@ -1546,14 +1785,8 @@ Marketing Association</DESC>
 			<END_END>2006-12-12</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<NCTEACH id="2375133185" dmd:lastModified="2013-01-31T11:27:20" dmd:startDate="2006-08-15" dmd:endDate="2006-11-12">
-			<TYPE>Other</TYPE>
-			<TYPEOTHER>Visiting Assistant Professor</TYPEOTHER>
-			<AUDIENCE>External to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="2375133185" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-08-15" dmd:endDate="2006-11-12">
 			<ORG>University of Illinois</ORG>
-			<NUMPART>100</NUMPART>
-			<PROFACAD>Academic</PROFACAD>
-			<DESC>Taught a new prep at the University of Illinois entitled "Introduction to Marketing" to MBA students.  The 100 students were over two sections and this course was worth 3 credit hours.  </DESC>
 			<DTM_START>August</DTM_START>
 			<DTD_START>15</DTD_START>
 			<DTY_START>2006</DTY_START>
@@ -1566,14 +1799,8 @@ Marketing Association</DESC>
 			<END_END>2006-11-12</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<NCTEACH id="2339674113" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2003-07-15" dmd:endDate="2003-07-15">
-			<TYPE>Management/Executive Development</TYPE>
-			<TYPEOTHER/>
-			<AUDIENCE>Internal to University of Notre Dame</AUDIENCE>
+		<NCTEACH id="2339674113" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2003-07-15" dmd:endDate="2003-07-15">
 			<ORG>University of Notre Dame</ORG>
-			<NUMPART>30</NUMPART>
-			<PROFACAD>Academic</PROFACAD>
-			<DESC>Developed and taught a course entitled "Trends in Professional Selling" seminar to executives from Bayer.  </DESC>
 			<DTM_START/>
 			<DTD_START/>
 			<DTY_START/>
@@ -1586,8 +1813,8 @@ Marketing Association</DESC>
 			<END_END>2003-07-15</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</NCTEACH>
-		<DSL id="28685910017" dmd:lastModified="2010-11-12T09:18:14">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="28685910017" dmd:lastModified="2016-01-04T12:33:29">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="28685910018">
 				<FNAME>Susan</FNAME>
 				<LNAME>Carlsen</LNAME>
@@ -1611,11 +1838,102 @@ Marketing Association</DESC>
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</DSL>
-		<CONGRANT id="19747131393" dmd:lastModified="2009-12-30T10:17:21" dmd:startDate="2009-09-15">
-			<TYPE>Grant</TYPE>
+		<DSL id="104604598272" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-08-15" dmd:endDate="2013-05-07">
+			<TYPE>Directed Readings</TYPE>
+			<DSL_STUDENT id="104604598273">
+				<FNAME>Kristen </FNAME>
+				<LNAME>Stoutenberg</LNAME>
+			</DSL_STUDENT>
+			<DSL_STUDENT id="104604598275">
+				<FNAME>Matthew</FNAME>
+				<LNAME>Cunningham</LNAME>
+			</DSL_STUDENT>
+			<SHDEP>Marketing</SHDEP>
+			<COURSEPRE>MARK</COURSEPRE>
+			<COURSENUM>46008</COURSENUM>
+			<CHOURS>3.0</CHOURS>
+			<TITLE>Atmospheres at College Athletic Events</TITLE>
+			<COMPSTAGE>Completed</COMPSTAGE>
+			<COMMENT/>
+			<DTM_START>August</DTM_START>
+			<DTD_START>15</DTD_START>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-08-15</START_START>
+			<START_END>2012-08-15</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END>7</DTD_END>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-05-07</END_START>
+			<END_END>2013-05-07</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</DSL>
+		<COMP_ADVISE id="122838992896" dmd:lastModified="2016-01-07T09:27:58" dmd:startDate="2010-12-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<TYPE>Student Case Competition Coach</TYPE>
+			<DTM_START>December</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-12-01</START_START>
+			<START_END>2010-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</COMP_ADVISE>
+		<COMP_ADVISE id="122838990848" dmd:lastModified="2016-01-07T09:27:58" dmd:startDate="1999-08-01" dmd:endDate="2011-05-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<TYPE>Student Case Competition Coach</TYPE>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>1999</DTY_START>
+			<START_START>1999-08-01</START_START>
+			<START_END>1999-08-31</START_END>
+			<DTM_END>May</DTM_END>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-05-01</END_START>
+			<END_END>2011-05-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</COMP_ADVISE>
+		<CONGRANT id="19747131393" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2009-09-15">
 			<TITLE>P&amp;G Notre Dame Leadership Advantage Camp</TITLE>
 			<SPONORG>Proctor &amp; Gamble</SPONORG>
-			<AWARDORG>Private</AWARDORG>
 			<CONGRANT_INVEST id="19747131394">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -1625,7 +1943,6 @@ Marketing Association</DESC>
 			</CONGRANT_INVEST>
 			<AMOUNT>10000</AMOUNT>
 			<ABSTRACT>This grant is to provide support for the development of a camp that will assist in the leadership development of undergraduate and masters level students interested in pursuing executive level positions in the private section </ABSTRACT>
-			<STATUS>Funded</STATUS>
 			<DTM_START>September</DTM_START>
 			<DTD_START>15</DTD_START>
 			<DTY_START>2009</DTY_START>
@@ -1639,11 +1956,9 @@ Marketing Association</DESC>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="28685969409" dmd:lastModified="2010-11-12T09:23:42" dmd:startDate="2010-11-01" dmd:endDate="2011-08-01">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="28685969409" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2010-11-01" dmd:endDate="2011-08-01">
 			<TITLE>Procter and Gamble Notre Dame Leadership Advantage Camp</TITLE>
 			<SPONORG>Procter and Gamble</SPONORG>
-			<AWARDORG>Private</AWARDORG>
 			<CONGRANT_INVEST id="28685969410">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -1653,7 +1968,6 @@ Marketing Association</DESC>
 			</CONGRANT_INVEST>
 			<AMOUNT>10000</AMOUNT>
 			<ABSTRACT>•	In 2010 Notre Dame was awarded the Higher Education Grant and hosted its first P&amp;G Leadership Camp with 40 of the University’s top talent leaders attending. This two day leadership camp specifically targets Notre Dame Undergraduate Sophomores &amp; Juniors of any major and 1st year MBA’s.  The objective of the camp is to bring advanced leadership training to Notre Dame’s highest potential student leaders.  The core benefits delivered to students are:  1) improved leadership skills, 2) enhanced creativity skills and 3) a better understanding of how leadership is critical for both personal and professional success.</ABSTRACT>
-			<STATUS>Funded</STATUS>
 			<DTM_START>November</DTM_START>
 			<DTD_START>1</DTD_START>
 			<DTY_START>2010</DTY_START>
@@ -1667,7 +1981,8 @@ Marketing Association</DESC>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<INTELLCONT id="16620763137" dmd:lastModified="2013-01-31T11:33:07">
+		<INTELLCONT id="16620763137" dmd:lastModified="2016-01-25T09:16:09">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>Journal of Public Policy and Marketing</PUBLISHER>
 			<TITLE>Countermarketing and Demarketing against Product Diversion: Research in the Firearm Industry</TITLE>
 			<VOLUME/>
@@ -1678,9 +1993,9 @@ Marketing Association</DESC>
 			<DTY_PUB/>
 			<PUB_START></PUB_START>
 			<PUB_END></PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="16620763139">
 				<FACULTY_NAME/>
 				<FNAME>Gregory</FNAME>
@@ -1699,13 +2014,13 @@ Marketing Association</DESC>
 				<MNAME>L</MNAME>
 				<LNAME>Wilkie</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Few marketing problems in society lead to the tragedy of harm that can result when firearms are diverted from the legal to the illegal marketplace. Product diversion is itself a serious concern for marketers, especially marketers of potentially dangerous products such as tobacco, alcohol, firearms, and pharmaceuticals.  These products may be sought and obtained by consumers occupying illegal markets, or intent on using them for illegal purposes, leading to adverse consequences for other consumers, marketers and society at large.  Drawing on established marketing principles and accepted methods of forensic research, this paper reports on a large-scale study of the diversion of handguns in the U.S. and the countermarketing and demarketing efforts of firearm marketers to safeguard against its occurrence through their distribution systems.  The findings suggest that: (1) significant diversion of handguns to illegal markets occurred in the U.S. during a recent period, (2) industry marketers varied widely in their use of safeguards against this diversion, but on average engaged in few countermarketing and demarketing measures, and (3) the safeguarding efforts engaged in were found to both reduce diversion and its resultant crimes.  The study and its findings help to inform understanding of the nature and effects of firearm diversion and the use of countermarketing and demarketing safeguards to reduce its occurrence.  The study also demonstrates the use of data and data collection methodologies from the legal process to inform questions about marketing including controversial aspects of its practice.   Overall, the research adds to extant thinking concerning countermarketing and demarketing as well as the related areas of social marketing, corporate responsibility and public health.  </ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="47473135617" dmd:lastModified="2013-01-31T11:38:35" dmd:startDate="2012-01-01" dmd:endDate="2012-01-31">
+		<INTELLCONT id="47473135617" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-01-01" dmd:endDate="2012-01-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>ISBM handbook of Business to Business Marketing</PUBLISHER>
 			<TITLE>Salesperson Effectiveness:  A Behavioral Perspective</TITLE>
 			<VOLUME/>
@@ -1716,9 +2031,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-01-01</PUB_START>
 			<PUB_END>2012-01-31</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="47473135618">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -1731,13 +2046,13 @@ Marketing Association</DESC>
 				<MNAME>A</MNAME>
 				<LNAME>Weitz</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="47472930817" dmd:lastModified="2013-01-31T11:38:56" dmd:startDate="2012-01-01" dmd:endDate="2012-01-31">
+		<INTELLCONT id="47472930817" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-01-01" dmd:endDate="2012-01-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>Journal of Personal Selling and Sales Management</PUBLISHER>
 			<TITLE>Strategic Account Management: Conceptualilzing, Integrating, and Extending the Domain from Fluid to Dedicated Accounts.   </TITLE>
 			<VOLUME>32</VOLUME>
@@ -1748,9 +2063,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-01-01</PUB_START>
 			<PUB_END>2012-01-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="47472930818">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -1775,13 +2090,13 @@ Marketing Association</DESC>
 				<MNAME>C</MNAME>
 				<LNAME>Moncrief III</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>This paper proposes a new conceptualization of strategic account management that integrates and builds upon several related literatures (e.g. key account management, national account management, major account management, large account management).  It proposes that the extant literature is myopic in defining strategic accounts—almost exclusively emphasizing account teams with dedicated members.  However, in practice, there are several examples of strategic account teams that are formed with dynamic membership.  This paper refers to such teams as “fluid accounts”—and proposes that dedicated and fluid accounts can be viewed as a continuum.  Two dominant factors driving success of such accounts are proposed—the nature of the account’s needs and the pattern of economic returns—to serve as a simple heuristic to help advance scholarship in the area.  Finally, this research provides general guidelines on how to evaluate the performance of strategic account teams. </ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="19747213313" dmd:lastModified="2013-01-31T11:32:51" dmd:startDate="2010-03-01" dmd:endDate="2010-03-31">
+		<INTELLCONT id="19747213313" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2010-03-01" dmd:endDate="2010-03-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>Marketing Letters</PUBLISHER>
 			<TITLE>The Embedded Sales Force: Connecting Buying and Selling Organizations</TITLE>
 			<VOLUME/>
@@ -1792,9 +2107,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2010</DTY_PUB>
 			<PUB_START>2010-03-01</PUB_START>
 			<PUB_END>2010-03-31</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="19747213314">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -1855,13 +2170,13 @@ Marketing Association</DESC>
 				<MNAME/>
 				<LNAME>Weitz</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Business-to business firms are increasingly focusing on building long-term partnering relationships with key customers.  Salespeople are often responsible for managing these relationships.  To be effective as relationship managers, salespeople need to be embedded in both their firm’s and customers’ organizations.  They need to have extensive knowledge of their customer’s business and also know and be able to leverage their firm’s resources to develop offerings tailored to their customer’s needs.  Their companies and sales managers need to use different approaches to manage and support salespeople in this new role. In this paper, we examine some issues affecting the interfaces between elements of the embedded sales force and suggest some directions for future research and methods for examining these issues.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="16620793857" dmd:lastModified="2013-01-31T11:36:46" dmd:startDate="2009-07-01" dmd:endDate="2009-07-31">
+		<INTELLCONT id="16620793857" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-07-01" dmd:endDate="2009-07-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>Journal of Business Ethics</PUBLISHER>
 			<TITLE>The Use of Scents to Influence Consumers: The Sense of Using Scents to Make Cents</TITLE>
 			<VOLUME>90</VOLUME>
@@ -1872,9 +2187,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-07-01</PUB_START>
 			<PUB_END>2009-07-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="16620793858">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -1887,13 +2202,13 @@ Marketing Association</DESC>
 				<MNAME>M</MNAME>
 				<LNAME>Desrochers</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Since the sense of smell cannot be turned off and it prompts immediate, emotional responses, marketers are becoming aware of its usefulness in communicating with consumers.  Consequently, over the last few years consumers have been increasingly influenced by ambient scents, which are defined as general odors that do not emanate from a product but are present as part of the retail environment.  The goal of this paper is to create awareness of the ethical issues in the scent marketing industry.  In particular, we illuminate areas of concern regarding the use of scents to persuade, and its potential to make consumers vulnerable to marketing communications.  Since this is a new frontier for marketers, we begin with an explanation of what makes the sense of smell different from other senses.  We then provide a description of how scents are used in marketing, past research on the power of scents, and the theoretical basis for, and uses of scents to influence consumers.  This brings us to the discussion of the ethical considerations regarding the use of this sense. We close with several future research ideas would provide more evidence of how the sense of smell can, and should be used by marketers.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="16620863489" dmd:lastModified="2013-01-31T11:30:58" dmd:startDate="2009-04-01" dmd:endDate="2009-04-30">
+		<INTELLCONT id="16620863489" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-04-01" dmd:endDate="2009-04-30">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>Journal of Marketing Theory and Practice</PUBLISHER>
 			<TITLE>How Salesperson Job Satisfaction Affects Buyer-Seller Relationships:  The Role of Supplier Commitment and Extra-Role Behavior</TITLE>
 			<VOLUME/>
@@ -1904,9 +2219,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-04-01</PUB_START>
 			<PUB_END>2009-04-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="16620863490">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -1925,13 +2240,13 @@ Marketing Association</DESC>
 				<MNAME>M</MNAME>
 				<LNAME>Phillips</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Developing strong relationships based on trust with key customers is increasingly important in the business-to-business marketplace, but little is known about the process by which sales managers can influence the relationship-building behaviors of salespeople. We collected data from 93 salesperson-customer dyads to test a model linking salesperson job satisfaction, perceived customer importance, customer-focused helping behaviors, and customer trust in the supplier. Results indicate support for the model: job satisfaction is related to customer-focused helping behavior, perceived customer importance interacts with salesperson job satisfaction to positively affect customer-focused helping behavior, and ultimately customer-focused helping behavior is related to customer trust in supplier.  </ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="12907421697" dmd:lastModified="2013-01-31T11:39:31" dmd:startDate="2009-01-01" dmd:endDate="2009-01-31">
+		<INTELLCONT id="12907421697" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-01-01" dmd:endDate="2009-01-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Personal Selling and Sales Management</PUBLISHER>
 			<TITLE>Managing Conflict in Buyer-Seller Relationships</TITLE>
 			<VOLUME>29</VOLUME>
@@ -1942,9 +2257,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-01-01</PUB_START>
 			<PUB_END>2009-01-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="12907421698">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -1957,13 +2272,13 @@ Marketing Association</DESC>
 				<MNAME>A.</MNAME>
 				<LNAME>Weitz</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="7224186881" dmd:lastModified="2013-01-31T11:34:57" dmd:startDate="2008-12-01" dmd:endDate="2008-12-31">
+		<INTELLCONT id="7224186881" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-12-01" dmd:endDate="2008-12-31">
+			<STATUS>Accepted (awaiting publication)</STATUS>
 			<PUBLISHER>International Journal of Research in Marketing</PUBLISHER>
 			<TITLE>Innovation in Buyer-Seller Relationships:  The Role of Governance</TITLE>
 			<VOLUME>25</VOLUME>
@@ -1974,9 +2289,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-12-01</PUB_START>
 			<PUB_END>2008-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="7224186883">
 				<FACULTY_NAME/>
 				<FNAME>Qiong</FNAME>
@@ -2001,13 +2316,13 @@ Marketing Association</DESC>
 				<MNAME>A.</MNAME>
 				<LNAME>Weitz</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Accepted</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>This research investigates the factors leading to the generation and implementation of innovation in buyer-seller relationships.  This research uses surveys from 262 purchasing agents to confirm that interorganizational governance mechanisms (trust and contracts) affect the component factors stimulating innovation generation.  </ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1443440640" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2005-01-01" dmd:endDate="2005-01-31">
+		<INTELLCONT id="1443440640" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2005-01-01" dmd:endDate="2005-01-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Public Policy and Marketing</PUBLISHER>
 			<TITLE>Countermarketing in the Courts: The Case of Marketing Channels and Firearm Diversion</TITLE>
 			<VOLUME>24</VOLUME>
@@ -2018,9 +2333,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2005</DTY_PUB>
 			<PUB_START>2005-01-01</PUB_START>
 			<PUB_END>2005-01-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1443440641">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -2039,13 +2354,13 @@ Marketing Association</DESC>
 				<MNAME>L.</MNAME>
 				<LNAME>Wilkie</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>American Marketing Association</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1443438592" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2004-04-01" dmd:endDate="2004-04-30">
+		<INTELLCONT id="1443438592" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2004-04-01" dmd:endDate="2004-04-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Retailing</PUBLISHER>
 			<TITLE>Managing Conflict to Improve the Effectiveness of Retail Networks</TITLE>
 			<VOLUME>80</VOLUME>
@@ -2056,9 +2371,9 @@ Marketing Association</DESC>
 			<DTY_PUB>2004</DTY_PUB>
 			<PUB_START>2004-04-01</PUB_START>
 			<PUB_END>2004-04-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1443438593">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -2077,13 +2392,13 @@ Marketing Association</DESC>
 				<MNAME/>
 				<LNAME>Stringfellow</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Elsevier</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1443436544" dmd:lastModified="2013-01-31T11:40:56" dmd:startDate="1999-07-01" dmd:endDate="1999-07-31">
+		<INTELLCONT id="1443436544" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1999-07-01" dmd:endDate="1999-07-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of the Academy of Marketing Science</PUBLISHER>
 			<TITLE>Personal Selling and Sales Management: A Relationship Marketing Perspective</TITLE>
 			<VOLUME>27</VOLUME>
@@ -2094,9 +2409,9 @@ Marketing Association</DESC>
 			<DTY_PUB>1999</DTY_PUB>
 			<PUB_START>1999-07-01</PUB_START>
 			<PUB_END>1999-07-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1443436545">
 				<FACULTY_NAME>117504</FACULTY_NAME>
 				<FNAME>Kevin</FNAME>
@@ -2109,21 +2424,12 @@ Marketing Association</DESC>
 				<MNAME>A</MNAME>
 				<LNAME>Weitz</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT_OTHER id="75437998080" dmd:lastModified="2013-07-18T10:28:16">
-			<TITLE>An Investigation Into Firearms and Common Good:  The Introduction to a Meaningful Discussion About Solutions</TITLE>
-			<DESC>This book chapter is research that provides a critical look at the negative effects of firearms in the United States and the difficulties that the public has in positively affecting the safer distribution of firearms.  This research also proposes various actions that policy makers and the public can take.  Marketing and the Common Good, Eds. John F. Sherry Jr. and Patrick Murphy. Routledge Press.</DESC>
-		</INTELLCONT_OTHER>
-		<INTELLCONT_OTHER id="75438036992" dmd:lastModified="2013-07-18T10:27:13">
-			<TITLE>Salesperson Effectiveness:  A Behavioral Perspective</TITLE>
-			<DESC>This research provides a cutting edge look at the role of the salesperson from two key perspectives; the transactional influencer role and the relationship manager/ value creator role.  It integrates and extends extant knowledge on these roles to elucidate the differences in the development and keys to performance for salespeople in these roles.  Emphasis is on synthesizing current knowledge so as to provide insight on research opportunities. (with B. Weitz).  Elgar-ISBM Business to Business Marketing Handbook, Chapter 7; Spring 2012 </DESC>
-		</INTELLCONT_OTHER>
-		<PRESENT id="49119537152" dmd:lastModified="2012-02-08T14:38:34">
+		<PRESENT id="49119537152" dmd:lastModified="2016-01-07T08:44:20">
 			
 			
 			
@@ -2145,48 +2451,22 @@ Marketing Association</DESC>
 		
 		
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<ORG>Erin Anderson Conference on Business to Business Relationships</ORG>
-			<LOCATION>Philadelphia , Pennsylvania</LOCATION>
-			<PRESENT_AUTH id="49119537153">
-				
-				
-				
-				
-			
-			
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_TYPE/>
+			<ROLE/>
 			<SCOPE>International</SCOPE>
 			<DTM_DATE/>
 			<DTD_DATE/>
 			<DTY_DATE/>
 			<DATE_START></DATE_START>
 			<DATE_END></DATE_END>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75439116288" dmd:lastModified="2013-07-18T10:48:29" dmd:startDate="2013-06-14" dmd:endDate="2013-06-14">
+		<PRESENT id="75439116288" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-06-14" dmd:endDate="2013-06-14">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>Consumer Culture Theory</NAME>
-			<ORG>University of Arizona</ORG>
-			<LOCATION>Tucson, Arizona</LOCATION>
 			<TITLE>Organizing public policy with consumers</TITLE>
-			<PRESENT_AUTH id="75439116289">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT>The session highlighted cultural and material dimensions of policy in the particular case of weapons consumption and distribution.</ABSTRACT>
 			<DTM_DATE>June</DTM_DATE>
 			<DTD_DATE>14</DTD_DATE>
@@ -2194,26 +2474,15 @@ Marketing Association</DESC>
 			<DATE_START>2013-06-14</DATE_START>
 			<DATE_END>2013-06-14</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="75438452736" dmd:lastModified="2013-07-18T10:45:33" dmd:startDate="2013-06-13" dmd:endDate="2013-06-13">
+		<PRESENT id="75438452736" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-06-13" dmd:endDate="2013-06-13">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>Consumer Culture and Theory</NAME>
-			<ORG>University of Arizona</ORG>
-			<LOCATION>Tucson, Arizona</LOCATION>
 			<TITLE>Firearms in America:  A Historical Perspective of Consumption</TITLE>
-			<PRESENT_AUTH id="75438452737">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>June</DTM_DATE>
 			<DTD_DATE>13</DTD_DATE>
@@ -2221,26 +2490,15 @@ Marketing Association</DESC>
 			<DATE_START>2013-06-13</DATE_START>
 			<DATE_END>2013-06-13</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="67072219136" dmd:lastModified="2013-01-31T15:12:49" dmd:startDate="2013-01-31" dmd:endDate="2013-01-31">
+		<PRESENT id="67072219136" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-31" dmd:endDate="2013-01-31">
 			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
 			<NAME>Radio Interview with Mike McConnell</NAME>
-			<ORG>WGN </ORG>
-			<LOCATION/>
 			<TITLE>Interview on Manufacturers' distribution of firearms</TITLE>
-			<PRESENT_AUTH id="67072219137">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE>Other</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>January</DTM_DATE>
 			<DTD_DATE>31</DTD_DATE>
@@ -2248,26 +2506,15 @@ Marketing Association</DESC>
 			<DATE_START>2013-01-31</DATE_START>
 			<DATE_END>2013-01-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="67071879168" dmd:lastModified="2013-01-31T15:09:30" dmd:startDate="2013-01-30" dmd:endDate="2013-01-30">
+		<PRESENT id="67071879168" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-30" dmd:endDate="2013-01-30">
 			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
 			<NAME>Opinion on CNN.Com</NAME>
-			<ORG>CNN.com</ORG>
-			<LOCATION/>
 			<TITLE>Gunmakers, Help Keep Weapons out of Criminals’ Hands</TITLE>
-			<PRESENT_AUTH id="67071879169">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE>Other</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>January</DTM_DATE>
 			<DTD_DATE>30</DTD_DATE>
@@ -2275,26 +2522,15 @@ Marketing Association</DESC>
 			<DATE_START>2013-01-30</DATE_START>
 			<DATE_END>2013-01-30</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="67072053248" dmd:lastModified="2013-01-31T15:11:19" dmd:startDate="2013-01-24" dmd:endDate="2013-01-24">
+		<PRESENT id="67072053248" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-24" dmd:endDate="2013-01-24">
 			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
 			<NAME>Interview on WNDU</NAME>
-			<ORG>WNDU Radio</ORG>
-			<LOCATION/>
 			<TITLE>Television interview regarding manufacturers' distribution of guns</TITLE>
-			<PRESENT_AUTH id="67072053249">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Other</ROLE>
-			</PRESENT_AUTH>
+			<ROLE>Other</ROLE>
 			<MEETING_TYPE>Other</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Contributions to Practice</CLASSIFICATION>
+			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>January</DTM_DATE>
 			<DTD_DATE>24</DTD_DATE>
@@ -2302,24 +2538,13 @@ Marketing Association</DESC>
 			<DATE_START>2013-01-24</DATE_START>
 			<DATE_END>2013-01-24</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="47473440769" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2011-03-01" dmd:endDate="2011-03-31">
+		<PRESENT id="47473440769" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-03-01" dmd:endDate="2011-03-31">
 			<NAME>Marketing's Contributions to Society Conference; University of Notre Dame</NAME>
-			<ORG>University of Notre Dame Marketing Department</ORG>
-			<LOCATION>University of Notre Dame</LOCATION>
 			<TITLE>Is the Gun Problem a Marketing Issue?</TITLE>
-			<PRESENT_AUTH id="47473440770">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>March</DTM_DATE>
 			<DTD_DATE/>
@@ -2327,31 +2552,13 @@ Marketing Association</DESC>
 			<DATE_START>2011-03-01</DATE_START>
 			<DATE_END>2011-03-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="28686159873" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2010-05-15" dmd:endDate="2010-05-15">
+		<PRESENT id="28686159873" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-05-15" dmd:endDate="2010-05-15">
 			<NAME>Marketing and Public Policy Conference</NAME>
-			<ORG>American Marketing Association</ORG>
-			<LOCATION>Denver Colorado</LOCATION>
 			<TITLE>An Investigation into Antecedents and Consequences of Deviant Consumption Behavior of Adolescent: A Socialization Perspective</TITLE>
-			<PRESENT_AUTH id="28686159874">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="28686159875">
-				<FACULTY_NAME/>
-				<FNAME>Brennan</FNAME>
-				<MNAME/>
-				<LNAME>Davis</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>May</DTM_DATE>
 			<DTD_DATE>15</DTD_DATE>
@@ -2359,24 +2566,13 @@ Marketing Association</DESC>
 			<DATE_START>2010-05-15</DATE_START>
 			<DATE_END>2010-05-15</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="28686123009" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2010-04-15" dmd:endDate="2010-04-15">
+		<PRESENT id="28686123009" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-04-15" dmd:endDate="2010-04-15">
 			<NAME>Sharing Scholarship Series/University of Notre Dame</NAME>
-			<ORG>University of Notre Dame; Marketing Department</ORG>
-			<LOCATION>Mendoza College of Business</LOCATION>
 			<TITLE>An Investigation into Antecedents and Consequences of Deviant Consumption Behavior of Adolescent: A Socialization Perspective</TITLE>
-			<PRESENT_AUTH id="28686123010">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>April</DTM_DATE>
 			<DTD_DATE>15</DTD_DATE>
@@ -2384,24 +2580,13 @@ Marketing Association</DESC>
 			<DATE_START>2010-04-15</DATE_START>
 			<DATE_END>2010-04-15</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="12907507713" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2009-08-15" dmd:endDate="2009-08-15">
+		<PRESENT id="12907507713" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-08-15" dmd:endDate="2009-08-15">
 			<NAME>Ph.D. Project Marketing Doctoral Students Association</NAME>
-			<ORG>Price Waterhouse </ORG>
-			<LOCATION>San Diego, California</LOCATION>
 			<TITLE>Dissertatioin to Publication</TITLE>
-			<PRESENT_AUTH id="12907507714">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Learning and Pedagogical Research</CLASSIFICATION>
+			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>August</DTM_DATE>
 			<DTD_DATE>15</DTD_DATE>
@@ -2409,38 +2594,13 @@ Marketing Association</DESC>
 			<DATE_START>2009-08-15</DATE_START>
 			<DATE_END>2009-08-15</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="16622903297" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2009-02-01" dmd:endDate="2009-02-28">
+		<PRESENT id="16622903297" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-02-01" dmd:endDate="2009-02-28">
 			<NAME>Winter Educator’s Conference </NAME>
-			<ORG>American Marketing Association</ORG>
-			<LOCATION>Tampa, FL</LOCATION>
 			<TITLE>Violence and Marketing: Positive Intentions/Negative Externalities</TITLE>
-			<PRESENT_AUTH id="16622903299">
-				<FACULTY_NAME/>
-				<FNAME>Gregory </FNAME>
-				<MNAME/>
-				<LNAME>Gundlach</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="16622903298">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="16622903300">
-				<FACULTY_NAME>117577</FACULTY_NAME>
-				<FNAME>William</FNAME>
-				<MNAME>L</MNAME>
-				<LNAME>Wilkie</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>February</DTM_DATE>
 			<DTD_DATE/>
@@ -2448,45 +2608,13 @@ Marketing Association</DESC>
 			<DATE_START>2009-02-01</DATE_START>
 			<DATE_END>2009-02-28</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="12907468801" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2008-10-01" dmd:endDate="2008-10-31">
+		<PRESENT id="12907468801" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2008-10-01" dmd:endDate="2008-10-31">
 			<NAME>Erin Anderson Business to Business Conference</NAME>
-			<ORG>Wharton School of Business; University of Pennsylvania</ORG>
-			<LOCATION>Philadelphia, Pennsylvania</LOCATION>
 			<TITLE>An Exploration of Salespersons’ Internal Selling Behaviors and their Relationships with External Selling Success</TITLE>
-			<PRESENT_AUTH id="12907468802">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="12907468803">
-				<FACULTY_NAME/>
-				<FNAME>Barton </FNAME>
-				<MNAME>A</MNAME>
-				<LNAME>Weitz</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="12907468804">
-				<FACULTY_NAME/>
-				<FNAME>Longmei </FNAME>
-				<MNAME/>
-				<LNAME>Lui</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="12907468805">
-				<FACULTY_NAME/>
-				<FNAME>Jun</FNAME>
-				<MNAME/>
-				<LNAME>Xu</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>October</DTM_DATE>
 			<DTD_DATE/>
@@ -2494,45 +2622,13 @@ Marketing Association</DESC>
 			<DATE_START>2008-10-01</DATE_START>
 			<DATE_END>2008-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="16622905345" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2008-10-01" dmd:endDate="2008-10-31">
+		<PRESENT id="16622905345" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2008-10-01" dmd:endDate="2008-10-31">
 			<NAME>Erin Anderson Conference on Business To Business Marketing</NAME>
-			<ORG>Insead and Wharton</ORG>
-			<LOCATION>Wharton School of Business, Philadelphia, PA</LOCATION>
 			<TITLE>Salesperson’s Relationship Orientation and the Effective Management of Buyer Seller Relationships</TITLE>
-			<PRESENT_AUTH id="16622905346">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="16622905347">
-				<FACULTY_NAME/>
-				<FNAME>Barton </FNAME>
-				<MNAME>A</MNAME>
-				<LNAME>Weitz</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="16622905348">
-				<FACULTY_NAME/>
-				<FNAME>Longmei</FNAME>
-				<MNAME/>
-				<LNAME>Lui</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="16622905349">
-				<FACULTY_NAME/>
-				<FNAME>Jun</FNAME>
-				<MNAME/>
-				<LNAME>Xu</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>October</DTM_DATE>
 			<DTD_DATE/>
@@ -2540,9 +2636,8 @@ Marketing Association</DESC>
 			<DATE_START>2008-10-01</DATE_START>
 			<DATE_END>2008-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="49119543296" dmd:lastModified="2012-02-08T14:38:34" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<PRESENT id="49119543296" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
 			
 			
 			
@@ -2566,60 +2661,21 @@ Marketing Association</DESC>
 		
 		
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<ORG>Interorganizational Relationship Special Interest Group at the Winter American Marketing Association Meetings</ORG>
-			<LOCATION>Tampa, FL</LOCATION>
-			<PRESENT_AUTH id="49119543297">
-				
-				
-				
-				
-			
-			
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Discussant</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Panel</MEETING_TYPE>
-			<PRESENT_TYPE/>
+			<ROLE>Discussant</ROLE>
+			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<DTM_DATE/>
 			<DTD_DATE/>
 			<DTY_DATE>2005</DTY_DATE>
 			<DATE_START>2005-01-01</DATE_START>
 			<DATE_END>2005-12-31</DATE_END>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443467264" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2005-10-01" dmd:endDate="2005-10-31">
+		<PRESENT id="1443467264" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-10-01" dmd:endDate="2005-10-31">
 			<NAME>Sharing Scholarship Series</NAME>
-			<ORG/>
-			<LOCATION>University of Notre Dame</LOCATION>
 			<TITLE>The Relationship Between Salesperson Job Satisfaction and Performance:  An Empirical Investigation of the Function of Extra Role Behavior</TITLE>
-			<PRESENT_AUTH id="1443467265">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443467266">
-				<FACULTY_NAME>117512</FACULTY_NAME>
-				<FNAME>J.</FNAME>
-				<MNAME>Michael</MNAME>
-				<LNAME>Crant</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443467267">
-				<FACULTY_NAME>117552</FACULTY_NAME>
-				<FNAME>Joan</FNAME>
-				<MNAME>M</MNAME>
-				<LNAME>Phillips</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE/>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>October</DTM_DATE>
 			<DTD_DATE/>
@@ -2627,37 +2683,13 @@ Marketing Association</DESC>
 			<DATE_START>2005-10-01</DATE_START>
 			<DATE_END>2005-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443469312" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2005-05-01" dmd:endDate="2005-05-31">
+		<PRESENT id="1443469312" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-05-01" dmd:endDate="2005-05-31">
 			<NAME>Proseminar</NAME>
-			<ORG/>
-			<LOCATION>College of Business at the University of Illinois</LOCATION>
 			<TITLE>The Relationship Between Salesperson Job Satisfaction and Performance:  An Empirical Investigation of the Function of Extra Role Behavior</TITLE>
-			<PRESENT_AUTH id="1443469313">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443469314">
-				<FACULTY_NAME>117552</FACULTY_NAME>
-				<FNAME>Joan</FNAME>
-				<MNAME>M</MNAME>
-				<LNAME>Phillips</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443469315">
-				<FACULTY_NAME>117512</FACULTY_NAME>
-				<FNAME>J.</FNAME>
-				<MNAME>Michael</MNAME>
-				<LNAME>Crant</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE/>
 			<SCOPE>Local</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>May</DTM_DATE>
 			<DTD_DATE/>
@@ -2665,37 +2697,13 @@ Marketing Association</DESC>
 			<DATE_START>2005-05-01</DATE_START>
 			<DATE_END>2005-05-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443465216" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2005-01-01" dmd:endDate="2005-01-31">
+		<PRESENT id="1443465216" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-01-01" dmd:endDate="2005-01-31">
 			<NAME>University of North Florida</NAME>
-			<ORG/>
-			<LOCATION>University of North Florida</LOCATION>
 			<TITLE>Countermarketing and Demarketing Against Product Diversion:  Forensic Research in the Firearm Industry</TITLE>
-			<PRESENT_AUTH id="1443465217">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443465218">
-				<FACULTY_NAME>117577</FACULTY_NAME>
-				<FNAME>William</FNAME>
-				<MNAME>L</MNAME>
-				<LNAME>Wilkie</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443465219">
-				<FACULTY_NAME/>
-				<FNAME>Gregroy</FNAME>
-				<MNAME>T. </MNAME>
-				<LNAME>Gundlach</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Local</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>January</DTM_DATE>
 			<DTD_DATE/>
@@ -2703,23 +2711,13 @@ Marketing Association</DESC>
 			<DATE_START>2005-01-01</DATE_START>
 			<DATE_END>2005-01-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443463168" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2004-08-01" dmd:endDate="2004-08-31">
+		<PRESENT id="1443463168" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-08-01" dmd:endDate="2004-08-31">
 			<NAME>American Marketing Association; Selling and Sales Management SIG Special Session</NAME>
-			<ORG>American Marketing Association</ORG>
-			<LOCATION>Boston, MA</LOCATION>
 			<TITLE>Contemporary Research in Sales - The Emerging Focus on Teams</TITLE>
-			<PRESENT_AUTH id="1443463169">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE/>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>August</DTM_DATE>
 			<DTD_DATE/>
@@ -2727,21 +2725,11 @@ Marketing Association</DESC>
 			<DATE_START>2004-08-01</DATE_START>
 			<DATE_END>2004-08-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443452928" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<PRESENT id="1443452928" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
 			<NAME>University of Notre Dame; Sharing Scholarship Series</NAME>
-			<ORG/>
-			<LOCATION>Notre Dame, IN</LOCATION>
 			<TITLE>Safeguarding Against the Diversion of Harmful Products:  Experiences From the Firearm Industry</TITLE>
-			<PRESENT_AUTH id="1443452929">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -2751,24 +2739,13 @@ Marketing Association</DESC>
 			<DATE_START>2003-01-01</DATE_START>
 			<DATE_END>2003-12-31</DATE_END>
 			<WEBPAGE_INCLUDE/>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443461120" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2003-10-01" dmd:endDate="2003-10-31">
+		<PRESENT id="1443461120" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2003-10-01" dmd:endDate="2003-10-31">
 			<NAME>Sharing Scholarship Series; Marketing Department</NAME>
-			<ORG/>
-			<LOCATION>University of Notre Dame</LOCATION>
 			<TITLE>Safeguarding Against the Diversion of Harmful Products: Experiences From the Firearm Industry</TITLE>
-			<PRESENT_AUTH id="1443461121">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE/>
+			<ROLE/>
 			<SCOPE>Local</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>October</DTM_DATE>
 			<DTD_DATE/>
@@ -2776,30 +2753,13 @@ Marketing Association</DESC>
 			<DATE_START>2003-10-01</DATE_START>
 			<DATE_END>2003-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443454976" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2003-09-01" dmd:endDate="2003-09-30">
+		<PRESENT id="1443454976" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2003-09-01" dmd:endDate="2003-09-30">
 			<NAME>Proseminar</NAME>
-			<ORG>University of Houston</ORG>
-			<LOCATION>Houston, TX</LOCATION>
 			<TITLE>The Key Role of Tacit Knowledge in Buyer Seller Relationships:  An Explorative Study</TITLE>
-			<PRESENT_AUTH id="1443454977">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443454978">
-				<FACULTY_NAME/>
-				<FNAME>Eli</FNAME>
-				<MNAME/>
-				<LNAME>Jones</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE/>
 			<SCOPE>Local</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>September</DTM_DATE>
 			<DTD_DATE/>
@@ -2807,31 +2767,13 @@ Marketing Association</DESC>
 			<DATE_START>2003-09-01</DATE_START>
 			<DATE_END>2003-09-30</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443446784" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2003-07-01" dmd:endDate="2003-07-31">
+		<PRESENT id="1443446784" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2003-07-01" dmd:endDate="2003-07-31">
 			<NAME>Midwest Marketing Educators Conference</NAME>
-			<ORG/>
-			<LOCATION>Ohio State University; Columbus, Ohio.</LOCATION>
 			<TITLE>Safeguarding Distribution Channels Against Diversion: A Marketing Based Framework</TITLE>
-			<PRESENT_AUTH id="1443446785">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443446786">
-				<FACULTY_NAME/>
-				<FNAME>Gregory</FNAME>
-				<MNAME>T.</MNAME>
-				<LNAME>Gundlach</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE/>
+			<ROLE/>
 			<SCOPE>Regional</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>July</DTM_DATE>
 			<DTD_DATE/>
@@ -2839,38 +2781,13 @@ Marketing Association</DESC>
 			<DATE_START>2003-07-01</DATE_START>
 			<DATE_END>2003-07-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443448832" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2003-06-01" dmd:endDate="2003-06-30">
+		<PRESENT id="1443448832" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2003-06-01" dmd:endDate="2003-06-30">
 			<NAME>Marketing and Public Policy Conference</NAME>
-			<ORG/>
-			<LOCATION>Washington D.C.</LOCATION>
 			<TITLE>De-marketing and Counter-marketing Against Prohibited Customers:  Experiences From the Firearm Industry</TITLE>
-			<PRESENT_AUTH id="1443448833">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443448834">
-				<FACULTY_NAME/>
-				<FNAME>Gregory </FNAME>
-				<MNAME>T. </MNAME>
-				<LNAME>Gundlach</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443448835">
-				<FACULTY_NAME>117577</FACULTY_NAME>
-				<FNAME>William</FNAME>
-				<MNAME>L</MNAME>
-				<LNAME>Wilkie</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE/>
+			<ROLE/>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>June</DTM_DATE>
 			<DTD_DATE/>
@@ -2878,30 +2795,13 @@ Marketing Association</DESC>
 			<DATE_START>2003-06-01</DATE_START>
 			<DATE_END>2003-06-30</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443450880" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2003-04-01" dmd:endDate="2003-04-30">
+		<PRESENT id="1443450880" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2003-04-01" dmd:endDate="2003-04-30">
 			<NAME>Marketing Science Institute Conference on "Integrating Social Initiatives and Marketing Strategy"</NAME>
-			<ORG>Marketing Science Institute</ORG>
-			<LOCATION>Boston University</LOCATION>
 			<TITLE>Safeguarding Against the Diversion of Harmful Products:  Experiences From the Firearm Industry</TITLE>
-			<PRESENT_AUTH id="1443450881">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="1443450882">
-				<FACULTY_NAME/>
-				<FNAME>Gregory </FNAME>
-				<MNAME>T.</MNAME>
-				<LNAME>Gundlach</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE/>
 			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>April</DTM_DATE>
 			<DTD_DATE/>
@@ -2909,9 +2809,8 @@ Marketing Association</DESC>
 			<DATE_START>2003-04-01</DATE_START>
 			<DATE_END>2003-04-30</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="49119541248" dmd:lastModified="2012-02-08T14:38:34" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<PRESENT id="49119541248" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
 			
 			
 			
@@ -2935,53 +2834,21 @@ Marketing Association</DESC>
 		
 		
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<ORG>American Marketing Association Winter Educators Conference</ORG>
-			<LOCATION/>
-			<PRESENT_AUTH id="49119541249">
-				
-				
-				
-				
-			
-			
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Discussant</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Panel</MEETING_TYPE>
-			<PRESENT_TYPE/>
+			<ROLE>Discussant</ROLE>
+			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
 			<SCOPE/>
 			<DTM_DATE/>
 			<DTD_DATE/>
 			<DTY_DATE>2002</DTY_DATE>
 			<DATE_START>2002-01-01</DATE_START>
 			<DATE_END>2002-12-31</DATE_END>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="2375964673" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2002-01-01" dmd:endDate="2002-01-31">
+		<PRESENT id="2375964673" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2002-01-01" dmd:endDate="2002-01-31">
 			<NAME>Winter Educators' Conference</NAME>
-			<ORG>American Marketing Association</ORG>
-			<LOCATION>Tampa, Fl</LOCATION>
 			<TITLE>An Analysis of the Distribution of Handguns:  An Inter-Industry Comparison of Responsibility</TITLE>
-			<PRESENT_AUTH id="2375964674">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="2375964675">
-				<FACULTY_NAME/>
-				<FNAME>Gregory</FNAME>
-				<MNAME>T.</MNAME>
-				<LNAME>Gundlach</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>January</DTM_DATE>
 			<DTD_DATE/>
@@ -2989,23 +2856,12 @@ Marketing Association</DESC>
 			<DATE_START>2002-01-01</DATE_START>
 			<DATE_END>2002-01-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="2376011777" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2001-08-01" dmd:endDate="2001-08-31">
+		<PRESENT id="2376011777" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2001-08-01" dmd:endDate="2001-08-31">
 			<NAME>Summer Educators' Conference</NAME>
-			<ORG>American Marketing Association </ORG>
-			<LOCATION/>
 			<TITLE>Past, Present, and Future Directions in Selling and Sales Management: Perspectives from our SIG Award Winners</TITLE>
-			<PRESENT_AUTH id="2376011778">
-				<FACULTY_NAME/>
-				<FNAME/>
-				<MNAME/>
-				<LNAME/>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>August</DTM_DATE>
 			<DTD_DATE/>
@@ -3013,9 +2869,8 @@ Marketing Association</DESC>
 			<DATE_START>2001-08-01</DATE_START>
 			<DATE_END>2001-08-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="49119539200" dmd:lastModified="2012-02-08T14:38:34" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+		<PRESENT id="49119539200" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
 			
 			
 			
@@ -3037,45 +2892,20 @@ Marketing Association</DESC>
 		
 		
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<ORG>"Personal Selling in the New Millenium: Challenges and Consequences," National Sales Convention for Lock Joint and Tube, Inc., Summer</ORG>
-			<LOCATION>South Bend , IN</LOCATION>
-			<PRESENT_AUTH id="49119539201">
-				
-				
-				
-				
-			
-			
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<PRESENT_TYPE/>
+			<ROLE/>
 			<SCOPE>Regional</SCOPE>
 			<DTM_DATE/>
 			<DTD_DATE/>
 			<DTY_DATE>2000</DTY_DATE>
 			<DATE_START>2000-01-01</DATE_START>
 			<DATE_END>2000-12-31</DATE_END>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443444736" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="1998-04-01" dmd:endDate="1998-04-30">
+		<PRESENT id="1443444736" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1998-04-01" dmd:endDate="1998-04-30">
 			<NAME>Haring Symposium</NAME>
-			<ORG/>
-			<LOCATION>Indiana University; Bloomington</LOCATION>
 			<TITLE>Managing Conflict to Improve the Effectiveness of Marketing Networks</TITLE>
-			<PRESENT_AUTH id="1443444737">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>April</DTM_DATE>
 			<DTD_DATE/>
@@ -3083,23 +2913,13 @@ Marketing Association</DESC>
 			<DATE_START>1998-04-01</DATE_START>
 			<DATE_END>1998-04-30</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1443442688" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="1998-01-01" dmd:endDate="1998-01-31">
+		<PRESENT id="1443442688" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1998-01-01" dmd:endDate="1998-01-31">
 			<NAME>American Marketing Association Winter Educator's Conference</NAME>
-			<ORG/>
-			<LOCATION>Orlando, Florida</LOCATION>
 			<TITLE>Conflict in Buyer Seller Relationships</TITLE>
-			<PRESENT_AUTH id="1443442689">
-				<FACULTY_NAME>117504</FACULTY_NAME>
-				<FNAME>Kevin</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Bradford</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Discipline-based Scholarship</CLASSIFICATION>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
 			<DTM_DATE>January</DTM_DATE>
 			<DTD_DATE/>
@@ -3107,7 +2927,6 @@ Marketing Association</DESC>
 			<DATE_START>1998-01-01</DATE_START>
 			<DATE_END>1998-01-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
 		<RESPROG id="7224240129" dmd:lastModified="2013-01-31T11:41:50">
 			<TITLE>An Exploration of Salespersons’ Internal Selling Behaviors and their Relationships with External Selling Success</TITLE>
@@ -3323,22 +3142,6 @@ impact as it pertains to six different roles.</DESC>
 			<URL/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</RESPROG>
-		<SERVICE_DEPARTMENT id="47473995777" dmd:lastModified="2011-12-19T14:01:01" dmd:startDate="2010-12-01">
-			<ORG>Undergraduate Marketing Club </ORG>
-			<ROLE>Faculty Advisor</ROLE>
-			<ROLEOTHER/>
-			<DTM_START>December</DTM_START>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-12-01</START_START>
-			<START_END>2010-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_DEPARTMENT>
 		<SERVICE_DEPARTMENT id="47473903617" dmd:lastModified="2011-12-19T14:00:00" dmd:startDate="2010-08-01">
 			<ORG>Undergraduate Curriculum Committee</ORG>
 			<ROLE>Committee Member</ROLE>
@@ -3353,22 +3156,6 @@ impact as it pertains to six different roles.</DESC>
 			<DTY_END/>
 			<END_START></END_START>
 			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_DEPARTMENT>
-		<SERVICE_DEPARTMENT id="2375989249" dmd:lastModified="2011-12-19T14:00:27" dmd:startDate="1999-08-01" dmd:endDate="2011-05-31">
-			<ORG>MBA Marketing Club</ORG>
-			<ROLE>Faculty Advisor</ROLE>
-			<ROLEOTHER/>
-			<DTM_START>August</DTM_START>
-			<DTD_START/>
-			<DTY_START>1999</DTY_START>
-			<START_START>1999-08-01</START_START>
-			<START_END>1999-08-31</START_END>
-			<DTM_END>May</DTM_END>
-			<DTD_END/>
-			<DTY_END>2011</DTY_END>
-			<END_START>2011-05-01</END_START>
-			<END_END>2011-05-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
 		<SERVICE_DEPARTMENT id="2375991297" dmd:lastModified="2007-02-16T22:15:49" dmd:startDate="2004-09-01" dmd:endDate="2005-05-31">
@@ -3387,22 +3174,6 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2005-05-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_COLLEGE id="67054086144" dmd:lastModified="2013-01-31T11:44:32" dmd:startDate="2012-08-01">
-			<ORG>Honor Code Committee</ORG>
-			<ROLE>Committee Chair</ROLE>
-			<ROLEOTHER/>
-			<DTM_START>August</DTM_START>
-			<DTD_START/>
-			<DTY_START>2012</DTY_START>
-			<START_START>2012-08-01</START_START>
-			<START_END>2012-08-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_COLLEGE>
 		<SERVICE_COLLEGE id="2375981057" dmd:lastModified="2007-02-16T22:09:57" dmd:startDate="2002-01-01">
 			<ORG>Undergraduate Diversity Weekend</ORG>
 			<ROLE>Other</ROLE>
@@ -3417,6 +3188,22 @@ impact as it pertains to six different roles.</DESC>
 			<DTY_END/>
 			<END_START></END_START>
 			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="67054086144" dmd:lastModified="2015-01-30T15:20:14" dmd:startDate="2012-08-01" dmd:endDate="2013-08-31">
+			<ORG>Honor Code Committee</ORG>
+			<ROLE>Committee Chair</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2012</DTY_START>
+			<START_START>2012-08-01</START_START>
+			<START_END>2012-08-31</START_END>
+			<DTM_END>August</DTM_END>
+			<DTD_END/>
+			<DTY_END>2013</DTY_END>
+			<END_START>2013-08-01</END_START>
+			<END_END>2013-08-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
 		<SERVICE_COLLEGE id="80051013632" dmd:lastModified="2013-11-14T14:43:00" dmd:startDate="2013-06-01" dmd:endDate="2013-06-30">
@@ -3531,9 +3318,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2000-12-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
-		<SERVICE_UNIVERSITY id="47474057217" dmd:lastModified="2011-12-19T14:03:21" dmd:startDate="2009-08-01">
+		<SERVICE_UNIVERSITY id="47474057217" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-08-01">
 			<ORG>Bridges program for minority students; University of Notre Dame</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>August</DTM_START>
 			<DTD_START/>
@@ -3547,9 +3333,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="67054438400" dmd:lastModified="2013-01-31T11:48:43" dmd:startDate="2009-08-01">
+		<SERVICE_UNIVERSITY id="67054438400" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-08-01">
 			<ORG>Proctor and Gamble Leadership Camp</ORG>
-			<ROLE>Program Organizer</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>August</DTM_START>
 			<DTD_START/>
@@ -3563,9 +3348,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="19747319809" dmd:lastModified="2009-12-30T10:35:37" dmd:startDate="2009-08-01">
+		<SERVICE_UNIVERSITY id="19747319809" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-08-01">
 			<ORG>University of Notre Dame MBA Fall Open House</ORG>
-			<ROLE>Guest Speaker</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>August</DTM_START>
 			<DTD_START/>
@@ -3579,9 +3363,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="19747340289" dmd:lastModified="2009-12-30T10:37:41" dmd:startDate="2009-08-01">
+		<SERVICE_UNIVERSITY id="19747340289" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2009-08-01">
 			<ORG>University of Notre Dame Undergraduate Diversity Weekend</ORG>
-			<ROLE>Attendee, Orientation</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>August</DTM_START>
 			<DTD_START/>
@@ -3627,9 +3410,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="80051173376" dmd:lastModified="2013-11-14T14:46:45" dmd:startDate="2013-09-01" dmd:endDate="2013-09-30">
+		<SERVICE_UNIVERSITY id="80051173376" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2013-09-30">
 			<ORG>Alumni Hall Professor in Residence</ORG>
-			<ROLE>Guest Speaker</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>September</DTM_START>
 			<DTD_START/>
@@ -3643,9 +3425,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2013-09-30</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="80051077120" dmd:lastModified="2013-11-14T14:44:27" dmd:startDate="2013-04-01" dmd:endDate="2013-04-30">
+		<SERVICE_UNIVERSITY id="80051077120" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-04-01" dmd:endDate="2013-04-30">
 			<ORG>Spring Visitation</ORG>
-			<ROLE>Guest Speaker</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>April</DTM_START>
 			<DTD_START/>
@@ -3659,9 +3440,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2013-04-30</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="80051216384" dmd:lastModified="2013-11-14T14:47:51" dmd:startDate="2013-03-01" dmd:endDate="2013-03-31">
+		<SERVICE_UNIVERSITY id="80051216384" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-03-01" dmd:endDate="2013-03-31">
 			<ORG>Educational Orientation for Student Athletes</ORG>
-			<ROLE>Guest Speaker</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>March</DTM_START>
 			<DTD_START/>
@@ -3675,9 +3455,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2013-03-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="28686225409" dmd:lastModified="2010-11-12T09:44:16" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31">
+		<SERVICE_UNIVERSITY id="28686225409" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31">
 			<ORG>Student International Business Council</ORG>
-			<ROLE>Faculty Advisor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>September</DTM_START>
 			<DTD_START/>
@@ -3691,9 +3470,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2010-12-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="28686245889" dmd:lastModified="2010-11-12T09:45:53" dmd:startDate="2010-09-01" dmd:endDate="2010-09-30">
+		<SERVICE_UNIVERSITY id="28686245889" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-09-01" dmd:endDate="2010-09-30">
 			<ORG>Faculty Recruiter for Intercollegiate Athletics</ORG>
-			<ROLE>Faculty Advisor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>September</DTM_START>
 			<DTD_START/>
@@ -3707,9 +3485,8 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2010-09-30</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="28686202881" dmd:lastModified="2010-11-12T09:42:45" dmd:startDate="2010-04-10" dmd:endDate="2010-04-10">
+		<SERVICE_UNIVERSITY id="28686202881" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-04-10" dmd:endDate="2010-04-10">
 			<ORG>Siegfrried and Farley Hall Discernment Dinner</ORG>
-			<ROLE>Guest Speaker</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>April</DTM_START>
 			<DTD_START>10</DTD_START>
@@ -3851,25 +3628,6 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2000-02-28</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_PROFESSIONAL id="16622893057" dmd:lastModified="2009-08-22T00:03:05">
-			<ORG>Marketing and Public Policy Conference</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START/>
-			<START_START></START_START>
-			<START_END></START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="16622895105" dmd:lastModified="2009-08-22T00:03:38">
 			<ORG>Marketing and Public Policy Conference</ORG>
 			<ROLE>Session Chair</ROLE>
@@ -3908,101 +3666,6 @@ impact as it pertains to six different roles.</DESC>
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="28686297089" dmd:lastModified="2010-11-12T09:49:08" dmd:startDate="2010-08-01">
-			<ORG>Journal of Marketing</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>August</DTM_START>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-08-01</START_START>
-			<START_END>2010-08-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="28686440449" dmd:lastModified="2010-11-12T09:56:28" dmd:startDate="2010-08-01">
-			<ORG>Journal of Sports Management</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>August</DTM_START>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-08-01</START_START>
-			<START_END>2010-08-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="28686313473" dmd:lastModified="2010-11-12T09:49:50" dmd:startDate="2010-08-01">
-			<ORG>Journal of the Academy of Marketing Science</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START>August</DTM_START>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-08-01</START_START>
-			<START_END>2010-08-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="28686323713" dmd:lastModified="2010-11-12T09:50:37" dmd:startDate="2010-06-01">
-			<ORG>Marketing and Publicy Conference</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START>June</DTM_START>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-06-01</START_START>
-			<START_END>2010-06-30</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="28686366721" dmd:lastModified="2010-11-12T09:52:53" dmd:startDate="2010-01-01">
-			<ORG>Journal of Personal Selling and Sales Management</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>January</DTM_START>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-01-01</START_START>
-			<START_END>2010-01-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="19747393537" dmd:lastModified="2011-09-23T10:54:01" dmd:startDate="2009-05-01">
 			<ORG>Emerging Scholars Research Consortium, Stepping Forward in the Marketing and Society Field</ORG>
 			<ROLE>Other</ROLE>
@@ -4020,139 +3683,6 @@ impact as it pertains to six different roles.</DESC>
 			<DTY_END/>
 			<END_START></END_START>
 			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="19747362817" dmd:lastModified="2009-12-30T10:39:47" dmd:startDate="2009-01-01">
-			<ORG>International Journal of Conflict Management</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>January</DTM_START>
-			<DTD_START/>
-			<DTY_START>2009</DTY_START>
-			<START_START>2009-01-01</START_START>
-			<START_END>2009-01-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="19747373057" dmd:lastModified="2009-12-30T10:40:27" dmd:startDate="2009-01-01">
-			<ORG>Journal of Marketing</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>January</DTM_START>
-			<DTD_START/>
-			<DTY_START>2009</DTY_START>
-			<START_START>2009-01-01</START_START>
-			<START_END>2009-01-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="19747352577" dmd:lastModified="2009-12-30T10:39:09" dmd:startDate="2009-01-01">
-			<ORG>Marketing and Public Policy Conference</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>January</DTM_START>
-			<DTD_START/>
-			<DTY_START>2009</DTY_START>
-			<START_START>2009-01-01</START_START>
-			<START_END>2009-01-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="16622899201" dmd:lastModified="2009-08-22T00:06:39" dmd:startDate="2007-01-01">
-			<ORG>Journal of Retailer and Consumer Services</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2007</DTY_START>
-			<START_START>2007-01-01</START_START>
-			<START_END>2007-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443536896" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2004-01-01">
-			<ORG>Sales Excellence Institute Academic Advisory Board: University of Houston</ORG>
-			<ROLE>Board Member</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>National</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2004</DTY_START>
-			<START_START>2004-01-01</START_START>
-			<START_END>2004-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END/>
-			<END_START></END_START>
-			<END_END></END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="28686446593" dmd:lastModified="2013-11-04T11:10:25" dmd:startDate="2010-09-01" dmd:endDate="2012-06-30">
-			<ORG>Journal of Marketing Theory and Practice</ORG>
-			<ROLE>Editor, Journal Editorial Board</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>September</DTM_START>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-09-01</START_START>
-			<START_END>2010-09-30</START_END>
-			<DTM_END>June</DTM_END>
-			<DTD_END/>
-			<DTY_END>2012</DTY_END>
-			<END_START>2012-06-01</END_START>
-			<END_END>2012-06-30</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="28686284801" dmd:lastModified="2010-11-12T09:48:18" dmd:startDate="2010-08-01" dmd:endDate="2011-07-31">
-			<ORG>Journal of Sports Management</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>August</DTM_START>
-			<DTD_START/>
-			<DTY_START>2010</DTY_START>
-			<START_START>2010-08-01</START_START>
-			<START_END>2010-08-31</START_END>
-			<DTM_END>July</DTM_END>
-			<DTD_END/>
-			<DTY_END>2011</DTY_END>
-			<END_START>2011-07-01</END_START>
-			<END_END>2011-07-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="28686417921" dmd:lastModified="2010-11-12T09:55:35" dmd:startDate="2010-05-01" dmd:endDate="2010-05-31">
@@ -4174,25 +3704,6 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2010-05-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="16622897153" dmd:lastModified="2009-08-22T00:05:23" dmd:startDate="2007-01-01" dmd:endDate="2008-12-31">
-			<ORG>Journal of Business Ethics</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2007</DTY_START>
-			<START_START>2007-01-01</START_START>
-			<START_END>2007-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2008</DTY_END>
-			<END_START>2008-01-01</END_START>
-			<END_END>2008-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="2376005633" dmd:lastModified="2007-02-16T23:07:58" dmd:startDate="2006-01-01" dmd:endDate="2006-12-31">
 			<ORG>Winter Educators' American Marketing Association Conference</ORG>
 			<ROLE>Session Chair</ROLE>
@@ -4212,142 +3723,9 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2006-12-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443538944" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2004-01-01" dmd:endDate="2005-12-31">
-			<ORG>Winter American Marketing Association Personal Selling and Sales Management Special interest Group, 2005.</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY>Tampa</CITY>
-			<STATE>FL</STATE>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2004</DTY_START>
-			<START_START>2004-01-01</START_START>
-			<START_END>2004-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2005</DTY_END>
-			<END_START>2005-01-01</END_START>
-			<END_END>2005-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443528704" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2005-12-31">
-			<ORG>Journal of Personal Selling and Sales Management</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2000</DTY_START>
-			<START_START>2000-01-01</START_START>
-			<START_END>2000-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2005</DTY_END>
-			<END_START>2005-01-01</END_START>
-			<END_END>2005-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="2375999489" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2005-03-01" dmd:endDate="2005-07-31">
-			<ORG>Interorganizational Relationships Special Interest Group; Winter American Marketing Association</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY>Tampa</CITY>
-			<STATE>FL</STATE>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START>March</DTM_START>
-			<DTD_START/>
-			<DTY_START>2005</DTY_START>
-			<START_START>2005-03-01</START_START>
-			<START_END>2005-03-31</START_END>
-			<DTM_END>July</DTM_END>
-			<DTD_END/>
-			<DTY_END>2005</DTY_END>
-			<END_START>2005-07-01</END_START>
-			<END_END>2005-07-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443530752" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
-			<ORG>Journal of the Academy of Marketing Science</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2004</DTY_START>
-			<START_START>2004-01-01</START_START>
-			<START_END>2004-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2004</DTY_END>
-			<END_START>2004-01-01</END_START>
-			<END_END>2004-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="2376007681" dmd:lastModified="2007-02-16T23:10:23" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
-			<ORG>Winter Educators' American Marketing Association Conference:  Relationship Management Special Interest Group</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START/>
-			<START_START></START_START>
-			<START_END></START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2002</DTY_END>
-			<END_START>2002-01-01</END_START>
-			<END_END>2002-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="1443524608" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
 			<ORG>Summer American Marketing Association</ORG>
 			<ROLE>Session Chair</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2000</DTY_START>
-			<START_START>2000-01-01</START_START>
-			<START_END>2000-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2002</DTY_END>
-			<END_START>2002-01-01</END_START>
-			<END_END>2002-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443514368" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
-			<ORG>Summer American Marketing Conference</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2000</DTY_START>
-			<START_START>2000-01-01</START_START>
-			<START_END>2000-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2002</DTY_END>
-			<END_START>2002-01-01</END_START>
-			<END_END>2002-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="2376009729" dmd:lastModified="2007-02-16T23:11:21" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
-			<ORG>Winter Educators' American Marketing Association Conference:  Relationship Management Special Interest Group:  Consumer Behavior Special Interest Group</ORG>
-			<ROLE>Reviewer</ROLE>
 			<ROLEOTHER/>
 			<CITY/>
 			<STATE/>
@@ -4381,82 +3759,6 @@ impact as it pertains to six different roles.</DESC>
 			<DTY_END>2001</DTY_END>
 			<END_START>2001-01-01</END_START>
 			<END_END>2001-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443512320" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2001-12-31">
-			<ORG>National Sales Management Conference</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2000</DTY_START>
-			<START_START>2000-01-01</START_START>
-			<START_END>2000-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2001</DTY_END>
-			<END_START>2001-01-01</END_START>
-			<END_END>2001-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443508224" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
-			<ORG>Journal of Business Research</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>International</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2000</DTY_START>
-			<START_START>2000-01-01</START_START>
-			<START_END>2000-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2000</DTY_END>
-			<END_START>2000-01-01</END_START>
-			<END_END>2000-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443518464" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
-			<ORG>Society of Marketing Advances Conference</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>Regional</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>2000</DTY_START>
-			<START_START>2000-01-01</START_START>
-			<START_END>2000-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2000</DTY_END>
-			<END_START>2000-01-01</END_START>
-			<END_END>2000-12-31</END_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1443516416" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="1998-01-01" dmd:endDate="2000-12-31">
-			<ORG>Research in Relationship Marketing Conference</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE>National</AUDIENCE>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START>1998</DTY_START>
-			<START_START>1998-01-01</START_START>
-			<START_END>1998-12-31</START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2000</DTY_END>
-			<END_START>2000-01-01</END_START>
-			<END_END>2000-12-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_PROFESSIONAL>
 		<SERVICE_PUBLIC id="75439257600" dmd:lastModified="2013-07-18T10:51:44" dmd:startDate="2013-01-01">
@@ -4555,5 +3857,1105 @@ impact as it pertains to six different roles.</DESC>
 			<END_END>2004-12-31</END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_PUBLIC>
+		<EDITREV id="122699581440" dmd:lastModified="2016-01-04T12:42:49">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Marketing and Public Policy Conference</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699563008" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-08-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Marketing</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-08-01</START_START>
+			<START_END>2010-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699575296" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-08-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Sports Management</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-08-01</START_START>
+			<START_END>2010-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699579392" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-08-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of the Academy of Marketing Science</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-08-01</START_START>
+			<START_END>2010-08-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699585536" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-06-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Marketing and Publicy Conference</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START>June</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-06-01</START_START>
+			<START_END>2010-06-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699569152" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Personal Selling and Sales Management</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>January</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-01-01</START_START>
+			<START_END>2010-01-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699554816" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>International Journal of Conflict Management</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>January</DTM_START>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-01-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699565056" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Marketing</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>January</DTM_START>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-01-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699583488" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Marketing and Public Policy Conference</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>January</DTM_START>
+			<DTD_START/>
+			<DTY_START>2009</DTY_START>
+			<START_START>2009-01-01</START_START>
+			<START_END>2009-01-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699571200" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2007-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Retailer and Consumer Services</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699603968" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2004-01-01">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Sales Excellence Institute Academic Advisory Board: University of Houston</JOURNAL>
+			<ROLE>Editorial Board Member</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>National</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699601920" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-09-01" dmd:endDate="2012-06-30">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Marketing Theory and Practice</JOURNAL>
+			<ROLE>Associate Editor/Editorial Board</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>September</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-09-01</START_START>
+			<START_END>2010-09-30</START_END>
+			<DTM_END>June</DTM_END>
+			<DTD_END/>
+			<DTY_END>2012</DTY_END>
+			<END_START>2012-06-01</END_START>
+			<END_END>2012-06-30</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699573248" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-08-01" dmd:endDate="2011-07-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Sports Management</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>August</DTM_START>
+			<DTD_START/>
+			<DTY_START>2010</DTY_START>
+			<START_START>2010-08-01</START_START>
+			<START_END>2010-08-31</START_END>
+			<DTM_END>July</DTM_END>
+			<DTD_END/>
+			<DTY_END>2011</DTY_END>
+			<END_START>2011-07-01</END_START>
+			<END_END>2011-07-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699558912" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2007-01-01" dmd:endDate="2008-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Business Ethics</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2007</DTY_START>
+			<START_START>2007-01-01</START_START>
+			<START_END>2007-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2008</DTY_END>
+			<END_START>2008-01-01</END_START>
+			<END_END>2008-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699595776" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2004-01-01" dmd:endDate="2005-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Winter American Marketing Association Personal Selling and Sales Management Special interest Group, 2005.</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY>Tampa</CITY>
+			<STATE>FL</STATE>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699567104" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2000-01-01" dmd:endDate="2005-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Personal Selling and Sales Management</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-01-01</END_START>
+			<END_END>2005-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699556864" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2005-03-01" dmd:endDate="2005-07-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Interorganizational Relationships Special Interest Group; Winter American Marketing Association</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY>Tampa</CITY>
+			<STATE>FL</STATE>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START>March</DTM_START>
+			<DTD_START/>
+			<DTY_START>2005</DTY_START>
+			<START_START>2005-03-01</START_START>
+			<START_END>2005-03-31</START_END>
+			<DTM_END>July</DTM_END>
+			<DTD_END/>
+			<DTY_END>2005</DTY_END>
+			<END_START>2005-07-01</END_START>
+			<END_END>2005-07-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699577344" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of the Academy of Marketing Science</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2004</DTY_START>
+			<START_START>2004-01-01</START_START>
+			<START_END>2004-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2004</DTY_END>
+			<END_START>2004-01-01</END_START>
+			<END_END>2004-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699597824" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Winter Educators' American Marketing Association Conference:  Relationship Management Special Interest Group</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699593728" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Summer American Marketing Conference</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</EDITREV>
+		<EDITREV id="122699599872" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Winter Educators' American Marketing Association Conference:  Relationship Management Special Interest Group:  Consumer Behavior Special Interest Group</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699587584" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2000-01-01" dmd:endDate="2001-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>National Sales Management Conference</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-01-01</END_START>
+			<END_END>2001-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699560960" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Business Research</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>International</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699591680" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Society of Marketing Advances Conference</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>Regional</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>2000</DTY_START>
+			<START_START>2000-01-01</START_START>
+			<START_END>2000-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
+		<EDITREV id="122699589632" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="1998-01-01" dmd:endDate="2000-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Research in Relationship Marketing Conference</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE>National</AUDIENCE>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START>1998</DTY_START>
+			<START_START>1998-01-01</START_START>
+			<START_END>1998-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2000</DTY_END>
+			<END_START>2000-01-01</END_START>
+			<END_END>2000-12-31</END_END>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</EDITREV>
 	</Record>
 </Data>

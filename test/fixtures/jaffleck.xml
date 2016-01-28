@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2014-07-08">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="117497" username="jaffleck" termId="278" dmd:surveyId="47815">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Finance" text="Finance"/>
-		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Other" text="Other"/>
-		<PCI id="1442187264" dmd:lastModified="2012-01-07T11:58:17">
+		<PCI id="1442187264" dmd:lastModified="2015-06-17T14:49:33">
 			<PREFIX/>
 			<FNAME>John</FNAME>
 			<PFNAME/>
@@ -14,7 +13,7 @@
 			<ALT_NAME/>
 			<ENDPOS>Executive Vice President, University of Notre Dame Chair in Finance</ENDPOS>
 			<EMAIL>John.F.Affleck-Graves.1@nd.edu</EMAIL>
-			<ROOMNUM>300F Main Building</ROOMNUM>
+			<ROOMNUM>400 Main Building</ROOMNUM>
 			<OPHONE1>574</OPHONE1>
 			<OPHONE2>631</OPHONE2>
 			<OPHONE3>6760</OPHONE3>
@@ -34,6 +33,7 @@
 			<PCI_EXPERTISE id="1442187265">
 				<EXPERTISE/>
 			</PCI_EXPERTISE>
+			<UPLOAD_CV>jaffleck/pci/jaffleck-1.pdf</UPLOAD_CV>
 			<BIO>&lt;p&gt;John Affleck-Graves was elected Executive Vice President on April 30, 2004, by the Board of Trustees.  He holds the Notre Dame Chair in Finance and previously served for three years as Vice President and Associate Provost. Affleck-Graves served on the Notre Dame faculty from 1986-2000 – the final three years as Chairman of the Department of Finance and Business Economics – and returned in 2001 after a year at Florida State University as the Patty Hill Smith Eminent Scholar in Finance. He previously taught from 1975-86 at his alma mater, the University of Cape Town, where he earned bachelor’s, master’s and doctoral degrees.&lt;/p&gt;
 The author of more than 50 refereed publications, Dr. Affleck-Graves specializes in the study of initial public offerings, valuation and asset pricing models, and shareholder value added methodology. He has served as a consultant for numerous companies, including Allied Signal, Bayer, Merck, Pharmacia &amp; Upjohn, and Donnelly Glass. He has received six outstanding teaching awards at Notre Dame — three in the regular MBA Program, two in the Executive MBA Program and one for undergraduate teaching — and two others at Cape Town.</BIO>
 		</PCI>
@@ -71,91 +71,95 @@ The author of more than 50 refereed publications, Dr. Affleck-Graves specializes
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="77706903552" dmd:lastModified="2013-09-25T13:44:34" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="109513193472" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="109513193473" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Professor</RANK>
+			<TENURE>Tenured</TENURE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Administration</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="77706903552" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
 			<ADMIN_DEP id="77706903553" dmd:primaryKey="Finance">
 				<DEP>Finance</DEP>
 			</ADMIN_DEP>
-			<ADMIN_DEP id="77706903554" dmd:primaryKey="Other">
-				<DEP>Other</DEP>
-			</ADMIN_DEP>
-			<ADMIN_DEP id="77706903555">
-				<DEP/>
-			</ADMIN_DEP>
 			<RANK>Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
-			<NPRESP>Service</NPRESP>
 			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67521390592" dmd:lastModified="2013-02-13T09:58:50" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+		<ADMIN id="67521390592" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
 			<AC_YEAR>2012-2013</AC_YEAR>
 			<YEAR_START>2012-09-01</YEAR_START>
 			<YEAR_END>2013-08-31</YEAR_END>
 			<ADMIN_DEP id="67521390593" dmd:primaryKey="Finance">
 				<DEP>Finance</DEP>
 			</ADMIN_DEP>
-			<ADMIN_DEP id="67521390594" dmd:primaryKey="Other">
-				<DEP>Other</DEP>
-			</ADMIN_DEP>
-			<ADMIN_DEP id="67521390595">
-				<DEP/>
-			</ADMIN_DEP>
 			<RANK>Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
-			<NPRESP>Service</NPRESP>
 			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67521435648" dmd:lastModified="2013-02-13T09:58:58" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+		<ADMIN id="67521435648" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
 			<AC_YEAR>2011-2012</AC_YEAR>
 			<YEAR_START>2011-09-01</YEAR_START>
 			<YEAR_END>2012-08-31</YEAR_END>
 			<ADMIN_DEP id="67521435649" dmd:primaryKey="Finance">
 				<DEP>Finance</DEP>
 			</ADMIN_DEP>
-			<ADMIN_DEP id="67521435650" dmd:primaryKey="Other">
-				<DEP>Other</DEP>
-			</ADMIN_DEP>
-			<ADMIN_DEP id="67521435651">
-				<DEP/>
-			</ADMIN_DEP>
 			<RANK>Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
-			<NPRESP>Service</NPRESP>
 			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921106944" dmd:lastModified="2013-02-12T08:52:00" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="11921106944" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -164,7 +168,6 @@ The author of more than 50 refereed publications, Dr. Affleck-Graves specializes
 			</ADMIN_DEP>
 			<RANK>Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -174,7 +177,7 @@ The author of more than 50 refereed publications, Dr. Affleck-Graves specializes
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="11921104896" dmd:lastModified="2008-12-05T11:56:54" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+		<ADMIN id="11921104896" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
 			<AC_YEAR>2007-2008</AC_YEAR>
 			<YEAR_START>2007-09-01</YEAR_START>
 			<YEAR_END>2008-08-31</YEAR_END>
@@ -183,7 +186,6 @@ The author of more than 50 refereed publications, Dr. Affleck-Graves specializes
 			</ADMIN_DEP>
 			<RANK>Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -193,7 +195,7 @@ The author of more than 50 refereed publications, Dr. Affleck-Graves specializes
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="1442191360" dmd:lastModified="2007-09-17T15:17:59" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+		<ADMIN id="1442191360" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
 			<AC_YEAR>2006-2007</AC_YEAR>
 			<YEAR_START>2006-09-01</YEAR_START>
 			<YEAR_END>2007-08-31</YEAR_END>
@@ -202,7 +204,6 @@ The author of more than 50 refereed publications, Dr. Affleck-Graves specializes
 			</ADMIN_DEP>
 			<RANK>Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>

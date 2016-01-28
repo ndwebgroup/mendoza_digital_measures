@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2015-02-24">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="117578" username="owilliam" termId="278" dmd:surveyId="47896">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Management" text="Management"/>
-		<PCI id="1457162240" dmd:lastModified="2015-01-17T20:03:05">
+		<PCI id="1457162240" dmd:lastModified="2015-08-11T12:32:05">
 			<PREFIX/>
 			<FNAME>Oliver</FNAME>
 			<PFNAME/>
@@ -31,13 +31,10 @@
 			<ETHNICITY>White, Non-Hispanic</ETHNICITY>
 			<CITIZEN>Yes</CITIZEN>
 			<PCI_EXPERTISE id="1457162241">
-				<EXPERTISE>Pastoral Theology</EXPERTISE>
+				<EXPERTISE>Sustainability</EXPERTISE>
 			</PCI_EXPERTISE>
 			<PCI_EXPERTISE id="1457162242">
-				<EXPERTISE>Catholic Social Thought</EXPERTISE>
-			</PCI_EXPERTISE>
-			<PCI_EXPERTISE id="1457162243">
-				<EXPERTISE>Business, Government, and Society</EXPERTISE>
+				<EXPERTISE>Catholic Social Teaching</EXPERTISE>
 			</PCI_EXPERTISE>
 			<PCI_EXPERTISE id="1457162244">
 				<EXPERTISE>Business Ethics</EXPERTISE>
@@ -45,7 +42,7 @@
 			<PCI_EXPERTISE id="1457162245">
 				<EXPERTISE>Corporate Governance</EXPERTISE>
 			</PCI_EXPERTISE>
-			<UPLOAD_CV>owilliam/pci/owilliam.pdf</UPLOAD_CV>
+			<UPLOAD_CV>owilliam/pci/CV FULL-1.pdf</UPLOAD_CV>
 			<BIO>Oliver Williams, C.S.C. specializes in the areas of business ethics, corporate governance, and Catholic social teaching. Williams is the editor or author of 22 books as well as numerous articles on business ethics in journals.  He is the Director of the Notre Dame Center for Ethics and Religious Values in Business in the Mendoza College of Business at the University of Notre Dame. A former Naval Officer, Williams earned his doctorate from Vanderbilt University and his bachelor’s and master’s degrees from Notre Dame. He is a Catholic priest in the Congregation of Holy Cross. He served as Associate Provost of the University of Notre Dame from 1987-94 and is a past chair of the Social Issues Division of the Academy of Management. He was elected as a Professor Extraordinary at Stellenbosch University in South Africa in 2014.  In 2006, he was appointed a member of the three-person Board of Directors at the United Nations Global Compact Foundation.  The United Nations Global Compact is the world’s largest voluntary corporate citizenship initiative with over 8,000 businesses around the world as members.</BIO>
 		</PCI>
 		<ADMIN_PERM id="1457164288" dmd:lastModified="2013-01-08T20:09:48">
@@ -82,7 +79,29 @@
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="77707210752" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="109513414656" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="109513414657" dmd:primaryKey="Management">
+				<DEP>Management</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professor</RANK>
+			<TENURE>Tenured</TENURE>
+			<SABBATICAL>Yes</SABBATICAL>
+			<FTE>100</FTE>
+			<NPRESP>Master's Level Teaching</NPRESP>
+			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
+			<NPRESP>Research</NPRESP>
+			<NPRESP>Undergraduate Teaching</NPRESP>
+			<DEDMISS>100</DEDMISS>
+			<QUALIFICATION/>
+			<AACSBQUAL>Academically Qualified</AACSBQUAL>
+			<AACSBSUFF>Participating</AACSBSUFF>
+			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
+			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
+		</ADMIN>
+		<ADMIN id="77707210752" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
@@ -91,10 +110,9 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>Yes</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -104,7 +122,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="65932275712" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+		<ADMIN id="65932275712" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
 			<AC_YEAR>2012-2013</AC_YEAR>
 			<YEAR_START>2012-09-01</YEAR_START>
 			<YEAR_END>2013-08-31</YEAR_END>
@@ -113,10 +131,9 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>Yes</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -126,7 +143,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="65932283904" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+		<ADMIN id="65932283904" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
 			<AC_YEAR>2011-2012</AC_YEAR>
 			<YEAR_START>2011-09-01</YEAR_START>
 			<YEAR_END>2012-08-31</YEAR_END>
@@ -135,10 +152,9 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -148,7 +164,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="20227934210" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="20227934210" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -157,11 +173,10 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -171,7 +186,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT>Yes</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="20227932162" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="20227932162" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -180,11 +195,10 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -194,7 +208,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT>Yes</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="20227940354" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="20227940354" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -203,11 +217,10 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -217,7 +230,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT>Yes</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921917952" dmd:lastModified="2013-02-05T12:55:15" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="11921917952" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -226,7 +239,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -236,7 +248,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="11921915904" dmd:lastModified="2008-12-05T12:29:22" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+		<ADMIN id="11921915904" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
 			<AC_YEAR>2007-2008</AC_YEAR>
 			<YEAR_START>2007-09-01</YEAR_START>
 			<YEAR_END>2008-08-31</YEAR_END>
@@ -245,7 +257,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -255,7 +266,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="1457166336" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+		<ADMIN id="1457166336" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
 			<AC_YEAR>2006-2007</AC_YEAR>
 			<YEAR_START>2006-09-01</YEAR_START>
 			<YEAR_END>2007-08-31</YEAR_END>
@@ -264,7 +275,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -718,6 +728,96 @@ The same criteria as for the appointment of Professors to the University's estab
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</MEMBER>
+		<SCHTEACH id="123794061312" dmd:lastModified="2016-01-23T19:45:16" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MBET|30512|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>Spirituality of Work</TITLE>
+			<COURSEPRE>MBET</COURSEPRE>
+			<COURSENUM>30512</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>13</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>New videos and cases focusing on the key points of the course were introduced.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123794034688" dmd:lastModified="2016-01-23T19:43:25" dmd:startDate="2015-09-01" dmd:endDate="2015-12-31" dmd:primaryKey="Fall|2015|MBET|70510|01">
+			<TYT_TERM>Fall</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-09-01</TERM_START>
+			<TERM_END>2015-12-31</TERM_END>
+			<TITLE>United Nations Global Compact</TITLE>
+			<COURSEPRE>MBET</COURSEPRE>
+			<COURSENUM>70510</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>31</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>New videos and cases focusing on some key points of the course were introduced.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123794126848" dmd:lastModified="2016-01-23T19:49:37" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|BAET|30512|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Spirituality of Work</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30512</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>19</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>New videos and cases focusing on the key points of the course were introduced</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123794176000" dmd:lastModified="2016-01-23T19:52:31" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|BAET|30510|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>Sustainable Development: The UN Global Compact</TITLE>
+			<COURSEPRE>BAET</COURSEPRE>
+			<COURSENUM>30510</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>10</ENROLL>
+			<CHOURS>1.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>New videos and cases focusing on the key points of the course were introduced.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
+		<SCHTEACH id="123794096128" dmd:lastModified="2016-01-23T19:47:36" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MBET|70510|01">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>United Nations Global Compact</TITLE>
+			<COURSEPRE>MBET</COURSEPRE>
+			<COURSENUM>70510</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>34</ENROLL>
+			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM>MBA</DEGREE_PROGRAM>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN>New videos and cases focusing on some key points of the course were introduced.</PEDINN>
+			<OUTREACH/>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SCHTEACH>
 		<SCHTEACH id="103790368768" dmd:lastModified="2015-01-16T16:52:20" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|MBET|30512|01">
 			<TYT_TERM>Fall</TYT_TERM>
 			<TYY_TERM>2014</TYY_TERM>
@@ -2175,8 +2275,8 @@ The same criteria as for the appointment of Professors to the University's estab
 			<PEDINN/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</OFF_LOAD_TEACH>
-		<DSL id="66458722304" dmd:lastModified="2013-01-19T14:35:02" dmd:startDate="2012-02-01" dmd:endDate="2012-03-30">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="66458722304" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-02-01" dmd:endDate="2012-03-30">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="66458722305">
 				<FNAME/>
 				<LNAME/>
@@ -2200,11 +2300,9 @@ The same criteria as for the appointment of Professors to the University's estab
 			<END_END>2012-03-30</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<CONGRANT id="1457289216" dmd:lastModified="2013-08-05T11:23:02" dmd:startDate="2001-01-01">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="1457289216" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2001-01-01">
 			<TITLE>Projects of the Center for Ethics and Religious Values in Business</TITLE>
 			<SPONORG>Hershey Food Company and the  William Lehr, Jr. Foundation</SPONORG>
-			<AWARDORG>Private</AWARDORG>
 			<CONGRANT_INVEST id="1457289217">
 				<FACULTY_NAME>117578</FACULTY_NAME>
 				<FNAME>Oliver</FNAME>
@@ -2214,7 +2312,6 @@ The same criteria as for the appointment of Professors to the University's estab
 			</CONGRANT_INVEST>
 			<AMOUNT>10000</AMOUNT>
 			<ABSTRACT>$ 10,000 each year since 2001.</ABSTRACT>
-			<STATUS>Funded</STATUS>
 			<DTM_START>January</DTM_START>
 			<DTD_START/>
 			<DTY_START>2001</DTY_START>
@@ -2228,11 +2325,9 @@ The same criteria as for the appointment of Professors to the University's estab
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="12589238273" dmd:lastModified="2009-01-19T12:02:28" dmd:startDate="2007-05-01" dmd:endDate="2008-07-31">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="12589238273" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2007-05-01" dmd:endDate="2008-07-31">
 			<TITLE>Donald Gordon Visiting Fellow</TITLE>
 			<SPONORG>University of Cape town</SPONORG>
-			<AWARDORG>Other</AWARDORG>
 			<CONGRANT_INVEST id="12589238274">
 				<FACULTY_NAME>117578</FACULTY_NAME>
 				<FNAME>Oliver</FNAME>
@@ -2242,7 +2337,6 @@ The same criteria as for the appointment of Professors to the University's estab
 			</CONGRANT_INVEST>
 			<AMOUNT/>
 			<ABSTRACT/>
-			<STATUS/>
 			<DTM_START>May</DTM_START>
 			<DTD_START/>
 			<DTY_START>2007</DTY_START>
@@ -2256,11 +2350,9 @@ The same criteria as for the appointment of Professors to the University's estab
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="1457274880" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
-			<TYPE/>
+		<CONGRANT id="1457274880" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
 			<TITLE/>
 			<SPONORG>O'Brien Paint</SPONORG>
-			<AWARDORG/>
 			<CONGRANT_INVEST id="1457274881">
 				<FACULTY_NAME>117578</FACULTY_NAME>
 				<FNAME>Oliver</FNAME>
@@ -2275,7 +2367,6 @@ June and July (1999 to 2003).  The project
 entailed helping small businesses become 
 more efficient.  In 2003 eight MBA students 
 participated.</ABSTRACT>
-			<STATUS/>
 			<DTM_START/>
 			<DTD_START/>
 			<DTY_START>2003</DTY_START>
@@ -2289,11 +2380,9 @@ participated.</ABSTRACT>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="1457276928" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
-			<TYPE/>
+		<CONGRANT id="1457276928" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
 			<TITLE/>
 			<SPONORG/>
-			<AWARDORG/>
 			<CONGRANT_INVEST id="1457276929">
 				<FACULTY_NAME>117578</FACULTY_NAME>
 				<FNAME>Oliver</FNAME>
@@ -2306,7 +2395,6 @@ participated.</ABSTRACT>
 Research Projects of the Center for Ethics 
 and Religious Values in Business.  15,000 
 granted each year.</ABSTRACT>
-			<STATUS/>
 			<DTM_START/>
 			<DTD_START/>
 			<DTY_START>2001</DTY_START>
@@ -2320,11 +2408,9 @@ granted each year.</ABSTRACT>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<CONGRANT id="1457270784" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
-			<TYPE/>
+		<CONGRANT id="1457270784" dmd:lastModified="2016-01-07T08:42:08" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
 			<TITLE/>
 			<SPONORG/>
-			<AWARDORG/>
 			<CONGRANT_INVEST id="1457270785">
 				<FACULTY_NAME>117578</FACULTY_NAME>
 				<FNAME>Oliver</FNAME>
@@ -2337,7 +2423,6 @@ granted each year.</ABSTRACT>
 and Novartis contributed for the project on 
 HIV/AIDS and Multinational Responsibility:  
 2001-2003.</ABSTRACT>
-			<STATUS/>
 			<DTM_START/>
 			<DTD_START/>
 			<DTY_START>2001</DTY_START>
@@ -2351,7 +2436,8 @@ HIV/AIDS and Multinational Responsibility:
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<INTELLCONT id="66459131904" dmd:lastModified="2015-01-16T20:32:40" dmd:startDate="2014-11-01" dmd:endDate="2014-11-30">
+		<INTELLCONT id="66459131904" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-11-01" dmd:endDate="2014-11-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Business Ethics: Wiley's Encyclopedia of Management</PUBLISHER>
 			<TITLE>Catholic Social Teaching: Some Implications for Business Leadership</TITLE>
 			<VOLUME>Business Ethics</VOLUME>
@@ -2362,7 +2448,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2014</DTY_PUB>
 			<PUB_START>2014-11-01</PUB_START>
 			<PUB_END>2014-11-30</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="66459131905">
@@ -2371,7 +2457,6 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -2388,7 +2473,8 @@ HIV/AIDS and Multinational Responsibility:
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="66459086848" dmd:lastModified="2015-01-16T20:32:23" dmd:startDate="2014-11-01" dmd:endDate="2014-11-30">
+		<INTELLCONT id="66459086848" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-11-01" dmd:endDate="2014-11-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Business Ethics, Wiley's Encyclopedia of Management</PUBLISHER>
 			<TITLE>The United Nations Global Compact</TITLE>
 			<VOLUME>Business Ethics</VOLUME>
@@ -2399,7 +2485,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2014</DTY_PUB>
 			<PUB_START>2014-11-01</PUB_START>
 			<PUB_END>2014-11-30</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="66459086849">
@@ -2408,7 +2494,6 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -2425,7 +2510,8 @@ HIV/AIDS and Multinational Responsibility:
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="76152915968" dmd:lastModified="2015-01-16T20:31:34" dmd:startDate="2014-06-01" dmd:endDate="2014-06-30">
+		<INTELLCONT id="76152915968" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-06-01" dmd:endDate="2014-06-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Business Ethics</PUBLISHER>
 			<TITLE>The United Nations Global Compact: What Did It Promise?</TITLE>
 			<VOLUME>25</VOLUME>
@@ -2436,7 +2522,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2014</DTY_PUB>
 			<PUB_START>2014-06-01</PUB_START>
 			<PUB_END>2014-06-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="76152915969">
@@ -2445,7 +2531,6 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -2462,7 +2547,8 @@ HIV/AIDS and Multinational Responsibility:
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="76152913920" dmd:lastModified="2015-02-23T09:34:51" dmd:startDate="2014-03-01" dmd:endDate="2014-03-31">
+		<INTELLCONT id="76152913920" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-03-01" dmd:endDate="2014-03-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Corporate Citizenship</PUBLISHER>
 			<TITLE>CSR: Will It Change the World?</TITLE>
 			<VOLUME>18</VOLUME>
@@ -2473,7 +2559,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2014</DTY_PUB>
 			<PUB_START>2014-03-01</PUB_START>
 			<PUB_END>2014-03-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="76152913921">
@@ -2482,7 +2568,6 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -2499,7 +2584,8 @@ HIV/AIDS and Multinational Responsibility:
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="48315885568" dmd:lastModified="2015-01-17T20:13:01" dmd:startDate="2014-03-01" dmd:endDate="2014-03-31">
+		<INTELLCONT id="48315885568" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-03-01" dmd:endDate="2014-03-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>University of Notre Dame Press</PUBLISHER>
 			<TITLE>Sustainable Developement: The U.N. Millennium Development Goals, The U.N. Global Compact and The Common Good</TITLE>
 			<VOLUME>Edited</VOLUME>
@@ -2510,7 +2596,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2014</DTY_PUB>
 			<PUB_START>2014-03-01</PUB_START>
 			<PUB_END>2014-03-31</PUB_END>
-			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="48315885569">
@@ -2519,7 +2605,6 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -2536,7 +2621,8 @@ HIV/AIDS and Multinational Responsibility:
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="66460196864" dmd:lastModified="2015-01-16T20:28:42" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+		<INTELLCONT id="66460196864" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-12-01" dmd:endDate="2013-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Routledge</PUBLISHER>
 			<TITLE>Corporate Social Responsibility: The Role of Business in Sustainable Development</TITLE>
 			<VOLUME/>
@@ -2547,7 +2633,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-12-01</PUB_START>
 			<PUB_END>2013-12-31</PUB_END>
-			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="66460196865">
@@ -2556,7 +2642,6 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
@@ -2573,7 +2658,8 @@ HIV/AIDS and Multinational Responsibility:
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="85038456832" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-10-01" dmd:endDate="2013-10-31">
+		<INTELLCONT id="85038456832" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2013-10-01" dmd:endDate="2013-10-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>ETHISPHERE</PUBLISHER>
 			<TITLE>A Moving Target: Business Ethics in China</TITLE>
 			<VOLUME>Quarter 3, 2013</VOLUME>
@@ -2584,7 +2670,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2013</DTY_PUB>
 			<PUB_START>2013-10-01</PUB_START>
 			<PUB_END>2013-10-31</PUB_END>
-			<CONTYPE>Journal Articles, Non-Refereed</CONTYPE>
+			<CONTYPE>Non-Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="85038456833">
@@ -2593,13 +2679,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="66458953728" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
+		<INTELLCONT id="66458953728" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-12-01" dmd:endDate="2012-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Peace Forum</PUBLISHER>
 			<TITLE>Advancing Human Rights in Developing Countries: A Voluntary Opportunity or a Moral Obligation for Business?</TITLE>
 			<VOLUME>28</VOLUME>
@@ -2610,7 +2696,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-12-01</PUB_START>
 			<PUB_END>2012-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="66458953729">
@@ -2619,13 +2705,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="66459035648" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-11-01" dmd:endDate="2012-11-30">
+		<INTELLCONT id="66459035648" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2012-11-01" dmd:endDate="2012-11-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of the Labor-Pastoral Council, Archdiocese of Seoul</PUBLISHER>
 			<TITLE>The Business Leader of the 21st Century: Catholic Social Teaching as a Moral Compass</TITLE>
 			<VOLUME/>
@@ -2636,7 +2722,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2012</DTY_PUB>
 			<PUB_START>2012-11-01</PUB_START>
 			<PUB_END>2012-11-30</PUB_END>
-			<CONTYPE>Journal Articles, Non-Refereed</CONTYPE>
+			<CONTYPE>Non-Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="66459035649">
@@ -2645,13 +2731,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20232265729" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-12-01" dmd:endDate="2011-12-31">
+		<INTELLCONT id="20232265729" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2011-12-01" dmd:endDate="2011-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Handbook of Spirituality and Business/Palgrave; ed. Laszlo Zsolnai</PUBLISHER>
 			<TITLE>Business in Society: A Changing Role</TITLE>
 			<VOLUME/>
@@ -2662,7 +2748,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2011</DTY_PUB>
 			<PUB_START>2011-12-01</PUB_START>
 			<PUB_END>2011-12-31</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="20232265730">
@@ -2671,13 +2757,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="32165320705" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-12-01" dmd:endDate="2011-12-01">
+		<INTELLCONT id="32165320705" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2011-12-01" dmd:endDate="2011-12-01">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Journal of Catholic Social Thought</PUBLISHER>
 			<TITLE>Is It Possible to Have a Business Based on Solidarity  and Mutual Trust?  The Challenge of Catholic Social Teaching to Capitalism and the Promise of Southwest Airlines</TITLE>
 			<VOLUME>9</VOLUME>
@@ -2688,7 +2774,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2011</DTY_PUB>
 			<PUB_START>2011-12-01</PUB_START>
 			<PUB_END>2011-12-01</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="32165320706">
@@ -2697,13 +2783,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="32167536641" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-09-01" dmd:endDate="2010-09-30">
+		<INTELLCONT id="32167536641" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2010-09-01" dmd:endDate="2010-09-30">
+			<STATUS/>
 			<PUBLISHER>The 2010-2011 University of Notre Dame Forum</PUBLISHER>
 			<TITLE>The Global Marketplace and the Common Good: Some Reflections</TITLE>
 			<VOLUME/>
@@ -2723,13 +2809,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="32167548929" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-05-01" dmd:endDate="2010-05-31">
+		<INTELLCONT id="32167548929" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2010-05-01" dmd:endDate="2010-05-31">
+			<STATUS/>
 			<PUBLISHER>ASK MORE OF BUSINESS</PUBLISHER>
 			<TITLE>Civilizing the Economy and Catholic Social Teaching</TITLE>
 			<VOLUME/>
@@ -2749,13 +2835,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20232253441" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-17" dmd:endDate="2009-12-17">
+		<INTELLCONT id="20232253441" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-12-17" dmd:endDate="2009-12-17">
+			<STATUS/>
 			<PUBLISHER>ASK MORE OF BUSINESS</PUBLISHER>
 			<TITLE>Peace Through  Commerce: Business as a Vocation</TITLE>
 			<VOLUME/>
@@ -2775,13 +2861,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20232247297" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-04" dmd:endDate="2009-12-04">
+		<INTELLCONT id="20232247297" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-12-04" dmd:endDate="2009-12-04">
+			<STATUS/>
 			<PUBLISHER>ASK MORE OF BUSINESS</PUBLISHER>
 			<TITLE>Peace Through Commerce: The New Role For Business</TITLE>
 			<VOLUME/>
@@ -2801,13 +2887,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20232306689" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-05-10" dmd:endDate="2009-05-10">
+		<INTELLCONT id="20232306689" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-05-10" dmd:endDate="2009-05-10">
+			<STATUS/>
 			<PUBLISHER>Catholic News Service</PUBLISHER>
 			<TITLE>The Catholic Church in Africa</TITLE>
 			<VOLUME/>
@@ -2827,13 +2913,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20232212481" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-04-30" dmd:endDate="2009-04-30">
+		<INTELLCONT id="20232212481" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-04-30" dmd:endDate="2009-04-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Praxis: Journal for Christian Business Leadership</PUBLISHER>
 			<TITLE>Recasting the Bottom Line: The Role of the Principles for Responsible Management Education in Educating for Capitalism in the 21st Century</TITLE>
 			<VOLUME>17</VOLUME>
@@ -2844,7 +2930,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2009</DTY_PUB>
 			<PUB_START>2009-04-30</PUB_START>
 			<PUB_END>2009-04-30</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="20232212482">
@@ -2853,13 +2939,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20232296449" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-01-19" dmd:endDate="2009-01-19">
+		<INTELLCONT id="20232296449" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-01-19" dmd:endDate="2009-01-19">
+			<STATUS/>
 			<PUBLISHER>Catholic News Service</PUBLISHER>
 			<TITLE>When Have I Done Enough to Assist the Poor?</TITLE>
 			<VOLUME/>
@@ -2879,13 +2965,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20232288257" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-01-12" dmd:endDate="2009-01-12">
+		<INTELLCONT id="20232288257" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2009-01-12" dmd:endDate="2009-01-12">
+			<STATUS/>
 			<PUBLISHER>Catholic News Service</PUBLISHER>
 			<TITLE>Learning to Love is a Protection Against Greed</TITLE>
 			<VOLUME/>
@@ -2905,13 +2991,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="20232198145" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2008-09-01" dmd:endDate="2008-09-30">
+		<INTELLCONT id="20232198145" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-09-01" dmd:endDate="2008-09-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>University of Notre Dame Press</PUBLISHER>
 			<TITLE>Peace Through Commerce: Responsible Corporate Citizenship and the Ideals of the UN Global Compact</TITLE>
 			<VOLUME/>
@@ -2922,7 +3008,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-09-01</PUB_START>
 			<PUB_END>2008-09-30</PUB_END>
-			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER>Editor and contributor to a refereed book</CONTYPEOTHER>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="20232198146">
@@ -2931,13 +3017,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>The book focuses on how business can promote peace. Chapters address the purpose of the corporation; the influence of legal and peace studies;and the experience of NGO officials and business leaders. Ten case studies document the efforts of individual businesses in the cause of promoting peace. Final chapters reflect on the conceptual foundations of this new role of business in society.</ABSTRACT>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457348608" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2008-06-01" dmd:endDate="2008-06-30">
+		<INTELLCONT id="1457348608" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-06-01" dmd:endDate="2008-06-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Leadership and Business Ethics/ Springer;ed. Gabriel Flynn</PUBLISHER>
 			<TITLE>The UN Global Compact:Leadership and Business Ethics</TITLE>
 			<VOLUME/>
@@ -2948,7 +3034,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-06-01</PUB_START>
 			<PUB_END>2008-06-30</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457348609">
@@ -2957,13 +3043,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="7160702977" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2008-01-01" dmd:endDate="2008-01-31">
+		<INTELLCONT id="7160702977" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2008-01-01" dmd:endDate="2008-01-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Management: Fresh Perspectives/Pearson Prentice Hall</PUBLISHER>
 			<TITLE>Buisness Ethics in a South African Context</TITLE>
 			<VOLUME/>
@@ -2974,7 +3060,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2008</DTY_PUB>
 			<PUB_START>2008-01-01</PUB_START>
 			<PUB_END>2008-01-31</PUB_END>
-			<CONTYPE>Book, Scholarly-Contributed Chapter</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="7160702978">
@@ -2983,13 +3069,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457319936" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<INTELLCONT id="1457319936" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Cape Times</PUBLISHER>
 			<TITLE>South Africa Needs Moral Leadership to Retain Legitimacy</TITLE>
 			<VOLUME>31-Jul-05</VOLUME>
@@ -3009,13 +3095,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457344512" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<INTELLCONT id="1457344512" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>St. Augustine Occasional Papers Series</PUBLISHER>
 			<TITLE>The Global Compact in the African Context</TITLE>
 			<VOLUME/>
@@ -3026,7 +3112,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2005</DTY_PUB>
 			<PUB_START>2005-01-01</PUB_START>
 			<PUB_END>2005-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457344513">
@@ -3035,13 +3121,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457321984" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<INTELLCONT id="1457321984" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+			<STATUS/>
 			<PUBLISHER>Agenda</PUBLISHER>
 			<TITLE>The Renaissance in Africa:  An Ethical View</TITLE>
 			<VOLUME>December</VOLUME>
@@ -3061,13 +3147,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457317888" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2005-07-01" dmd:endDate="2005-07-31">
+		<INTELLCONT id="1457317888" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2005-07-01" dmd:endDate="2005-07-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Cape Times</PUBLISHER>
 			<TITLE>Growing Divide Between the Values of Business and Society Needs More Attention</TITLE>
 			<VOLUME>4-Jul</VOLUME>
@@ -3087,13 +3173,13 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457342464" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2005-07-01" dmd:endDate="2005-07-31">
+		<INTELLCONT id="1457342464" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2005-07-01" dmd:endDate="2005-07-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>In Proceedings of the conference "Managing in a Global Economy X1" of the Eastern Academy of Management</PUBLISHER>
 			<TITLE>Restoring Public Trust in Business:  The Crucial Role of Good Corporate Governance"</TITLE>
 			<VOLUME/>
@@ -3104,7 +3190,7 @@ HIV/AIDS and Multinational Responsibility:
 			<DTY_PUB>2005</DTY_PUB>
 			<PUB_START>2005-07-01</PUB_START>
 			<PUB_END>2005-07-31</PUB_END>
-			<CONTYPE>Published Conference Proceedings</CONTYPE>
+			<CONTYPE>Academic/Professional Meeting Proceedings</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457342465">
@@ -3113,7 +3199,6 @@ HIV/AIDS and Multinational Responsibility:
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>In Proceedings of the conference "Managing 
 in a Global Economy X1" of the Eastern 
@@ -3121,7 +3206,8 @@ Academy of Management</ABSTRACT>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457299456" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<INTELLCONT id="1457299456" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Case Studies in Business Ethics/Pearson Prentice Hall</PUBLISHER>
 			<TITLE>AIDS and Life Saving Medicines: Responsibilities", in A. Gini, editor,</TITLE>
 			<VOLUME/>
@@ -3132,7 +3218,7 @@ Academy of Management</ABSTRACT>
 			<DTY_PUB>2004</DTY_PUB>
 			<PUB_START>2004-01-01</PUB_START>
 			<PUB_END>2004-12-31</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457299457">
@@ -3141,13 +3227,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457338368" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<INTELLCONT id="1457338368" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<STATUS/>
 			<PUBLISHER>Business Ethics Quarterly</PUBLISHER>
 			<TITLE>Shaping a High - Trust Society:  The Crucial Role of Codes of Conduct</TITLE>
 			<VOLUME>volume 14, issue 2</VOLUME>
@@ -3167,13 +3253,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457340416" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<INTELLCONT id="1457340416" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Business Ethics Quarterly </PUBLISHER>
 			<TITLE>The UN Global Compact:  The Challenge and the Promise</TITLE>
 			<VOLUME>volume 14, issue 4</VOLUME>
@@ -3184,7 +3270,7 @@ Academy of Management</ABSTRACT>
 			<DTY_PUB>2004</DTY_PUB>
 			<PUB_START>2004-01-01</PUB_START>
 			<PUB_END>2004-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457340417">
@@ -3193,13 +3279,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457315840" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<INTELLCONT id="1457315840" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+			<STATUS/>
 			<PUBLISHER>Business Day</PUBLISHER>
 			<TITLE>What Will it Take to Restore Public Trust in Business</TITLE>
 			<VOLUME>28-Jun</VOLUME>
@@ -3219,13 +3305,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="7160717313" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="7160717313" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS/>
 			<PUBLISHER>University of Notre Dame Press</PUBLISHER>
 			<TITLE>Business, Religion, and Spirituality: A Brief History</TITLE>
 			<VOLUME/>
@@ -3236,7 +3322,7 @@ Academy of Management</ABSTRACT>
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-01-01</PUB_START>
 			<PUB_END>2003-12-31</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="7160717314">
@@ -3245,13 +3331,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="7160715265" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="7160715265" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>University of Notre Dame Press</PUBLISHER>
 			<TITLE>Business, Religion, and Spirituality: A New Synthesis</TITLE>
 			<VOLUME/>
@@ -3262,7 +3348,7 @@ Academy of Management</ABSTRACT>
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-01-01</PUB_START>
 			<PUB_END>2003-12-31</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER>Editor and Contributor</CONTYPEOTHER>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="7160715266">
@@ -3277,13 +3363,13 @@ Academy of Management</ABSTRACT>
 				<MNAME/>
 				<LNAME>Cunningham</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457303552" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="1457303552" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS/>
 			<PUBLISHER>CAREERNG - UCT Career Development Programme</PUBLISHER>
 			<TITLE>Corruption and Self-Deception</TITLE>
 			<VOLUME>August</VOLUME>
@@ -3294,7 +3380,7 @@ Academy of Management</ABSTRACT>
 			<DTY_PUB>2003</DTY_PUB>
 			<PUB_START>2003-01-01</PUB_START>
 			<PUB_END>2003-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Non-Refereed</CONTYPE>
+			<CONTYPE>Non-Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457303553">
@@ -3303,13 +3389,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457307648" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="1457307648" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS/>
 			<PUBLISHER>Business Day</PUBLISHER>
 			<TITLE>Major US Companies Doubt Global Compact Credentials</TITLE>
 			<VOLUME>22-Apr</VOLUME>
@@ -3329,13 +3415,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457309696" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="1457309696" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS/>
 			<PUBLISHER>The Business Ethics Network of Africa Newsletter </PUBLISHER>
 			<TITLE>The United Nations Global Compact in Africa</TITLE>
 			<VOLUME>June</VOLUME>
@@ -3355,13 +3441,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457305600" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+		<INTELLCONT id="1457305600" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			<STATUS/>
 			<PUBLISHER>The Indianapolis Star</PUBLISHER>
 			<TITLE>Wealthy Nations:  Follow US Lead on AIDS Relief</TITLE>
 			<VOLUME>10-Jun</VOLUME>
@@ -3381,13 +3467,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457326080" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<INTELLCONT id="1457326080" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<STATUS/>
 			<PUBLISHER>Praxis</PUBLISHER>
 			<TITLE>Ethical Dimensions of Issues of Access To Medicines and Care</TITLE>
 			<VOLUME>10(3)</VOLUME>
@@ -3407,13 +3493,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="7160713217" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+		<INTELLCONT id="7160713217" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Kluwer Academic Publishers</PUBLISHER>
 			<TITLE>Economic Imperatives and Ethical Values in Global Business: The South African Experience and International Codes Today</TITLE>
 			<VOLUME/>
@@ -3424,7 +3510,7 @@ Academy of Management</ABSTRACT>
 			<DTY_PUB>2001</DTY_PUB>
 			<PUB_START>2001-01-01</PUB_START>
 			<PUB_END>2001-12-31</PUB_END>
-			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="7160713218">
@@ -3439,13 +3525,13 @@ Academy of Management</ABSTRACT>
 				<MNAME/>
 				<LNAME>Sethi</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="7160711169" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+		<INTELLCONT id="7160711169" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>University of Notre Dame Press</PUBLISHER>
 			<TITLE>A Lesson From the Sullivan Principles: The Rewards for being Proactive</TITLE>
 			<VOLUME/>
@@ -3456,7 +3542,7 @@ Academy of Management</ABSTRACT>
 			<DTY_PUB>2000</DTY_PUB>
 			<PUB_START>2000-01-01</PUB_START>
 			<PUB_END>2000-12-31</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="7160711170">
@@ -3465,13 +3551,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>In the book Global Codes of Conduct</ABSTRACT>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457330176" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+		<INTELLCONT id="1457330176" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<STATUS/>
 			<PUBLISHER/>
 			<TITLE>Creating and Implementing Global Codes of Conduct:  An Assessment of the Sullivan Principles As A Role Model for Developing International Codes of Conduct</TITLE>
 			<VOLUME>105(2)</VOLUME>
@@ -3497,13 +3583,13 @@ Academy of Management</ABSTRACT>
 				<MNAME>Prakash</MNAME>
 				<LNAME>Sethi</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457311744" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+		<INTELLCONT id="1457311744" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>University of Notre Dame Press</PUBLISHER>
 			<TITLE>Global Codes of Conduct: An Idea Whose Time Has Come</TITLE>
 			<VOLUME/>
@@ -3514,7 +3600,7 @@ Academy of Management</ABSTRACT>
 			<DTY_PUB>2000</DTY_PUB>
 			<PUB_START>2000-01-01</PUB_START>
 			<PUB_END>2000-12-31</PUB_END>
-			<CONTYPE>Book, Scholarly</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER>Editor and Contributor</CONTYPEOTHER>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457311745">
@@ -3547,14 +3633,14 @@ Academy of Management</ABSTRACT>
 				<MNAME/>
 				<LNAME>Murphy</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Graduate School of Business, University of 
 Cape Town</ABSTRACT>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457328128" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+		<INTELLCONT id="1457328128" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<STATUS/>
 			<PUBLISHER>Global Focus</PUBLISHER>
 			<TITLE>Review of Marina v. N. Whitman,</TITLE>
 			<VOLUME/>
@@ -3574,13 +3660,13 @@ Cape Town</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457332224" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+		<INTELLCONT id="1457332224" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
+			<STATUS/>
 			<PUBLISHER>Boston:  Harvard Business School Press</PUBLISHER>
 			<TITLE>Review of Marina v.N. Whiteman, New World, New Rules</TITLE>
 			<VOLUME>12(4)</VOLUME>
@@ -3600,13 +3686,13 @@ Cape Town</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457324032" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2000-01-01" dmd:endDate="2000-01-31">
+		<INTELLCONT id="1457324032" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2000-01-01" dmd:endDate="2000-01-31">
+			<STATUS/>
 			<PUBLISHER>Business and Society Review</PUBLISHER>
 			<TITLE>Creating and Implementing Global Codes of Conduct:  An Assessment of the Sullivan Principles As a Role Model for Developing International Codes of Conduct</TITLE>
 			<VOLUME>105</VOLUME>
@@ -3617,7 +3703,7 @@ Cape Town</ABSTRACT>
 			<DTY_PUB>2000</DTY_PUB>
 			<PUB_START>2000-01-01</PUB_START>
 			<PUB_END>2000-01-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457324033">
@@ -3632,13 +3718,13 @@ Cape Town</ABSTRACT>
 				<MNAME>Prakash</MNAME>
 				<LNAME>Sethi</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT>105 (2): 169-200</ABSTRACT>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457334272" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+		<INTELLCONT id="1457334272" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>The Moral Imagination</PUBLISHER>
 			<TITLE>Other People's Money: A Study in Self Deception</TITLE>
 			<VOLUME/>
@@ -3649,7 +3735,7 @@ Cape Town</ABSTRACT>
 			<DTY_PUB>1998</DTY_PUB>
 			<PUB_START>1998-01-01</PUB_START>
 			<PUB_END>1998-12-31</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457334273">
@@ -3658,14 +3744,14 @@ Cape Town</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>University of Notre Dame Press.  In O.F. 
 Williams, C.S.C., editor</ABSTRACT>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457336320" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+		<INTELLCONT id="1457336320" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<STATUS/>
 			<PUBLISHER>Business and the Contemporary World</PUBLISHER>
 			<TITLE>Review of Gilbert W. Fairholm</TITLE>
 			<VOLUME/>
@@ -3685,13 +3771,13 @@ Williams, C.S.C., editor</ABSTRACT>
 				<MNAME>F</MNAME>
 				<LNAME>Williams, C.S.C.</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT>X(3)</ABSTRACT>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1457313792" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+		<INTELLCONT id="1457313792" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1998-01-01" dmd:endDate="1998-12-31">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>The University of Notre Dame Press</PUBLISHER>
 			<TITLE>The Moral Imagination:  Doing Well While Doing Good</TITLE>
 			<VOLUME/>
@@ -3702,7 +3788,7 @@ Williams, C.S.C., editor</ABSTRACT>
 			<DTY_PUB>1998</DTY_PUB>
 			<PUB_START>1998-01-01</PUB_START>
 			<PUB_END>1998-12-31</PUB_END>
-			<CONTYPE>Book, Referred Article</CONTYPE>
+			<CONTYPE>Research Monographs/Books</CONTYPE>
 			<CONTYPEOTHER>Editor and contribtor</CONTYPEOTHER>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<INTELLCONT_AUTH id="1457313793">
@@ -3735,40 +3821,18 @@ Williams, C.S.C., editor</ABSTRACT>
 				<MNAME/>
 				<LNAME/>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT>Notre Dame Business, College of Business 
 Administration, University of Notre Dame</ABSTRACT>
 			<WEBPAGE_INCLUDE/>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT_OTHER id="7160741889" dmd:lastModified="2015-01-17T14:53:51">
-			<TITLE>Center for Ethics and Religious Values in Business, Director</TITLE>
-			<DESC>Under the umbrella of the Center for Ethics and Relilgious Values in Business, conferences are organized and some papers are published in volumes widely used in business schools.  In November 2006, the conference Peace Through Commerce  was convened with several partners: The United Nations, The Kroc Institute for Peace Studies and the AACSB. A book was published in 2008 by the University of Notre Dame Press.
-
-In  March 2011 a conference was held  at Notre Dame on THE UN MILLENNIUM DEVELOPMENT GOALS, THE GLOBAL COMPACT AND THE COMMON GOOD. Convened by the Center for Ethics and Religious Values in Business, the United Nations Global Compact, and the United Nations Principles for Responsible Management Education Secretriat, the conference brought together scholars, government officials, and leading businesses advancing the Millennium Development Goals, showcasing some of the major figures in the field. See the conference website for details: http://business.nd.edu/globalcompact/
-The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPMENT: THE U.N. MILLENNIUM DEVELOPMENT GOALS, THE U.N. GLOBAL COMPACT AND THE COMMON GOOD.</DESC>
-		</INTELLCONT_OTHER>
-		<INTELLCONT_OTHER id="7160735745" dmd:lastModified="2013-08-04T11:02:23">
-			<TITLE>See Faculty Development Activities Attended</TITLE>
-			<DESC/>
-		</INTELLCONT_OTHER>
-		<PRESENT id="76202027008" dmd:lastModified="2015-01-17T11:10:01" dmd:startDate="2014-12-07" dmd:endDate="2014-12-07">
+		<PRESENT id="76202027008" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-12-07" dmd:endDate="2014-12-07">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Hesburgh Lecture</NAME>
-			<ORG>Notre Dame Club of Richmond, Virginia</ORG>
-			<LOCATION>Glen Allen, Virginia</LOCATION>
 			<TITLE>Can You Do Well While Doing Good</TITLE>
-			<PRESENT_AUTH id="76202027009">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3778,24 +3842,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-12-07</DATE_START>
 			<DATE_END>2014-12-07</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103806414848" dmd:lastModified="2015-01-17T13:40:33" dmd:startDate="2014-10-22" dmd:endDate="2014-10-22">
+		<PRESENT id="103806414848" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-10-22" dmd:endDate="2014-10-22">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>United Nations University</NAME>
-			<ORG>Graduate School for Developing Countries</ORG>
-			<LOCATION>Tokyo, Japan</LOCATION>
 			<TITLE>Sustainability in Developing Countries</TITLE>
-			<PRESENT_AUTH id="103806414849">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3805,24 +3858,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-10-22</DATE_START>
 			<DATE_END>2014-10-22</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103806347264" dmd:lastModified="2015-01-17T13:37:57" dmd:startDate="2014-10-20" dmd:endDate="2014-10-20">
+		<PRESENT id="103806347264" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-10-20" dmd:endDate="2014-10-20">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Keio University, Mita Campus</NAME>
-			<ORG>Keio University</ORG>
-			<LOCATION>Tokyo, Japan</LOCATION>
 			<TITLE>The UN Global Compact and Sustainable Development</TITLE>
-			<PRESENT_AUTH id="103806347265">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3832,24 +3874,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-10-20</DATE_START>
 			<DATE_END>2014-10-20</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103806142464" dmd:lastModified="2015-01-17T13:29:50" dmd:startDate="2014-10-16" dmd:endDate="2014-10-16">
+		<PRESENT id="103806142464" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-10-16" dmd:endDate="2014-10-16">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Hesburgh Lecture</NAME>
-			<ORG>Notre Dame Club of Milwaukee</ORG>
-			<LOCATION>Milwaukee, Wisconsin</LOCATION>
 			<TITLE>Business and Catholic Social Teaching</TITLE>
-			<PRESENT_AUTH id="103806142465">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3859,24 +3890,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-10-16</DATE_START>
 			<DATE_END>2014-10-16</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103806042112" dmd:lastModified="2015-01-17T13:25:39" dmd:startDate="2014-09-15" dmd:endDate="2014-09-15">
+		<PRESENT id="103806042112" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-09-15" dmd:endDate="2014-09-15">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Hesburgh Lecture</NAME>
-			<ORG>Notre Dame Club of Houston Texas</ORG>
-			<LOCATION>St. Thomas University, Houston</LOCATION>
 			<TITLE>Sustainable Development: The Challenge for Business</TITLE>
-			<PRESENT_AUTH id="103806042113">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3886,24 +3906,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-09-15</DATE_START>
 			<DATE_END>2014-09-15</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103806087168" dmd:lastModified="2015-01-17T13:27:28" dmd:startDate="2014-09-11" dmd:endDate="2014-09-11">
+		<PRESENT id="103806087168" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-09-11" dmd:endDate="2014-09-11">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Hesburgh Lecture</NAME>
-			<ORG>Notre Dame Club of Orange County, CA</ORG>
-			<LOCATION>Newport Beach, CA</LOCATION>
 			<TITLE>Ethics in Business Today</TITLE>
-			<PRESENT_AUTH id="103806087169">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3913,24 +3922,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-09-11</DATE_START>
 			<DATE_END>2014-09-11</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803301888" dmd:lastModified="2015-01-17T11:14:00" dmd:startDate="2014-08-03" dmd:endDate="2014-08-03">
+		<PRESENT id="103803301888" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-08-03" dmd:endDate="2014-08-03">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Showcase Symposium</NAME>
-			<ORG>2014 Academy of Management</ORG>
-			<LOCATION>Philadelphia</LOCATION>
 			<TITLE>The Contested Narure of the UN Global Compact</TITLE>
-			<PRESENT_AUTH id="103803301889">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3940,24 +3938,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-08-03</DATE_START>
 			<DATE_END>2014-08-03</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803394048" dmd:lastModified="2015-01-17T11:16:44" dmd:startDate="2014-08-02" dmd:endDate="2014-08-02">
+		<PRESENT id="103803394048" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-08-02" dmd:endDate="2014-08-02">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>2014 Annual Meeting</NAME>
-			<ORG>Society of Business Ethics</ORG>
-			<LOCATION>Philadelphia</LOCATION>
 			<TITLE>The Religious Perspective on Bribery</TITLE>
-			<PRESENT_AUTH id="103803394049">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Panel</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3967,24 +3954,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-08-02</DATE_START>
 			<DATE_END>2014-08-02</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803746304" dmd:lastModified="2015-01-17T11:33:43" dmd:startDate="2014-07-03" dmd:endDate="2014-07-03">
+		<PRESENT id="103803746304" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-07-03" dmd:endDate="2014-07-03">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>Korea-ASEAN Youth-CSR Conference</NAME>
-			<ORG>Global Compact Korea Network</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>CSR Trends and Best Practices</TITLE>
-			<PRESENT_AUTH id="103803746305">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -3994,24 +3970,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-07-03</DATE_START>
 			<DATE_END>2014-07-03</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803809792" dmd:lastModified="2015-01-17T11:36:21" dmd:startDate="2014-06-19" dmd:endDate="2014-06-19">
+		<PRESENT id="103803809792" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-06-19" dmd:endDate="2014-06-19">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>St Augustine College</NAME>
-			<ORG>St Augustine College</ORG>
-			<LOCATION>Johannesburg, South Africa</LOCATION>
 			<TITLE>Economics and Ethics of Sustainable Development</TITLE>
-			<PRESENT_AUTH id="103803809793">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4021,24 +3986,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-06-19</DATE_START>
 			<DATE_END>2014-06-19</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103806294016" dmd:lastModified="2015-01-17T13:35:30" dmd:startDate="2014-06-03" dmd:endDate="2014-06-03">
+		<PRESENT id="103806294016" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-06-03" dmd:endDate="2014-06-03">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Institute for Advanced Studies</NAME>
-			<ORG>Stellenbosch University</ORG>
-			<LOCATION>Stellenbosch, South Africa</LOCATION>
 			<TITLE>The Role of Business in Sustainable Development</TITLE>
-			<PRESENT_AUTH id="103806294017">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4048,24 +4002,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-06-03</DATE_START>
 			<DATE_END>2014-06-03</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103806230528" dmd:lastModified="2015-01-17T13:32:58" dmd:startDate="2014-05-30" dmd:endDate="2014-05-30">
+		<PRESENT id="103806230528" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-05-30" dmd:endDate="2014-05-30">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>CSR: The Role of Business in Sustainable Development</NAME>
-			<ORG>Nelson Mandela Municipal University</ORG>
-			<LOCATION>Port Elizabeth, South Africa</LOCATION>
 			<TITLE>Sustainable Development</TITLE>
-			<PRESENT_AUTH id="103806230529">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4075,24 +4018,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-05-30</DATE_START>
 			<DATE_END>2014-05-30</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803183104" dmd:lastModified="2015-01-17T11:06:09" dmd:startDate="2014-04-14" dmd:endDate="2014-04-14">
+		<PRESENT id="103803183104" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-04-14" dmd:endDate="2014-04-14">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>Global Landscapes Conference/ King's College</NAME>
-			<ORG>The Institute for Public Policy and Economic Development</ORG>
-			<LOCATION>Wilkes Barre, PA</LOCATION>
 			<TITLE>Economics and Ethics of Sustainable Development</TITLE>
-			<PRESENT_AUTH id="103803183105">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4102,24 +4034,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-04-14</DATE_START>
 			<DATE_END>2014-04-14</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103806607360" dmd:lastModified="2015-01-17T13:46:54" dmd:startDate="2014-03-31" dmd:endDate="2014-03-31">
+		<PRESENT id="103806607360" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-03-31" dmd:endDate="2014-03-31">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>Business Ethics Conference for Deans of Catholic Schools of Business</NAME>
-			<ORG>St Thomas University, Houston, Texas</ORG>
-			<LOCATION>Houston, TX</LOCATION>
 			<TITLE>Catholic Social Teaching and Business Practice</TITLE>
-			<PRESENT_AUTH id="103806607361">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4129,24 +4050,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-03-31</DATE_START>
 			<DATE_END>2014-03-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803680768" dmd:lastModified="2015-01-17T11:30:33" dmd:startDate="2014-03-25" dmd:endDate="2014-03-25">
+		<PRESENT id="103803680768" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-03-25" dmd:endDate="2014-03-25">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>The Annual St. Joseph Aquinas Lecture and Hesburgh Lecture</NAME>
-			<ORG>Notre Dame Club of Rhode Island/SE MA</ORG>
-			<LOCATION>Providence College, Providence, RI</LOCATION>
 			<TITLE>Can You Do Well While Doing Good?</TITLE>
-			<PRESENT_AUTH id="103803680769">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4156,24 +4066,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-03-25</DATE_START>
 			<DATE_END>2014-03-25</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803498496" dmd:lastModified="2015-01-17T11:21:50" dmd:startDate="2014-03-24" dmd:endDate="2014-03-24">
+		<PRESENT id="103803498496" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-03-24" dmd:endDate="2014-03-24">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Stonehill Collete</NAME>
-			<ORG>Stonehill College</ORG>
-			<LOCATION>North Easton, MA</LOCATION>
 			<TITLE>Environmental Justice and Economic Development</TITLE>
-			<PRESENT_AUTH id="103803498497">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4183,24 +4082,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-03-24</DATE_START>
 			<DATE_END>2014-03-24</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803584512" dmd:lastModified="2015-01-17T11:26:42" dmd:startDate="2014-03-20" dmd:endDate="2014-03-20">
+		<PRESENT id="103803584512" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-03-20" dmd:endDate="2014-03-20">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Hesburgh Lecture</NAME>
-			<ORG>Notre Dame Club of Greater Boston</ORG>
-			<LOCATION>Marblehead, MA</LOCATION>
 			<TITLE>Can You Do Well While Doing Good?</TITLE>
-			<PRESENT_AUTH id="103803584513">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4210,24 +4098,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-03-20</DATE_START>
 			<DATE_END>2014-03-20</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="103803539456" dmd:lastModified="2015-01-17T11:24:04" dmd:startDate="2014-01-18" dmd:endDate="2014-01-18">
+		<PRESENT id="103803539456" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-01-18" dmd:endDate="2014-01-18">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Hesburgh Lecture</NAME>
-			<ORG>Notre Dame Club of Greater Naples</ORG>
-			<LOCATION>Naples, Florida</LOCATION>
 			<TITLE>Can You Do Well By Doing Good?</TITLE>
-			<PRESENT_AUTH id="103803539457">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4237,24 +4114,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2014-01-18</DATE_START>
 			<DATE_END>2014-01-18</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="85023717376" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-12-07" dmd:endDate="2013-12-07">
+		<PRESENT id="85023717376" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-12-07" dmd:endDate="2013-12-07">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>University of Toledo, Ohio</NAME>
-			<ORG>UND Alumni Club of Toledo and the University of Toledo</ORG>
-			<LOCATION>Toledo, Ohio</LOCATION>
 			<TITLE>Recent Catholic Social Thought and Business Practice</TITLE>
-			<PRESENT_AUTH id="85023717377">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4264,24 +4130,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-12-07</DATE_START>
 			<DATE_END>2013-12-07</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="85023563776" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-11-22" dmd:endDate="2013-11-22">
+		<PRESENT id="85023563776" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-11-22" dmd:endDate="2013-11-22">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Notre Dame and BYU: Leading the Way in Ethics Education</NAME>
-			<ORG>University of Notre Dame</ORG>
-			<LOCATION>Notre Dame, IN</LOCATION>
 			<TITLE>The UN Global Compact: Strengths and Weaknesses</TITLE>
-			<PRESENT_AUTH id="85023563777">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4291,24 +4146,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-11-22</DATE_START>
 			<DATE_END>2013-11-22</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="85023414272" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-10-31" dmd:endDate="2013-10-31">
+		<PRESENT id="85023414272" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-10-31" dmd:endDate="2013-10-31">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Liu Institute for Asia and Asian Studies</NAME>
-			<ORG>University of Notre Dame</ORG>
-			<LOCATION>Notre Dame, IN</LOCATION>
 			<TITLE>Corporate Social Responsibility: A View on Asia</TITLE>
-			<PRESENT_AUTH id="85023414273">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4318,24 +4162,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-10-31</DATE_START>
 			<DATE_END>2013-10-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="85023866880" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-10-15" dmd:endDate="2013-10-15">
+		<PRESENT id="85023866880" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-10-15" dmd:endDate="2013-10-15">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>2013 Boston CSR Annual Forum</NAME>
-			<ORG>Boston University</ORG>
-			<LOCATION>Boston, MA</LOCATION>
 			<TITLE>Is it Possible to Do Well While Doing Good? Some Reflections on My Asian Experience</TITLE>
-			<PRESENT_AUTH id="85023866881">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4345,24 +4178,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-10-15</DATE_START>
 			<DATE_END>2013-10-15</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="85038608384" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-10-04" dmd:endDate="2013-10-04">
+		<PRESENT id="85038608384" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-10-04" dmd:endDate="2013-10-04">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>McGowan Center for Ethics and Social Responsibility</NAME>
-			<ORG>King's College</ORG>
-			<LOCATION>Wilkes Barre, PA</LOCATION>
 			<TITLE>The Distinctive Vocation of Business Education in Catholic Colleges and Universities</TITLE>
-			<PRESENT_AUTH id="85038608385">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4372,24 +4194,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-10-04</DATE_START>
 			<DATE_END>2013-10-04</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76202018816" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-07-16" dmd:endDate="2013-07-16">
+		<PRESENT id="76202018816" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-07-16" dmd:endDate="2013-07-16">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>The Global Collaborative Global Dialogue Series</NAME>
-			<ORG>Kyung Hee University</ORG>
-			<LOCATION>Seoul, Korea</LOCATION>
 			<TITLE>A Dialogue on Peace Through Commerce</TITLE>
-			<PRESENT_AUTH id="76202018817">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Panel</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4399,24 +4210,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-07-16</DATE_START>
 			<DATE_END>2013-07-16</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201955328" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-06-27" dmd:endDate="2013-06-27">
+		<PRESENT id="76201955328" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-06-27" dmd:endDate="2013-06-27">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>Conference</NAME>
-			<ORG>The Korea Association of Small and Medium-Sized Business (KBIZ)</ORG>
-			<LOCATION>Seoul, Korea</LOCATION>
 			<TITLE>Some Ethical Reflections on the Need to Develop SME Participation in an Economy</TITLE>
-			<PRESENT_AUTH id="76201955329">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4426,24 +4226,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-06-27</DATE_START>
 			<DATE_END>2013-06-27</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201906176" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-06-26" dmd:endDate="2013-06-26">
+		<PRESENT id="76201906176" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-06-26" dmd:endDate="2013-06-26">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The Next Society Forum</NAME>
-			<ORG>Next Society</ORG>
-			<LOCATION>Grand Hyatt Hotel, Seoul, Korea</LOCATION>
 			<TITLE>A Creative Economy in a Global Perspective: Some Ethical Reflections</TITLE>
-			<PRESENT_AUTH id="76201906177">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE/>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4453,24 +4242,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-06-26</DATE_START>
 			<DATE_END>2013-06-26</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201857024" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-06-18" dmd:endDate="2013-06-18">
+		<PRESENT id="76201857024" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-06-18" dmd:endDate="2013-06-18">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Sogang University</NAME>
-			<ORG>Faculty of Sogang University</ORG>
-			<LOCATION>Seoul, Korea</LOCATION>
 			<TITLE>Teaching Business Ethics: The Challenge and the Promise</TITLE>
-			<PRESENT_AUTH id="76201857025">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4480,24 +4258,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-06-18</DATE_START>
 			<DATE_END>2013-06-18</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="85038555136" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-05-17" dmd:endDate="2013-05-17">
+		<PRESENT id="85038555136" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-05-17" dmd:endDate="2013-05-17">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME/>
-			<ORG/>
-			<LOCATION/>
 			<TITLE/>
-			<PRESENT_AUTH id="85038555137">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4507,24 +4274,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-05-17</DATE_START>
 			<DATE_END>2013-05-17</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201811968" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-05-17" dmd:endDate="2013-05-17">
+		<PRESENT id="76201811968" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-05-17" dmd:endDate="2013-05-17">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>The University of Cape Town</NAME>
-			<ORG>The Graduate School of Business</ORG>
-			<LOCATION>Cape Town, South Africa</LOCATION>
 			<TITLE>The Purpose of Business: A Work in Progress</TITLE>
-			<PRESENT_AUTH id="76201811969">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4534,24 +4290,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-05-17</DATE_START>
 			<DATE_END>2013-05-17</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201572352" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-05-14" dmd:endDate="2013-05-14">
+		<PRESENT id="76201572352" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-05-14" dmd:endDate="2013-05-14">
 			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
 			<NAME>Radio Interview</NAME>
-			<ORG>TBS eFM's "This Morning" radio show</ORG>
-			<LOCATION>Seoul, Korea</LOCATION>
 			<TITLE>Korean Business and CSR</TITLE>
-			<PRESENT_AUTH id="76201572353">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
+			<ROLE/>
 			<MEETING_TYPE>Other</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4561,24 +4306,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-05-14</DATE_START>
 			<DATE_END>2013-05-14</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201502720" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-05-03" dmd:endDate="2013-05-03">
+		<PRESENT id="76201502720" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-05-03" dmd:endDate="2013-05-03">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>Conference</NAME>
-			<ORG>Handong Global University</ORG>
-			<LOCATION>Pohang, Korea</LOCATION>
 			<TITLE>Peace Through Commerce</TITLE>
-			<PRESENT_AUTH id="76201502721">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4588,24 +4322,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-05-03</DATE_START>
 			<DATE_END>2013-05-03</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201422848" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-04-10" dmd:endDate="2013-04-10">
+		<PRESENT id="76201422848" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-04-10" dmd:endDate="2013-04-10">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>The Graduate Institute of Peace (GIP)</NAME>
-			<ORG>Kyung Hee University</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>Peace Through Commerce: The Possibilities</TITLE>
-			<PRESENT_AUTH id="76201422849">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4615,24 +4338,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-04-10</DATE_START>
 			<DATE_END>2013-04-10</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201342976" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-02-12" dmd:endDate="2013-02-12">
+		<PRESENT id="76201342976" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-02-12" dmd:endDate="2013-02-12">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>Diamond Jubilee Lecture</NAME>
-			<ORG>University of St. La Salle</ORG>
-			<LOCATION>Bacalod City, Philippines</LOCATION>
 			<TITLE>Peace Through Commerce: The Global Corporate Role in Promoting More Peaceful Societies</TITLE>
-			<PRESENT_AUTH id="76201342977">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4642,24 +4354,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-02-12</DATE_START>
 			<DATE_END>2013-02-12</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201265152" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-02-08" dmd:endDate="2013-02-08">
+		<PRESENT id="76201265152" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-02-08" dmd:endDate="2013-02-08">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>De La Salle University</NAME>
-			<ORG>Faculty</ORG>
-			<LOCATION>Manila, Philippines</LOCATION>
 			<TITLE>Research in Business Ethics: Catholic Social Teaching and CSR</TITLE>
-			<PRESENT_AUTH id="76201265153">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4669,24 +4370,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-02-08</DATE_START>
 			<DATE_END>2013-02-08</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201175040" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-02-07" dmd:endDate="2013-02-07">
+		<PRESENT id="76201175040" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-02-07" dmd:endDate="2013-02-07">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>The Catholic Educators Association of the Philippines</NAME>
-			<ORG>De La Salle University</ORG>
-			<LOCATION>Manila, Philippines</LOCATION>
 			<TITLE>Business for the Common Good: The United Nations Global Compact (UNGC) and the Principles for Responsibile Management Education (PRME)</TITLE>
-			<PRESENT_AUTH id="76201175041">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4696,24 +4386,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-02-07</DATE_START>
 			<DATE_END>2013-02-07</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201074688" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-02-05" dmd:endDate="2013-02-05">
+		<PRESENT id="76201074688" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-02-05" dmd:endDate="2013-02-05">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>The Asian Institute of Management (AIM)</NAME>
-			<ORG>AIM</ORG>
-			<LOCATION>Makati, Manila, Philippines</LOCATION>
 			<TITLE>Corporate Social Responsibility</TITLE>
-			<PRESENT_AUTH id="76201074689">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Roundtable</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4723,24 +4402,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-02-05</DATE_START>
 			<DATE_END>2013-02-05</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76201017344" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-02-01" dmd:endDate="2013-02-01">
+		<PRESENT id="76201017344" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-02-01" dmd:endDate="2013-02-01">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>De La Salle University</NAME>
-			<ORG>Undergraduate Students</ORG>
-			<LOCATION>Manila, Philippines</LOCATION>
 			<TITLE>The UN Global Compact: The Challenge and the Promise</TITLE>
-			<PRESENT_AUTH id="76201017345">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4750,24 +4418,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-02-01</DATE_START>
 			<DATE_END>2013-02-01</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76200957952" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-31" dmd:endDate="2013-01-31">
+		<PRESENT id="76200957952" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-31" dmd:endDate="2013-01-31">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>De La Salle University</NAME>
-			<ORG>Master's Students</ORG>
-			<LOCATION>Manila, Philippines</LOCATION>
 			<TITLE>The Business Leader of the 21st Century: Catholic Social Teaching As A Moral Compass</TITLE>
-			<PRESENT_AUTH id="76200957953">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4777,24 +4434,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-01-31</DATE_START>
 			<DATE_END>2013-01-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76200833024" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-30" dmd:endDate="2013-01-30">
+		<PRESENT id="76200833024" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-30" dmd:endDate="2013-01-30">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>De La Salle University</NAME>
-			<ORG>Philippine Academy of Maagement</ORG>
-			<LOCATION>Manila, Philippines</LOCATION>
 			<TITLE>Responsible Corporate Citizenship: A Research Perspective</TITLE>
-			<PRESENT_AUTH id="76200833025">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4804,24 +4450,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-01-30</DATE_START>
 			<DATE_END>2013-01-30</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76200679424" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-30" dmd:endDate="2013-01-30">
+		<PRESENT id="76200679424" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-30" dmd:endDate="2013-01-30">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME/>
-			<ORG>Management Association of the Philippines (MAP)</ORG>
-			<LOCATION>Tower Club, Makati, Manila</LOCATION>
 			<TITLE>Sustainable Development: The Challenge for Business</TITLE>
-			<PRESENT_AUTH id="76200679425">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Roundtable</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4831,24 +4466,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-01-30</DATE_START>
 			<DATE_END>2013-01-30</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76153049088" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-18" dmd:endDate="2013-01-18">
+		<PRESENT id="76153049088" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-18" dmd:endDate="2013-01-18">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>Meeting</NAME>
-			<ORG>Mendoza College of Business</ORG>
-			<LOCATION>University of Notre Dame</LOCATION>
 			<TITLE>The Vocation of the Business Leader and Catholic Social Teaching</TITLE>
-			<PRESENT_AUTH id="76153049089">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4858,24 +4482,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-01-18</DATE_START>
 			<DATE_END>2013-01-18</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76153040896" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-15" dmd:endDate="2013-01-15">
+		<PRESENT id="76153040896" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-15" dmd:endDate="2013-01-15">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Conference</NAME>
-			<ORG>Kings College</ORG>
-			<LOCATION>Wilkes Barre, PA</LOCATION>
 			<TITLE>Corporate Social Responsibility and the Meaning of Businesss</TITLE>
-			<PRESENT_AUTH id="76153040897">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4885,24 +4498,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-01-15</DATE_START>
 			<DATE_END>2013-01-15</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="76153038848" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-11" dmd:endDate="2013-01-11">
+		<PRESENT id="76153038848" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-11" dmd:endDate="2013-01-11">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>Hesburgh Lecture</NAME>
-			<ORG>Notre Dame Club of Atlanta</ORG>
-			<LOCATION>Atlanta, Georgia</LOCATION>
 			<TITLE>Business Leaders and the Challenge of Ethics</TITLE>
-			<PRESENT_AUTH id="76153038849">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Panel</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4912,24 +4514,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-01-11</DATE_START>
 			<DATE_END>2013-01-11</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460663808" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2013-01-08" dmd:endDate="2013-01-08">
+		<PRESENT id="66460663808" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-01-08" dmd:endDate="2013-01-08">
 			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
 			<NAME>Academy of Management Africa Conference</NAME>
-			<ORG>Academy of Management</ORG>
-			<LOCATION>Johannesburg, South Africa</LOCATION>
 			<TITLE>Advancing Human Rights: A Voluntary Opportunity or a Moral Obligation for Business?</TITLE>
-			<PRESENT_AUTH id="66460663809">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Author Only</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Session</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4939,24 +4530,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2013-01-08</DATE_START>
 			<DATE_END>2013-01-08</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460278784" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-12-08" dmd:endDate="2012-12-08">
+		<PRESENT id="66460278784" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-12-08" dmd:endDate="2012-12-08">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>The 3rd Asia Forum for the UN Principles for Responsible Management Education</NAME>
-			<ORG>United Nations Principles for Responsible Management Educatiion</ORG>
-			<LOCATION>Tokyo, Japan</LOCATION>
 			<TITLE>Educating Business Leaders for a Global Economy</TITLE>
-			<PRESENT_AUTH id="66460278785">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4966,24 +4546,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-12-08</DATE_START>
 			<DATE_END>2012-12-08</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460454912" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-11-30" dmd:endDate="2012-11-30">
+		<PRESENT id="66460454912" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-11-30" dmd:endDate="2012-11-30">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>Kyung Hee University</NAME>
-			<ORG>Korean Association for Business Communication</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>Developing Responsible Management Education</TITLE>
-			<PRESENT_AUTH id="66460454913">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -4993,24 +4562,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-11-30</DATE_START>
 			<DATE_END>2012-11-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460430336" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-10-30" dmd:endDate="2012-10-30">
+		<PRESENT id="66460430336" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-10-30" dmd:endDate="2012-10-30">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>CSR and Sustainable Development</NAME>
-			<ORG>NEXT SOCIETY</ORG>
-			<LOCATION>Seoul, Korea</LOCATION>
 			<TITLE>Stretching the Limits of CSR</TITLE>
-			<PRESENT_AUTH id="66460430337">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5020,24 +4578,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-10-30</DATE_START>
 			<DATE_END>2012-10-30</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460352512" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-09-16" dmd:endDate="2012-09-16">
+		<PRESENT id="66460352512" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-09-16" dmd:endDate="2012-09-16">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>Labor-Pastoral Committee Conference</NAME>
-			<ORG>Archdiocese of Seoul</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>The Business Leader of the 21st Century: Catholic Social Teaching and CSR</TITLE>
-			<PRESENT_AUTH id="66460352513">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5047,24 +4594,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-09-16</DATE_START>
 			<DATE_END>2012-09-16</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460401664" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-09-12" dmd:endDate="2012-09-12">
+		<PRESENT id="66460401664" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-09-12" dmd:endDate="2012-09-12">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>The 4th China-Japan-Korea Global Compact Roundtable Conference</NAME>
-			<ORG>The United Nations Global Compact</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>Expanding the Companies Involved With CSR</TITLE>
-			<PRESENT_AUTH id="66460401665">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Moderator</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Moderator</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5074,24 +4610,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-09-12</DATE_START>
 			<DATE_END>2012-09-12</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460303360" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-06-14" dmd:endDate="2012-06-14">
+		<PRESENT id="66460303360" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-06-14" dmd:endDate="2012-06-14">
 			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
 			<NAME>Rio + 20: Corporate Sustainability Forum</NAME>
-			<ORG>United Nations Global Compact</ORG>
-			<LOCATION>Rio, Brazil</LOCATION>
 			<TITLE>The Role of the Local Network in Korea</TITLE>
-			<PRESENT_AUTH id="66460303361">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Moderator</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Moderator</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5101,24 +4626,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-06-14</DATE_START>
 			<DATE_END>2012-06-14</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460571648" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-04-23" dmd:endDate="2012-04-23">
+		<PRESENT id="66460571648" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-04-23" dmd:endDate="2012-04-23">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>St Thomas Univeristy, Houston, Texas</NAME>
-			<ORG>St Thomas School of Business</ORG>
-			<LOCATION>Houston, Texas</LOCATION>
 			<TITLE>Catholic Social Teaching and the UN Global Compact</TITLE>
-			<PRESENT_AUTH id="66460571649">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Conference</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5128,24 +4642,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-04-23</DATE_START>
 			<DATE_END>2012-04-23</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460530688" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-02-01" dmd:endDate="2012-02-01">
+		<PRESENT id="66460530688" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-02-01" dmd:endDate="2012-02-01">
 			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
 			<NAME>Dominican University</NAME>
-			<ORG>Dominican Christopher Chair Lecture</ORG>
-			<LOCATION>Chicago, IL.</LOCATION>
 			<TITLE>Ethics: Why Globalization Matters</TITLE>
-			<PRESENT_AUTH id="66460530689">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Workshop</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5155,24 +4658,13 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-02-01</DATE_START>
 			<DATE_END>2012-02-01</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="66460489728" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2012-01-24" dmd:endDate="2012-01-24">
+		<PRESENT id="66460489728" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-01-24" dmd:endDate="2012-01-24">
 			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
 			<NAME>Yale University Divinity School</NAME>
-			<ORG>Yale University, Sarah Smith Lecture</ORG>
-			<LOCATION>New Haven, Conn.</LOCATION>
 			<TITLE>Globalization and the Common Good</TITLE>
-			<PRESENT_AUTH id="66460489729">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<MEETING_TYPE>Seminar</MEETING_TYPE>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
+			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5182,22 +4674,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2012-01-24</DATE_START>
 			<DATE_END>2012-01-24</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="48320671744" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-12-12" dmd:endDate="2011-12-12">
+		<PRESENT id="48320671744" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-12-12" dmd:endDate="2011-12-12">
 			<NAME>Notre Dame Club of Atlanta</NAME>
-			<ORG>University of Notre Dame</ORG>
-			<LOCATION>Atlanta, Georgia</LOCATION>
 			<TITLE>The Challenge of Business Ethics</TITLE>
-			<PRESENT_AUTH id="48320671745">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
 			<SCOPE>National</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5207,22 +4688,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2011-12-12</DATE_START>
 			<DATE_END>2011-12-12</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="48320712704" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-07-14" dmd:endDate="2011-07-14">
+		<PRESENT id="48320712704" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-07-14" dmd:endDate="2011-07-14">
 			<NAME>Kyung Hee University Faculty Seminar</NAME>
-			<ORG>Kyung Hee University</ORG>
-			<LOCATION>Seoul, Korea</LOCATION>
 			<TITLE>Restoring Trust in Business</TITLE>
-			<PRESENT_AUTH id="48320712705">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5232,22 +4702,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2011-07-14</DATE_START>
 			<DATE_END>2011-07-14</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="48320624640" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2011-06-16" dmd:endDate="2011-06-16">
+		<PRESENT id="48320624640" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-06-16" dmd:endDate="2011-06-16">
 			<NAME>Executive Summit on Ethics for the Business World</NAME>
-			<ORG>The Pontifical Council for Justice and Peace of the Catholic Church</ORG>
-			<LOCATION>Vatican City</LOCATION>
 			<TITLE>How Business Can Assist Developing Nations: The U.N. Global Compact</TITLE>
-			<PRESENT_AUTH id="48320624641">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT>The meeting brought together 45 business leaders from around the world and several scholars to reflect on how business might be more helpful in assisting developing nations. Held at the Pontifical Academy of Social Sciences, in Casina Pio IV, Vatican City,the meeting was convened by Cardinal Peter K. A. Turkson, President of the Pontifical Council for Justice and Peace.</ABSTRACT>
@@ -5257,22 +4716,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2011-06-16</DATE_START>
 			<DATE_END>2011-06-16</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32169682945" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-10-27" dmd:endDate="2010-10-27">
+		<PRESENT id="32169682945" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-10-27" dmd:endDate="2010-10-27">
 			<NAME>Ford Family Program on Human Development Studies</NAME>
-			<ORG>Helen Kellogg Institute for International Studies</ORG>
-			<LOCATION>University of Notre Dame</LOCATION>
 			<TITLE>Corporate Responsibility and Human Rights</TITLE>
-			<PRESENT_AUTH id="32169682946">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5282,22 +4730,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-10-27</DATE_START>
 			<DATE_END>2010-10-27</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32169447425" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-07-01" dmd:endDate="2010-07-31">
+		<PRESENT id="32169447425" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-07-01" dmd:endDate="2010-07-31">
 			<NAME>Global Collaborative and Global Governance</NAME>
-			<ORG>Kyung Hee University</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>The United Nations Global Compact: Strengths and Weaknesses</TITLE>
-			<PRESENT_AUTH id="32169447426">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5307,22 +4744,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-07-01</DATE_START>
 			<DATE_END>2010-07-31</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32169541633" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-07-27" dmd:endDate="2010-07-27">
+		<PRESENT id="32169541633" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-07-27" dmd:endDate="2010-07-27">
 			<NAME>Korean Local Network of Companies of the UN Global Compact</NAME>
-			<ORG>Korean Local Network of the UN Global Compact</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>Meeting the Millennium Development Goals: The Challenge for Business</TITLE>
-			<PRESENT_AUTH id="32169541634">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5332,22 +4758,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-07-27</DATE_START>
 			<DATE_END>2010-07-27</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32169502721" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-07-13" dmd:endDate="2010-07-13">
+		<PRESENT id="32169502721" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-07-13" dmd:endDate="2010-07-13">
 			<NAME>Heart to Heart</NAME>
-			<ORG>Korea's Global TV, ARIRANG</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>30 Minute TV Interview on UN Global Compact</TITLE>
-			<PRESENT_AUTH id="32169502722">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5357,22 +4772,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-07-13</DATE_START>
 			<DATE_END>2010-07-13</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32169472001" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-07-08" dmd:endDate="2010-07-08">
+		<PRESENT id="32169472001" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-07-08" dmd:endDate="2010-07-08">
 			<NAME>Human Resource Managers of South Korea</NAME>
-			<ORG>Kyung Hee University</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>What is the Social Responsibility of Business?</TITLE>
-			<PRESENT_AUTH id="32169472002">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5382,22 +4786,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-07-08</DATE_START>
 			<DATE_END>2010-07-08</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32169433089" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-04-21" dmd:endDate="2010-04-21">
+		<PRESENT id="32169433089" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-04-21" dmd:endDate="2010-04-21">
 			<NAME>The Crucial Role of Good Governance For A Sustainable African Future</NAME>
-			<ORG>Unit for Corporate Governance in Africa, Stellenbosch University</ORG>
-			<LOCATION>South Africa</LOCATION>
 			<TITLE>The Role of Voluntary Standards in the Governance of Private and Public Institutions</TITLE>
-			<PRESENT_AUTH id="32169433090">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5407,22 +4800,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-04-21</DATE_START>
 			<DATE_END>2010-04-21</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32167751681" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-04-07" dmd:endDate="2010-04-07">
+		<PRESENT id="32167751681" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-04-07" dmd:endDate="2010-04-07">
 			<NAME>Catholic Diocese of Louisville, Kentucky</NAME>
-			<ORG>Cathedral of the Assumption Parish</ORG>
-			<LOCATION>Louisville, Kentucky</LOCATION>
 			<TITLE>Spiritual Values and Professional Life</TITLE>
-			<PRESENT_AUTH id="32167751682">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5432,22 +4814,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-04-07</DATE_START>
 			<DATE_END>2010-04-07</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32167731201" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-03-29" dmd:endDate="2010-03-29">
+		<PRESENT id="32167731201" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-03-29" dmd:endDate="2010-03-29">
 			<NAME>LEGATUS </NAME>
-			<ORG>Legatus National Association</ORG>
-			<LOCATION>Peoria, IL</LOCATION>
 			<TITLE>Religious Values in Business: The Challenge</TITLE>
-			<PRESENT_AUTH id="32167731202">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5457,22 +4828,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-03-29</DATE_START>
 			<DATE_END>2010-03-29</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32167696385" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-03-25" dmd:endDate="2010-03-25">
+		<PRESENT id="32167696385" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-03-25" dmd:endDate="2010-03-25">
 			<NAME>Darden Business School, University of Virginia, and the Notre Dame Alumni Club of Charlottesville</NAME>
-			<ORG>Darden School and the Notre Dame Alumni Association</ORG>
-			<LOCATION>Darden School of Business, Charlottesville, VA</LOCATION>
 			<TITLE>Business and the Common Good: The UN Global Compact</TITLE>
-			<PRESENT_AUTH id="32167696386">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5482,22 +4842,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-03-25</DATE_START>
 			<DATE_END>2010-03-25</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32167653377" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-03-22" dmd:endDate="2010-03-22">
+		<PRESENT id="32167653377" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-03-22" dmd:endDate="2010-03-22">
 			<NAME>Catholic Social Teaching and Worker Justice</NAME>
-			<ORG>Villanova University</ORG>
-			<LOCATION>Villanova, PA</LOCATION>
 			<TITLE>Is It Possible To Have a Business Based on Solidarity and Mutual Trust? The Challenge of Catholic Social Teaching to Capitalism and the Promise of Southwest Airlines</TITLE>
-			<PRESENT_AUTH id="32167653378">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Competitively Selected</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5507,22 +4856,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-03-22</DATE_START>
 			<DATE_END>2010-03-22</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="32167616513" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2010-02-01" dmd:endDate="2010-02-28">
+		<PRESENT id="32167616513" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-02-01" dmd:endDate="2010-02-28">
 			<NAME>Notre Dame Alumni Travel</NAME>
-			<ORG>Notre Dame Alumni Association</ORG>
-			<LOCATION>Egypt, Rwanda, Tanzania, Madagascar, and Zambia</LOCATION>
 			<TITLE>Business Ethics and Corporate Governance</TITLE>
-			<PRESENT_AUTH id="32167616514">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5532,22 +4870,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2010-02-01</DATE_START>
 			<DATE_END>2010-02-28</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238182401" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-12-16" dmd:endDate="2009-12-16">
+		<PRESENT id="20238182401" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-12-16" dmd:endDate="2009-12-16">
 			<NAME>Notre Dame Club of Philadelphia</NAME>
-			<ORG>University of Notre Dame Alumni Assoication</ORG>
-			<LOCATION>St. Joseph University, Philadelphia, PA</LOCATION>
 			<TITLE>Recent Catholic Social Thought, The Challenge and the Promise</TITLE>
-			<PRESENT_AUTH id="20238182402">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE/>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5557,22 +4884,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-12-16</DATE_START>
 			<DATE_END>2009-12-16</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238157825" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-11-14" dmd:endDate="2009-11-14">
+		<PRESENT id="20238157825" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-11-14" dmd:endDate="2009-11-14">
 			<NAME>Net Impact Annual Meeting</NAME>
-			<ORG>Net Impact</ORG>
-			<LOCATION>Cornell Universilty, Ithica, New Yotk</LOCATION>
 			<TITLE>The Vision of the UN Global Compact</TITLE>
-			<PRESENT_AUTH id="20238157826">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE/>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5582,22 +4898,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-11-14</DATE_START>
 			<DATE_END>2009-11-14</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238141441" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-09-25" dmd:endDate="2009-09-25">
+		<PRESENT id="20238141441" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-09-25" dmd:endDate="2009-09-25">
 			<NAME>Club of 20 Presidents</NAME>
-			<ORG>Club of 20 Presidents</ORG>
-			<LOCATION>Elcona Country Club, Elkhart, Indiana</LOCATION>
 			<TITLE>Ethics and the Financial Crisis</TITLE>
-			<PRESENT_AUTH id="20238141442">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5607,22 +4912,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-09-25</DATE_START>
 			<DATE_END>2009-09-25</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238125057" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-09-08" dmd:endDate="2009-09-08">
+		<PRESENT id="20238125057" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-09-08" dmd:endDate="2009-09-08">
 			<NAME>Mendoza Panel Discussion</NAME>
-			<ORG>Mendoza College of Business, University of Notre Dame</ORG>
-			<LOCATION>Jordan Auditorium, Notre Dame</LOCATION>
 			<TITLE>Ethics and the Financial Crisis</TITLE>
-			<PRESENT_AUTH id="20238125058">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5632,22 +4926,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-09-08</DATE_START>
 			<DATE_END>2009-09-08</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238114817" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-08-24" dmd:endDate="2009-08-24">
+		<PRESENT id="20238114817" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-08-24" dmd:endDate="2009-08-24">
 			<NAME>Mendoza College of Business, Univ of Notre Dame</NAME>
-			<ORG>Sophomore Orientation</ORG>
-			<LOCATION>Washington Hall, Notre Dame</LOCATION>
 			<TITLE>The Un Global Compact and Net Impact</TITLE>
-			<PRESENT_AUTH id="20238114818">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Local</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5657,22 +4940,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-08-24</DATE_START>
 			<DATE_END>2009-08-24</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238098433" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-08-04" dmd:endDate="2009-08-04">
+		<PRESENT id="20238098433" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-08-04" dmd:endDate="2009-08-04">
 			<NAME>University of Cape Town Faculty Seminar</NAME>
-			<ORG>University of Cape Town Graduate School of Business</ORG>
-			<LOCATION>Cape Town, South Africa</LOCATION>
 			<TITLE>The Role of the Principles for Responsible Management Education(PRME)</TITLE>
-			<PRESENT_AUTH id="20238098434">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>National</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5682,22 +4954,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-08-04</DATE_START>
 			<DATE_END>2009-08-04</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238041089" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-06-11" dmd:endDate="2009-06-11">
+		<PRESENT id="20238041089" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-06-11" dmd:endDate="2009-06-11">
 			<NAME>Nelson Mandela University</NAME>
-			<ORG>College of Business</ORG>
-			<LOCATION>Port Elizabeth, South Africa</LOCATION>
 			<TITLE>Ethics for Business in the 21st Century</TITLE>
-			<PRESENT_AUTH id="20238041090">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>National</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5707,22 +4968,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-06-11</DATE_START>
 			<DATE_END>2009-06-11</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238067713" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-05-07" dmd:endDate="2009-05-07">
+		<PRESENT id="20238067713" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-05-07" dmd:endDate="2009-05-07">
 			<NAME>The World Civic Forum</NAME>
-			<ORG>United Nations</ORG>
-			<LOCATION>Seoul, South Korea</LOCATION>
 			<TITLE>Educating for Capitalism in the 21st Century: The Role of the Principles for Responsible Management Education(PRME)</TITLE>
-			<PRESENT_AUTH id="20238067714">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5732,22 +4982,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-05-07</DATE_START>
 			<DATE_END>2009-05-07</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20238258177" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-04-27" dmd:endDate="2009-04-27">
+		<PRESENT id="20238258177" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-04-27" dmd:endDate="2009-04-27">
 			<NAME>Can Shareholder Interests and Society's Interests Be Aligned?</NAME>
-			<ORG>UN</ORG>
-			<LOCATION>Millennium UN Plaza, New York City</LOCATION>
 			<TITLE>The Role of the UN Global Compact</TITLE>
-			<PRESENT_AUTH id="20238258178">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE/>
 			<SCOPE>International</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5757,36 +4996,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-04-27</DATE_START>
 			<DATE_END>2009-04-27</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20237967361" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-03-23" dmd:endDate="2009-03-23">
+		<PRESENT id="20237967361" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-03-23" dmd:endDate="2009-03-23">
 			<NAME>Notre Dame Club of Fort Wayne</NAME>
-			<ORG>University of Notre Dame Alumni Club</ORG>
-			<LOCATION>Fort Wayne, Indiana</LOCATION>
 			<TITLE>Business Ethics in the 21st Century</TITLE>
-			<PRESENT_AUTH id="20237967362">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20237967363">
-				<FACULTY_NAME>117549</FACULTY_NAME>
-				<FNAME>Patrick</FNAME>
-				<MNAME>E</MNAME>
-				<LNAME>Murphy</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<PRESENT_AUTH id="20237967364">
-				<FACULTY_NAME/>
-				<FNAME/>
-				<MNAME/>
-				<LNAME/>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC>Non-Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>Regional</SCOPE>
 			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5796,22 +5010,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-03-23</DATE_START>
 			<DATE_END>2009-03-23</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="20237924353" dmd:lastModified="2014-12-23T11:06:10" dmd:startDate="2009-03-19" dmd:endDate="2009-03-19">
+		<PRESENT id="20237924353" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-03-19" dmd:endDate="2009-03-19">
 			<NAME>Dominican University Series on Globalization, Sustainabliity and U.S.</NAME>
-			<ORG>Dominican University</ORG>
-			<LOCATION>River Forest, Illinois</LOCATION>
 			<TITLE>Recasting the Bottom Line</TITLE>
-			<PRESENT_AUTH id="20237924354">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE>Present and Author</ROLE>
-			</PRESENT_AUTH>
-			<ACADEMIC>Academic</ACADEMIC>
-			<PRESENT_TYPE>Invited</PRESENT_TYPE>
+			<ROLE>Presentor</ROLE>
 			<SCOPE>National</SCOPE>
 			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
 			<ABSTRACT/>
@@ -5821,21 +5024,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2009-03-19</DATE_START>
 			<DATE_END>2009-03-19</DATE_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1457358848" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
+		<PRESENT id="1457358848" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-01-01" dmd:endDate="2005-12-31">
 			<NAME>The Accountable Corporation</NAME>
-			<ORG/>
-			<LOCATION>Santa Clara University, Santa Clara, CA</LOCATION>
 			<TITLE>Developing Appropriate Norms for International Business</TITLE>
-			<PRESENT_AUTH id="1457358849">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5845,21 +5038,11 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2005-01-01</DATE_START>
 			<DATE_END>2005-12-31</DATE_END>
 			<WEBPAGE_INCLUDE/>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
-		<PRESENT id="1457356800" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
+		<PRESENT id="1457356800" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-01-01" dmd:endDate="2004-12-31">
 			<NAME>The International Society of Business, Economics, and Ethics, July 14-17</NAME>
-			<ORG/>
-			<LOCATION>Melbourne, Australia         (SEE RESUME)</LOCATION>
 			<TITLE>The Moral Purpose of Business:  The Role of the U.N. Global Compact</TITLE>
-			<PRESENT_AUTH id="1457356801">
-				<FACULTY_NAME>117578</FACULTY_NAME>
-				<FNAME>Oliver</FNAME>
-				<MNAME>F</MNAME>
-				<LNAME>Williams, C.S.C.</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -5869,7 +5052,6 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DATE_START>2004-01-01</DATE_START>
 			<DATE_END>2004-12-31</DATE_END>
 			<WEBPAGE_INCLUDE/>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
 		<RESPROG id="7160737793" dmd:lastModified="2015-01-17T14:54:46">
 			<TITLE>Business for Peace</TITLE>
@@ -6277,9 +5459,8 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_COLLEGE>
-		<SERVICE_COLLEGE id="20228139009" dmd:lastModified="2010-01-16T11:45:33" dmd:startDate="2008-09-01">
+		<SERVICE_COLLEGE id="20228139009" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01">
 			<ORG>Net Impact(Students for Responsible Business)</ORG>
-			<ROLE>Faculty Advisor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>September</DTM_START>
 			<DTD_START/>
@@ -6293,9 +5474,8 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
-		<SERVICE_COLLEGE id="12728152065" dmd:lastModified="2009-01-25T20:58:32" dmd:startDate="1996-06-01">
+		<SERVICE_COLLEGE id="12728152065" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="1996-06-01">
 			<ORG>Cape Town Interns (June-July)</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>June</DTM_START>
 			<DTD_START/>
@@ -6357,9 +5537,8 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7160745985" dmd:lastModified="2010-01-16T11:46:41" dmd:startDate="2007-10-01" dmd:endDate="2009-05-31">
+		<SERVICE_UNIVERSITY id="7160745985" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-10-01" dmd:endDate="2009-05-31">
 			<ORG>University of Notre Dame Task Force on Africa</ORG>
-			<ROLE>Administrative Assignment, Other</ROLE>
 			<ROLEOTHER>Special Task Force organized by the Provost</ROLEOTHER>
 			<DTM_START>October</DTM_START>
 			<DTD_START/>
@@ -6421,9 +5600,8 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<END_END>2002-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="1457375232" dmd:lastModified="2007-02-13T03:32:18" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+		<SERVICE_UNIVERSITY id="1457375232" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
 			<ORG>University Conference</ORG>
-			<ROLE>Session Chair</ROLE>
 			<ROLEOTHER/>
 			<DTM_START/>
 			<DTD_START/>
@@ -6627,10 +5805,10 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<END_END>2002-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1457420288" dmd:lastModified="2007-12-19T13:34:17" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<SERVICE_PROFESSIONAL id="1457403904" dmd:lastModified="2007-12-19T13:33:00" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
 			<ORG/>
 			<ROLE>Other</ROLE>
-			<ROLEOTHER>Presented "Option for the Poor and Business" at the workshop at the conference on The Option for the Poor in Christian Theology," November 11</ROLEOTHER>
+			<ROLEOTHER>Presented the key note address "The Consequences of Power Relationships Inside and Outside of the Board Room," at the Workshop for New Directors, Stellenbosch University, Cape Town, South Africa, May 31</ROLEOTHER>
 			<CITY/>
 			<STATE/>
 			<AUDIENCE/>
@@ -6646,10 +5824,10 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<END_END>2002-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1457403904" dmd:lastModified="2007-12-19T13:33:00" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+		<SERVICE_PROFESSIONAL id="1457420288" dmd:lastModified="2007-12-19T13:34:17" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
 			<ORG/>
 			<ROLE>Other</ROLE>
-			<ROLEOTHER>Presented the key note address "The Consequences of Power Relationships Inside and Outside of the Board Room," at the Workshop for New Directors, Stellenbosch University, Cape Town, South Africa, May 31</ROLEOTHER>
+			<ROLEOTHER>Presented "Option for the Poor and Business" at the workshop at the conference on The Option for the Poor in Christian Theology," November 11</ROLEOTHER>
 			<CITY/>
 			<STATE/>
 			<AUDIENCE/>
@@ -6684,25 +5862,6 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<END_END>2002-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1457412096" dmd:lastModified="2007-12-19T13:33:36" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
-			<ORG/>
-			<ROLE>Other</ROLE>
-			<ROLEOTHER>Served as a discussant for the presentation "Globalization and Urban Violence in Johannesburg," at the conference on Globalization and Urban Violence, Joan B. Kroc Institute for International Peace Studies, October 19</ROLEOTHER>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START/>
-			<START_START></START_START>
-			<START_END></START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2002</DTY_END>
-			<END_START>2002-01-01</END_START>
-			<END_END>2002-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="1457395712" dmd:lastModified="2007-05-10T04:42:14" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
 			<ORG/>
 			<ROLE>Other</ROLE>
@@ -6715,6 +5874,25 @@ The best essays will be published in 2014 in a book titled SUSTAINABLE DEVELOPME
 			<DTY_START>2002</DTY_START>
 			<START_START>2002-01-01</START_START>
 			<START_END>2002-12-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</SERVICE_PROFESSIONAL>
+		<SERVICE_PROFESSIONAL id="1457412096" dmd:lastModified="2007-12-19T13:33:36" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			<ORG/>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Served as a discussant for the presentation "Globalization and Urban Violence in Johannesburg," at the conference on Globalization and Urban Violence, Joan B. Kroc Institute for International Peace Studies, October 19</ROLEOTHER>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
 			<DTM_END/>
 			<DTD_END/>
 			<DTY_END>2002</DTY_END>

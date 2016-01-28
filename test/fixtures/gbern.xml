@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2015-01-28">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="1625694" username="gbern" termId="278" dmd:surveyId="14594351">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Finance" text="Finance"/>
-		<PCI id="90388705280" dmd:lastModified="2014-12-16T15:24:51">
+		<PCI id="90388705280" dmd:lastModified="2015-02-12T11:45:05">
 			<PREFIX/>
 			<FNAME>Gianna</FNAME>
 			<PFNAME>Gianna</PFNAME>
@@ -33,14 +33,14 @@
 			<PCI_EXPERTISE id="90388705281">
 				<EXPERTISE>International Finance</EXPERTISE>
 			</PCI_EXPERTISE>
-			<PCI_EXPERTISE id="90388705282">
-				<EXPERTISE>Risk Management</EXPERTISE>
-			</PCI_EXPERTISE>
 			<PCI_EXPERTISE id="90388705283">
 				<EXPERTISE>Energy Project Finance</EXPERTISE>
 			</PCI_EXPERTISE>
+			<PCI_EXPERTISE id="90388705285">
+				<EXPERTISE>Risk Management</EXPERTISE>
+			</PCI_EXPERTISE>
 			<UPLOAD_CV>gbern/pci/gbern.pdf</UPLOAD_CV>
-			<BIO>After a 25-year career in finance, Gianna joined the Special Professional faculty at the University of Notre Dame in 2014.  Gianna Bern is the Academic Director, Master of Science in Finance program and an Associate Teaching Professor of finance in the Mendoza College of Business.  Gianna teaches in the full-time MBA program and the new Master of Science in Finance program.  Gianna Bern is a founding principal of Chicago-based Brookshire Advisory and Research, Inc. a research and consulting firm focused on the energy sector.  Brookshire is a consultant to global corporate clients and publishes energy investment research for its clients.   Gianna is a former Senior Director, Fitch Ratings' Corporate Finance Latin America group focused on Oil, Gas, and Utilities.  Prior to that, Gianna managed a $2.1 billion commercial lease portfolio for a large commercial lessor.  Gianna has held managerial positions at BP Plc and Amoco Oil in energy economics, market analytics, and risk management.  Gianna began her career at Continental Bank (now part of Bank of America).</BIO>
+			<BIO>After a 25-year career in finance, Gianna Bern joined the Mendoza College of Business faculty at the University of Notre Dame.  She is the Academic Director, Master of Science in Finance program (MSF) and an Associate Teaching Professor of finance in the Mendoza College of Business.  She teaches in the full-time MBA program, the MSF program, and in Notre Dame's undergraduate finance program.  Gianna Bern is a founding principal of Chicago-based Brookshire Advisory and Research, Inc. a research and consulting firm focused on the energy sector.  Brookshire is a consultant to global corporate clients and publishes energy investment research for its clients.   Gianna Bern is a former Senior Director, Fitch Ratings' Corporate Finance Latin America group focused on Oil, Gas, and Utilities.  Prior to that, she managed a $2.1 billion commercial lease portfolio for a large commercial lessor.  She has held managerial positions at BP Plc and Amoco Oil in energy economics, market analytics, and risk management.  She began her corporate finance career at Continental Bank (now part of Bank of America).  In 2011, Gianna Bern authored the business textbook, Investing in Energy: A Primer on the Economics of the Energy Industry (Wiley/ Bloomberg Financial Series).   Gianna Bern is an occasional commentator on global energy markets on Bloomberg Television and other major media.</BIO>
 		</PCI>
 		<ADMIN_PERM id="90388944896" dmd:lastModified="2014-04-25T10:24:55">
 			<SRANK>Associate Professional Specialist</SRANK>
@@ -76,7 +76,26 @@
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="90388707328" dmd:lastModified="2014-04-25T10:26:49" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="109513211904" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+			<AC_YEAR>2014-2015</AC_YEAR>
+			<YEAR_START>2014-09-01</YEAR_START>
+			<YEAR_END>2015-08-31</YEAR_END>
+			<ADMIN_DEP id="109513211905" dmd:primaryKey="Finance">
+				<DEP>Finance</DEP>
+			</ADMIN_DEP>
+			<RANK>Associate Professional Specialist</RANK>
+			<TENURE>Non-Tenure Track</TENURE>
+			<SABBATICAL>No</SABBATICAL>
+			<FTE/>
+			<NPRESP/>
+			<DEDMISS/>
+			<QUALIFICATION/>
+			<AACSBQUAL/>
+			<AACSBSUFF/>
+			<AACSBTCLASS/>
+			<JOINT_APPOINTMENT/>
+		</ADMIN>
+		<ADMIN id="90388707328" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
@@ -85,7 +104,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professional Specialist</RANK>
 			<TENURE>Non-Tenure Track</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE/>
 			<NPRESP/>
@@ -95,6 +113,24 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
+		<PASTHIST id="105241325568" dmd:lastModified="2015-02-11T09:41:38" dmd:startDate="2008-06-01">
+			<EXPTYPE>Professional</EXPTYPE>
+			<ORG>Brookshire Advisory and Research, Inc.</ORG>
+			<TITLE>Principal</TITLE>
+			<DESC>Brookshire produces Investment research and consulting services for global corporations and investors.</DESC>
+			<OWN_COMPANY>Yes</OWN_COMPANY>
+			<DTM_START>June</DTM_START>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-06-01</START_START>
+			<START_END>2008-06-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</PASTHIST>
 		<EDUCATION id="91049398272" dmd:lastModified="2014-05-09T13:56:08" dmd:startDate="1989-01-01" dmd:endDate="1989-12-31">
 			<DEG>MBA</DEG>
 			<DEGOTHER/>
@@ -151,57 +187,76 @@
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</LICCERT>
-		<SCHTEACH id="91067717632" dmd:lastModified="2014-05-10T17:31:23">
-			<TYT_TERM/>
-			<TYY_TERM/>
-			<TERM_START></TERM_START>
-			<TERM_END></TERM_END>
+		<SCHTEACH id="91067717632" dmd:lastModified="2015-02-11T09:10:56" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|FIN|30100|">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
 			<TITLE>Financial Statement Analysis</TITLE>
-			<COURSEPRE/>
-			<COURSENUM/>
+			<COURSEPRE>FIN</COURSEPRE>
+			<COURSENUM>30100</COURSENUM>
 			<SECTION/>
 			<ENROLL/>
-			<CHOURS/>
+			<CHOURS>3.0</CHOURS>
+			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
 			<DELIVERY_MODE/>
 			<NEWPREP/>
-			<PEDINN/>
+			<PEDINN>Use of Capital IQ in the classroom.</PEDINN>
 			<OUTREACH/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SCHTEACH>
-		<SCHTEACH id="91067715584" dmd:lastModified="2014-05-14T19:08:17" dmd:startDate="2014-01-01" dmd:endDate="2014-01-14" dmd:primaryKey="Winter|2014|FIN|70500|">
-			<TYT_TERM>Winter</TYT_TERM>
+		<SCHTEACH id="91067715584" dmd:lastModified="2015-12-08T15:33:30" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|FIN|70500|">
+			<TYT_TERM>Spring</TYT_TERM>
 			<TYY_TERM>2014</TYY_TERM>
-			<TERM_START>2014-01-01</TERM_START>
-			<TERM_END>2014-01-14</TERM_END>
+			<TERM_START>2014-01-15</TERM_START>
+			<TERM_END>2014-04-30</TERM_END>
 			<TITLE>Multinational Financial Management</TITLE>
 			<COURSEPRE>FIN</COURSEPRE>
 			<COURSENUM>70500</COURSENUM>
 			<SECTION/>
 			<ENROLL>16</ENROLL>
 			<CHOURS>2.0</CHOURS>
+			<DEGREE_PROGRAM/>
 			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
 			<NEWPREP>No</NEWPREP>
 			<PEDINN/>
 			<OUTREACH/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SCHTEACH>
-		<OFF_LOAD_TEACH id="91072602112" dmd:lastModified="2014-05-11T13:06:46">
-			<TYT_TERM/>
-			<TYY_TERM/>
-			<TERM_START></TERM_START>
-			<TERM_END></TERM_END>
-			<TITLE>Multinational Financial Management</TITLE>
-			<COURSEPRE>FIN</COURSEPRE>
-			<COURSENUM>70500</COURSENUM>
-			<SECTION/>
-			<ENROLL/>
-			<CHOURS>2.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture</DELIVERY_MODE>
-			<NEWPREP/>
+		<OFF_LOAD_TEACH id="105240215552" dmd:lastModified="2015-02-11T09:09:34" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>MSF Accounting Workshop</TITLE>
+			<COURSEPRE/>
+			<COURSENUM/>
+			<SECTION>01</SECTION>
+			<ENROLL>42</ENROLL>
+			<CHOURS/>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
 			<PEDINN/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</OFF_LOAD_TEACH>
-		<INTELLCONT id="91067789312" dmd:lastModified="2014-05-11T13:04:28" dmd:startDate="2011-06-01" dmd:endDate="2011-06-30">
+		<OFF_LOAD_TEACH id="105240233984" dmd:lastModified="2015-02-11T09:08:49" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30">
+			<TYT_TERM>Spring</TYT_TERM>
+			<TYY_TERM>2015</TYY_TERM>
+			<TERM_START>2015-01-15</TERM_START>
+			<TERM_END>2015-04-30</TERM_END>
+			<TITLE>MSF Financial Statement Analysis</TITLE>
+			<COURSEPRE/>
+			<COURSENUM>60100</COURSENUM>
+			<SECTION>01</SECTION>
+			<ENROLL>42</ENROLL>
+			<CHOURS>3.0</CHOURS>
+			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+			<NEWPREP>Yes</NEWPREP>
+			<PEDINN/>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+		</OFF_LOAD_TEACH>
+		<INTELLCONT id="91067789312" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2011-06-01" dmd:endDate="2011-06-30">
+			<STATUS>Published</STATUS>
 			<PUBLISHER>Wiley &amp; Sons (Bloomberg Financial Series)</PUBLISHER>
 			<TITLE>Investing in Energy: A Primer on the Economics of the Energy Industry</TITLE>
 			<VOLUME/>
@@ -212,7 +267,7 @@
 			<DTY_PUB>2011</DTY_PUB>
 			<PUB_START>2011-06-01</PUB_START>
 			<PUB_END>2011-06-30</PUB_END>
-			<CONTYPE>Book, Textbook-New</CONTYPE>
+			<CONTYPE>Textbooks</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="91067789313">
@@ -221,11 +276,76 @@
 				<MNAME></MNAME>
 				<LNAME>Bern</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS>Published</STATUS>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
+		<SERVICE_COLLEGE id="105240629248" dmd:lastModified="2015-02-12T10:33:37" dmd:startDate="2014-05-01">
+			<ORG>Master of Science in Finance Program</ORG>
+			<ROLE>Other</ROLE>
+			<ROLEOTHER>Academic Director</ROLEOTHER>
+			<DTM_START>May</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-05-01</START_START>
+			<START_END>2014-05-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="105240596480" dmd:lastModified="2015-02-12T10:33:50" dmd:startDate="2014-05-01">
+			<ORG>MSF Admissions Committee</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>May</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-05-01</START_START>
+			<START_END>2014-05-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<SERVICE_COLLEGE id="105240537088" dmd:lastModified="2015-02-12T10:34:00" dmd:startDate="2014-05-01">
+			<ORG>MSF Steering Committee Member</ORG>
+			<ROLE>Committee Member</ROLE>
+			<ROLEOTHER/>
+			<DTM_START>May</DTM_START>
+			<DTD_START/>
+			<DTY_START>2014</DTY_START>
+			<START_START>2014-05-01</START_START>
+			<START_END>2014-05-31</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</SERVICE_COLLEGE>
+		<CONSULT id="105241540608" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-06-01">
+			<TYPE>Management</TYPE>
+			<TYPEOTHER/>
+			<ORG/>
+			<NUMHOURS/>
+			<DESC>Over the last several years, Gianna Bern has consulted or been invited to speak to numerous global corporate organizations on investing in the energy sector.</DESC>
+			<DTM_START>June</DTM_START>
+			<DTD_START/>
+			<DTY_START>2008</DTY_START>
+			<START_START>2008-06-01</START_START>
+			<START_END>2008-06-30</START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END/>
+			<END_START></END_START>
+			<END_END></END_END>
+			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+		</CONSULT>
 	</Record>
 </Data>

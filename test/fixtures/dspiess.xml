@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2015-07-10">
+<Data xmlns="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" dmd:date="2016-01-28">
 	<Record userId="117568" username="dspiess" termId="278" dmd:surveyId="47886">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Finance" text="Finance"/>
-		<PCI id="1454309376" dmd:lastModified="2015-01-29T14:34:39">
+		<PCI id="1454309376" dmd:lastModified="2016-01-14T15:49:30">
 			<PREFIX/>
 			<FNAME>Debra</FNAME>
 			<PFNAME>Katherine</PFNAME>
@@ -13,7 +13,7 @@
 			<ALT_NAME>D. Katherine Spiess</ALT_NAME>
 			<ENDPOS/>
 			<EMAIL>Spiess.1@nd.edu</EMAIL>
-			<ROOMNUM>102D</ROOMNUM>
+			<ROOMNUM>102E</ROOMNUM>
 			<OPHONE1>574</OPHONE1>
 			<OPHONE2>631</OPHONE2>
 			<OPHONE3>6268</OPHONE3>
@@ -36,8 +36,8 @@
 			<PCI_EXPERTISE id="1454309378">
 				<EXPERTISE>Corporate Financing Decisions</EXPERTISE>
 			</PCI_EXPERTISE>
-			<UPLOAD_CV>dspiess/pci/dspiess.pdf</UPLOAD_CV>
-			<BIO>Associate Finance Professor D. Katherine Spiess has expertise in mergers and acquisitions, corporate financing, and capital budgeting decisions. She earned her B.S. and her Ph.D. from the University of Missouri. Spiess’ distinctions and awards include an All Star Paper recognition from the Journal of Finance, a Kaneb Teaching Award, and a BP Amoco Outstanding Teacher Award.</BIO>
+			<UPLOAD_CV>dspiess/pci/2015 Aug-1.pdf</UPLOAD_CV>
+			<BIO>Katherine Spiess is serving her second term as assistant chair of the Finance Department. Her  research has focused on the stock market impact of security offerings, and her teaching interests are mergers and acquisitions, corporate risk management, and real options. She earned her B.S. and her Ph.D. from the University of Missouri. Her distinctions and awards include an All Star Paper recognition from the Journal of Financial Economics, a Kaneb Teaching Award, Outstanding Teacher in the MS-Management program, and a BP Amoco Outstanding Teacher Award. </BIO>
 		</PCI>
 		<ADMIN_PERM id="1454311424" dmd:lastModified="2009-01-30T12:51:22">
 			<SRANK>Assistant Professor</SRANK>
@@ -73,7 +73,7 @@
 			<DTD_SEPARATION/>
 			<DTY_SEPARATION/>
 		</ADMIN_PERM>
-		<ADMIN id="109513363456" dmd:lastModified="2015-05-12T09:45:57" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
+		<ADMIN id="109513363456" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2014-09-01" dmd:endDate="2015-08-31" dmd:primaryKey="2014-2015">
 			<AC_YEAR>2014-2015</AC_YEAR>
 			<YEAR_START>2014-09-01</YEAR_START>
 			<YEAR_END>2015-08-31</YEAR_END>
@@ -82,23 +82,21 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
 			<DEDMISS>100</DEDMISS>
 			<QUALIFICATION/>
-			<QUALIFICATION_BASIS/>
 			<AACSBQUAL>Academically Qualified</AACSBQUAL>
 			<AACSBSUFF>Participating</AACSBSUFF>
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="77707128832" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
+		<ADMIN id="77707128832" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-09-01" dmd:endDate="2014-08-31" dmd:primaryKey="2013-2014">
 			<AC_YEAR>2013-2014</AC_YEAR>
 			<YEAR_START>2013-09-01</YEAR_START>
 			<YEAR_END>2014-08-31</YEAR_END>
@@ -107,11 +105,10 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -121,7 +118,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67530555392" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
+		<ADMIN id="67530555392" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-09-01" dmd:endDate="2013-08-31" dmd:primaryKey="2012-2013">
 			<AC_YEAR>2012-2013</AC_YEAR>
 			<YEAR_START>2012-09-01</YEAR_START>
 			<YEAR_END>2013-08-31</YEAR_END>
@@ -130,11 +127,10 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -144,7 +140,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="67530545152" dmd:lastModified="2014-12-23T11:08:59" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
+		<ADMIN id="67530545152" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2011-09-01" dmd:endDate="2012-08-31" dmd:primaryKey="2011-2012">
 			<AC_YEAR>2011-2012</AC_YEAR>
 			<YEAR_START>2011-09-01</YEAR_START>
 			<YEAR_END>2012-08-31</YEAR_END>
@@ -153,11 +149,10 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE>Tenured</TENURE>
-			<GRADUATE/>
 			<SABBATICAL>No</SABBATICAL>
 			<FTE>100</FTE>
 			<NPRESP>Administration</NPRESP>
-			<NPRESP>Graduate Teaching</NPRESP>
+			<NPRESP>Master's Level Teaching</NPRESP>
 			<NPRESP>Other Service and Outreach Responsibilities</NPRESP>
 			<NPRESP>Research</NPRESP>
 			<NPRESP>Undergraduate Teaching</NPRESP>
@@ -167,7 +162,7 @@
 			<AACSBTCLASS>Doctoral degree in area individual teaches</AACSBTCLASS>
 			<JOINT_APPOINTMENT>No</JOINT_APPOINTMENT>
 		</ADMIN>
-		<ADMIN id="11921823744" dmd:lastModified="2008-12-05T12:25:57" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
+		<ADMIN id="11921823744" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2008-09-01" dmd:endDate="2009-08-31" dmd:primaryKey="2008-2009">
 			<AC_YEAR>2008-2009</AC_YEAR>
 			<YEAR_START>2008-09-01</YEAR_START>
 			<YEAR_END>2009-08-31</YEAR_END>
@@ -176,7 +171,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -186,7 +180,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="11921821696" dmd:lastModified="2008-12-05T12:25:57" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
+		<ADMIN id="11921821696" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-09-01" dmd:endDate="2008-08-31" dmd:primaryKey="2007-2008">
 			<AC_YEAR>2007-2008</AC_YEAR>
 			<YEAR_START>2007-09-01</YEAR_START>
 			<YEAR_END>2008-08-31</YEAR_END>
@@ -195,7 +189,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -205,7 +198,7 @@
 			<AACSBTCLASS/>
 			<JOINT_APPOINTMENT/>
 		</ADMIN>
-		<ADMIN id="1454313472" dmd:lastModified="2007-02-13T03:32:09" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
+		<ADMIN id="1454313472" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-09-01" dmd:endDate="2007-08-31" dmd:primaryKey="2006-2007">
 			<AC_YEAR>2006-2007</AC_YEAR>
 			<YEAR_START>2006-09-01</YEAR_START>
 			<YEAR_END>2007-08-31</YEAR_END>
@@ -214,7 +207,6 @@
 			</ADMIN_DEP>
 			<RANK>Associate Professor</RANK>
 			<TENURE/>
-			<GRADUATE/>
 			<SABBATICAL/>
 			<FTE/>
 			<NPRESP/>
@@ -1515,8 +1507,8 @@
 			<PEDINN/>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</OFF_LOAD_TEACH>
-		<DSL id="32312786945" dmd:lastModified="2011-01-27T12:04:37" dmd:startDate="2010-09-01" dmd:endDate="2010-12-04">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="32312786945" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-09-01" dmd:endDate="2010-12-04">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="32312786946">
 				<FNAME>Amy</FNAME>
 				<LNAME>DiJoseph</LNAME>
@@ -1540,8 +1532,7 @@
 			<END_END>2010-12-04</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<DSL id="20587993089" dmd:lastModified="2011-01-27T12:06:02" dmd:startDate="2010-01-12" dmd:endDate="2010-04-30">
-			<TYPE>Internship</TYPE>
+		<DSL id="20587993089" dmd:lastModified="2016-01-07T09:19:41" dmd:startDate="2010-01-12" dmd:endDate="2010-04-30">
 			<DSL_STUDENT id="20587993090">
 				<FNAME>Kaitlin</FNAME>
 				<LNAME>Conklin</LNAME>
@@ -1565,8 +1556,8 @@
 			<END_END>2010-04-30</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<DSL id="7217025025" dmd:lastModified="2008-01-28T16:21:27" dmd:startDate="2007-01-01" dmd:endDate="2007-05-31">
-			<TYPE>Directed Individual/Independent Study</TYPE>
+		<DSL id="7217025025" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-01-01" dmd:endDate="2007-05-31">
+			<TYPE>Directed Readings</TYPE>
 			<DSL_STUDENT id="7217025026">
 				<FNAME>Anna</FNAME>
 				<LNAME>Wu</LNAME>
@@ -1590,11 +1581,9 @@
 			<END_END>2007-05-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</DSL>
-		<CONGRANT id="7217137665" dmd:lastModified="2008-01-28T16:26:58">
-			<TYPE>Grant</TYPE>
+		<CONGRANT id="7217137665" dmd:lastModified="2016-01-07T08:42:08">
 			<TITLE>"Real Options Analysis" Course Development</TITLE>
 			<SPONORG>Prochaska Fund / Kaneb Center</SPONORG>
-			<AWARDORG>University of Notre Dame</AWARDORG>
 			<CONGRANT_INVEST id="7217137666">
 				<FACULTY_NAME>117568</FACULTY_NAME>
 				<FNAME>Katherine</FNAME>
@@ -1604,7 +1593,6 @@
 			</CONGRANT_INVEST>
 			<AMOUNT>5000</AMOUNT>
 			<ABSTRACT/>
-			<STATUS/>
 			<DTM_START/>
 			<DTD_START/>
 			<DTY_START/>
@@ -1618,7 +1606,8 @@
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
-		<INTELLCONT id="1454370816" dmd:lastModified="2011-08-22T12:13:22" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+		<INTELLCONT id="1454370816" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+			<STATUS/>
 			<PUBLISHER>Journal of Financial Economics</PUBLISHER>
 			<TITLE>The Long-run Performance of Common Stock Returns Following Debt Offerings</TITLE>
 			<VOLUME>54</VOLUME>
@@ -1629,7 +1618,7 @@
 			<DTY_PUB>1999</DTY_PUB>
 			<PUB_START>1999-01-01</PUB_START>
 			<PUB_END>1999-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Non-Refereed</CONTYPE>
+			<CONTYPE>Non-Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1454370817">
@@ -1644,13 +1633,13 @@
 				<MNAME>F</MNAME>
 				<LNAME>Affleck-Graves</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1454372864" dmd:lastModified="2011-08-22T12:20:15" dmd:startDate="1997-01-01" dmd:endDate="1997-12-31">
+		<INTELLCONT id="1454372864" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1997-01-01" dmd:endDate="1997-12-31">
+			<STATUS/>
 			<PUBLISHER>Journal of Banking and Finance</PUBLISHER>
 			<TITLE>The IPO and First Seasoned Equity Sale: Issue Proceeds, Owner/Managers' Wealth, and the Underpricing Signal</TITLE>
 			<VOLUME/>
@@ -1661,7 +1650,7 @@
 			<DTY_PUB>1997</DTY_PUB>
 			<PUB_START>1997-01-01</PUB_START>
 			<PUB_END>1997-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Non-Refereed</CONTYPE>
+			<CONTYPE>Non-Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1454372865">
@@ -1676,13 +1665,13 @@
 				<MNAME>H.</MNAME>
 				<LNAME>Pettway</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1454379008" dmd:lastModified="2011-08-22T12:13:06" dmd:startDate="1997-01-01" dmd:endDate="1997-12-31">
+		<INTELLCONT id="1454379008" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1997-01-01" dmd:endDate="1997-12-31">
+			<STATUS/>
 			<PUBLISHER>Managerial and Decision Economics</PUBLISHER>
 			<TITLE>The Private Securities Litigation Reform Act of 1995: The Stock Market Casts Its Vote...</TITLE>
 			<VOLUME>18</VOLUME>
@@ -1693,7 +1682,7 @@
 			<DTY_PUB>1997</DTY_PUB>
 			<PUB_START>1997-01-01</PUB_START>
 			<PUB_END>1997-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1454379009">
@@ -1708,13 +1697,13 @@
 				<MNAME>A.</MNAME>
 				<LNAME>Tkac</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1454374912" dmd:lastModified="2011-08-22T12:12:49" dmd:startDate="1995-01-01" dmd:endDate="1995-12-31">
+		<INTELLCONT id="1454374912" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1995-01-01" dmd:endDate="1995-12-31">
+			<STATUS/>
 			<PUBLISHER>Journal of Financial Economics</PUBLISHER>
 			<TITLE>Underperformance in Long-run Stock Returns Following Seasoned Equity Offerings</TITLE>
 			<VOLUME/>
@@ -1725,7 +1714,7 @@
 			<DTY_PUB>1995</DTY_PUB>
 			<PUB_START>1995-01-01</PUB_START>
 			<PUB_END>1995-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1454374913">
@@ -1740,13 +1729,13 @@
 				<MNAME/>
 				<LNAME>Affleck-Graves</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="1454376960" dmd:lastModified="2011-08-22T12:14:42" dmd:startDate="1993-01-01" dmd:endDate="1993-12-31">
+		<INTELLCONT id="1454376960" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="1993-01-01" dmd:endDate="1993-12-31">
+			<STATUS/>
 			<PUBLISHER>Financial Management </PUBLISHER>
 			<TITLE>Japanese Foreign Direct Investment:  Impacts of Purchases and Sales of U.S. Assets</TITLE>
 			<VOLUME/>
@@ -1757,7 +1746,7 @@
 			<DTY_PUB>1993</DTY_PUB>
 			<PUB_START>1993-01-01</PUB_START>
 			<PUB_END>1993-12-31</PUB_END>
-			<CONTYPE>Journal Articles, Refereed</CONTYPE>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
 			<CONTYPEOTHER/>
 			<CLASSIFICATION/>
 			<INTELLCONT_AUTH id="1454376962">
@@ -1778,26 +1767,15 @@
 				<MNAME>D</MNAME>
 				<LNAME>Spiess</LNAME>
 			</INTELLCONT_AUTH>
-			<STATUS/>
 			<WEB_ADDRESS/>
 			<ABSTRACT/>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<PRESENT id="1454381056" dmd:lastModified="2012-02-08T14:36:47" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
+		<PRESENT id="1454381056" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="1999-01-01" dmd:endDate="1999-12-31">
 			<NAME>Journal of Financial Economics</NAME>
-			<ORG/>
-			<LOCATION/>
 			<TITLE>The Long-Run Performance of Stock Returns Following Debt Offerings</TITLE>
-			<PRESENT_AUTH id="1454381057">
-				<FACULTY_NAME>117568</FACULTY_NAME>
-				<FNAME>Katherine</FNAME>
-				<MNAME>D</MNAME>
-				<LNAME>Spiess</LNAME>
-				<ROLE/>
-			</PRESENT_AUTH>
-			<ACADEMIC/>
-			<PRESENT_TYPE/>
+			<ROLE/>
 			<SCOPE/>
 			<CLASSIFICATION/>
 			<ABSTRACT/>
@@ -1807,7 +1785,6 @@
 			<DATE_START>1999-01-01</DATE_START>
 			<DATE_END>1999-12-31</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</PRESENT>
 		<SERVICE_DEPARTMENT id="104488589312" dmd:lastModified="2015-01-29T14:54:45" dmd:startDate="2014-02-01">
 			<ORG>MSF Steering Committee</ORG>
@@ -1841,9 +1818,8 @@
 			<END_END>2014-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_DEPARTMENT id="32313675777" dmd:lastModified="2011-01-27T12:29:10" dmd:startDate="2010-09-22" dmd:endDate="2010-09-22">
+		<SERVICE_DEPARTMENT id="32313675777" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-09-22" dmd:endDate="2010-09-22">
 			<ORG>Female Finance Student Mingler</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER>Co-organizer and Attendee</ROLEOTHER>
 			<DTM_START>September</DTM_START>
 			<DTD_START>22</DTD_START>
@@ -1889,9 +1865,8 @@
 			<END_END>2010-04-30</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_DEPARTMENT>
-		<SERVICE_DEPARTMENT id="32313577473" dmd:lastModified="2011-01-27T12:25:51" dmd:startDate="2010-02-05" dmd:endDate="2010-02-05">
+		<SERVICE_DEPARTMENT id="32313577473" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-02-05" dmd:endDate="2010-02-05">
 			<ORG>Senior Finance Major Ladies Luncheon</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER>Co-organizer and Attendee</ROLEOTHER>
 			<DTM_START>February</DTM_START>
 			<DTD_START>5</DTD_START>
@@ -2145,9 +2120,8 @@
 			<END_END>2013-04-16</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
-		<SERVICE_COLLEGE id="66890582016" dmd:lastModified="2013-01-29T08:01:34" dmd:startDate="2012-11-12" dmd:endDate="2012-11-12">
+		<SERVICE_COLLEGE id="66890582016" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-11-12" dmd:endDate="2012-11-12">
 			<ORG>Student International Business Council</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER>Coached case presentation</ROLEOTHER>
 			<DTM_START>November</DTM_START>
 			<DTD_START>12</DTD_START>
@@ -2161,9 +2135,8 @@
 			<END_END>2012-11-12</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_COLLEGE>
-		<SERVICE_COLLEGE id="66890567680" dmd:lastModified="2013-01-29T08:00:52" dmd:startDate="2012-11-06" dmd:endDate="2012-11-06">
+		<SERVICE_COLLEGE id="66890567680" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-11-06" dmd:endDate="2012-11-06">
 			<ORG>Student International Business Council</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER>Coached case presentation</ROLEOTHER>
 			<DTM_START>November</DTM_START>
 			<DTD_START>06</DTD_START>
@@ -2433,9 +2406,8 @@
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="85482928128" dmd:lastModified="2014-01-31T13:02:38" dmd:startDate="2013-12-20">
+		<SERVICE_UNIVERSITY id="85482928128" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2013-12-20">
 			<ORG>Smart Woman Securities</ORG>
-			<ROLE>Student Org Advisor (Non-Professional Org)</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>December</DTM_START>
 			<DTD_START>20</DTD_START>
@@ -2449,9 +2421,8 @@
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="32313831425" dmd:lastModified="2011-01-27T12:33:11" dmd:startDate="2010-08-01">
+		<SERVICE_UNIVERSITY id="32313831425" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2010-08-01">
 			<ORG/>
-			<ROLE>Administrative Assignment, Other</ROLE>
 			<ROLEOTHER>Assistant Department Chair</ROLEOTHER>
 			<DTM_START>August</DTM_START>
 			<DTD_START/>
@@ -2465,9 +2436,8 @@
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7217285121" dmd:lastModified="2008-01-28T16:33:34" dmd:startDate="2007-08-01">
+		<SERVICE_UNIVERSITY id="7217285121" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-08-01">
 			<ORG>Building Bridges Multicultural Student Program</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>August</DTM_START>
 			<DTD_START/>
@@ -2513,9 +2483,8 @@
 			<END_END>2014-05-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="66890450944" dmd:lastModified="2013-01-29T08:07:35" dmd:startDate="2012-03-01" dmd:endDate="2012-03-01">
+		<SERVICE_UNIVERSITY id="66890450944" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2012-03-01" dmd:endDate="2012-03-01">
 			<ORG>Kaneb Center "Reinvigorating Our Teaching" Workshop</ORG>
-			<ROLE>Guest Speaker</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>March</DTM_START>
 			<DTD_START>01</DTD_START>
@@ -2577,9 +2546,8 @@
 			<END_END>2011-04-30</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7217270785" dmd:lastModified="2013-01-29T07:56:57" dmd:startDate="2006-08-01" dmd:endDate="2010-12-31">
+		<SERVICE_UNIVERSITY id="7217270785" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2006-08-01" dmd:endDate="2010-12-31">
 			<ORG>Residential Scholars</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>August</DTM_START>
 			<DTD_START/>
@@ -2593,9 +2561,8 @@
 			<END_END>2010-12-31</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="7217258497" dmd:lastModified="2010-01-29T13:20:06" dmd:startDate="2007-08-01" dmd:endDate="2008-05-31">
+		<SERVICE_UNIVERSITY id="7217258497" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2007-08-01" dmd:endDate="2008-05-31">
 			<ORG>Student Athlete Honors Program</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START>August</DTM_START>
 			<DTD_START/>
@@ -2753,9 +2720,8 @@
 			<END_END>2003-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_UNIVERSITY id="1454422016" dmd:lastModified="2007-02-13T03:32:09" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
+		<SERVICE_UNIVERSITY id="1454422016" dmd:lastModified="2016-01-04T12:33:29" dmd:startDate="2000-01-01" dmd:endDate="2002-12-31">
 			<ORG>Student Athlete Honors Program</ORG>
-			<ROLE>Faculty Mentor</ROLE>
 			<ROLEOTHER/>
 			<DTM_START/>
 			<DTD_START/>
@@ -2801,101 +2767,6 @@
 			<END_END>2001-12-31</END_END>
 			<WEBPAGE_INCLUDE/>
 		</SERVICE_UNIVERSITY>
-		<SERVICE_PROFESSIONAL id="1454462976" dmd:lastModified="2008-01-28T16:36:04" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
-			<ORG>Journal of Banking and Finance</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START/>
-			<START_START></START_START>
-			<START_END></START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2003</DTY_END>
-			<END_START>2003-01-01</END_START>
-			<END_END>2003-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1454458880" dmd:lastModified="2008-01-28T16:34:51" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
-			<ORG>Journal of Finance</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START/>
-			<START_START></START_START>
-			<START_END></START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2003</DTY_END>
-			<END_START>2003-01-01</END_START>
-			<END_END>2003-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1454460928" dmd:lastModified="2008-01-28T16:35:44" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
-			<ORG>Journal of Financial and Quantitative Analysis</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START/>
-			<START_START></START_START>
-			<START_END></START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2003</DTY_END>
-			<END_START>2003-01-01</END_START>
-			<END_END>2003-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1454454784" dmd:lastModified="2008-01-28T16:36:39" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
-			<ORG>Journal of Business</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START/>
-			<START_START></START_START>
-			<START_END></START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2002</DTY_END>
-			<END_START>2002-01-01</END_START>
-			<END_END>2002-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
-		</SERVICE_PROFESSIONAL>
-		<SERVICE_PROFESSIONAL id="1454450688" dmd:lastModified="2008-01-28T16:36:19" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
-			<ORG>Journal of Finance</ORG>
-			<ROLE>Reviewer</ROLE>
-			<ROLEOTHER/>
-			<CITY/>
-			<STATE/>
-			<AUDIENCE/>
-			<DTM_START/>
-			<DTD_START/>
-			<DTY_START/>
-			<START_START></START_START>
-			<START_END></START_END>
-			<DTM_END/>
-			<DTD_END/>
-			<DTY_END>2001</DTY_END>
-			<END_START>2001-01-01</END_START>
-			<END_END>2001-12-31</END_END>
-			<WEBPAGE_INCLUDE/>
-		</SERVICE_PROFESSIONAL>
 		<SERVICE_PROFESSIONAL id="1454473216" dmd:lastModified="2007-12-19T11:21:28" dmd:startDate="2000-01-01" dmd:endDate="2000-12-31">
 			<ORG>Attended and participated extensively in departmental recruiting efforts at the American Finance Association annual meeting, Boston, MA</ORG>
 			<ROLE>Other</ROLE>
@@ -3064,6 +2935,226 @@
 			<END_END>2010-11-19</END_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</SERVICE_PUBLIC>
+		<EDITREV id="122701424640" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Banking and Finance</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-01-01</END_START>
+			<END_END>2003-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</EDITREV>
+		<EDITREV id="122701430784" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Finance</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-01-01</END_START>
+			<END_END>2003-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</EDITREV>
+		<EDITREV id="122701432832" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2003-01-01" dmd:endDate="2003-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Financial and Quantitative Analysis</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2003</DTY_END>
+			<END_START>2003-01-01</END_START>
+			<END_END>2003-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</EDITREV>
+		<EDITREV id="122701426688" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2002-01-01" dmd:endDate="2002-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Business</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2002</DTY_END>
+			<END_START>2002-01-01</END_START>
+			<END_END>2002-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</EDITREV>
+		<EDITREV id="122701428736" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2001-01-01" dmd:endDate="2001-12-31">
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		
+			<JOURNAL>Journal of Finance</JOURNAL>
+			<ROLE>Ad Hoc Reviewer</ROLE>
+			<CITY/>
+			<STATE/>
+			<AUDIENCE/>
+			<DTM_START/>
+			<DTD_START/>
+			<DTY_START/>
+			<START_START></START_START>
+			<START_END></START_END>
+			<DTM_END/>
+			<DTD_END/>
+			<DTY_END>2001</DTY_END>
+			<END_START>2001-01-01</END_START>
+			<END_END>2001-12-31</END_END>
+			<WEBPAGE_INCLUDE/>
+		</EDITREV>
 		<FACDEV id="104490731520" dmd:lastModified="2015-01-29T15:17:17" dmd:startDate="2014-11-01" dmd:endDate="2014-11-02">
 			<TYPE>Workshop</TYPE>
 			<TYPEOTHER/>
