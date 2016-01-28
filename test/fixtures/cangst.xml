@@ -36,10 +36,10 @@
 			<PCI_EXPERTISE id="5126838275">
 				<EXPERTISE>Data security breaches, IT value</EXPERTISE>
 			</PCI_EXPERTISE>
-			<UPLOAD_CV>cangst/pci/2015-09-21 Corey Angst CV-1.docx</UPLOAD_CV>
-			<BIO>Professor Angst conducts research on the transformational effect of IT, technology usage, and IT value - particularly in the healthcare industry. In recent papers, he has investigated the diffusion of disruptive healthcare innovations and the relationship to financial value and quality of care. 	
- 	
-Angst teaches undergraduate courses in project management and problem solving and graduate courses related to the strategic use of IT.  He received his Ph.D. from the Smith School of Business, University of Maryland; his M.B.A. from the Alfred Lerner College of Business &amp; Economics, University of Delaware; and his B.S. in Mechanical Engineering from Western Michigan University.  From 2005-2007, Angst was the Associate Director of the Center for Health Information and Decision Systems at the University of Maryland.  
+			<UPLOAD_CV/>
+			<BIO>Professor Angst conducts research on the transformational effect of IT, technology usage, and IT value - particularly in the healthcare industry. In recent papers, he has investigated the diffusion of disruptive healthcare innovations and the relationship to financial value and quality of care.
+
+Angst teaches undergraduate courses in project management and problem solving and graduate courses related to the strategic use of IT.  He received his Ph.D. from the Smith School of Business, University of Maryland; his M.B.A. from the Alfred Lerner College of Business &amp; Economics, University of Delaware; and his B.S. in Mechanical Engineering from Western Michigan University.  From 2005-2007, Angst was the Associate Director of the Center for Health Information and Decision Systems at the University of Maryland.
 
 Prior to pursuing his graduate education, Angst worked for 10 years in both technical and strategic roles, most recently as a consultant with the DuPont Company.  Angst has conducted research and consulted in the healthcare IT domain for many large multinational companies and for the federal government.</BIO>
 		</PCI>
@@ -644,603 +644,373 @@ With 15,000 article abstracts published in these journals annually, receiving a 
 			<END_END></END_END>
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</MEMBER>
-		<SCHTEACH id="123152314369" dmd:lastModified="2016-01-13T09:42:06" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|MGT|30490|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2016</TYY_TERM>
-			<TERM_START>2016-01-15</TERM_START>
-			<TERM_END>2016-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>36</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="123152330753" dmd:lastModified="2016-01-13T09:42:20" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|MGT|30490|02">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2016</TYY_TERM>
-			<TERM_START>2016-01-15</TERM_START>
-			<TERM_END>2016-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30490</COURSENUM>
-			<SECTION>02</SECTION>
-			<ENROLL>31</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="123152353281" dmd:lastModified="2016-01-13T09:42:48" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|MGT|30660|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2016</TYY_TERM>
-			<TERM_START>2016-01-15</TERM_START>
-			<TERM_END>2016-04-30</TERM_END>
-			<TITLE>Strategic IT </TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30660</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>36</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="123152371713" dmd:lastModified="2016-01-13T09:43:06" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2016|MGT|30660|02">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2016</TYY_TERM>
-			<TERM_START>2016-01-15</TERM_START>
-			<TERM_END>2016-04-30</TERM_END>
-			<TITLE>Strategic IT </TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30660</COURSENUM>
-			<SECTION>02</SECTION>
-			<ENROLL>32</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DEGREE_PROGRAM>Bachelor's</DEGREE_PROGRAM>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="105321654273" dmd:lastModified="2015-02-12T11:56:47" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|30490|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2015</TYY_TERM>
-			<TERM_START>2015-01-15</TERM_START>
-			<TERM_END>2015-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>35</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DEGREE_PROGRAM/>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="112705288193" dmd:lastModified="2015-08-18T13:15:20" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|30490|02">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2015</TYY_TERM>
-			<TERM_START>2015-01-15</TERM_START>
-			<TERM_END>2015-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30490</COURSENUM>
-			<SECTION>02</SECTION>
-			<ENROLL>15</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DEGREE_PROGRAM/>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="105321676801" dmd:lastModified="2015-08-18T13:15:39" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|30660|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2015</TYY_TERM>
-			<TERM_START>2015-01-15</TERM_START>
-			<TERM_END>2015-04-30</TERM_END>
-			<TITLE>Strategic IT </TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30660</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>30</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DEGREE_PROGRAM/>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="112705306625" dmd:lastModified="2015-08-18T13:15:56" dmd:startDate="2015-01-15" dmd:endDate="2015-04-30" dmd:primaryKey="Spring|2015|MGT|30660|02">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2015</TYY_TERM>
-			<TERM_START>2015-01-15</TERM_START>
-			<TERM_END>2015-04-30</TERM_END>
-			<TITLE>Strategic IT </TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30660</COURSENUM>
-			<SECTION>02</SECTION>
-			<ENROLL>25</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DEGREE_PROGRAM/>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="87041167361" dmd:lastModified="2014-03-05T12:05:50" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MGT|30490|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2014</TYY_TERM>
-			<TERM_START>2014-01-15</TERM_START>
-			<TERM_END>2014-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>32</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="87041142785" dmd:lastModified="2014-03-05T12:05:14" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MGT|30660|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2014</TYY_TERM>
-			<TERM_START>2014-01-15</TERM_START>
-			<TERM_END>2014-04-30</TERM_END>
-			<TITLE>Strategic IT Applications</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30660</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>31</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="87041157121" dmd:lastModified="2014-03-05T12:05:24" dmd:startDate="2014-01-15" dmd:endDate="2014-04-30" dmd:primaryKey="Spring|2014|MGT|30660|02">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2014</TYY_TERM>
-			<TERM_START>2014-01-15</TERM_START>
-			<TERM_END>2014-04-30</TERM_END>
-			<TITLE>Strategic IT Applications</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30660</COURSENUM>
-			<SECTION>02</SECTION>
-			<ENROLL>22</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="73326039041" dmd:lastModified="2013-05-15T11:06:56" dmd:startDate="2013-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|MARK|34450|01">
-			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2013</TYY_TERM>
-			<TERM_START>2013-09-01</TERM_START>
-			<TERM_END>2013-12-31</TERM_END>
-			<TITLE>BS315 eMarketing (Notre Dame Australia)</TITLE>
-			<COURSEPRE>MARK</COURSEPRE>
-			<COURSENUM>34450</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>30</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN>Course taught abroad to both UND and NDA students.  Required a redesign of course.  Students work in teams to identify strategic uses for IT within the value chain of an industry.</PEDINN>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="53032896513" dmd:lastModified="2013-01-03T12:34:08" dmd:startDate="2013-01-15" dmd:endDate="2013-04-30" dmd:primaryKey="Spring|2013|MGT|30660|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2013</TYY_TERM>
-			<TERM_START>2013-01-15</TERM_START>
-			<TERM_END>2013-04-30</TERM_END>
-			<TITLE>Strategic IT Applications</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30660</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>30</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN>Complete redesign of course.  Students work in teams to identify strategic uses for IT within the value chain of an industry.</PEDINN>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="53033539585" dmd:lastModified="2012-04-16T11:07:46" dmd:startDate="2012-09-01" dmd:endDate="2012-12-31" dmd:primaryKey="Fall|2012|MGT|40490|01">
-			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2012</TYY_TERM>
-			<TERM_START>2012-09-01</TERM_START>
-			<TERM_END>2012-12-31</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>35</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="53033711617" dmd:lastModified="2014-12-02T12:53:27" dmd:startDate="2012-09-01" dmd:endDate="2012-12-31" dmd:primaryKey="Fall|2012|MGT|40700|01">
-			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2012</TYY_TERM>
-			<TERM_START>2012-09-01</TERM_START>
-			<TERM_END>2012-12-31</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>30</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="47851960321" dmd:lastModified="2014-12-02T12:53:52" dmd:startDate="2012-09-01" dmd:endDate="2012-12-31" dmd:primaryKey="Fall|2012|MGT|40700|01">
-			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2012</TYY_TERM>
-			<TERM_START>2012-09-01</TERM_START>
-			<TERM_END>2012-12-31</TERM_END>
-			<TITLE>Project Management (Mod 1)</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>30</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="47851921409" dmd:lastModified="2012-04-16T10:59:56" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|MGT|40490|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2012</TYY_TERM>
-			<TERM_START>2012-01-15</TERM_START>
-			<TERM_END>2012-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>22</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="53033129984" dmd:lastModified="2012-04-16T11:04:02" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|MGT|40700|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2012</TYY_TERM>
-			<TERM_START>2012-01-15</TERM_START>
-			<TERM_END>2012-04-30</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>41</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN>In a sense, each semester this is a new prep because I have to seek at least 8-12 community projects.</PEDINN>
-			<OUTREACH>Involves working with community and doing 'real world' projects.  </OUTREACH>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="47852052481" dmd:lastModified="2012-04-16T11:04:55" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|MGT|30660|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2012</TYY_TERM>
-			<TERM_START>2012-01-15</TERM_START>
-			<TERM_END>2012-04-30</TERM_END>
-			<TITLE>Strategic IT Applications</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>30660</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>40</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="46815350785" dmd:lastModified="2011-12-05T11:18:49" dmd:startDate="2011-09-01" dmd:endDate="2011-12-31" dmd:primaryKey="Fall|2011|MGT|40700|01">
-			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2011</TYY_TERM>
-			<TERM_START>2011-09-01</TERM_START>
-			<TERM_END>2011-12-31</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>35</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN>We used the Samsung GalaxyTab 10.1 tablets</PEDINN>
-			<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="31427194881" dmd:lastModified="2010-12-17T12:08:34" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|MGT|40490|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2011</TYY_TERM>
-			<TERM_START>2011-01-15</TERM_START>
-			<TERM_END>2011-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>35</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN>I taught this course in the collaborative technology center of Mendoza and students used the computer clusters to help organize their team's work.  </PEDINN>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="31427201025" dmd:lastModified="2011-04-22T13:45:53" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|MGT|40490|02">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2011</TYY_TERM>
-			<TERM_START>2011-01-15</TERM_START>
-			<TERM_END>2011-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40490</COURSENUM>
-			<SECTION>02</SECTION>
-			<ENROLL>27</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN>I taught this course in the collaborative technology center of Mendoza and students used the computer clusters to help organize their team's work.  </PEDINN>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="31427217409" dmd:lastModified="2014-12-02T12:54:28" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|MGT|40700|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2011</TYY_TERM>
-			<TERM_START>2011-01-15</TERM_START>
-			<TERM_END>2011-04-30</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>40</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN/>
-			<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="31427160065" dmd:lastModified="2014-12-02T12:54:46" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31" dmd:primaryKey="Fall|2010|MGT|40700|01">
-			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2010</TYY_TERM>
-			<TERM_START>2010-09-01</TERM_START>
-			<TERM_END>2010-12-31</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>45</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN>My entire class received iPad tablets and participated in several surveys, focus groups, and interviews.  Students used the iPads to assist with managing their projects and general organization.  The course was profiled in scores of top news outlets, regionally, nationally and internationally.  </PEDINN>
-			<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="24365760513" dmd:lastModified="2010-05-19T13:33:34" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|MGT|40490|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2010</TYY_TERM>
-			<TERM_START>2010-01-15</TERM_START>
-			<TERM_END>2010-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>47</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="24365740033" dmd:lastModified="2010-05-19T13:33:12" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|MGT|40700|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2010</TYY_TERM>
-			<TERM_START>2010-01-15</TERM_START>
-			<TERM_END>2010-04-30</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>45</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="24365793281" dmd:lastModified="2010-05-19T13:34:09" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|MGT|70690|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2010</TYY_TERM>
-			<TERM_START>2010-01-15</TERM_START>
-			<TERM_END>2010-04-30</TERM_END>
-			<TITLE>Strategic Business Technology</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>70690</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>23</ENROLL>
-			<CHOURS>2.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="17112403969" dmd:lastModified="2014-12-02T12:54:52" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31" dmd:primaryKey="Fall|2009|MGT|40700|01">
-			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2009</TYY_TERM>
-			<TERM_START>2009-09-01</TERM_START>
-			<TERM_END>2009-12-31</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>45</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN>I implemented a 'paperless' course.  This not only applies to the students, but also to me.  So everything I assign, everything they hand in, and also exams are completed in an electronic format, I grade them by making ‘tracked’ comments in the documents, and then I send them back to the students electronically.  I haven’t done any calculations, but I’m sure this is saving thousands and thousands of sheets of paper.  The benefits for me are: No more hauling papers around, no storage issues, and no losing stuff.  </PEDINN>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="12600653825" dmd:lastModified="2009-01-20T08:18:52" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|MGT|40490|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2009</TYY_TERM>
-			<TERM_START>2009-01-15</TERM_START>
-			<TERM_END>2009-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>30</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="12600637441" dmd:lastModified="2009-01-20T08:19:07" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|MGT|40700|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2009</TYY_TERM>
-			<TERM_START>2009-01-15</TERM_START>
-			<TERM_END>2009-04-30</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>44</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="12600616961" dmd:lastModified="2009-01-20T08:16:22" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|MGT|70690|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2009</TYY_TERM>
-			<TERM_START>2009-01-15</TERM_START>
-			<TERM_END>2009-04-30</TERM_END>
-			<TITLE>Strategic Business Technology</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>70690</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>22</ENROLL>
-			<CHOURS>2.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="9279064065" dmd:lastModified="2009-01-20T08:16:48" dmd:startDate="2008-09-01" dmd:endDate="2008-12-31" dmd:primaryKey="Fall|2008|MGT|40700|01">
-			<TYT_TERM>Fall</TYT_TERM>
-			<TYY_TERM>2008</TYY_TERM>
-			<TERM_START>2008-09-01</TERM_START>
-			<TERM_END>2008-12-31</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>35</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>No</NEWPREP>
-			<PEDINN>Real world projects</PEDINN>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="5266601985" dmd:lastModified="2009-01-20T08:17:09" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|MGT|40490|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2008</TYY_TERM>
-			<TERM_START>2008-01-15</TERM_START>
-			<TERM_END>2008-04-30</TERM_END>
-			<TITLE>Business Problem Solving</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40490</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>16</ENROLL>
-			<CHOURS>3.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="5266618369" dmd:lastModified="2009-01-20T08:17:21" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|MGT|40700|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2008</TYY_TERM>
-			<TERM_START>2008-01-15</TERM_START>
-			<TERM_END>2008-04-30</TERM_END>
-			<TITLE>Project Management</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>40700</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>25</ENROLL>
-			<CHOURS>1.5</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
-		<SCHTEACH id="5266624513" dmd:lastModified="2010-08-10T07:40:20" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|MGT|70690|01">
-			<TYT_TERM>Spring</TYT_TERM>
-			<TYY_TERM>2008</TYY_TERM>
-			<TERM_START>2008-01-15</TERM_START>
-			<TERM_END>2008-04-30</TERM_END>
-			<TITLE>Strategic Information Systems</TITLE>
-			<COURSEPRE>MGT</COURSEPRE>
-			<COURSENUM>70690</COURSENUM>
-			<SECTION>01</SECTION>
-			<ENROLL>7</ENROLL>
-			<CHOURS>2.0</CHOURS>
-			<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
-			<NEWPREP>Yes</NEWPREP>
-			<PEDINN/>
-			<OUTREACH/>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</SCHTEACH>
+		<SCHTEACH id="87041167361" dmd:lastModified="2014-03-05T12:05:50" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2014|MGT|30490|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2016</TYY_TERM>
+				<TERM_START>2014-01-15</TERM_START>
+				<TERM_END>2014-04-30</TERM_END>
+				<TITLE>Business Problem Solving</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>30490</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>32</ENROLL>
+				<CHOURS>3.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="87041142785" dmd:lastModified="2014-03-05T12:05:14" dmd:startDate="2016-01-15" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2014|MGT|30660|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2016</TYY_TERM>
+				<TERM_START>2014-01-15</TERM_START>
+				<TERM_END>2014-04-30</TERM_END>
+				<TITLE>Strategic IT Applications</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>30660</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>31</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="87041157121" dmd:lastModified="2014-03-05T12:05:24" dmd:startDate="2014-01-16" dmd:endDate="2016-04-30" dmd:primaryKey="Spring|2014|MGT|30660|02">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2016</TYY_TERM>
+				<TERM_START>2014-01-15</TERM_START>
+				<TERM_END>2014-04-30</TERM_END>
+				<TITLE>BAD Strategic IT Applications</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>30660</COURSENUM>
+				<SECTION>02</SECTION>
+				<ENROLL>22</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="73326039041" dmd:lastModified="2013-05-15T11:06:56" dmd:startDate="2012-09-01" dmd:endDate="2013-12-31" dmd:primaryKey="Fall|2013|MARK|34450|01">
+				<TYT_TERM>Fall</TYT_TERM>
+				<TYY_TERM>2011</TYY_TERM>
+				<TERM_START>2013-09-01</TERM_START>
+				<TERM_END>2013-12-31</TERM_END>
+				<TITLE>OLD BS315 eMarketing (Notre Dame Australia)</TITLE>
+				<COURSEPRE>MARK</COURSEPRE>
+				<COURSENUM>34450</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>30</ENROLL>
+				<CHOURS>3.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN>Course taught abroad to both UND and NDA students.  Required a redesign of course.  Students work in teams to identify strategic uses for IT within the value chain of an industry.</PEDINN>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="53033129984" dmd:lastModified="2012-04-16T11:04:02" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|MGT|40700|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2012</TYY_TERM>
+				<TERM_START>2012-01-15</TERM_START>
+				<TERM_END>2012-04-30</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>41</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN>In a sense, each semester this is a new prep because I have to seek at least 8-12 community projects.</PEDINN>
+				<OUTREACH>Involves working with community and doing 'real world' projects.  </OUTREACH>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="47852052481" dmd:lastModified="2012-04-16T11:04:55" dmd:startDate="2012-01-15" dmd:endDate="2012-04-30" dmd:primaryKey="Spring|2012|MGT|30660|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2012</TYY_TERM>
+				<TERM_START>2012-01-15</TERM_START>
+				<TERM_END>2012-04-30</TERM_END>
+				<TITLE>Strategic IT Applications</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>30660</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>40</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN/>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="46815350785" dmd:lastModified="2011-12-05T11:18:49" dmd:startDate="2011-09-01" dmd:endDate="2011-12-31" dmd:primaryKey="Fall|2011|MGT|40700|01">
+				<TYT_TERM>Fall</TYT_TERM>
+				<TYY_TERM>2011</TYY_TERM>
+				<TERM_START>2011-09-01</TERM_START>
+				<TERM_END>2011-12-31</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>35</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN>We used the Samsung GalaxyTab 10.1 tablets</PEDINN>
+				<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="31427194881" dmd:lastModified="2010-12-17T12:08:34" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|MGT|40490|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2011</TYY_TERM>
+				<TERM_START>2011-01-15</TERM_START>
+				<TERM_END>2011-04-30</TERM_END>
+				<TITLE>Business Problem Solving</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40490</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>35</ENROLL>
+				<CHOURS>3.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN>I taught this course in the collaborative technology center of Mendoza and students used the computer clusters to help organize their team's work.  </PEDINN>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="31427201025" dmd:lastModified="2011-04-22T13:45:53" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|MGT|40490|02">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2011</TYY_TERM>
+				<TERM_START>2011-01-15</TERM_START>
+				<TERM_END>2011-04-30</TERM_END>
+				<TITLE>Business Problem Solving</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40490</COURSENUM>
+				<SECTION>02</SECTION>
+				<ENROLL>27</ENROLL>
+				<CHOURS>3.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN>I taught this course in the collaborative technology center of Mendoza and students used the computer clusters to help organize their team's work.  </PEDINN>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="31427217409" dmd:lastModified="2011-04-22T14:05:40" dmd:startDate="2011-01-15" dmd:endDate="2011-04-30" dmd:primaryKey="Spring|2011|MGT|40700|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2011</TYY_TERM>
+				<TERM_START>2011-01-15</TERM_START>
+				<TERM_END>2011-04-30</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>40</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN/>
+				<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="31427160065" dmd:lastModified="2010-12-17T12:06:51" dmd:startDate="2010-09-01" dmd:endDate="2010-12-31" dmd:primaryKey="Fall|2010|MGT|40700|01">
+				<TYT_TERM>Fall</TYT_TERM>
+				<TYY_TERM>2010</TYY_TERM>
+				<TERM_START>2010-09-01</TERM_START>
+				<TERM_END>2010-12-31</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>45</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN>My entire class received iPad tablets and participated in several surveys, focus groups, and interviews.  Students used the iPads to assist with managing their projects and general organization.  The course was profiled in scores of top news outlets, regionally, nationally and internationally.  </PEDINN>
+				<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="24365760513" dmd:lastModified="2010-05-19T13:33:34" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|MGT|40490|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2010</TYY_TERM>
+				<TERM_START>2010-01-15</TERM_START>
+				<TERM_END>2010-04-30</TERM_END>
+				<TITLE>Business Problem Solving</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40490</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>47</ENROLL>
+				<CHOURS>3.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="24365740033" dmd:lastModified="2010-05-19T13:33:12" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|MGT|40700|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2010</TYY_TERM>
+				<TERM_START>2010-01-15</TERM_START>
+				<TERM_END>2010-04-30</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>45</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<OUTREACH>We conduct real projects, many of which involve ND and greater Michiana.  </OUTREACH>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="24365793281" dmd:lastModified="2010-05-19T13:34:09" dmd:startDate="2010-01-15" dmd:endDate="2010-04-30" dmd:primaryKey="Spring|2010|MGT|70690|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2010</TYY_TERM>
+				<TERM_START>2010-01-15</TERM_START>
+				<TERM_END>2010-04-30</TERM_END>
+				<TITLE>Strategic Business Technology</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>70690</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>23</ENROLL>
+				<CHOURS>2.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="17112403969" dmd:lastModified="2009-09-23T13:00:58" dmd:startDate="2009-09-01" dmd:endDate="2009-12-31" dmd:primaryKey="Fall|2009|MGT|40700|01">
+				<TYT_TERM>Fall</TYT_TERM>
+				<TYY_TERM>2009</TYY_TERM>
+				<TERM_START>2009-09-01</TERM_START>
+				<TERM_END>2009-12-31</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>45</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN>I implemented a 'paperless' course.  This not only applies to the students, but also to me.  So everything I assign, everything they hand in, and also exams are completed in an electronic format, I grade them by making ‘tracked’ comments in the documents, and then I send them back to the students electronically.  I haven’t done any calculations, but I’m sure this is saving thousands and thousands of sheets of paper.  The benefits for me are: No more hauling papers around, no storage issues, and no losing stuff.  </PEDINN>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="12600653825" dmd:lastModified="2009-01-20T08:18:52" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|MGT|40490|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2009</TYY_TERM>
+				<TERM_START>2009-01-15</TERM_START>
+				<TERM_END>2009-04-30</TERM_END>
+				<TITLE>Business Problem Solving</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40490</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>30</ENROLL>
+				<CHOURS>3.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="12600637441" dmd:lastModified="2009-01-20T08:19:07" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|MGT|40700|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2009</TYY_TERM>
+				<TERM_START>2009-01-15</TERM_START>
+				<TERM_END>2009-04-30</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>44</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="12600616961" dmd:lastModified="2009-01-20T08:16:22" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30" dmd:primaryKey="Spring|2009|MGT|70690|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2009</TYY_TERM>
+				<TERM_START>2009-01-15</TERM_START>
+				<TERM_END>2009-04-30</TERM_END>
+				<TITLE>Strategic Business Technology</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>70690</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>22</ENROLL>
+				<CHOURS>2.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="9279064065" dmd:lastModified="2009-01-20T08:16:48" dmd:startDate="2008-09-01" dmd:endDate="2008-12-31" dmd:primaryKey="Fall|2008|MGT|40700|01">
+				<TYT_TERM>Fall</TYT_TERM>
+				<TYY_TERM>2008</TYY_TERM>
+				<TERM_START>2008-09-01</TERM_START>
+				<TERM_END>2008-12-31</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>35</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>No</NEWPREP>
+				<PEDINN>Real world projects</PEDINN>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="5266601985" dmd:lastModified="2009-01-20T08:17:09" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|MGT|40490|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2008</TYY_TERM>
+				<TERM_START>2008-01-15</TERM_START>
+				<TERM_END>2008-04-30</TERM_END>
+				<TITLE>Business Problem Solving</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40490</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>16</ENROLL>
+				<CHOURS>3.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="5266618369" dmd:lastModified="2009-01-20T08:17:21" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|MGT|40700|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2008</TYY_TERM>
+				<TERM_START>2008-01-15</TERM_START>
+				<TERM_END>2008-04-30</TERM_END>
+				<TITLE>Project Management</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>40700</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>25</ENROLL>
+				<CHOURS>1.5</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
+			<SCHTEACH id="5266624513" dmd:lastModified="2010-08-10T07:40:20" dmd:startDate="2008-01-15" dmd:endDate="2008-04-30" dmd:primaryKey="Spring|2008|MGT|70690|01">
+				<TYT_TERM>Spring</TYT_TERM>
+				<TYY_TERM>2008</TYY_TERM>
+				<TERM_START>2008-01-15</TERM_START>
+				<TERM_END>2008-04-30</TERM_END>
+				<TITLE>Strategic Information Systems</TITLE>
+				<COURSEPRE>MGT</COURSEPRE>
+				<COURSENUM>70690</COURSENUM>
+				<SECTION>01</SECTION>
+				<ENROLL>7</ENROLL>
+				<CHOURS>2.0</CHOURS>
+				<DELIVERY_MODE>Classroom Lecture/Discussion</DELIVERY_MODE>
+				<NEWPREP>Yes</NEWPREP>
+				<PEDINN/>
+				<OUTREACH/>
+				<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			</SCHTEACH>
 		<OFF_LOAD_TEACH id="11782559745" dmd:lastModified="2015-12-08T15:31:45" dmd:startDate="2009-01-15" dmd:endDate="2009-04-30">
 			<TYT_TERM>Spring</TYT_TERM>
 			<TYY_TERM>2009</TYY_TERM>
@@ -1971,7 +1741,7 @@ With 15,000 article abstracts published in these journals annually, receiving a 
 				<ROLE>Co-Principal</ROLE>
 			</CONGRANT_INVEST>
 			<AMOUNT>152267.78</AMOUNT>
-			<ABSTRACT>The maximum benefits of prescription drugs are not currently achieved due to limitations in our system of prescribing.  Electronic prescribing (e-prescribing) has been advocated as a tool for improving prescribing.  With the implementation of the Medicare Modernization Act, Congress has set goals for the uptake of e-prescribing across the country.  For e-prescribing to be effective, however, the informational transactions that allow each prescription to be completed must be transmitted in a uniform and reproducible way, and the systems making these transmissions must be implemented in a way that is accessible to the many and diverse medical practice settings throughout the country.  
+			<ABSTRACT>The maximum benefits of prescription drugs are not currently achieved due to limitations in our system of prescribing.  Electronic prescribing (e-prescribing) has been advocated as a tool for improving prescribing.  With the implementation of the Medicare Modernization Act, Congress has set goals for the uptake of e-prescribing across the country.  For e-prescribing to be effective, however, the informational transactions that allow each prescription to be completed must be transmitted in a uniform and reproducible way, and the systems making these transmissions must be implemented in a way that is accessible to the many and diverse medical practice settings throughout the country.
 
 UMD's portion of this research project involves the examination of whether the implementation of standards and adoption of e-prescribing improve processes of prescribing for physicians and patients.  Members of the research team with expertise in the study of information technology uptake and efficiency will conduct direct observation studies of the impact of e-prescribing on office workflow while investigators experienced in survey research will conduct large scale surveys to determine the acceptability of this e-prescribing tool in the outpatient setting.  Whether e-prescribing, when implemented in accordance with the initial standards, is acceptable to physicians and improves prescribing processes will provide critical data on whether both the standards and e-prescribing can be successfully expanded nationwide. </ABSTRACT>
 			<DTM_START>September</DTM_START>
@@ -2471,6 +2241,50 @@ UMD's portion of this research project involves the examination of whether the i
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</CONGRANT>
+		<INTELLCONT id="91010762752" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2015-07-01" dmd:endDate="2015-07-31">
+			<STATUS>Published</STATUS>
+			<PUBLISHER>Strategic Management Journal</PUBLISHER>
+			<TITLE>The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships</TITLE>
+			<VOLUME>36</VOLUME>
+			<ISSUE>9</ISSUE>
+			<PAGENUM>1412-1434</PAGENUM>
+			<DTM_PUB>July (3rd Quarter/Summer)</DTM_PUB>
+			<DTD_PUB/>
+			<DTY_PUB>2015</DTY_PUB>
+			<PUB_START>2015-07-01</PUB_START>
+			<PUB_END>2015-07-31</PUB_END>
+			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
+			<CONTYPEOTHER/>
+			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
+			<INTELLCONT_AUTH id="91010762754">
+				<FACULTY_NAME>1238088</FACULTY_NAME>
+				<FNAME>Sean</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Handley</LNAME>
+			</INTELLCONT_AUTH>
+			<INTELLCONT_AUTH id="91010762753">
+				<FACULTY_NAME>196452</FACULTY_NAME>
+				<FNAME>Corey</FNAME>
+				<MNAME></MNAME>
+				<LNAME>Angst</LNAME>
+			</INTELLCONT_AUTH>
+			<WEB_ADDRESS>http://tinyurl.com/2015SMJ</WEB_ADDRESS>
+			<ABSTRACT>To address concerns of opportunism, outsourcing firms are encouraged to deploy contractual and relational governance. The individual and collective effects of these mechanisms have been previously examined but not in specific contexts. This study examines the effects of contractual and relational governance on provider
+opportunism, incorporating the moderating influence of a ‘shift parameter’ – national culture. Our results reveal that contractual governance is more effective in individualistic and low uncertainty avoidance cultures. Relational governance is more effective in collectivist and high uncertainty avoidance societies. The individualism-collectivism dimension also moderates the joint effect of these mechanisms. While the mechanisms are generally complementary in mitigating opportunism, a singular focus on either contractual or relational can be just as effective under situations of high individualism and collectivism, respectively.</ABSTRACT>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
+			<CITATION id="91010762755">
+				<LOCATION/>
+				<DTM_CITE/>
+				<DTD_CITE/>
+				<DTY_CITE/>
+				<CITE_START></CITE_START>
+				<CITE_END></CITE_END>
+				<SOURCE/>
+				<NAME/>
+				<DESC/>
+			</CITATION>
+			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
+		</INTELLCONT>
 		<INTELLCONT id="123152857088" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2016-01-01" dmd:endDate="2016-12-31">
 			<STATUS>1st Round Submission</STATUS>
 			<PUBLISHER>Production and Operations Management </PUBLISHER>
@@ -2887,50 +2701,7 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<INTELLCONT id="91010762752" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2015-07-01" dmd:endDate="2015-07-31">
-			<STATUS>Published</STATUS>
-			<PUBLISHER>Strategic Management Journal</PUBLISHER>
-			<TITLE>The Impact of Culture on the Relationship between Governance and Opportunism in Outsourcing Relationships</TITLE>
-			<VOLUME>36</VOLUME>
-			<ISSUE>9</ISSUE>
-			<PAGENUM>1412-1434</PAGENUM>
-			<DTM_PUB>July (3rd Quarter/Summer)</DTM_PUB>
-			<DTD_PUB/>
-			<DTY_PUB>2015</DTY_PUB>
-			<PUB_START>2015-07-01</PUB_START>
-			<PUB_END>2015-07-31</PUB_END>
-			<CONTYPE>Peer-Reviewed Journals</CONTYPE>
-			<CONTYPEOTHER/>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<INTELLCONT_AUTH id="91010762754">
-				<FACULTY_NAME>1238088</FACULTY_NAME>
-				<FNAME>Sean</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Handley</LNAME>
-			</INTELLCONT_AUTH>
-			<INTELLCONT_AUTH id="91010762753">
-				<FACULTY_NAME>196452</FACULTY_NAME>
-				<FNAME>Corey</FNAME>
-				<MNAME></MNAME>
-				<LNAME>Angst</LNAME>
-			</INTELLCONT_AUTH>
-			<WEB_ADDRESS>http://tinyurl.com/2015SMJ</WEB_ADDRESS>
-			<ABSTRACT>To address concerns of opportunism, outsourcing firms are encouraged to deploy contractual and relational governance. The individual and collective effects of these mechanisms have been previously examined but not in specific contexts. This study examines the effects of contractual and relational governance on provider 
-opportunism, incorporating the moderating influence of a ‘shift parameter’ – national culture. Our results reveal that contractual governance is more effective in individualistic and low uncertainty avoidance cultures. Relational governance is more effective in collectivist and high uncertainty avoidance societies. The individualism-collectivism dimension also moderates the joint effect of these mechanisms. While the mechanisms are generally complementary in mitigating opportunism, a singular focus on either contractual or relational can be just as effective under situations of high individualism and collectivism, respectively.</ABSTRACT>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-			<CITATION id="91010762755">
-				<LOCATION/>
-				<DTM_CITE/>
-				<DTD_CITE/>
-				<DTY_CITE/>
-				<CITE_START></CITE_START>
-				<CITE_END></CITE_END>
-				<SOURCE/>
-				<NAME/>
-				<DESC/>
-			</CITATION>
-			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
-		</INTELLCONT>
+
 		<INTELLCONT id="41118615553" dmd:lastModified="2016-01-25T09:16:09" dmd:startDate="2014-01-01" dmd:endDate="2014-01-31">
 			<STATUS>Published</STATUS>
 			<PUBLISHER>Decision Support Systems</PUBLISHER>
@@ -3454,9 +3225,9 @@ inﬂuence. Theoretical and pragmatic implications of the ﬁndings are discusse
 			</INTELLCONT_AUTH>
 			<WEB_ADDRESS>http://tinyurl.com/2010JAMIA</WEB_ADDRESS>
 			<ABSTRACT>Objective
-Physician practices may adopt and use electronic prescribing (eRx) in response to mandates, incentives, and perceived value of the technology.  Yet, for the most part, diffusion has been limited and geographically confined, and even when adopted, use of eRx in many practices has been low.  One explanation for this phenomenon is that decision-makers in the practices possess different technological viewpoints (frames) related to eRx and these frames have formed the basis for the adoption decision, expectations about the technology, and patterns of use.  In this study we examined eRx technological frames. 
+Physician practices may adopt and use electronic prescribing (eRx) in response to mandates, incentives, and perceived value of the technology.  Yet, for the most part, diffusion has been limited and geographically confined, and even when adopted, use of eRx in many practices has been low.  One explanation for this phenomenon is that decision-makers in the practices possess different technological viewpoints (frames) related to eRx and these frames have formed the basis for the adoption decision, expectations about the technology, and patterns of use.  In this study we examined eRx technological frames.
 Design
-Focus groups, direct observation, and semi-structured interviews were conducted with physicians, practice managers, nurses, and other medical staff.  
+Focus groups, direct observation, and semi-structured interviews were conducted with physicians, practice managers, nurses, and other medical staff.
 Measurements
 Focus groups were observed, taped, transcribed, and analyzed to reveal themes.  These themes guided the observational visits and subsequent interviews.  A triangulation process was used to confirm our findings.
 Results
@@ -3791,182 +3562,6 @@ Frames provide a unique perspective within which to explore the adoption and use
 			</CITATION>
 			<USER_REFERENCE_CREATOR>Yes</USER_REFERENCE_CREATOR>
 		</INTELLCONT>
-		<PRESENT id="117232873472" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-11-20" dmd:endDate="2015-11-20">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>Invited Talk, Temple University</NAME>
-			<TITLE>A Longitudinal Study of the Relationship between Information Systems Sourcing Strategy and Hospital Performance</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>November</DTM_DATE>
-			<DTD_DATE>20</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-11-20</DATE_START>
-			<DATE_END>2015-11-20</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="117233627136" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-11-01" dmd:endDate="2015-11-01">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>INFORMS Annual Meeting</NAME>
-			<TITLE>Health Information Exchange and Reduced Healthcare Spending</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>November</DTM_DATE>
-			<DTD_DATE>1</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-11-01</DATE_START>
-			<DATE_END>2015-11-01</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="117233563648" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-10-10" dmd:endDate="2015-10-10">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Patient-Centric Healthcare Management in the Age of Analytics</NAME>
-			<TITLE>A Longitudinal Study of the Relationship between Information Systems Sourcing Strategy and Hospital Performance</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>10</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-10-10</DATE_START>
-			<DATE_END>2015-10-10</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="117233704960" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-10-10" dmd:endDate="2015-10-10">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>WHITE - Workshop on Health Information Technology and Economics</NAME>
-			<TITLE>There’s an App for that: Addressing the Handoff Problem in Healthcare using Mobile</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>10</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-10-10</DATE_START>
-			<DATE_END>2015-10-10</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="117233319936" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-10-09" dmd:endDate="2015-10-09">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Patient-Centric Healthcare Management in the Age of Analytics</NAME>
-			<TITLE>Can A Hospital’s Data Analytics’ Capabilities  Impact Patient Outcomes? Evidence from a multi-year panel</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT>Organizations are just beginning to explore and subsequently reap the benefits of ‘big data’ and data analytical capabilities, especially in healthcare. Interestingly, an empirical link between analytics IT and organizational performance has not yet been established.  We construct a model in which hospital quality related to quality of care and patient satisfaction is a function of both analytics and non-analytics IT capabilities. In a more nuanced articulation, we hypothesize that the 3C’s - competition, complexity, and concentration -  moderate the relationship between analytics and non-analytics IT capabilities and patient outcomes.</ABSTRACT>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>9</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-10-09</DATE_START>
-			<DATE_END>2015-10-09</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="112028979200" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-09-18" dmd:endDate="2015-09-18">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>On the Sidelines</NAME>
-			<TITLE>Hackers, Crackers, and Corporate Attackers: Making Sense of Data Breaches in Our Digital World</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT>https://www.youtube.com/watch?v=fDm2uM8-K6s</ABSTRACT>
-			<DTM_DATE>September</DTM_DATE>
-			<DTD_DATE>18</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-09-18</DATE_START>
-			<DATE_END>2015-09-18</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="108168720384" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-07-29" dmd:endDate="2015-07-29">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>INFORMS Healthcare Conference</NAME>
-			<TITLE>Track Chair: HIT Privacy and Security</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>July</DTM_DATE>
-			<DTD_DATE>29</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-07-29</DATE_START>
-			<DATE_END>2015-07-29</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="111608078337" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-07-17" dmd:endDate="2015-07-17">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>Bocconi University</NAME>
-			<TITLE>Is Corporate Social Responsibility Good for IS Security? Hackers as corporate disciplinarians</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>July</DTM_DATE>
-			<DTD_DATE>17</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-07-17</DATE_START>
-			<DATE_END>2015-07-17</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="111401906176" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-07-16" dmd:endDate="2015-07-16">
-			<PRESENTATION_TYPE>Poster</PRESENTATION_TYPE>
-			<NAME>NBER - National Bureau of Economic Research</NAME>
-			<TITLE>Reducing Healthcare Spending through Electronic Information Exchange: Aligning Provider and Insurer Incentives</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>July</DTM_DATE>
-			<DTD_DATE>16</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-07-16</DATE_START>
-			<DATE_END>2015-07-16</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="108162551808" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-07-02" dmd:endDate="2015-07-02">
-			<PRESENTATION_TYPE>Keynote/Plenary Address</PRESENTATION_TYPE>
-			<NAME>Responsible IT Leadership in a Data-Driven World</NAME>
-			<TITLE>Data Governance in Firms</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>July</DTM_DATE>
-			<DTD_DATE>2</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-07-02</DATE_START>
-			<DATE_END>2015-07-02</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="108162279424" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2015-04-22" dmd:endDate="2015-04-22">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>Privacy in an Era of Big Data workshop</NAME>
-			<TITLE>Theme 1: Tradeoffs between Benefits of Big Data and Privacy Protection</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>April</DTM_DATE>
-			<DTD_DATE>22</DTD_DATE>
-			<DTY_DATE>2015</DTY_DATE>
-			<DATE_START>2015-04-22</DATE_START>
-			<DATE_END>2015-04-22</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
 		<PRESENT id="98083659776" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-11-12" dmd:endDate="2014-11-12">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
 			<NAME>Hesburgh Lecture Series</NAME>
@@ -4033,7 +3628,7 @@ Frames provide a unique perspective within which to explore the adoption and use
 		</PRESENT>
 		<PRESENT id="98083473408" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-09-19" dmd:endDate="2014-09-19">
 			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
-			<NAME>Hesburgh Lecture Series</NAME>
+			<NAME>Hidden Hesburgh Lecture Series</NAME>
 			<TITLE>Who’s Watching Me?  What “Big Data” Means to All of Us</TITLE>
 			<ROLE>Presentor</ROLE>
 			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
@@ -4045,613 +3640,7 @@ Frames provide a unique perspective within which to explore the adoption and use
 			<DTY_DATE>2014</DTY_DATE>
 			<DATE_START>2014-09-19</DATE_START>
 			<DATE_END>2014-09-19</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="86860253184" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-04-03" dmd:endDate="2014-04-03">
-			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
-			<NAME>Hesburgh Lecture Series</NAME>
-			<TITLE>Who’s Watching Me?  What “Big Data” Means to All of Us</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>Regional</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT>The term ‘Big Data’ is being widely used in society yet few people have an understanding of what it is or how it impacts each of us.  While Big Data promises customization, hyper-personalization, a better understanding of consumers, and some societal benefits, it also creates privacy concerns.  In this non-technical talk, I will demystify Big Data.  </ABSTRACT>
-			<DTM_DATE>April</DTM_DATE>
-			<DTD_DATE>3</DTD_DATE>
-			<DTY_DATE>2014</DTY_DATE>
-			<DATE_START>2014-04-03</DATE_START>
-			<DATE_END>2014-04-03</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="86860214272" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2014-02-20" dmd:endDate="2014-02-20">
-			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
-			<NAME>Hesburgh Lecture Series</NAME>
-			<TITLE>"Grandma 'friended' me on Facebook: Making sense of social media"</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>Regional</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT>In this talk I will not only shock you with some extraordinary facts about the size and growth of social media but I will also explain why and how social media can be used to benefit individuals, companies, and society at large…and where I think it is all headed in the future.</ABSTRACT>
-			<DTM_DATE>February</DTM_DATE>
-			<DTD_DATE>20</DTD_DATE>
-			<DTY_DATE>2014</DTY_DATE>
-			<DATE_START>2014-02-20</DATE_START>
-			<DATE_END>2014-02-20</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="76907534337" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-09-19" dmd:endDate="2013-09-19">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>Curtin University</NAME>
-			<TITLE>When Do IT Security Investments Matter: The Influence of Organizational and Institutional Factors on the Efficacy of IT Security Investments</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT>One of the unfortunate consequences of digitizing society is that the likelihood of data security breaches is both more frequent and greater in scope and impact.  While financial institutions have traditionally been the targets of attack, today’s criminals seek data from all sources, including hospitals.  In this study we employ an institutional perspective and hypothesize that organizational characteristics, the organization-environment interface, and IT-related factors are predictors of data security breaches.   Using data from three different sources we create a matched panel of 1,640 hospitals, 168 of which experienced a breach over the 2005-2010 time frame.  We find that while there is a significant relationship between some IT-related factors and data security breaches, institutional characteristics moderate these relationships. Implications for these findings are significant for policy and practice, the most important of which appears to be the discovery that there needs to be a balance between technological solutions and organizational practices.  The recognition that certain immutable characteristics of firms (for-profit, academic, size of health system) are associated with breaches is intriguing but requires further research to uncover the underlying reasons why this is occurring and how to address it.</ABSTRACT>
-			<DTM_DATE>September</DTM_DATE>
-			<DTD_DATE>19</DTD_DATE>
-			<DTY_DATE>2013</DTY_DATE>
-			<DATE_START>2013-09-19</DATE_START>
-			<DATE_END>2013-09-19</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="76265199617" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-08-30" dmd:endDate="2013-08-30">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>National University of Singapore (NUS)</NAME>
-			<TITLE>When Do IT Security Investments Matter: The Influence of Organizational and Institutional Factors on the Efficacy of IT Security Investments</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT>One of the unfortunate consequences of digitizing society is that the likelihood of data security breaches is both more frequent and greater in scope and impact.  While financial institutions have traditionally been the targets of attack, today’s criminals seek data from all sources, including hospitals.  In this study we employ an institutional perspective and hypothesize that organizational characteristics, the organization-environment interface, and IT-related factors are predictors of data security breaches.   Using data from three different sources we create a matched panel of 1,640 hospitals, 168 of which experienced a breach over the 2005-2010 time frame.  We find that while there is a significant relationship between some IT-related factors and data security breaches, institutional characteristics moderate these relationships. Implications for these findings are significant for policy and practice, the most important of which appears to be the discovery that there needs to be a balance between technological solutions and organizational practices.  The recognition that certain immutable characteristics of firms (for-profit, academic, size of health system) are associated with breaches is intriguing but requires further research to uncover the underlying reasons why this is occurring and how to address it.</ABSTRACT>
-			<DTM_DATE>August</DTM_DATE>
-			<DTD_DATE>30</DTD_DATE>
-			<DTY_DATE>2013</DTY_DATE>
-			<DATE_START>2013-08-30</DATE_START>
-			<DATE_END>2013-08-30</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="76356282369" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-08-14" dmd:endDate="2013-08-14">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>The University of Notre Dame Australia</NAME>
-			<TITLE>When Do IT Security Investments Matter: The Influence of Organizational and Institutional Factors on the Efficacy of IT Security Investments</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT>One of the unfortunate consequences of digitizing society is that the likelihood of data security breaches is both more frequent and greater in scope and impact.  While financial institutions have traditionally been the targets of attack, today’s criminals seek data from all sources, including hospitals.  In this study we employ an institutional perspective and hypothesize that organizational characteristics, the organization-environment interface, and IT-related factors are predictors of data security breaches.   Using data from three different sources we create a matched panel of 1,640 hospitals, 168 of which experienced a breach over the 2005-2010 time frame.  We find that while there is a significant relationship between some IT-related factors and data security breaches, institutional characteristics moderate these relationships. Implications for these findings are significant for policy and practice, the most important of which appears to be the discovery that there needs to be a balance between technological solutions and organizational practices.  The recognition that certain immutable characteristics of firms (for-profit, academic, size of health system) are associated with breaches is intriguing but requires further research to uncover the underlying reasons why this is occurring and how to address it.</ABSTRACT>
-			<DTM_DATE>August</DTM_DATE>
-			<DTD_DATE>14</DTD_DATE>
-			<DTY_DATE>2013</DTY_DATE>
-			<DATE_START>2013-08-14</DATE_START>
-			<DATE_END>2013-08-14</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="66085036033" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-02-08" dmd:endDate="2013-02-08">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>Mason School of Business, College of William and Mary</NAME>
-			<TITLE>Shedding the Liability of Institutions: Organizational determinants of data security breaches</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT>One of the unfortunate consequences of digitizing society is that the likelihood of data security breaches is both more frequent and greater in scope and impact.  While financial institutions have traditionally been the targets of attack, today’s criminals seek data from all sources, including hospitals.  In this study we employ an institutional perspective and hypothesize that organizational characteristics, the organization-environment interface, and IT-related factors are predictors of data security breaches.   Using data from three different sources we create a matched panel of 1,640 hospitals, 168 of which experienced a breach over the 2005-2010 time frame.  We find that while there is a significant relationship between some IT-related factors and data security breaches, institutional characteristics moderate these relationships. Implications for these findings are significant for policy and practice, the most important of which appears to be the discovery that there needs to be a balance between technological solutions and organizational practices.  The recognition that certain immutable characteristics of firms (for-profit, academic, size of health system) are associated with breaches is intriguing but requires further research to uncover the underlying reasons why this is occurring and how to address it.</ABSTRACT>
-			<DTM_DATE>February</DTM_DATE>
-			<DTD_DATE>8</DTD_DATE>
-			<DTY_DATE>2013</DTY_DATE>
-			<DATE_START>2013-02-08</DATE_START>
-			<DATE_END>2013-02-08</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="67744960513" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2013-02-07" dmd:endDate="2013-02-07">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>CRS - Catholic Relief Services</NAME>
-			<TITLE>IT Value and Metrics</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>February</DTM_DATE>
-			<DTD_DATE>7</DTD_DATE>
-			<DTY_DATE>2013</DTY_DATE>
-			<DATE_START>2013-02-07</DATE_START>
-			<DATE_END>2013-02-07</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="76328779777" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-05-15" dmd:endDate="2012-05-15">
-			<PRESENTATION_TYPE>Other</PRESENTATION_TYPE>
-			<NAME>Securing Information Technology in Healthcare: Part II</NAME>
-			<TITLE>"Discussant"</TITLE>
-			<ROLE>Discussant</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>May</DTM_DATE>
-			<DTD_DATE>15</DTD_DATE>
-			<DTY_DATE>2012</DTY_DATE>
-			<DATE_START>2012-05-15</DATE_START>
-			<DATE_END>2012-05-15</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="50055720961" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2012-03-22" dmd:endDate="2012-03-22">
-			<PRESENTATION_TYPE>Lecture</PRESENTATION_TYPE>
-			<NAME>ND Thinks Big, University of Notre Dame</NAME>
-			<TITLE>Tablet computers in the classroom</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>Regional</SCOPE>
-			<CLASSIFICATION>Teaching and Learning Scholarship</CLASSIFICATION>
-			<ABSTRACT>Professor Angst will report on a multi-year study of iPad and Samsung GalaxyTab tablet computers that were used by students in a range of courses at the University of Notre Dame. His presentation will touch on student perceptions of the devices and the evolving use of tablets in the classroom.  </ABSTRACT>
-			<DTM_DATE>March</DTM_DATE>
-			<DTD_DATE>22</DTD_DATE>
-			<DTY_DATE>2012</DTY_DATE>
-			<DATE_START>2012-03-22</DATE_START>
-			<DATE_END>2012-03-22</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="41820905473" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-09-23" dmd:endDate="2011-09-23">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME> Michigan State University</NAME>
-			<TITLE>A Multilevel Investigation Of Network Effects On Individual Technology Use: A Social Capital Perspective</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT>This paper examines the effect of different configurations of  team level social capital conduits on the individual use of a newly implemented information technology. Relying on social capital and adoption  literature, we develop cross-level hypotheses for testing the effect of team closure relationships and bridging relationships on extensiveness of individual technology use. Our field study involves more than 250 users, working in 44 teams that are using a new customer relationship management system in a large financial services institution.  Results show that both bridging and closure conduits affect individual usage. Moreover, we provide some evidence that team bridging moderates the relationship between team closure and extensiveness of individual use. Implications of our multilevel analysis for theory, research, and policy are discussed.</ABSTRACT>
-			<DTM_DATE>September</DTM_DATE>
-			<DTD_DATE>23</DTD_DATE>
-			<DTY_DATE>2011</DTY_DATE>
-			<DATE_START>2011-09-23</DATE_START>
-			<DATE_END>2011-09-23</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="37435977729" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-05-13" dmd:endDate="2011-05-13">
-			<NAME>Information Technology Teaching Workshop</NAME>
-			<TITLE>Early Findings from Student iPad Course</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>May</DTM_DATE>
-			<DTD_DATE>13</DTD_DATE>
-			<DTY_DATE>2011</DTY_DATE>
-			<DATE_START>2011-05-13</DATE_START>
-			<DATE_END>2011-05-13</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="36222234625" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2011-02-11" dmd:endDate="2011-02-11">
-			<NAME>Workshop on Economics of Health Information Technology, University of Florida</NAME>
-			<TITLE>Voluntary Disclosure and Signaling Behavior</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>February</DTM_DATE>
-			<DTD_DATE>11</DTD_DATE>
-			<DTY_DATE>2011</DTY_DATE>
-			<DATE_START>2011-02-11</DATE_START>
-			<DATE_END>2011-02-11</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="49119526912" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-10-09" dmd:endDate="2010-10-09">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>Workshop on Health IT and Economics (WHITE)</NAME>
-			<TITLE>Health IT Landscape</TITLE>
-			<ROLE>Discussant</ROLE>
-			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION/>
-			<ABSTRACT/>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>9</DTD_DATE>
-			<DTY_DATE>2010</DTY_DATE>
-			<DATE_START>2010-10-09</DATE_START>
-			<DATE_END>2010-10-09</DATE_END>
-			<WEBPAGE_INCLUDE/>
-		</PRESENT>
-		<PRESENT id="36222324737" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-10-07" dmd:endDate="2010-10-07">
-			<NAME>WHITE (Workshop on Health Information Technology and Economics), University of Maryland</NAME>
-			<TITLE>Discussant - Business Value Track</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>7</DTD_DATE>
-			<DTY_DATE>2010</DTY_DATE>
-			<DATE_START>2010-10-07</DATE_START>
-			<DATE_END>2010-10-07</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="22530109441" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2010-04-09" dmd:endDate="2010-04-09">
-			<NAME>Univ of Notre Dame, Management Seminar Series</NAME>
-			<TITLE>A Multilevel Investigation Of Network Effects On Individual Technology Use: A Social Capital Perspective</TITLE>
-			<ROLE/>
-			<SCOPE>Local</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT>This paper examines the effect of different configurations of  team level social capital conduits on the individual use of a newly implemented information technology. Relying on social capital and adoption  literature, we develop cross-level hypotheses for testing the effect of team closure relationships and bridging relationships on extensiveness of individual technology use. Our field study involves more than 250 users, working in 44 teams that are using a new customer relationship management system in a large financial services institution.  Results show that both bridging and closure conduits affect individual usage. Moreover, we provide some evidence that team bridging moderates the relationship between team closure and extensiveness of individual use. Implications of our multilevel analysis for theory, research, and policy are discussed.</ABSTRACT>
-			<DTM_DATE>April</DTM_DATE>
-			<DTD_DATE>9</DTD_DATE>
-			<DTY_DATE>2010</DTY_DATE>
-			<DATE_START>2010-04-09</DATE_START>
-			<DATE_END>2010-04-09</DATE_END>
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="112814258176" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2009-12-01" dmd:endDate="2009-12-31">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of WISE - Workshop on Information Systems and Economics</NAME>
-			<TITLE>Deconstructing the Health IT Adoption Paradox</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>December</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2009</DTY_DATE>
-			<DATE_START>2009-12-01</DATE_START>
-			<DATE_END>2009-12-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="11055173633" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2008-10-24" dmd:endDate="2008-10-24">
-			<NAME>Joseph M. Katz Graduate School of Business, University of Pittsburgh</NAME>
-			<TITLE>of sequence The importance: Performance effects related to health information technology implementation sequence</TITLE>
-			<ROLE/>
-			<SCOPE>State</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>24</DTD_DATE>
-			<DTY_DATE>2008</DTY_DATE>
-			<DATE_START>2008-10-24</DATE_START>
-			<DATE_END>2008-10-24</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="10160044033" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2008-10-14" dmd:endDate="2008-10-14">
-			<NAME>INFORMS 2008</NAME>
-			<TITLE>An Empirical Investigation of Technology Adoption Sequences in Hospitals</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>14</DTD_DATE>
-			<DTY_DATE>2008</DTY_DATE>
-			<DATE_START>2008-10-14</DATE_START>
-			<DATE_END>2008-10-14</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="10160007169" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2008-10-14" dmd:endDate="2008-10-14">
-			<NAME>INFORMS 2008</NAME>
-			<TITLE>Determinants of Voluntary Disclosure of Quality of Care Information among California Hospitals</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>14</DTD_DATE>
-			<DTY_DATE>2008</DTY_DATE>
-			<DATE_START>2008-10-14</DATE_START>
-			<DATE_END>2008-10-14</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113619562496" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2008-01-01" dmd:endDate="2008-01-31">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of the 41st Annual Hawaii International Conference on System Sciences (CD-ROM)</NAME>
-			<TITLE>An Empirical Examination of the Importance of Defining the PHR for Research and for Practice</TITLE>
-			<ROLE/>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>January</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2008</DTY_DATE>
-			<DATE_START>2008-01-01</DATE_START>
-			<DATE_END>2008-01-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113621583872" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2007-12-01" dmd:endDate="2007-12-31">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of International Conference on Information Systems (ICIS)</NAME>
-			<TITLE>A Multilevel Investigation of Normative and Informational Influences on Extensiveness of Individual Technology Use</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>December</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2007</DTY_DATE>
-			<DATE_START>2007-12-01</DATE_START>
-			<DATE_END>2007-12-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113619869696" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2007-12-01" dmd:endDate="2007-12-31">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of International Conference on Information Systems (ICIS)</NAME>
-			<TITLE>Digitizing Healthcare: The Ability and Motivation of Physician Practices and Their Adoption of Electronic Health Record Systems</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>December</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2007</DTY_DATE>
-			<DATE_START>2007-12-01</DATE_START>
-			<DATE_END>2007-12-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113619970048" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2007-12-01" dmd:endDate="2007-12-31">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>WISE 2007</NAME>
-			<TITLE>Revealing Yourself Online: Quality Disclosure in California Hospitals</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>December</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2007</DTY_DATE>
-			<DATE_START>2007-12-01</DATE_START>
-			<DATE_END>2007-12-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113621655552" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2007-11-01" dmd:endDate="2007-11-30">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of INFORMS Annual Meeting</NAME>
-			<TITLE>Isolating the Effects of Health IT on Performance: Empirical Test of Complementarities and Learning</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>November</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2007</DTY_DATE>
-			<DATE_START>2007-11-01</DATE_START>
-			<DATE_END>2007-11-30</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113621786624" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2007-08-01" dmd:endDate="2007-08-31">
-			<PRESENTATION_TYPE>Oral Presentation</PRESENTATION_TYPE>
-			<NAME>Proceedings of The Academy of Management Annual Meeting (AOM)</NAME>
-			<TITLE>Transforming the Practice and Delivery of Healthcare through Information Technology</TITLE>
-			<ROLE>Panelist</ROLE>
-			<MEETING_TYPE>Regional Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>August</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2007</DTY_DATE>
-			<DATE_START>2007-08-01</DATE_START>
-			<DATE_END>2007-08-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266757633" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2007-06-01" dmd:endDate="2007-06-01">
-			<NAME>24th Annual Human-Computer Interaction Lab Symposium, University of Maryland: Health Informatics in an Aging Population Workshop</NAME>
-			<TITLE>An Empirical Examination of the Importance of Defining the PHR for Research and for Practice</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>June</DTM_DATE>
-			<DTD_DATE>1</DTD_DATE>
-			<DTY_DATE>2007</DTY_DATE>
-			<DATE_START>2007-06-01</DATE_START>
-			<DATE_END>2007-06-01</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266765825" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2007-03-22" dmd:endDate="2007-03-22">
-			<NAME>Smith Business Close-Up</NAME>
-			<TITLE>Has Your Doctor's Office Adapted to the 21st Century?</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>Regional</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>March</DTM_DATE>
-			<DTD_DATE>22</DTD_DATE>
-			<DTY_DATE>2007</DTY_DATE>
-			<DATE_START>2007-03-22</DATE_START>
-			<DATE_END>2007-03-22</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113619763200" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-12-01" dmd:endDate="2006-12-31">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of International Conference on Information Systems (ICIS)</NAME>
-			<TITLE>Digital Health Records and Privacy Concerns: Overcoming Key Barriers to Adoption</TITLE>
-			<ROLE/>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>December</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2006</DTY_DATE>
-			<DATE_START>2006-12-01</DATE_START>
-			<DATE_END>2006-12-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266776065" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-12-07" dmd:endDate="2006-12-07">
-			<NAME>Connecting Americans to Their Health Care</NAME>
-			<TITLE>Latest Research on PHRs</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>December</DTM_DATE>
-			<DTD_DATE>7</DTD_DATE>
-			<DTY_DATE>2006</DTY_DATE>
-			<DATE_START>2006-12-07</DATE_START>
-			<DATE_END>2006-12-07</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266782209" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-10-25" dmd:endDate="2006-10-25">
-			<NAME>National Advisory Commission on Patient-Focused Care</NAME>
-			<TITLE>PHR Research and Evidence</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>October</DTM_DATE>
-			<DTD_DATE>25</DTD_DATE>
-			<DTY_DATE>2006</DTY_DATE>
-			<DATE_START>2006-10-25</DATE_START>
-			<DATE_END>2006-10-25</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266794497" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-09-18" dmd:endDate="2006-09-18">
-			<NAME>Empowering Care through Communications Technologies</NAME>
-			<TITLE>But Does IT Add Value - Challenges in Connected Health Research</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>September</DTM_DATE>
-			<DTD_DATE>18</DTD_DATE>
-			<DTY_DATE>2006</DTY_DATE>
-			<DATE_START>2006-09-18</DATE_START>
-			<DATE_END>2006-09-18</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266802689" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-07-27" dmd:endDate="2006-07-27">
-			<NAME>Consumer Empowerment Workgroup Hearings on Personal Health Records</NAME>
-			<TITLE>PHR - Clinical, Patient, and Consumer Perspectives</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>July</DTM_DATE>
-			<DTD_DATE>27</DTD_DATE>
-			<DTY_DATE>2006</DTY_DATE>
-			<DATE_START>2006-07-27</DATE_START>
-			<DATE_END>2006-07-27</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266812929" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2006-06-05" dmd:endDate="2006-06-05">
-			<NAME>5th Annual HIMSS Advocacy Day</NAME>
-			<TITLE>Personal Health Records…It’s Time: The value of a PHR</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>National</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>June</DTM_DATE>
-			<DTD_DATE>5</DTD_DATE>
-			<DTY_DATE>2006</DTY_DATE>
-			<DATE_START>2006-06-05</DATE_START>
-			<DATE_END>2006-06-05</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113590009856" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-11-01" dmd:endDate="2005-11-30">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>American Medical Informatics Association</NAME>
-			<TITLE>Changing Attitudes about Electronic Health Records in the Presence of Privacy Concerns: The Elaboration Likelihood Model and Patient Persuasion</TITLE>
-			<ROLE/>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>November</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2005</DTY_DATE>
-			<DATE_START>2005-11-01</DATE_START>
-			<DATE_END>2005-11-30</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266819073" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-06-01" dmd:endDate="2005-06-30">
-			<NAME>HIT Summit</NAME>
-			<TITLE>Developing a Visual Representation of HIT Diffusion in the U.S.</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>Regional</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>June</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2005</DTY_DATE>
-			<DATE_START>2005-06-01</DATE_START>
-			<DATE_END>2005-06-30</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113623072768" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-06-01" dmd:endDate="2005-06-30">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of Summer Institute in Nursing Informatics (SINI)</NAME>
-			<TITLE>The Role of Health Information Technology in Medicare and Medicaid Disease Management</TITLE>
-			<ROLE/>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>June</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2005</DTY_DATE>
-			<DATE_START>2005-06-01</DATE_START>
-			<DATE_END>2005-06-30</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266124801" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2005-05-01" dmd:endDate="2005-05-31">
-			<NAME>Toward an Electronic Patient Record (TEPR)</NAME>
-			<TITLE>Putting the Power at Consumers' Fingertips: Distribution of Personal Health Records for Maximum Utility</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>May</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2005</DTY_DATE>
-			<DATE_START>2005-05-01</DATE_START>
-			<DATE_END>2005-05-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113620043776" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-12-01" dmd:endDate="2004-12-31">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of ICIS Workgroup, DIGIT – Diffusion Interest Group in Information Technology</NAME>
-			<TITLE>Central and Peripheral Routes to Faithful Technology Usage</TITLE>
-			<ROLE>Presentor</ROLE>
-			<MEETING_TYPE>National/International Conference</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>December</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2004</DTY_DATE>
-			<DATE_START>2004-12-01</DATE_START>
-			<DATE_END>2004-12-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="113621497856" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-06-01" dmd:endDate="2004-06-30">
-			<PRESENTATION_TYPE>Paper</PRESENTATION_TYPE>
-			<NAME>Proceedings of INFORMS, CIST – Conference on Information Systems and Technology</NAME>
-			<TITLE>It’s Not To Whom You Go, It’s Who You Know: Social Referents and Normative and Informational Influence in Technology Acceptance Attitudes and Behaviors</TITLE>
-			<ROLE/>
-			<MEETING_TYPE>External University Research Workshop</MEETING_TYPE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Basic or Discovery Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>June</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2004</DTY_DATE>
-			<DATE_START>2004-06-01</DATE_START>
-			<DATE_END>2004-06-30</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
-		</PRESENT>
-		<PRESENT id="5266161665" dmd:lastModified="2016-01-07T08:44:20" dmd:startDate="2004-05-01" dmd:endDate="2004-05-31">
-			<NAME>Toward an Electronic Patient Record (TEPR)</NAME>
-			<TITLE>Patients' Perceived Value of Using a Personal Health Record</TITLE>
-			<ROLE>Presentor</ROLE>
-			<SCOPE>International</SCOPE>
-			<CLASSIFICATION>Applied or Integration/Application Scholarship</CLASSIFICATION>
-			<ABSTRACT/>
-			<DTM_DATE>May</DTM_DATE>
-			<DTD_DATE/>
-			<DTY_DATE>2004</DTY_DATE>
-			<DATE_START>2004-05-01</DATE_START>
-			<DATE_END>2004-05-31</DATE_END>
-			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</PRESENT>
 		<RESPROG id="111608156160" dmd:lastModified="2015-08-20T09:24:37">
 			<TITLE>A Longitudinal Study of the Relationship between Information Systems Sourcing Strategy and Hospital Performance </TITLE>
@@ -5781,32 +4770,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SERVICE_PUBLIC>
 		<EDITREV id="122699431936" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2015-01-01" dmd:endDate="2017-01-01">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Associate Editor/Editorial Board</ROLE>
 			<CITY/>
@@ -5825,32 +4814,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699427840" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2013-04-23" dmd:endDate="2013-06-15">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ICIS 2013</JOURNAL>
 			<ROLE>Associate Editor/Editorial Board</ROLE>
 			<CITY>Milan</CITY>
@@ -5869,32 +4858,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699390976" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2012-10-02" dmd:endDate="2012-11-06">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Management Science</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -5913,32 +4902,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699372544" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2012-09-06" dmd:endDate="2012-10-06">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -5957,32 +4946,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699425792" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2012-04-23" dmd:endDate="2012-06-15">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ICIS 2012</JOURNAL>
 			<ROLE>Associate Editor/Editorial Board</ROLE>
 			<CITY>Orlando</CITY>
@@ -6001,32 +4990,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699358208" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2012-04-23" dmd:endDate="2012-05-23">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6045,32 +5034,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699409408" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2012-02-27" dmd:endDate="2012-04-02">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6089,32 +5078,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699423744" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2012-01-26" dmd:endDate="2012-03-01">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Production &amp; Operations Management</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6133,32 +5122,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699384832" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-12-04" dmd:endDate="2012-01-11">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Management Science</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6177,32 +5166,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699417600" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-10-19" dmd:endDate="2011-11-09">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6221,32 +5210,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699352064" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-09-01" dmd:endDate="2011-10-14">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>IJEC</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6265,32 +5254,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699419648" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-09-08" dmd:endDate="2011-09-29">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6309,32 +5298,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699397120" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-08-16" dmd:endDate="2011-09-16">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6353,32 +5342,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699331584" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-08-19" dmd:endDate="2011-08-19">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Decision Science</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6397,32 +5386,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699364352" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-07-26" dmd:endDate="2011-08-18">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6441,32 +5430,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699433984" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-06-26" dmd:endDate="2011-08-12">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Associate Editor/Editorial Board</ROLE>
 			<CITY/>
@@ -6485,32 +5474,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699386880" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-05-22" dmd:endDate="2011-06-26">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Management Science</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6529,32 +5518,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699421696" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-05-10" dmd:endDate="2011-06-07">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Organization Science</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6573,32 +5562,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699368448" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-05-02" dmd:endDate="2011-06-01">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6617,32 +5606,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699380736" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-04-22" dmd:endDate="2011-05-13">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>JMIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6661,32 +5650,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699360256" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-02-10" dmd:endDate="2011-04-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6705,32 +5694,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699395072" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-04-04" dmd:endDate="2011-04-25">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6749,32 +5738,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699403264" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-02-01" dmd:endDate="2011-03-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6793,32 +5782,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699413504" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2011-01-01" dmd:endDate="2011-03-01">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6837,32 +5826,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699382784" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-10-08" dmd:endDate="2010-11-18">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>JMIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6881,32 +5870,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699415552" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-10-01" dmd:endDate="2010-11-18">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6925,32 +5914,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699366400" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-06-10" dmd:endDate="2010-07-02">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -6969,32 +5958,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699343872" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-06-01" dmd:endDate="2010-06-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>HICSS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7013,32 +6002,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699393024" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-06-01" dmd:endDate="2010-06-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MCIS - 5th Mediterranean Conference on Information Systems</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY>Tel Aviv</CITY>
@@ -7057,32 +6046,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699429888" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2008-01-01" dmd:endDate="2010-06-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR Special Issue: The Role of Information Systems in Healthcare Organizations: Synergies from an interdisciplinary perspective</JOURNAL>
 			<ROLE>Associate Editor/Editorial Board</ROLE>
 			<CITY/>
@@ -7101,32 +6090,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699347968" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2003-05-01" dmd:endDate="2010-05-31">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ICIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7145,32 +6134,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699374592" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-04-07" dmd:endDate="2010-04-10">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>JAIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7189,32 +6178,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699362304" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-02-21" dmd:endDate="2010-03-22">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7233,32 +6222,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699401216" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2010-02-01" dmd:endDate="2010-02-18">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7277,32 +6266,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699370496" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-10-14" dmd:endDate="2009-11-04">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>ISR</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7321,32 +6310,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699354112" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-10-01" dmd:endDate="2009-11-01">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>IJIM</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7365,32 +6354,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699329536" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-10-22" dmd:endDate="2009-10-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>CAIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7409,32 +6398,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699327488" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-08-02" dmd:endDate="2009-08-19">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>CAIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7453,32 +6442,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699411456" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2009-02-06" dmd:endDate="2009-04-15">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7497,32 +6486,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699376640" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2008-08-07" dmd:endDate="2008-09-10">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>JAIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7541,32 +6530,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699399168" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2008-08-06" dmd:endDate="2008-09-02">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7585,32 +6574,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699350016" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2008-06-09" dmd:endDate="2008-07-20">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>IJEC</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7629,32 +6618,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699405312" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2008-02-19" dmd:endDate="2008-04-01">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7673,32 +6662,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699388928" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2007-11-01" dmd:endDate="2008-02-01">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Management Science</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7717,32 +6706,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699339776" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2007-11-01" dmd:endDate="2007-11-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>DIGIT</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7761,32 +6750,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699341824" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2007-06-01" dmd:endDate="2007-06-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>HICSS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7805,32 +6794,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699378688" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2007-06-01" dmd:endDate="2007-06-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>JAIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7849,32 +6838,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699337728" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2005-11-01" dmd:endDate="2005-11-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>DIGIT</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7893,32 +6882,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699335680" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2004-11-01" dmd:endDate="2004-11-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>DIGIT</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7937,32 +6926,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699345920" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2004-09-01" dmd:endDate="2004-09-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Human-Computer Interaction in MIS</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -7981,32 +6970,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699333632" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2004-02-01" dmd:endDate="2004-02-28">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Decision Support Systems - Special Issue on Medicine</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -8025,32 +7014,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699407360" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2004-02-01" dmd:endDate="2004-02-28">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>MIS Quarterly</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -8069,32 +7058,32 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</EDITREV>
 		<EDITREV id="122699356160" dmd:lastModified="2016-01-04T12:42:49" dmd:startDate="2003-11-01" dmd:endDate="2003-11-30">
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-		
-		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			<JOURNAL>Information and Management</JOURNAL>
 			<ROLE>Ad Hoc Reviewer</ROLE>
 			<CITY/>
@@ -8155,7 +7144,7 @@ the first to examine the interplay of competition and collaboration dynamics at 
 			<TITLE>Harvard Business School Case Seminar</TITLE>
 			<ORG>Harvard Business School</ORG>
 			<CITYSTATE>Chicago, IL</CITYSTATE>
-			<DESC>Training in the case-method of teaching. 
+			<DESC>Training in the case-method of teaching.
 "Art &amp; Craft of Discussion Leadership Part I"</DESC>
 			<DTM_START>May</DTM_START>
 			<DTD_START>16</DTD_START>

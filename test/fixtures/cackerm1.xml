@@ -4,12 +4,12 @@
 	<Record userId="118127" username="cackerm1" termId="278" dmd:surveyId="47921">
 		<dmd:IndexEntry indexKey="DEPARTMENT" entryKey="Finance" text="Finance"/>
 		<PCI id="1460105216" dmd:lastModified="2015-08-23T15:46:14">
-			<PREFIX/>
+			<PREFIX>Tester</PREFIX>
 			<FNAME>Carl</FNAME>
 			<PFNAME/>
-			<MNAME/>
+			<MNAME>Alfred</MNAME>
 			<LNAME>Ackermann</LNAME>
-			<SUFFIX/>
+			<SUFFIX>Jr.</SUFFIX>
 			<ALT_NAME/>
 			<ENDPOS>Nolan Professorship for Excellence in Undergraduate Instruction</ENDPOS>
 			<EMAIL>Ackermann.1@nd.edu</EMAIL>
@@ -509,17 +509,17 @@ Ackermann is active in several University service projects and mentoring program
 			<COMP_END>2000-12-31</COMP_END>
 		</EDUCATION>
 		<EDUCATION id="1460125696" dmd:lastModified="2008-12-21T05:09:11" dmd:startDate="1984-01-01" dmd:endDate="1984-12-31">
-			<DEG>BA</DEG>
-			<DEGOTHER/>
-			<SCHOOL>Amherst College</SCHOOL>
-			<MAJOR>Economics</MAJOR>
-			<SUPPAREA/>
-			<DISSTITLE/>
-			<HIGHEST>No</HIGHEST>
-			<YR_COMP>1984</YR_COMP>
-			<COMP_START>1984-01-01</COMP_START>
-			<COMP_END>1984-12-31</COMP_END>
-		</EDUCATION>
+				<DEG>Other</DEG>
+				<DEGOTHER>PH Test</DEGOTHER>
+				<SCHOOL>Amherst College</SCHOOL>
+				<MAJOR>Economics</MAJOR>
+				<SUPPAREA/>
+				<DISSTITLE/>
+				<HIGHEST>No</HIGHEST>
+				<YR_COMP>1984</YR_COMP>
+				<COMP_START>1984-01-01</COMP_START>
+				<COMP_END>1984-12-31</COMP_END>
+			</EDUCATION>
 		<MEMBER id="12145717249" dmd:lastModified="2008-12-21T05:07:42" dmd:startDate="1997-01-01">
 			<NAME>American Finance Association</NAME>
 			<LEADERSHIP/>
@@ -570,7 +570,7 @@ Ackermann is active in several University service projects and mentoring program
 			<NEWPREP/>
 			<PEDINN>Expanded the personal finance section of this course.</PEDINN>
 			<OUTREACH/>
-			<WEBPAGE_INCLUDE>No</WEBPAGE_INCLUDE>
+			<WEBPAGE_INCLUDE>Yes</WEBPAGE_INCLUDE>
 		</SCHTEACH>
 		<SCHTEACH id="104520525825" dmd:lastModified="2015-01-30T16:58:34" dmd:startDate="2014-09-01" dmd:endDate="2014-12-31" dmd:primaryKey="Fall|2014|FIN|20150|2">
 			<TYT_TERM>Fall</TYT_TERM>

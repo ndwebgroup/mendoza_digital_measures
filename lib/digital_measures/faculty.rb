@@ -202,7 +202,7 @@ module DigitalMeasures
 
     def find_publications(measure)
       #marked for web
-      contypes = ["Journal Articles, Refereed", "Journal Articles", "Non-Refereed", "Other", "Journal Articles, Non-Refereed", "Published Conference Proceedings"]
+      contypes = ["Research Monograph/Books", "Textbooks", "Peer-Reviewed Journals", "Academic/Prefesional Meeting Proceedings", "Cases", "Other"]
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include? n.xpath("CONTYPE").first.text.strip
@@ -221,7 +221,7 @@ module DigitalMeasures
             link = make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS") )
 
             #<xsl:if test="string-length(t:PAGENUM) > 0">
-            if n.xpath("STATUS").first.text.strip == "Accepted"
+            if n.xpath("STATUS").first.text.strip == "Published"
               where_preface = "To appear in "
             else
               where_preface = ""
@@ -288,7 +288,7 @@ module DigitalMeasures
       measure.xpath("//PRESENT").each do | n |
         if n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
           texties = []
-          texties << "#{n.xpath("PRESENT_AUTH/FNAME").first.text.strip} #{n.xpath("PRESENT_AUTH/LNAME").first.text.strip}, #{n.xpath("NAME").first.text.strip}, #{n.xpath("ORG").first.text.strip}, #{n.xpath("LOCATION").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\""
+          texties << "#{n.xpath("NAME").first.text.strip}, \"#{n.xpath("TITLE").first.text.strip}\""
           texties << "(#{n.xpath("DTM_DATE").first.text.strip}"
 
           unless n.xpath("DTD_DATE").first.text.strip.blank?
