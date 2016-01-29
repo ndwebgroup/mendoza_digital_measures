@@ -3,7 +3,6 @@ require 'nokogiri'
 
 module DigitalMeasures
   class Faculty
-
     attr_reader(
       :user_id,
       :netid,
@@ -36,8 +35,6 @@ module DigitalMeasures
       measure.remove_namespaces!
       @netid = measure.xpath("//Record").attr("username").value
       @user_id = measure.xpath("//Record").attr("userId").value.to_i
-
-          #single item valus (strings)
       @first_name = get_display_name(measure)
       @last_name = get_value_for(measure, "PCI/LNAME")
       @middle_name = get_value_for(measure, "PCI/MNAME")
@@ -50,6 +47,7 @@ module DigitalMeasures
       @phone = [get_value_for(measure, "PCI/OPHONE1"), get_value_for(measure, "PCI/OPHONE2"), get_value_for(measure, "PCI/OPHONE3") ].join("-")
       @title =  get_value_for(measure, "ADMIN/RANK")
       @endowed_position = get_value_for(measure, "PCI/ENDPOS")
+      @cv_url = find_cv_url(measure)
 
       #collections
       @areas_of_expertise = find_areas_of_expertise(measure)
@@ -60,17 +58,11 @@ module DigitalMeasures
       @teaching = find_teaching(measure)
       @working_papers = find_working_papers(measure)
       @articles_and_chapters = find_books_articles_chapters(measure)
-      @cv_url = find_cv_url(measure)
     end
-
 
     def get_display_name(measure)
       return get_value_for(measure, "PCI/PFNAME") if get_value_for(measure, "PCI/PFNAME").strip.present?
       get_value_for(measure, "PCI/FNAME")
-    end
-
-    def get_value_for(xml_doc, xpath_for)
-      xml_doc.xpath("//#{xpath_for}").first.nil? ? "" : xml_doc.xpath("//#{xpath_for}").first.text.strip
     end
 
     def self.url_template
@@ -88,13 +80,11 @@ module DigitalMeasures
     end
 
     def self.find_netids(netids)
-
       hydra = Typhoeus::Hydra.hydra
       responses = []
 
       netids.each do |netid|
         req = find_netid(netid)
-
         req.on_complete do |response|
           if response.success?
             begin
@@ -103,25 +93,18 @@ module DigitalMeasures
               log "could not create dm record for netid #{netid}"
               log e
               end
-
           elsif response.timed_out?
-            #responses << new(nil)
             log "#{netid} not found due to timeout"
           else
-            #responses << new(nil)
             log "#{netid} caused an error"
             log req.inspect
           end
         end
-
         hydra.queue(req)
       end
-
       hydra.run
-
       responses
     end
-
 
   private
 
@@ -132,7 +115,6 @@ module DigitalMeasures
         "http://digitalmeasures.fs.mendoza.notredame.s3-website-us-east-1.amazonaws.com/#{get_value_for(measure, "PCI/UPLOAD_CV")}"
       end
     end
-
 
     def find_areas_of_expertise(measure)
       expertisei = []
@@ -155,9 +137,7 @@ module DigitalMeasures
       return educations
     end
 
-
     def find_teaching(measure)
-      #limit to 3 years
       teachings = []
       measure.xpath("//SCHTEACH").each do | e |
         unless e.xpath("WEBPAGE_INCLUDE").first.text.strip == "No"  || e.xpath("TYY_TERM").first.text.strip.to_i < (DateTime.now.year - 3).to_i
@@ -179,9 +159,7 @@ module DigitalMeasures
         if contypes.include?(n.xpath("CONTYPE").first.text.strip) && (n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes" )
           authors = []
           parts = []
-
           parts << make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS"))
-
           authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
 
           unless authors.empty?
@@ -189,38 +167,27 @@ module DigitalMeasures
           end
 
           items << parts.join(" ")
-
         end
       end
-
       return items
-
-
     end
 
 
 
     def find_publications(measure)
-      #marked for web
-      contypes = ["Research Monograph/Books", "Textbooks", "Peer-Reviewed Journals", "Academic/Prefesional Meeting Proceedings", "Cases", "Other"]
+      contypes = ["Peer-Reviewed Journals", "Academic/Prefesional Meeting Proceedings", "Cases", "Other"]
       items = []
+
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include? n.xpath("CONTYPE").first.text.strip
-          # puts "++ #{n.xpath("WEBPAGE_INCLUDE").first.text}"
           if n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
-
             authors = collect_authors(n.xpath("INTELLCONT_AUTH"))
-
             unless authors.empty?
               with = "(with #{authors.join(", ")}),"
             else
               with = ""
             end
-
-
-            link = make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS") )
-
-            #<xsl:if test="string-length(t:PAGENUM) > 0">
+          link = make_linkable(n.xpath("TITLE"), n.xpath("WEB_ADDRESS") )
             if n.xpath("STATUS").first.text.strip == "Published"
               where_preface = "To appear in "
             else
@@ -239,7 +206,6 @@ module DigitalMeasures
             end
 
             where = where_parts.join(", ")
-
             items << ["\"#{link}\",", "#{with}", where].join(" ") + "."
           end
         end
@@ -248,7 +214,7 @@ module DigitalMeasures
     end
 
     def find_books(measure)
-      contypes = ["Book, Scholarly", "Book, Textbook-New" ,"Book, Textbook-Revised"]
+      contypes = ["Research Monographs/Books", "Textbooks"]
       items = []
       measure.xpath("//INTELLCONT").each do | n |
         if contypes.include?(n.xpath("CONTYPE").first.text.strip) && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
@@ -269,21 +235,14 @@ module DigitalMeasures
           end
 
           parts << n.xpath("PUBLISHER").first.text.strip + ","
-
           parts << published_date(n)
-
           items << parts.join(" ")
-
         end
       end
       return items
     end
 
-
-
-
     def find_presentations(measure)
-      #PRESENT[t:WEBPAGE_INCLUDE='Yes']) > 0">
       items = []
       measure.xpath("//PRESENT").each do | n |
         if n.xpath("WEBPAGE_INCLUDE").present? && n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
@@ -296,19 +255,15 @@ module DigitalMeasures
           end
 
           texties << "#{n.xpath("DTY_DATE").first.text.strip})."
-
           items << texties.join(" ")
         end
       end
       return items
     end
 
-
-
-
     def find_working_papers(measure)
       items = []
-      measure.xpath("//RESPROG").each do | n |
+      measure.xpath("//INTELLCONT").each do | n |
         if n.xpath("WEBPAGE_INCLUDE").first.text.strip == "Yes"
           texties = []
           n.xpath("RESPROG_COLL").each do | c |
@@ -327,28 +282,23 @@ module DigitalMeasures
       return items
     end
 
-
     #supporting methods
+    def get_value_for(xml_doc, xpath_for)
+      xml_doc.xpath("//#{xpath_for}").first.nil? ? "" : xml_doc.xpath("//#{xpath_for}").first.text.strip
+    end
 
     def published_date(item)
-
       date_parts = []
-
       unless item.xpath("DTM_PUB").first.text.strip.blank?
         date_parts << item.xpath("DTM_PUB").first.text.strip
-
         unless item.xpath("DTD_PUB").first.text.strip.blank?
           date_parts << item.xpath("DTD_PUB").first.text.strip + ","
         end
-
       end
-
       unless item.xpath("DTY_PUB").first.text.strip.blank?
         date_parts << item.xpath("DTY_PUB").first.text.strip
       end
-
       return date_parts.join(" ")
-
     end
 
 
@@ -362,33 +312,19 @@ module DigitalMeasures
 
     def collect_authors(authors_xml)
       authors = []
-      #puts authors_xml.count
       authors_xml.each do | a |
-        #unless a.xpath("FNAME").first.text.strip == @first_name && a.xpath("LNAME").first.text.strip == @last_name
         unless a.xpath("FACULTY_NAME").first.text.strip.to_i == @user_id
           authors << "#{a.xpath("FNAME").first.text.strip} #{a.xpath("LNAME").first.text.strip}"
         end
       end
-
       return authors
-
     end
 
-
-        def self.log(msg)
+    def self.log(msg)
       msg = "[digital measures] #{msg}"
       if defined? Rails
         Rails.logger.info msg
-      else
       end
-        #puts msg
     end
   end
-
-
-
-
-
-
-
 end
